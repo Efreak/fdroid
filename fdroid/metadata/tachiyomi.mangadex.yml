@@ -1,0 +1,28 @@
+Categories:
+  - Manga/Anime
+  - Internet
+  - Reading
+  - Multimedia
+License: Apache-2.0
+AuthorName: Javier Tomás
+WebSite: https://github.com/CarlosEsco/Neko
+SourceCode: https://github.com/CarlosEsco/Neko
+IssueTracker: https://github.com/CarlosEsco/Neko/issues
+
+Name: Neko
+Summary: Free, open source, unofficial MangaDex reader forked from Tachiyomi
+Description: |-
+    Goal:
+
+    Using Tachiyomi as a base to add MangaDex specific features.
+
+    Features:
+    * Supports login to MangaDex
+    * Local reading of downloaded manga
+    * [https://myanimelist.net/ MyAnimeList], [https://anilist.co/ AniList], [https://kitsu.io/explore/anime Kitsu] and [https://shikimori.org/ Shikimori] support.
+    * Schedule updating your library for new chapters.
+    * Create backups locally to read offline or to your desired cloud service.
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

@@ -1,0 +1,18 @@
+Categories:
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
+Name: 'Tachiyomi: MANGA Plus by SHUEISHA (ALL)'
+Summary: Tachiyomi MANGA Plus by SHUEISHA Extension
+Description: |-
+    The following is a list of urls found in the source for this extension:
+    * https://jumpg-webapi.tokyo-cdn.com/api
+    * https://mangaplus.shueisha.co.jp
+    * https://images.weserv.nl
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

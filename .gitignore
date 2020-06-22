@@ -1,0 +1,30 @@
+# I'm too lazy to keep my working directory clean, and tired of seeing stuff in git status
+# so I've done this: https://gist.github.com/hieblmedia/9318457
+/**
+!/.gitignore
+
+# only include stuff in the fdroid subdirectory
+!/fdroid/
+# except not everything
+/fdroid/**
+
+#now whitelist the files/folders that are necessary...
+!/fdroid/fdroid-icon.png
+!/fdroid/archive/
+!/fdroid/archive/**
+!/fdroid/metadata/
+!/fdroid/metadata/**
+!/fdroid/repo/
+!/fdroid/repo/**
+!/fdroid/srclibs/
+!/fdroid/srclibs/**
+!/runtime.txt
+!/requirements.txt
+!/_redirects
+!/fdroid/index.html
+!/fdroid/tmp/
+!/fdroid/tmp/**
+!/fdroid/update-tachi.sh
+!/fdroid/download-apps.sh
+!/fdroid/makemeta.sh
+!/more_projects.md

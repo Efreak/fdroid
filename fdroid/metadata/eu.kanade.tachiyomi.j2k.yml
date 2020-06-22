@@ -1,0 +1,53 @@
+AntiFeatures:
+  - Tracking
+  - UpstreamNonFree
+Categories:
+  - Manga/Anime
+  - Internet
+  - Reading
+  - Multimedia
+License: Apache-2.0
+AuthorName: Jays2Kings
+WebSite: https://www.github.com/Jays2Kings/Tachiyomi
+SourceCode: https://www.github.com/Jays2Kings/Tachiyomi
+IssueTracker: https://www.github.com/Jays2Kings/Tachiyomi/issues
+Changelog: https://github.com/Jays2Kings/tachiyomi/releases
+
+Name: Tachiyomi (Jays2Kings Fork)
+Summary: Jays2Kings fork of Tachiyomi, with multiple added features.
+Description: |-
+    Tachiyomi is a free and open source manga reader for Android.
+
+    Features of Tachiyomi include:
+    * Online reading from sources such as KissManga, MangaDex, [https://github.com/inorichi/tachiyomi-extensions and more]
+    * Local reading of downloaded manga
+    * A configurable reader with multiple viewers, reading directions and other settings
+    * [https://myanimelist.net/ MyAnimeList], [https://anilist.co/ AniList], [https://kitsu.io/explore/anime Kitsu], and [https://shikimori.one/ Shikimori] support
+    * Categories to organize your library
+    * Light and dark themes
+    * Schedule updating your library for new chapters
+    * Create backups locally to read offline or to your desired cloud service.
+
+    Plus some new features in this fork such as:
+    * Android 10 Dark Theme support: You can have Tachiyomi follow the system theme as well as customize which dark theme to use for dark mode
+    * Android 10 edge to edge support (and a translucent nav bar for older versions): no more small ugly bar for the gesture navigation
+    * Automatic background based on manga page: For those that like having a white background to match the content, this will automatically set the background to match for moments such as a flashback section of a manga
+    * [https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/new%20notifcations%20collasped.png Richer New chapters notifications]: Now as a group of notifications, [https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/new%20notifcations.png expanding out to show more information] about the new chapters (like chapter name and manga cover). Tapping on it will bring you right into the chapter or expand it to mark it as read or view all chapters
+    * [https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/material%20snackbar.png New material snackbar]: Removing manga now auto deletes chapters and has an undo button in case you change your mind
+    * Multi Source Migration from library
+    * Notification separation of updating library and new chapters
+    * [https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/share%20menu.png Share sheets upgrade for Android 10]
+    * Reader seekbar overrides switch app gesture in Android 10, so no more accidents for that
+    * Option to hide manga titles in grid view
+    * Filter out your library by searching for tags (ex. "Comedy" or "Slice of Life") or exclude mangas by a tag (ex. "-Shounen" or "-Romance"). Tapping on these tags also performs a local search. You can also search multiple tags (ex. "Romance, -Harem, Comedy")
+    * Android X Support (''Becasue of this change needed for Android 10 features, extension preferences are currently disabled for all extensions except Mangadex'')
+    * Tri-State Filters on library
+    * Filter extensions based on your locale
+    * Webview Navigation
+    * Fingerprint/Biometrics lock
+    * Range Select for Library and Chapters: long Press on an item then long press on another to select everything in between
+    * Automatically checks for extension updates
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

@@ -1,0 +1,132 @@
+Text grabbed from github. Text includes changes in all releases since the last release (since I don't upload every release)
+
+Tachiyomi v0.9.69
+
+@Jays2Kings Jays2Kings released this Jan 12, 2020, 2:52 AM UTC · 45 commits to master since this release
+
+Restoring backups is now a notification (thanks Carlos)
+Fixed Recent Read bugs, recently read now has unlimited* history
+Group notifications now only make one sound
+Using new material dialog boxes
+For unfavorited manga, chapters now start at the top of the list
+Added option to auto page background (now called Smart) to be based on the page or based on the app theme
+New Last Updated (last updated being newest chapter) logic now is set on restore as well
+Splash screen now matches app colors
+Added option in Advanced to cleanup old downloads
+Downloads will now take images from the reader cache, instead of downloading again
+Downloads have been renamed again: folder names are now chapter names like before, but will have scanlator attached to it where applicable
+Fixed Downloading for new Android 10 users
+
+*Up to 50 years
+
+
+
+
+
+
+Tachiyomi v0.9.62
+
+@Jays2Kings Jays2Kings released this Jan 10, 2020, 4:23 PM UTC · 73 commits to master since this release
+
+Fixed status bar in black reader theme
+
+
+
+
+
+
+Tachiyomi v0.9.61
+
+@Jays2Kings Jays2Kings released this Jan 10, 2020, 6:49 AM UTC · 74 commits to master since this release
+
+Added splash screen
+Truly fixed the dark theme bug
+Fixed downloads not deleting after reading if the chapter has scanlator
+Sorting by source is out, searching by source is in
+🦀Manga Rock is Dead🦀, but that shouldn't crash the app when pressing browse
+For new users, auto update is now enabled by default
+
+
+
+
+
+
+Tachiyomi v0.9.6
+
+@Jays2Kings Jays2Kings released this Jan 9, 2020, 9:04 AM UTC · 110 commits to master since this release
+
+The Downloads Update:
+
+Pending downloads can be move to the top or bottom of the queue with a menu button on the right side, they can also be canceled
+Fixes for the extension updates notification (should be solid now)
+Auto migration now has a prompt before you quit + fixes
+Fixed dark theme sometimes mixing with the light, bugging out the UI
+Added option to reorder pending downloads by newest or oldest chapter
+Mass Migration now shows progress and total manga in the title
+Fixed the issue where deleted downloads using the old folder format said they weren't (they were)
+Canceled downloads now delete the temp folder
+Auto Migration source now show their language if multiple languages are enabled
+
+
+
+
+
+
+Tachiyomi v0.9.56
+
+@Jays2Kings Jays2Kings released this Jan 7, 2020, 2:52 AM UTC · 117 commits to master since this release
+
+Extensions Updater checker now checks every 12 hours, you might need to re-enable this setting to get the new timing
+Rewording a few things
+Fixed reordering drag and drop by last updated being reversed
+Auto Migrations now shows how many manual migrations were made after skipping the rest
+
+
+
+
+
+
+Tachiyomi v0.9.55
+
+@Jays2Kings Jays2Kings released this Jan 6, 2020, 11:21 AM UTC · 121 commits to master since this release
+
+Drag & Drop support in Library
+Optimizations for the auto-migration, should now find alternative titles for mangas
+Fast scrolling in library
+(From dev) faster loading when scrubbing the reader's seekbar
+Barely smaller app size
+Fix extension notification sometimes not showing
+
+
+
+
+
+
+Tachiyomi v0.9.5
+
+@Jays2Kings Jays2Kings released this Jan 5, 2020, 6:35 PM UTC · 147 commits to master since this release
+
+Mass/Automatic Source Migration (thanks nulldev/NerdNumber9)
+General Settings now split into General and Library. Auto updates for app moved to General as well
+Chapters FAB no longer hides
+Setting to ignore articles when sorting alphabetically
+Fix single tag searching + multi tag searching by commas (ie. "Romance, -Harem, Comedy")
+Downloaded chapters names now use scantalors names (thanks arkon)
+Fixed reordering downloads restarting the progress (thanks CarlosEsco)
+Taken updates from dev:
+*Auto attempt a login refresh once if MAL returns http 400
+*Increase default text size of the transition chapter page
+*Add .nomedia file in each chapter download folder
+Hard coded Mangadex extension removed, please update your extensions to access their preferences
+
+
+
+
+
+
+Tachiyomi v0.9.41
+
+@Jays2Kings Jays2Kings released this Dec 23, 2019, 9:26 PM UTC · 212 commits to master since this release
+
+Fixed status bar not being transparent for dark themes on Android Pie and under
+Manga/Chapter titles are no longer truncated on notifications

@@ -1,0 +1,18 @@
+Categories:
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
+Name: 'Tachiyomi: xkcd (EN)'
+Summary: Tachiyomi xkcd Extension
+Description: |-
+    The following is a list of urls found in the source for this extension:
+    * https://xkcd.com
+    * https://fakeimg.pl/550x780/ffffff/6E7B91/?text=xkcd&font=museo
+    * https://fakeimg.pl/1500x2126/ffffff/000000/?text=
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647
