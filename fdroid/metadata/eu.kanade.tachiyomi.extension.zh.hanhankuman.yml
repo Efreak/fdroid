@@ -1,0 +1,17 @@
+Categories:
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
+Name: 'Tachiyomi: Hanhankuman (ZH)'
+Summary: Tachiyomi Hanhankuman Extension
+Description: |-
+    The following is a list of urls found in the source for this extension:
+    * http://www.hhimm.com
+    * http://www.hhimm.com/%s/%d.html?s=%s&d=0
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

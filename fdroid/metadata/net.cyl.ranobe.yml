@@ -1,0 +1,34 @@
+AntiFeatures:
+  - Tracking
+  - UpstreamNonFree
+  - Ads
+  - NoSourceSince
+Categories:
+  - Manga/Anime
+  - Reading
+  - Multimedia
+License: Unknown
+AuthorName: Cylon u87
+WebSite: https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel
+IssueTracker: https://bitbucket.org/cylonu87/ranobe/issues
+
+Name: Ranobe
+Summary: Ranobe is an app to read and download light novels
+Description: |-
+    Ranobe
+
+    Ranobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites
+
+    Disclaimer
+
+    ''All of the free light novel found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free LN should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the LN, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law''
+
+    Features
+    * Choose the server where you want to read or download your Light Novel
+    * Add LN into your library
+    * Bookmark your preferred series
+    * Read online or offline
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647

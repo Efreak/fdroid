@@ -1,0 +1,17 @@
+Categories:
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
+Name: 'Tachiyomi: Kissmanga (EN)'
+Summary: Tachiyomi Kissmanga Extension
+Description: |-
+    The following is a list of urls found in the source for this extension:
+    * https://kissmanga.com
+    * https://kissmanga.com/MangaList/LatestUpdate?page=$page
+
+AutoUpdateMode: None
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647
