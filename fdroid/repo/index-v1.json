@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1592861657000,
+    "timestamp": 1593541335000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -60,9 +60,9 @@
       "summary": "Free, open source, unofficial MangaDex reader forked from Tachiyomi",
       "webSite": "https://github.com/CarlosEsco/Neko",
       "added": 1592861535000,
-      "icon": "tachiyomi.mangadex.69.png",
+      "icon": "tachiyomi.mangadex.70.png",
       "packageName": "tachiyomi.mangadex",
-      "lastUpdated": 1592861656000
+      "lastUpdated": 1593541197000
     },
     {
       "antiFeatures": [
@@ -114,7 +114,7 @@
       "added": 1592861366000,
       "icon": "eu.kanade.tachiyomi.debug.45.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 1592861546000
+      "lastUpdated": 1593541204000
     },
     {
       "antiFeatures": [
@@ -650,9 +650,9 @@
       "summary": "Tachiyomi E-Hentai Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1592861384000,
-      "icon": "eu.kanade.tachiyomi.extension.all.ehentai.11.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.ehentai.12.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.ehentai",
-      "lastUpdated": 1592861554000
+      "lastUpdated": 1593541184000
     },
     {
       "categories": [
@@ -699,9 +699,9 @@
       "summary": "Tachiyomi FMReader (multiple aggregators)",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1592861386000,
-      "icon": "eu.kanade.tachiyomi.extension.all.fmreader.18.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.fmreader.19.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.fmreader",
-      "lastUpdated": 1592861554000
+      "lastUpdated": 1593541185000
     },
     {
       "categories": [
@@ -1266,9 +1266,9 @@
       "summary": "Tachiyomi Komga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1592861389000,
-      "icon": "eu.kanade.tachiyomi.extension.all.komga.11.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.komga.12.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.komga",
-      "lastUpdated": 1592861557000
+      "lastUpdated": 1593541186000
     },
     {
       "categories": [
@@ -1432,9 +1432,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1592861391000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.111.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.115.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1592861558000
+      "lastUpdated": 1593541188000
     },
     {
       "categories": [
@@ -1465,9 +1465,9 @@
       "summary": "Tachiyomi Maid * Manga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1592861472000,
-      "icon": "eu.kanade.tachiyomi.extension.id.maidmanga.4.png",
+      "icon": "eu.kanade.tachiyomi.extension.id.maidmanga.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.maidmanga",
-      "lastUpdated": 1592861618000
+      "lastUpdated": 1593541193000
     },
     {
       "categories": [
@@ -1798,6 +1798,22 @@
       "icon": "eu.kanade.tachiyomi.extension.it.mangaeden.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.it.mangaeden",
       "lastUpdated": 1592861621000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: MangaFast (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi MangaFast Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1593541191000,
+      "icon": "eu.kanade.tachiyomi.extension.en.mangafast.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
+      "lastUpdated": 1593541191000
     },
     {
       "categories": [
@@ -2693,9 +2709,9 @@
       "summary": "Tachiyomi NHentai Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1592861400000,
-      "icon": "eu.kanade.tachiyomi.extension.all.nhentai.24.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.nhentai.25.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
-      "lastUpdated": 1592861565000
+      "lastUpdated": 1593541189000
     },
     {
       "categories": [
@@ -3757,9 +3773,9 @@
       "summary": "Tachiyomi WP Manga Stream Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1592861406000,
-      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.16.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.17.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
-      "lastUpdated": 1592861572000
+      "lastUpdated": 1593541190000
     },
     {
       "categories": [
@@ -4097,9 +4113,9 @@
     ],
     "eu.kanade.tachiyomi.debug": [
       {
-        "added": 1592861366000,
-        "apkName": "eu.kanade.tachiyomi.debug_v0.9.2-2421_45.apk",
-        "hash": "aced1095d6eb55133e9f8e94672b156bb3dd5c37134f8de60279bbc7568fcd8a",
+        "added": 1593541183000,
+        "apkName": "eu.kanade.tachiyomi.debug_v0.9.2-2476_45.apk",
+        "hash": "9bd4ea30f0a535900a229658c58b9faa16822a2c2ef10f8264feaad0c8cbeebb",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -4110,7 +4126,7 @@
         "packageName": "eu.kanade.tachiyomi.debug",
         "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
         "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
-        "size": 19456578,
+        "size": 19595994,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -4175,7 +4191,7 @@
           ]
         ],
         "versionCode": 45,
-        "versionName": "0.9.2-2421"
+        "versionName": "0.9.2-2476"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.boommanga": [
@@ -4256,21 +4272,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.ehentai": [
       {
-        "added": 1592861385000,
-        "apkName": "tachiyomi-all.ehentai-v1.2.11.apk",
+        "added": 1593541184000,
+        "apkName": "tachiyomi-all.ehentai-v1.2.12.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "1ced006d357be34a770860dd6cea1c495c5093b8393b24f91161e804d7df805b",
+        "hash": "780439aa08a22048123ac7060d3bd54c5db33358bf075c2e42336257afbab957",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.ehentai",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 54163,
-        "targetSdkVersion": 27,
-        "versionCode": 11,
-        "versionName": "1.2.11"
+        "size": 58259,
+        "targetSdkVersion": 29,
+        "versionCode": 12,
+        "versionName": "1.2.12"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.emerald": [
@@ -4294,21 +4310,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.fmreader": [
       {
-        "added": 1592861387000,
-        "apkName": "tachiyomi-all.fmreader-v1.2.18.apk",
+        "added": 1593541185000,
+        "apkName": "tachiyomi-all.fmreader-v1.2.19.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "c5e2dbb2d125d74a484e16488ca35fabfc78a31be56580a8aec1f9e5dd4ca945",
+        "hash": "b86c84387c7b97cbf8f585ee67de3a8da16975a360b4e9409176e8d0cbeca8c1",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.fmreader",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 66452,
-        "targetSdkVersion": 27,
-        "versionCode": 18,
-        "versionName": "1.2.18"
+        "targetSdkVersion": 29,
+        "versionCode": 19,
+        "versionName": "1.2.19"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.foolslide": [
@@ -4351,21 +4367,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.komga": [
       {
-        "added": 1592861389000,
-        "apkName": "tachiyomi-all.komga-v1.2.11.apk",
+        "added": 1593541186000,
+        "apkName": "tachiyomi-all.komga-v1.2.12.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "40506400e8382c7f5fe7bdc74b82d891f706550be621b98b3e956482b5f69bc9",
+        "hash": "f46afdaa5f115835a00945e9d60f356e64fe5b8fa3517eeab1faa4789ee30001",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.komga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 361433,
+        "size": 365529,
         "targetSdkVersion": 27,
-        "versionCode": 11,
-        "versionName": "1.2.11"
+        "versionCode": 12,
+        "versionName": "1.2.12"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.lanraragi": [
@@ -4389,21 +4405,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
-        "added": 1592861392000,
-        "apkName": "tachiyomi-all.madara-v1.2.111.apk",
+        "added": 1593541188000,
+        "apkName": "tachiyomi-all.madara-v1.2.115.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "d639f260c5eb43d67eb1c575aadcad56e5279561d44945608bce8b11d15e9f21",
+        "hash": "0efafa9df095e3d476d5c155069f4b77cb00006e6edb050997dd20bd06e45860",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.madara",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 78829,
-        "targetSdkVersion": 27,
-        "versionCode": 111,
-        "versionName": "1.2.111"
+        "targetSdkVersion": 29,
+        "versionCode": 115,
+        "versionName": "1.2.115"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangabox": [
@@ -4579,12 +4595,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.nhentai": [
       {
-        "added": 1592861400000,
-        "apkName": "tachiyomi-all.nhentai-v1.2.24.apk",
+        "added": 1593541189000,
+        "apkName": "tachiyomi-all.nhentai-v1.2.25.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "bd94aeeeb8e70f83c3164143f7fa789bbb60f8c57a0db7eb6beae16a65bc4b5e",
+        "hash": "cb4c3f09a21facdeca004006d5f8eca83c33d36fa1dd22536bf7cb8f5c341b58",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentai",
@@ -4592,8 +4608,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50157,
         "targetSdkVersion": 27,
-        "versionCode": 24,
-        "versionName": "1.2.24"
+        "versionCode": 25,
+        "versionName": "1.2.25"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.ninehentai": [
@@ -4750,12 +4766,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.wpmangastream": [
       {
-        "added": 1592861407000,
-        "apkName": "tachiyomi-all.wpmangastream-v1.2.16.apk",
+        "added": 1593541190000,
+        "apkName": "tachiyomi-all.wpmangastream-v1.2.17.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "5bfd0e8436f5bec8d362c64e2bc72e425b2da744109431de6b12e9210c0e775a",
+        "hash": "bd708a8c7c30a5422870f7e436ab2ac590b56c7728d4e1e10e3d89751e89475a",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
@@ -4763,8 +4779,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50163,
         "targetSdkVersion": 27,
-        "versionCode": 16,
-        "versionName": "1.2.16"
+        "versionCode": 17,
+        "versionName": "1.2.17"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.zbulu": [
@@ -5373,6 +5389,25 @@
         "targetSdkVersion": 27,
         "versionCode": 6,
         "versionName": "1.2.6"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.mangafast": [
+      {
+        "added": 1593541191000,
+        "apkName": "tachiyomi-en.mangafast-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "e587ae31a1ee4a8ce7886b544e3f14096107fec7bbd6e6bd082b3c630235c666",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 33683,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangafreak": [
@@ -6631,12 +6666,12 @@
     ],
     "eu.kanade.tachiyomi.extension.id.maidmanga": [
       {
-        "added": 1592861472000,
-        "apkName": "tachiyomi-id.maidmanga-v1.2.4.apk",
+        "added": 1593541193000,
+        "apkName": "tachiyomi-id.maidmanga-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "12e1aa3b5929e5baaa7a9d1aa31f1afc29451c41e5a2fc338621f5a2a949652e",
+        "hash": "21d51416f3cb7c11d8a10ee9ca3bb4bf67759aa1fe529ceadcf75898036ecd18",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.id.maidmanga",
@@ -6644,8 +6679,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50067,
         "targetSdkVersion": 27,
-        "versionCode": 4,
-        "versionName": "1.2.4"
+        "versionCode": 5,
+        "versionName": "1.2.5"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.mangaindo": [
@@ -8649,9 +8684,9 @@
     ],
     "tachiyomi.mangadex": [
       {
-        "added": 1592861535000,
-        "apkName": "tachiyomi.mangadex_v2.0.15.1_69.apk",
-        "hash": "54b40c93ed4cc62aa3d69d8dc87a0ad6f63ed907fc002a285104e4ef3d17c6a7",
+        "added": 1593541197000,
+        "apkName": "tachiyomi.mangadex_v2.0.15.2_70.apk",
+        "hash": "44537469cbdc154f04d3816bf95a32b4f0f30b6b70e41530b5a946fb34608828",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -8662,7 +8697,7 @@
         "packageName": "tachiyomi.mangadex",
         "sig": "81688c90989dcd70e06a3951a90e102c",
         "signer": "126b1f50861b46c7075bb9fb5210da82c34e417e6d8bc4df2e32313cb421d18c",
-        "size": 17631240,
+        "size": 17635255,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -8734,8 +8769,8 @@
             null
           ]
         ],
-        "versionCode": 69,
-        "versionName": "2.0.15.1"
+        "versionCode": 70,
+        "versionName": "2.0.15.2"
       }
     ]
   }
