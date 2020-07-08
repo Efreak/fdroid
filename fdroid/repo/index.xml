@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="fdroid-icon.png" name="Unofficial Tachiyomi Extensions F-Droid Repo" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1593541335" url="https://tachi.efreakbnc.net/fdroid/repo" version="21">
+	<repo icon="fdroid-icon.png" name="Unofficial Tachiyomi Extensions F-Droid Repo" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1594252275" url="https://tachi.efreakbnc.net/fdroid/repo" version="21">
 		<description>This is a repository of source extensions to be used with Tachiyomi. Applications in this repository are official binaries built and signed by the developers of Tachiyomi and copied to this directory. </description>
 		<mirror>https://tachiext.netlify.com/fdroid/repo</mirror>
 		<mirror>https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo</mirror>
@@ -34,10 +34,10 @@
 	<application id="tachiyomi.mangadex">
 		<id>tachiyomi.mangadex</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-30</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Neko</name>
 		<summary>Free, open source, unofficial MangaDex reader forked from Tachiyomi</summary>
-		<icon>tachiyomi.mangadex.70.png</icon>
+		<icon>tachiyomi.mangadex.73.png</icon>
 		<desc>&lt;p&gt;Goal:&lt;/p&gt;&lt;p&gt;Using Tachiyomi as a base to add MangaDex specific features.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Supports login to MangaDex&lt;/li&gt;&lt;li&gt; Local reading of downloaded manga&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;https://myanimelist.net/&quot;&gt;MyAnimeList&lt;/a&gt;, &lt;a href=&quot;https://anilist.co/&quot;&gt;AniList&lt;/a&gt;, &lt;a href=&quot;https://kitsu.io/explore/anime&quot;&gt;Kitsu&lt;/a&gt; and &lt;a href=&quot;https://shikimori.org/&quot;&gt;Shikimori&lt;/a&gt; support.&lt;/li&gt;&lt;li&gt; Schedule updating your library for new chapters.&lt;/li&gt;&lt;li&gt; Create backups locally to read offline or to your desired cloud service.&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Apache-2.0</license>
 		<categories>Manga/Anime,Internet,Reading,Multimedia</categories>
@@ -49,55 +49,23 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>2.0.15.2</version>
-			<versioncode>70</versioncode>
-			<apkname>tachiyomi.mangadex_v2.0.15.2_70.apk</apkname>
-			<hash type="sha256">44537469cbdc154f04d3816bf95a32b4f0f30b6b70e41530b5a946fb34608828</hash>
-			<size>17635255</size>
+			<version>2.0.15.5</version>
+			<versioncode>73</versioncode>
+			<apkname>tachiyomi.mangadex_v2.0.15.5_73.apk</apkname>
+			<hash type="sha256">3e8fd54af9fbfbeeb1bd2493db7e37f03c0754d6203d90e9ca16ee8f52b5a0a9</hash>
+			<size>17643447</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-06-30</added>
+			<added>2020-07-08</added>
 			<sig>81688c90989dcd70e06a3951a90e102c</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
 		</package>
 	</application>
-	<application id="net.cyl.ranobe">
-		<id>net.cyl.ranobe</id>
-		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
-		<name>Ranobe</name>
-		<summary>Ranobe is an app to read and download light novels</summary>
-		<icon>net.cyl.ranobe.33.png</icon>
-		<desc>&lt;p&gt;Ranobe&lt;/p&gt;&lt;p&gt;Ranobe is an application that allows you to read light novel (japanese, chinese, korean) online or you can add them into your library to read them offline on your android device. You can keep track of the chapters read, add series in your favorites&lt;/p&gt;&lt;p&gt;Disclaimer&lt;/p&gt;&lt;p&gt;&lt;i&gt;All of the free light novel found on this app are hosted on third-party servers that are freely available to read online for all internet users. Any legal issues regarding the free LN should be taken up with the actual file hosts themselves, as we're not affiliated with them. Copyrights and trademarks for the LN, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt; Choose the server where you want to read or download your Light Novel&lt;/li&gt;&lt;li&gt; Add LN into your library&lt;/li&gt;&lt;li&gt; Bookmark your preferred series&lt;/li&gt;&lt;li&gt; Read online or offline&lt;/li&gt;&lt;/ul&gt;</desc>
-		<license>Unknown</license>
-		<categories>Manga/Anime,Reading,Multimedia</categories>
-		<category>Manga/Anime</category>
-		<web>https://cyberneticlifeform.wixsite.com/cylonu87/ranobe-lightnovel</web>
-		<source></source>
-		<tracker>https://bitbucket.org/cylonu87/ranobe/issues</tracker>
-		<author>Cylon u87</author>
-		<marketversion></marketversion>
-		<marketvercode>2147483647</marketvercode>
-		<antifeatures>Tracking,UpstreamNonFree,Ads,NoSourceSince</antifeatures>
-		<package>
-			<version>3.1.1</version>
-			<versioncode>33</versioncode>
-			<apkname>net.cyl.ranobe_v3.1.1_33.apk</apkname>
-			<hash type="sha256">5b6f648010470c9a8b66f08f912154452fe805391f5b86a3c2badcc15f2e24d0</hash>
-			<size>4722743</size>
-			<sdkver>19</sdkver>
-			<targetSdkVersion>28</targetSdkVersion>
-			<added>2020-06-22</added>
-			<sig>7bfa959fb9b2201371a7b1f06f6522d2</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
-			<features>android.hardware.touchscreen</features>
-		</package>
-	</application>
 	<application id="eu.kanade.tachiyomi.debug">
 		<id>eu.kanade.tachiyomi.debug</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-30</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi (dev)</name>
 		<summary>Free and open source manga reader for Android</summary>
 		<icon>eu.kanade.tachiyomi.debug.45.png</icon>
@@ -105,7 +73,7 @@
 		<license>Apache-2.0</license>
 		<categories>Manga/Anime,Internet,Reading,Multimedia</categories>
 		<category>Manga/Anime</category>
-		<web>https://www.github.com/inorichi/Tachiyomi</web>
+		<web>https://www.tachiyomi.org</web>
 		<source>https://www.github.com/inorichi/Tachiyomi</source>
 		<tracker>https://www.github.com/inorichi/Tachiyomi/issues</tracker>
 		<changelog>https://github.com/inorichi/tachiyomi/commits</changelog>
@@ -114,16 +82,16 @@
 		<marketvercode>2147483647</marketvercode>
 		<antifeatures>Tracking,UpstreamNonFree,ApplicationDebuggable</antifeatures>
 		<package>
-			<version>0.9.2-2476</version>
+			<version>0.9.2-2373</version>
 			<versioncode>45</versioncode>
-			<apkname>eu.kanade.tachiyomi.debug_v0.9.2-2476_45.apk</apkname>
-			<hash type="sha256">9bd4ea30f0a535900a229658c58b9faa16822a2c2ef10f8264feaad0c8cbeebb</hash>
-			<size>19595994</size>
+			<apkname>eu.kanade.tachiyomi.debug_v0.9.2-2373_45.apk</apkname>
+			<hash type="sha256">544971b70602cc2d2ae1a10748d7572528ab3aeeaf6d5d64b7e5a354f8832a46</hash>
+			<size>15445712</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-06-30</added>
+			<added>2020-06-22</added>
 			<sig>4f4d96b80ff4c7d9fcba199c677c7d3c</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
 		</package>
 	</application>
@@ -171,7 +139,7 @@
 		<license>Apache-2.0</license>
 		<categories>Manga/Anime,Internet,Reading,Multimedia</categories>
 		<category>Manga/Anime</category>
-		<web>https://www.github.com/inorichi/Tachiyomi</web>
+		<web>https://www.tachiyomi.org</web>
 		<source>https://www.github.com/inorichi/Tachiyomi</source>
 		<tracker>https://www.github.com/inorichi/Tachiyomi/issues</tracker>
 		<changelog>https://github.com/inorichi/tachiyomi/releases</changelog>
@@ -1127,10 +1095,10 @@
 	<application id="eu.kanade.tachiyomi.extension.all.genkan">
 		<id>eu.kanade.tachiyomi.extension.all.genkan</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: Genkan (multiple sources) (ALL)</name>
 		<summary>Tachiyomi Genkan (multiple sources) Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.all.genkan.20.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.all.genkan.21.png</icon>
 		<desc>&lt;p&gt;The following is a list of urls found in the source for this extension:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; https://leviatanscans.com&lt;/li&gt;&lt;li&gt; https://es.leviatanscans.com&lt;/li&gt;&lt;li&gt; https://psychoplay.co&lt;/li&gt;&lt;li&gt; https://oneshotscans.com&lt;/li&gt;&lt;li&gt; https://hunlight-scans.info&lt;/li&gt;&lt;li&gt; https://wowescans.co&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -1141,14 +1109,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.20</version>
-			<versioncode>20</versioncode>
-			<apkname>tachiyomi-all.genkan-v1.2.20.apk</apkname>
-			<hash type="sha256">1eda7978e95c10e34b28eb84b8c24dc321df626991a520b030b6de61ed9857a7</hash>
+			<version>1.2.21</version>
+			<versioncode>21</versioncode>
+			<apkname>tachiyomi-all.genkan-v1.2.21.apk</apkname>
+			<hash type="sha256">821767203962d30e4c4a3ba97ad11ae9193e812490dd733fcff9fe036a1344f3</hash>
 			<size>45970</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2345,10 +2313,10 @@
 	<application id="eu.kanade.tachiyomi.extension.all.madara">
 		<id>eu.kanade.tachiyomi.extension.all.madara</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-30</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: Madara (ALL)</name>
 		<summary>Tachiyomi Madara Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.all.madara.115.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.all.madara.116.png</icon>
 		<desc>&lt;p&gt;The following is a list of urls found in the source for this extension:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; https://mangasushi.net&lt;/li&gt;&lt;li&gt; https://ninjascans.com&lt;/li&gt;&lt;li&gt; https://readmanhua.net&lt;/li&gt;&lt;li&gt; https://zeroscans.com&lt;/li&gt;&lt;li&gt; https://isekaiscan.com/&lt;/li&gt;&lt;li&gt; https://happyteascans.com/&lt;/li&gt;&lt;li&gt; https://just-for-fun.ru/&lt;/li&gt;&lt;li&gt; https://aoc.moe/&lt;/li&gt;&lt;li&gt; https://komikgo.com&lt;/li&gt;&lt;li&gt; https://luxyscans.com/&lt;/li&gt;&lt;li&gt; http://ghajik.ml/&lt;/li&gt;&lt;li&gt; https://tsubakinoscan.com/&lt;/li&gt;&lt;li&gt; https://yokaijump.fr/&lt;/li&gt;&lt;li&gt; https://zmanga.org/&lt;/li&gt;&lt;li&gt; https://mangazuki.me/&lt;/li&gt;&lt;li&gt; https://www.mangazuki.online/&lt;/li&gt;&lt;li&gt; https://mangazuki.club/&lt;/li&gt;&lt;li&gt; https://1stkissmanga.com/&lt;/li&gt;&lt;li&gt; https://mangakomi.com/&lt;/li&gt;&lt;li&gt; https://www.mangasy.com/&lt;/li&gt;&lt;li&gt; https://manhwa.club/&lt;/li&gt;&lt;li&gt; https://wuxiaworld.site/&lt;/li&gt;&lt;li&gt; https://wordrain69.com&lt;/li&gt;&lt;li&gt; https://yomanga.info/&lt;/li&gt;&lt;li&gt; https://manytoon.com/&lt;/li&gt;&lt;li&gt; http://www.cmreader.info/&lt;/li&gt;&lt;li&gt; https://zinmanga.com/&lt;/li&gt;&lt;li&gt; https://manhwahentai.me&lt;/li&gt;&lt;li&gt; https://3asq.org&lt;/li&gt;&lt;li&gt; https://nmanhwa.com&lt;/li&gt;&lt;li&gt; https://manhwa18.net&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -2359,14 +2327,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.115</version>
-			<versioncode>115</versioncode>
-			<apkname>tachiyomi-all.madara-v1.2.115.apk</apkname>
-			<hash type="sha256">0efafa9df095e3d476d5c155069f4b77cb00006e6edb050997dd20bd06e45860</hash>
+			<version>1.2.116</version>
+			<versioncode>116</versioncode>
+			<apkname>tachiyomi-all.madara-v1.2.116.apk</apkname>
+			<hash type="sha256">e0ff6a9cc2b136229bf468aa12f72d39b42fed3f90e9295f44ac146be22efc98</hash>
 			<size>78829</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2020-06-30</added>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2722,10 +2690,10 @@
 	<application id="eu.kanade.tachiyomi.extension.all.mangabox">
 		<id>eu.kanade.tachiyomi.extension.all.mangabox</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: MangaBox (Mangakakalot and others) (ALL)</name>
 		<summary>Tachiyomi MangaBox Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.all.mangabox.23.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.all.mangabox.24.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -2736,14 +2704,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.23</version>
-			<versioncode>23</versioncode>
-			<apkname>tachiyomi-all.mangabox-v1.2.23.apk</apkname>
-			<hash type="sha256">9793fa338bce5c10a6996cbe1740cf329fa51c76de77a2ab3a26ee57bbd7b708</hash>
+			<version>1.2.24</version>
+			<versioncode>24</versioncode>
+			<apkname>tachiyomi-all.mangabox-v1.2.24.apk</apkname>
+			<hash type="sha256">f37ecdbfd8177218a13924b8a4b50c07bfbb9b43a1117a43266bae9c5fef9587</hash>
 			<size>54164</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2867,10 +2835,10 @@
 	<application id="eu.kanade.tachiyomi.extension.all.mangadex">
 		<id>eu.kanade.tachiyomi.extension.all.mangadex</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: MangaDex (ALL)</name>
 		<summary>Tachiyomi MangaDex Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.all.mangadex.94.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.all.mangadex.95.png</icon>
 		<desc>&lt;p&gt;The following is a list of urls found in the source for this extension:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; https://mangadex.org&lt;/li&gt;&lt;li&gt; https://cdndex.com&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -2881,14 +2849,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.94</version>
-			<versioncode>94</versioncode>
-			<apkname>tachiyomi-all.mangadex-v1.2.94.apk</apkname>
-			<hash type="sha256">79b147d2b2e9fda5e39f610021f260019f284dd28ebcec7d48d095bdf67502ae</hash>
-			<size>74734</size>
+			<version>1.2.95</version>
+			<versioncode>95</versioncode>
+			<apkname>tachiyomi-all.mangadex-v1.2.95.apk</apkname>
+			<hash type="sha256">c3a5c2acf217500205a34804019e75df0f14567e4021f12a79c04512387339c4</hash>
+			<size>78830</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3418,10 +3386,10 @@
 	<application id="eu.kanade.tachiyomi.extension.en.mangalife">
 		<id>eu.kanade.tachiyomi.extension.en.mangalife</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: MangaLife (EN)</name>
 		<summary>Tachiyomi MangaLife Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.en.mangalife.5.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.en.mangalife.6.png</icon>
 		<desc>&lt;p&gt;The following is a list of urls found in the source for this extension:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; https://mangalife.us&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -3432,14 +3400,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.5</version>
-			<versioncode>5</versioncode>
-			<apkname>tachiyomi-en.mangalife-v1.2.5.apk</apkname>
-			<hash type="sha256">8031b05ef4b4e67e486975eb646785cd04283095dd1410346ffd1f7bc208bce3</hash>
+			<version>1.2.6</version>
+			<versioncode>6</versioncode>
+			<apkname>tachiyomi-en.mangalife-v1.2.6.apk</apkname>
+			<hash type="sha256">6f6236c2e03c561099fb1b73e81b2ebb90dd77835652cb0b61399325f82bc7e4</hash>
 			<size>41875</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3737,10 +3705,10 @@
 	<application id="eu.kanade.tachiyomi.extension.en.mangasee">
 		<id>eu.kanade.tachiyomi.extension.en.mangasee</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: Mangasee (EN)</name>
 		<summary>Tachiyomi Mangasee Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.en.mangasee.7.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.en.mangasee.9.png</icon>
 		<desc>&lt;p&gt;The following is a list of urls found in the source for this extension:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; https://mangaseeonline.us&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -3751,14 +3719,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.7</version>
-			<versioncode>7</versioncode>
-			<apkname>tachiyomi-en.mangasee-v1.2.7.apk</apkname>
-			<hash type="sha256">a9b9439fe24985a00237976742d134b100be3395b49004ff6c82332d718c8d7f</hash>
-			<size>62354</size>
+			<version>1.2.9</version>
+			<versioncode>9</versioncode>
+			<apkname>tachiyomi-en.mangasee-v1.2.9.apk</apkname>
+			<hash type="sha256">e28290ca444a85579f5e09120f7ae5cc602386cfb6da22fb796177317e74b1f1</hash>
+			<size>66450</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -4201,10 +4169,10 @@
 	<application id="eu.kanade.tachiyomi.extension.all.mmrcms">
 		<id>eu.kanade.tachiyomi.extension.all.mmrcms</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: My Manga Reader CMS (Many sources) (ALL)</name>
 		<summary>Tachiyomi My Manga Reader CMS (Many sources) Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.all.mmrcms.43.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.all.mmrcms.44.png</icon>
 		<desc>&lt;p&gt;The following is a list of urls found in the source for this extension:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; https://www.on-manga.me&lt;/li&gt;&lt;li&gt; https://www.on-manga.me/manga/&lt;/li&gt;&lt;li&gt; http://readcomicsonline.ru&lt;/li&gt;&lt;li&gt; https://readcomicsonline.ru/comic/&lt;/li&gt;&lt;li&gt; http://biamam.com/&lt;/li&gt;&lt;li&gt; http://biamam.com/manga/&lt;/li&gt;&lt;li&gt; http://manga.fascans.com&lt;/li&gt;&lt;li&gt; https://manga.fascans.com/manga/&lt;/li&gt;&lt;li&gt; https://hatigarmscans.net&lt;/li&gt;&lt;li&gt; https://hatigarmscans.net/manga/&lt;/li&gt;&lt;li&gt; http://mangawww.club&lt;/li&gt;&lt;li&gt; http://mangawww.club/manga/&lt;/li&gt;&lt;li&gt; http://zxcomic.com&lt;/li&gt;&lt;li&gt; http://zxcomic.com/comic/&lt;/li&gt;&lt;li&gt; http://www.whitecloudpavilion.com/manga/free&lt;/li&gt;&lt;li&gt; http://www.whitecloudpavilion.com/manga/free/manga/&lt;/li&gt;&lt;li&gt; http://www.mangatreat.com&lt;/li&gt;&lt;li&gt; http://www.mangatreat.com/manga/&lt;/li&gt;&lt;li&gt; https://sosscanlation.com&lt;/li&gt;&lt;li&gt; https://sosscanlation.com/manga/&lt;/li&gt;&lt;li&gt; http://www.scan-fr.io&lt;/li&gt;&lt;li&gt; https://www.scan-fr.io/manga/&lt;/li&gt;&lt;li&gt; https://www.scan-vf.co&lt;/li&gt;&lt;li&gt; https://www.scan-vf.co/&lt;/li&gt;&lt;li&gt; http://www.komikid.com&lt;/li&gt;&lt;li&gt; http://www.komikid.com/manga/&lt;/li&gt;&lt;li&gt; http://torascans.pl&lt;/li&gt;&lt;li&gt; http://torascans.pl/manga/&lt;/li&gt;&lt;li&gt; https://www.comicspace.com.br&lt;/li&gt;&lt;li&gt; https://www.comicspace.com.br/manga/&lt;/li&gt;&lt;li&gt; https://mangasyuri.net&lt;/li&gt;&lt;li&gt; https://mangasyuri.net/manga/&lt;/li&gt;&lt;li&gt; http://dracaena.webd.pl/czytnik&lt;/li&gt;&lt;li&gt; http://dracaena.webd.pl/czytnik/manga/&lt;/li&gt;&lt;li&gt; http://azbivo.webd.pro&lt;/li&gt;&lt;li&gt; http://azbivo.webd.pro/manga/&lt;/li&gt;&lt;li&gt; http://anigai.ru&lt;/li&gt;&lt;li&gt; http://anigai.ru/manga/&lt;/li&gt;&lt;li&gt; http://mangahanta.com&lt;/li&gt;&lt;li&gt; http://mangahanta.com/manga/&lt;/li&gt;&lt;li&gt; http://truyen.fascans.com&lt;/li&gt;&lt;li&gt; https://truyen.fascans.com/manga/&lt;/li&gt;&lt;li&gt; https://leomanga.me&lt;/li&gt;&lt;li&gt; https://leomanga.me/manga/&lt;/li&gt;&lt;li&gt; https://submanga.online&lt;/li&gt;&lt;li&gt; https://submanga.online/manga/&lt;/li&gt;&lt;li&gt; https://mangadoor.com&lt;/li&gt;&lt;li&gt; https://mangadoor.com/manga/&lt;/li&gt;&lt;li&gt; https://mangas.pw&lt;/li&gt;&lt;li&gt; https://mangas.pw/manga/&lt;/li&gt;&lt;li&gt; https://www.hentaishark.com&lt;/li&gt;&lt;li&gt; https://www.hentaishark.com/manga/&lt;/li&gt;&lt;li&gt; https://mangasyuri.net/manga/SELECTION&lt;/li&gt;&lt;li&gt; http://www.cmreader.info&lt;/li&gt;&lt;li&gt; http://www.epikmanga.com&lt;/li&gt;&lt;li&gt; https://mangacasa.com&lt;/li&gt;&lt;li&gt; https://rawmanga.site&lt;/li&gt;&lt;li&gt; http://mangafyi.com/manga/arabic&lt;/li&gt;&lt;li&gt; http://mangaroot.com&lt;/li&gt;&lt;li&gt; http://manga4ever.com&lt;/li&gt;&lt;li&gt; http://mangaspoil.com&lt;/li&gt;&lt;li&gt; http://mangablue.com&lt;/li&gt;&lt;li&gt; https://mangaforest.com&lt;/li&gt;&lt;li&gt; http://dmanga.website&lt;/li&gt;&lt;li&gt; http://dbmanga.com&lt;/li&gt;&lt;li&gt; http://mangacox.com&lt;/li&gt;&lt;li&gt; http://gomanhwa.xyz&lt;/li&gt;&lt;li&gt; https://komanga.net&lt;/li&gt;&lt;li&gt; http://manganimecan.com&lt;/li&gt;&lt;li&gt; http://hentai2manga.com&lt;/li&gt;&lt;li&gt; http://4-manga.com&lt;/li&gt;&lt;li&gt; http://xyxx.info&lt;/li&gt;&lt;li&gt; https://isekaimanga.club&lt;/li&gt;&lt;li&gt; http://trinityreader.pw&lt;/li&gt;&lt;li&gt; https://www.manga-lel.com&lt;/li&gt;&lt;li&gt; https://www.etonnia.com&lt;/li&gt;&lt;li&gt; http://scanfr.com&lt;/li&gt;&lt;li&gt; http://mangafyi.com/manga/french&lt;/li&gt;&lt;li&gt; http://scans-manga.com&lt;/li&gt;&lt;li&gt; http://henkanokazelel.esy.es/upload&lt;/li&gt;&lt;li&gt; http://www.tous-vos-scans.com&lt;/li&gt;&lt;li&gt; http://mangadesu.net&lt;/li&gt;&lt;li&gt; http://go.mangafire.id&lt;/li&gt;&lt;li&gt; https://mangaonline.web.id&lt;/li&gt;&lt;li&gt; https://manganesia.com&lt;/li&gt;&lt;li&gt; https://mangaid.me&lt;/li&gt;&lt;li&gt; http://www.mangaseru.top&lt;/li&gt;&lt;li&gt; http://mangafyi.com/manga/indonesian&lt;/li&gt;&lt;li&gt; http://www.bacamangaku.com&lt;/li&gt;&lt;li&gt; http://indomangareader.com&lt;/li&gt;&lt;li&gt; http://kireader.altervista.org&lt;/li&gt;&lt;li&gt; http://ichigobook.com&lt;/li&gt;&lt;li&gt; http://mangaraw.online&lt;/li&gt;&lt;li&gt; https://raws.mangazuki.co&lt;/li&gt;&lt;li&gt; https://www.mgraw.com&lt;/li&gt;&lt;li&gt; http://netabare-manga-raw.com&lt;/li&gt;&lt;li&gt; http://nakama.ru&lt;/li&gt;&lt;li&gt; http://mangaoi.com&lt;/li&gt;&lt;li&gt; http://www.manhua-tr.com&lt;/li&gt;&lt;li&gt; http://example.com&lt;/li&gt;&lt;li&gt; http://example.com/manga/&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -4215,14 +4183,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.43</version>
-			<versioncode>43</versioncode>
-			<apkname>tachiyomi-all.mmrcms-v1.2.43.apk</apkname>
-			<hash type="sha256">aa318f89958921e8da8be86d43e251e71c883deb2c03401ed9e50336a22aaaf5</hash>
+			<version>1.2.44</version>
+			<versioncode>44</versioncode>
+			<apkname>tachiyomi-all.mmrcms-v1.2.44.apk</apkname>
+			<hash type="sha256">54905cb4fac168f691b7a5723d2ea2f8c3edcd48c063cc89b8b24e67c96b2ef8</hash>
 			<size>66450</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -4317,10 +4285,10 @@
 	<application id="eu.kanade.tachiyomi.extension.all.myreadingmanga">
 		<id>eu.kanade.tachiyomi.extension.all.myreadingmanga</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: MyReadingManga (ALL)</name>
 		<summary>Tachiyomi MyReadingManga Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.all.myreadingmanga.34.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.all.myreadingmanga.35.png</icon>
 		<desc>&lt;p&gt;The following is a list of urls found in the source for this extension:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; https://myreadingmanga.info&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -4331,14 +4299,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.34</version>
-			<versioncode>34</versioncode>
-			<apkname>tachiyomi-all.myreadingmanga-v1.2.34.apk</apkname>
-			<hash type="sha256">0f0d0e004159eb4ae787a6ae9a17c58d092d8c549563e2f3e5aad84346a198aa</hash>
+			<version>1.2.35</version>
+			<versioncode>35</versioncode>
+			<apkname>tachiyomi-all.myreadingmanga-v1.2.35.apk</apkname>
+			<hash type="sha256">b0b5c3f7b15ede968492a052bea708ad32667a4af174e923b91dcf8b52909b52</hash>
 			<size>41882</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -4578,10 +4546,10 @@
 	<application id="eu.kanade.tachiyomi.extension.all.nhentai">
 		<id>eu.kanade.tachiyomi.extension.all.nhentai</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-30</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: NHentai (ALL)</name>
 		<summary>Tachiyomi NHentai Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.all.nhentai.25.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.all.nhentai.26.png</icon>
 		<desc>&lt;p&gt;The following is a list of urls found in the source for this extension:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; https://nhentai.net&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -4592,14 +4560,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.25</version>
-			<versioncode>25</versioncode>
-			<apkname>tachiyomi-all.nhentai-v1.2.25.apk</apkname>
-			<hash type="sha256">cb4c3f09a21facdeca004006d5f8eca83c33d36fa1dd22536bf7cb8f5c341b58</hash>
+			<version>1.2.26</version>
+			<versioncode>26</versioncode>
+			<apkname>tachiyomi-all.nhentai-v1.2.26.apk</apkname>
+			<hash type="sha256">4b7ae1e97294e43e8dcb61008aa701317b67269e479abe68e3d9ec3af63f86cf</hash>
 			<size>50157</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-30</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -5767,10 +5735,10 @@
 	<application id="eu.kanade.tachiyomi.extension.pt.supermangas">
 		<id>eu.kanade.tachiyomi.extension.pt.supermangas</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: Super Mangás (PT)</name>
 		<summary>Tachiyomi Super Mangás Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.pt.supermangas.1.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.pt.supermangas.2.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -5779,16 +5747,16 @@
 		<source>https://github.com/inorichi/tachiyomi-extensions</source>
 		<tracker>https://github.com/inorichi/tachiyomi-extensions/issues</tracker>
 		<marketversion></marketversion>
-		<marketvercode>1</marketvercode>
+		<marketvercode>2</marketvercode>
 		<package>
-			<version>1.2.1</version>
-			<versioncode>1</versioncode>
-			<apkname>tachiyomi-pt.supermangas-v1.2.1.apk</apkname>
-			<hash type="sha256">f0c3fcfc22cbea79613658430db9c558adae36e1d5de8d5160c604d5a4a05d4d</hash>
+			<version>1.2.2</version>
+			<versioncode>2</versioncode>
+			<apkname>tachiyomi-pt.supermangas-v1.2.2.apk</apkname>
+			<hash type="sha256">7f030d410e7e5914f8788f5246591c21cdd6aaf61089e4ff10cd0f374902c893</hash>
 			<size>62357</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -5883,10 +5851,10 @@
 	<application id="eu.kanade.tachiyomi.extension.en.timelessleaf">
 		<id>eu.kanade.tachiyomi.extension.en.timelessleaf</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: TimelessLeaf (EN)</name>
 		<summary>Tachiyomi TimelessLeaf Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.en.timelessleaf.1.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.en.timelessleaf.2.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -5895,16 +5863,16 @@
 		<source>https://github.com/inorichi/tachiyomi-extensions</source>
 		<tracker>https://github.com/inorichi/tachiyomi-extensions/issues</tracker>
 		<marketversion></marketversion>
-		<marketvercode>1</marketvercode>
+		<marketvercode>2</marketvercode>
 		<package>
-			<version>1.2.1</version>
-			<versioncode>1</versioncode>
-			<apkname>tachiyomi-en.timelessleaf-v1.2.1.apk</apkname>
-			<hash type="sha256">39db890d6c452ea6d87b3344b52ba733dde5b1b1712fdad97158fc7e4b19954e</hash>
+			<version>1.2.2</version>
+			<versioncode>2</versioncode>
+			<apkname>tachiyomi-en.timelessleaf-v1.2.2.apk</apkname>
+			<hash type="sha256">e3158699297680c59963a5928de6291f2a7e6311dba84a5cd3b1fc1a8ab4765c</hash>
 			<size>58262</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -6318,10 +6286,10 @@
 	<application id="eu.kanade.tachiyomi.extension.all.webtoons">
 		<id>eu.kanade.tachiyomi.extension.all.webtoons</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: Webtoons (ALL)</name>
 		<summary>Tachiyomi Webtoons Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.all.webtoons.16.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.all.webtoons.17.png</icon>
 		<desc>&lt;p&gt;The following is a list of urls found in the source for this extension:&lt;/p&gt;&lt;ul&gt;&lt;li&gt; http://www.webtoons.com&lt;/li&gt;&lt;li&gt; http://www.webtoons.com/$langCode/&lt;/li&gt;&lt;li&gt; http://m.webtoons.com&lt;/li&gt;&lt;li&gt; https://global.apis.naver.com&lt;/li&gt;&lt;li&gt; https://m.webtoons.com&lt;/li&gt;&lt;li&gt; https://mwebtoon-phinf.pstatic.net&lt;/li&gt;&lt;/ul&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -6332,14 +6300,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.16</version>
-			<versioncode>16</versioncode>
-			<apkname>tachiyomi-all.webtoons-v1.2.16.apk</apkname>
-			<hash type="sha256">bac10cc35c360a3016aeedfde248991cc1ee1d85ddd9b9abd8f88bef29dabf6f</hash>
+			<version>1.2.17</version>
+			<versioncode>17</versioncode>
+			<apkname>tachiyomi-all.webtoons-v1.2.17.apk</apkname>
+			<hash type="sha256">2e3fd1b538e16bb81b810387e4eb3c5f4ff0e37975e1cb411251bdc75b84fc3b</hash>
 			<size>66452</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -6463,10 +6431,10 @@
 	<application id="eu.kanade.tachiyomi.extension.all.wpcomics">
 		<id>eu.kanade.tachiyomi.extension.all.wpcomics</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: WP-Comics (ALL)</name>
 		<summary>Tachiyomi WP-Comics Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.all.wpcomics.8.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.all.wpcomics.9.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -6475,16 +6443,16 @@
 		<source>https://github.com/inorichi/tachiyomi-extensions</source>
 		<tracker>https://github.com/inorichi/tachiyomi-extensions/issues</tracker>
 		<marketversion></marketversion>
-		<marketvercode>8</marketvercode>
+		<marketvercode>9</marketvercode>
 		<package>
-			<version>1.2.8</version>
-			<versioncode>8</versioncode>
-			<apkname>tachiyomi-all.wpcomics-v1.2.8.apk</apkname>
-			<hash type="sha256">4c109213ca630d56a528d535b67c453e3f364944a16b8ea1cd238ac4acbaefe7</hash>
+			<version>1.2.9</version>
+			<versioncode>9</versioncode>
+			<apkname>tachiyomi-all.wpcomics-v1.2.9.apk</apkname>
+			<hash type="sha256">8bd6948750ae26dec89ec5c4b7c88672d80fa16848dffbe2f827adb3057e9397</hash>
 			<size>62355</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -6521,10 +6489,10 @@
 	<application id="eu.kanade.tachiyomi.extension.en.wutopia">
 		<id>eu.kanade.tachiyomi.extension.en.wutopia</id>
 		<added>2020-06-22</added>
-		<lastupdated>2020-06-22</lastupdated>
+		<lastupdated>2020-07-08</lastupdated>
 		<name>Tachiyomi: Wutopia (EN)</name>
 		<summary>Tachiyomi Wutopia Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.en.wutopia.1.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.en.wutopia.2.png</icon>
 		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -6535,14 +6503,14 @@
 		<marketversion></marketversion>
 		<marketvercode>2147483647</marketvercode>
 		<package>
-			<version>1.2.1</version>
-			<versioncode>1</versioncode>
-			<apkname>tachiyomi-en.wutopia-v1.2.1.apk</apkname>
-			<hash type="sha256">e3b213a5c58890883e798e44e4b00a95c7067fee30c2d09eab4187c0c30d1638</hash>
-			<size>58257</size>
+			<version>1.2.2</version>
+			<versioncode>2</versioncode>
+			<apkname>tachiyomi-en.wutopia-v1.2.2.apk</apkname>
+			<hash type="sha256">3f8091ee8b41798954b39b9c7ee1c9d57ed3924e07c309181c5492b2855e96f3</hash>
+			<size>62353</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2020-06-22</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2020-07-08</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
