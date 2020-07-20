@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-if ! (type curl && type jq) &>/dev/null; then
-  echo -e 'Please install curl and jq.'
+if ! (type curl && type jq && type gh) &>/dev/null; then
+  echo -e 'Please install curl, jq and gh (github.com/cli/cli).'
   exit 1
 fi
 
@@ -9,35 +9,33 @@ cd /home/efreak/fdroidserver/fdroid/repo
 
 predl="$(ls)"
 
-echo Checking/Downloading tachi sy fork
-curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/jobobby04/TachiyomiSYPreview/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output sy.apk
-mv -n sy.apk $(aapt dump badging sy.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+function get_latest_gh_release(){
+    echo "Checking releases for $1"
+    gh api "repos/$1/releases"|jq '.[0].assets[].browser_download_url'| fgrep -i .apk |cut -d\" -f2 | while read url; do
+        echo "Downloading $url"
+        rm -f incoming.apk # clean up because I do stupid things
+        curl -sL "$url" --output incoming.apk
+        mv -n incoming.apk $(aapt dump badging incoming.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+        rm -f incoming.apk # clean up if last command failed (if the file wasn't actually an apk file for some reason)
+        echo
+    done
+}
 
-echo Checking/Downloading tachi az fork
-curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/az4521/TachiyomiAZ/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output az.apk
-mv -n az.apk $(aapt dump badging az.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+get_latest_gh_release 'jobobby04/TachiyomiSYPreview'
+get_latest_gh_release 'az4521/TachiyomiAZ'
+get_latest_gh_release 'jays2kings/tachiyomi'
+get_latest_gh_release 'inorichi/tachiyomi'
+get_latest_gh_release 'CarlosEsco/Neko'
 
-echo Checking/Downloading tachi az fork debug
-curl -s -L 'https://crafty.moe/tachiyomiAZ.apk' --output azdebug.apk
-mv -n azdebug.apk $(aapt dump badging azdebug.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
-
-echo Checking/Downloading tachi jays2kings fork
-curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/jays2kings/tachiyomi/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output j2k.apk
-mv -n j2k.apk $(aapt dump badging j2k.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
-
-echo Checking/Downloading tachi stable
-curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/inorichi/tachiyomi/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output stable.apk
-mv -n stable.apk $(aapt dump badging stable.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
-
-echo Checking/Downloading tachi debug
+echo 'Downloading tachi debug from https://tachiyomi.kanade.eu/latest'
 curl -s -L 'https://tachiyomi.kanade.eu/latest' --output debug.apk
 mv -n debug.apk $(aapt dump badging debug.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
-echo Checking/Downloading Neko
-curl -s -L $(curl -s $(curl -s 'https://api.github.com/repos/CarlosEsco/Neko/releases/latest'|jq '.url'|cut -d\" -f2)|jq '.assets'|grep browser_download_url|cut -d\" -f4) --output neko.apk
-mv -n neko.apk $(aapt dump badging neko.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
+echo 'Downloading az4521/TachiyomiAZ debug version from https://crafty.moe/tachiyomiAZ.apk'
+curl -s -L 'https://crafty.moe/tachiyomiAZ.apk' --output azdebug.apk
+mv -n azdebug.apk $(aapt dump badging azdebug.apk|head -1|sed -e "s/'/"'"/g' -Ee 's/.*?name="([^"]+)".*?versionCode="([^"]+)".*?versionName="([^"]+)".+/\1_v\3_\2.apk/g')
 
-rm -f {sy,az,azdebug,j2k,stable,debug,neko}.apk
+rm -f {,az}debug.apk
 
 #TODO: git stash before dl, and git diff here instead
 #no, that's a stupid idea. just dont leave stuff behind
