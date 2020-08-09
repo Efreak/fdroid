@@ -56,6 +56,7 @@ servergitmirrors = {
 #
 mirrors = (
     'https://tachiext.netlify.com/fdroid',
+    'https://tachi.cloud.efreakbnc.net/fdroid',
 # this is occasionally used on my local network. If it annoys you, disable it.
 # you can do this by opening the repo settings in fdroid.
 #    'http://192.168.0.2:8000/fdroid',
