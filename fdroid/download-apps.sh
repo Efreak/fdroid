@@ -66,7 +66,7 @@ git add repo archive
 git commit -m "$(echo $'Update apps: \n\n'"$newstuff")"
 
 # dont push if run in a script.
-test "$1" != nopush && git push
+#test "$1" != nopush && git push
 
 # now update fdroid
 #./fdroid.sh update --create-metadata --pretty --use-date-from-apk

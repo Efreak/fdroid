@@ -40,27 +40,27 @@ git add archive repo metadata tmp
 git commit -m "$apkfiles"
 
 # now run download_apps.sh unless told not to
-test -n "$nodl" && ./download_apps.sh nopush
+#test -n "$nodl" && ./download_apps.sh nopush
 
 # update if requested
-if test -n "$update"; then
-  ./fdroid.sh update --create-metadata --pretty --use-date-from-apk --clean
-  git add archive repo metadata tmp
-  git commit -m "clean update"
-fi
+#if test -n "$update"; then
+#  ./fdroid.sh update --create-metadata --pretty --use-date-from-apk --clean
+#  git add archive repo metadata tmp
+#  git commit -m "clean update"
+#fi
 
 # dont push if run in a script.
-test -n "$nopush" && git push
+#test -n "$nopush" && git push
 
 # for my personal use
-if type xmllint &> /dev/null; then
-  xmllint --format repo/index.xml > repo.xml
-  xmllint --format archive/index.xml > archive.xml
-fi
+#if type xmllint &> /dev/null; then
+#  xmllint --format repo/index.xml > repo.xml
+#  xmllint --format archive/index.xml > archive.xml
+#fi
 
 # output a diff. I only care about apk files...
 #                - except not anymore, since I'm not usually running fdroid
-git diff $oldrev --compact-summary --color=always --relative=fdroid # *.apk #|less -XFR
+#git diff $oldrev --compact-summary --color=always --relative=fdroid # *.apk #|less -XFR
 
 # give a few seconds to avoid pushing. Also keep copies of upstream up to date.
 #read -n1 -e -t 30 -p 'Push? <Y/N> ' gitpush
@@ -71,6 +71,6 @@ git diff $oldrev --compact-summary --color=always --relative=fdroid # *.apk #|le
 #      git fetch inorichi repo:upstream/repo > /dev/null
 #      git push origin master upstream/repo upstream/master;;
 #esac
-echo "Old hash: $oldrev"
-echo "Current hash: $(git rev-parse HEAD)"
+#echo "Old hash: $oldrev"
+#echo "Current hash: $(git rev-parse HEAD)"
 
