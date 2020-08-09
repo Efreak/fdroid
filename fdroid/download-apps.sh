@@ -5,7 +5,7 @@ if ! (type curl && type jq && type gh) &>/dev/null; then
   exit 1
 fi
 
-cd /home/efreak/fdroidserver/fdroid/repo
+cd $HOME/fdroidserver/fdroid/repo
 
 predl="$(ls)"
 
@@ -61,7 +61,7 @@ then
 fi
 
 # and update git
-cd /home/efreak/fdroidserver/fdroid
+cd $HOME/fdroidserver/fdroid
 git add repo archive
 git commit -m "$(echo $'Update apps: \n\n'"$newstuff")"
 
