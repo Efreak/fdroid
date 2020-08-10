@@ -19488,7 +19488,7 @@
     "size": 24180887,
     "apkName": "eu.kanade.tachiyomi.sy_v1.1.1_4.apk",
     "icon": "eu.kanade.tachiyomi.sy.4.png",
-    "added": 1597068020.817928
+    "added": 1597073727.88814
   },
   "eu.kanade.tachiyomi_v0.10.2_48.apk": {
     "hash": "4c8dd2c0843517a9e4c81ecb8a443c46f5720ef4e2395cc88d5c2c40c5086904",
@@ -22411,5 +22411,45 @@
     "apkName": "tachiyomi-pt.mangasproject-v1.2.13.apk",
     "icon": "eu.kanade.tachiyomi.extension.pt.mangasproject.13.png",
     "added": 1597068012.278825
+  },
+  "tachiyomi-zh.manhuadui-v1.2.11.apk": {
+    "hash": "213d2a4bdc3d5387082fec2d499996cc463ecdcec42bbc94a4221efd699a88ba",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "120": "res/mipmap-ldpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.zh.manhuadui.11.png",
+      "480": "eu.kanade.tachiyomi.extension.zh.manhuadui.11.png",
+      "320": "eu.kanade.tachiyomi.extension.zh.manhuadui.11.png",
+      "240": "eu.kanade.tachiyomi.extension.zh.manhuadui.11.png",
+      "160": "eu.kanade.tachiyomi.extension.zh.manhuadui.11.png",
+      "120": "eu.kanade.tachiyomi.extension.zh.manhuadui.11.png",
+      "0": "eu.kanade.tachiyomi.extension.zh.manhuadui.11.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.zh.manhuadui",
+    "versionCode": 11,
+    "name": "Tachiyomi: Manhuadui",
+    "versionName": "1.2.11",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 628901,
+    "apkName": "tachiyomi-zh.manhuadui-v1.2.11.apk",
+    "icon": "eu.kanade.tachiyomi.extension.zh.manhuadui.11.png",
+    "added": 1597073729.07201
   }
 }
