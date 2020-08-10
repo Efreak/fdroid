@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-if ! (type curl && type jq && type gh) &>/dev/null; then
-  echo -e 'Please install curl, jq and gh (github.com/cli/cli).'
-  exit 1
-fi
+#if ! (type curl && type jq && type gh) &>/dev/null; then
+#  echo -e 'Please install curl, jq and gh (github.com/cli/cli).'
+#  exit 1
+#fi
 
 cd $HOME/fdroidserver/fdroid/repo
 
