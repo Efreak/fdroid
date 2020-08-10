@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1597086015000,
+    "timestamp": 1597087806000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -171,9 +171,9 @@
       "summary": "Free and open source manga reader for Android",
       "webSite": "https://www.tachiyomi.org",
       "added": 1596563617000,
-      "icon": "eu.kanade.tachiyomi.48.png",
+      "icon": "eu.kanade.tachiyomi.49.png",
       "packageName": "eu.kanade.tachiyomi",
-      "lastUpdated": 1596563621000,
+      "lastUpdated": 1597087792000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -210,7 +210,7 @@
       "added": 1596563607000,
       "icon": "eu.kanade.tachiyomi.sy.4.png",
       "packageName": "eu.kanade.tachiyomi.sy",
-      "lastUpdated": 1597050010000,
+      "lastUpdated": 1597087788000,
       "localized": {
         "en": {
           "featureGraphic": "featureGraphic.png",
@@ -961,6 +961,83 @@
   ],
   "packages": {
     "eu.kanade.tachiyomi": [
+      {
+        "added": 1596563621000,
+        "apkName": "eu.kanade.tachiyomi_v0.10.3_49.apk",
+        "hash": "ff289976008912d1c4eaceed82e1d63987fa00b4d9c0154ebc4f0131f4b0e05c",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 16787297,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 49,
+        "versionName": "0.10.3"
+      },
       {
         "added": 1596563617000,
         "apkName": "eu.kanade.tachiyomi_v0.10.2_48.apk",
@@ -2417,13 +2494,179 @@
         ],
         "versionCode": 66,
         "versionName": "1.0.7"
+      },
+      {
+        "added": 1592861372000,
+        "apkName": "eu.kanade.tachiyomi.j2k_v1.0.7_66.apk",
+        "hash": "69f0b14c9e33e37c828ac5cef807b6875eb93074e3a054dd11837d53b559a797",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi.j2k",
+        "sig": "ee6e9de8e7354d0e52acd44f225bb5bb",
+        "signer": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8",
+        "size": 18329758,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 66,
+        "versionName": "1.0.7"
       }
     ],
     "eu.kanade.tachiyomi.sy": [
       {
-        "added": 1597050010000,
+        "added": 1597087788000,
         "apkName": "eu.kanade.tachiyomi.sy_v1.1.1_4.apk",
         "hash": "6468180e920c1a07b0c904faec6b48390a2da1f574902d0038a9d3c27bffff2e",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi.sy",
+        "sig": "65c001ff0feaed4bd40f348755a0c50e",
+        "signer": "5286b9045443f59b48b6de4a37ca7635d6e7b1fa111293015bdb0842ebc7b752",
+        "size": 24214116,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.1.1"
+      },
+      {
+        "added": 1597087788000,
+        "apkName": "eu.kanade.tachiyomi.sy_v1.1.1_4.apk",
+        "hash": "b87a4a836c0eaf9a9416d11b02893cef574a0dcf6b41dc40ecb870e109441059",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1597086008000,
+    "timestamp": 1597087799000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "fdroid-icon.png",
@@ -171,9 +171,9 @@
       "summary": "Free and open source manga reader for Android",
       "webSite": "https://www.tachiyomi.org",
       "added": 1596563617000,
-      "icon": "eu.kanade.tachiyomi.49.png",
+      "icon": "eu.kanade.tachiyomi.50.png",
       "packageName": "eu.kanade.tachiyomi",
-      "lastUpdated": 1596563621000,
+      "lastUpdated": 1597087792000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -210,7 +210,7 @@
       "added": 1596563607000,
       "icon": "eu.kanade.tachiyomi.sy.4.png",
       "packageName": "eu.kanade.tachiyomi.sy",
-      "lastUpdated": 1597050010000,
+      "lastUpdated": 1597087788000,
       "localized": {
         "en": {
           "featureGraphic": "featureGraphic.png",
@@ -4176,9 +4176,9 @@
   "packages": {
     "eu.kanade.tachiyomi": [
       {
-        "added": 1596563621000,
-        "apkName": "eu.kanade.tachiyomi_v0.10.3_49.apk",
-        "hash": "ff289976008912d1c4eaceed82e1d63987fa00b4d9c0154ebc4f0131f4b0e05c",
+        "added": 1597087792000,
+        "apkName": "eu.kanade.tachiyomi_v0.10.4_50.apk",
+        "hash": "0733c586eb3e85442a967b722001d3f682a9d99432df5a33c11b0ba42b55fa81",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -4189,7 +4189,7 @@
         "packageName": "eu.kanade.tachiyomi",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 16787297,
+        "size": 16836449,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -4249,8 +4249,8 @@
             null
           ]
         ],
-        "versionCode": 49,
-        "versionName": "0.10.3"
+        "versionCode": 50,
+        "versionName": "0.10.4"
       }
     ],
     "eu.kanade.tachiyomi.az": [
