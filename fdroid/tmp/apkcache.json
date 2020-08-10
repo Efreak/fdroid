@@ -19391,7 +19391,7 @@
     "added": 1596588807.627215
   },
   "eu.kanade.tachiyomi.sy_v1.1.1_4.apk": {
-    "hash": "27a6260486abd5d868b07badaab0b6af30a90db3a4d2715e776929caf50a2222",
+    "hash": "bf0f52af8023608e88f31d46102e93ece4795c569bed353b3a2af6a0676de8cb",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -19485,10 +19485,10 @@
     ],
     "sig": "65c001ff0feaed4bd40f348755a0c50e",
     "signer": "5286b9045443f59b48b6de4a37ca7635d6e7b1fa111293015bdb0842ebc7b752",
-    "size": 24184986,
+    "size": 24180887,
     "apkName": "eu.kanade.tachiyomi.sy_v1.1.1_4.apk",
     "icon": "eu.kanade.tachiyomi.sy.4.png",
-    "added": 1597029717.193032
+    "added": 1597068020.817928
   },
   "eu.kanade.tachiyomi_v0.10.2_48.apk": {
     "hash": "4c8dd2c0843517a9e4c81ecb8a443c46f5720ef4e2395cc88d5c2c40c5086904",
@@ -22373,5 +22373,43 @@
     "apkName": "eu.kanade.tachiyomi.debug_v0.10.3-2633_49.apk",
     "icon": "eu.kanade.tachiyomi.debug.49.png",
     "added": 1597029754.195292
+  },
+  "tachiyomi-pt.mangasproject-v1.2.13.apk": {
+    "hash": "c17cd21cbbee118c39ec70c9a00e25a8be7e52831327dccedd42cdb3bb3c2fa9",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.mangasproject.13.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.mangasproject.13.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.mangasproject.13.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.mangasproject.13.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.mangasproject.13.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.mangasproject.13.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.mangasproject",
+    "versionCode": 13,
+    "name": "Tachiyomi: mang\u00e1sPROJECT",
+    "versionName": "1.2.13",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 530521,
+    "apkName": "tachiyomi-pt.mangasproject-v1.2.13.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.mangasproject.13.png",
+    "added": 1597068012.278825
   }
 }
