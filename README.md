@@ -10,6 +10,29 @@ so as well, please use https://tachi.efreakbnc.net/fdroid/repo
 The non-tachi related apps are now located in another repo at https://nontachi.efreakbnc.net, 
 but the tachiyomi forks are still here.
 
+## Per-language extension repos
+If you're only interested in a specific language and you're using an older device 
+that likes to choke on a large fdroid database (one of my tablets takes forever to 
+update the local database), there are per-language repos at: 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957) 
+[\1](https://https://tachi.cloud.efreakbnc.net\1fdroid/repo?fingerprint=65F5EF1A9AE6FD7739FFB62E7C7021775198501780312BE1B782D4CA9FE07957); 
+these link to the repo, but the archives are also available. These repos are also 
+not synced to github or tachi.efreakbnc.net - they are only on the 
+tachi.cloud.efreakbnc.net mirror.
+
 # Updating
 If I don't update fast enough for you and you'd like to take over the work, let
 me know and I'll give you the config.py and the keyfile and such. The script
