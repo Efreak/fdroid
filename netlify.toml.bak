@@ -1,0 +1,20 @@
+# Global settings applied to the whole site.  
+# 
+# “base” is the directory to change to before starting build. If you set base:
+#        that is where we will look for package.json/.nvmrc/etc, not repo root!
+# “command” is your build command.
+# “publish” is the directory to publish (relative to the root of your repo).
+
+[build]
+  base    = "fdroid"
+#  command = mkdir bin && cd bin && wget "$APKSIGNER" -O apksigner.jar && echo -e '#!/usr/bin/env bash\njava -Xmx1024M -jar '"$PWD"'/apksigner.jar $@' > apksigner && chmod +x apksigner && cd .. && PATH=$PWD/bin:$PATH && export PATH && cd fdroid && echo "$KEYSTORE_FILE"|openssl base64 -d -A -out keystore.jks && fdroid update -c -v --pretty && rm keystore.jks
+  publish = "fdroid"
+
+#variables:
+#  APKSIGNER = https://gist.github.com/Efreak/60e5b8a14f37a7aec132cabd43405bb0/raw/1eddc5fe8e55f9eac4cf199b9538f5d1ec994cb1/apksigner.jar
+#  GET_KEYSTORE = echo "$KEYSTORE_FILE"|openssl base64 -d -A -out keystore.jks && echo Keystore saved
+#  KEYPASS = <removed>
+#  KEYSTORE_FILE = <removed>
+
+
+# this is documenting my old netlify settings, in case I wind up going back to netlify builds
