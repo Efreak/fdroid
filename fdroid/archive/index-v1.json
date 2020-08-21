@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1597993231000,
+    "timestamp": 1598108437000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "fdroid-icon.png",
@@ -346,6 +346,23 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://guya.moe</li><li> https://raw.githubusercontent.com/appu1232/guyamoe/master/api/data_cache/all_groups.json</li></ul>",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Guya (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Guya Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1597729247000,
+      "icon": "eu.kanade.tachiyomi.extension.en.guya.11.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.guya",
+      "lastUpdated": 1598000431000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
       "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -470,9 +487,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1597729214000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.127.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.128.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1597729441000
+      "lastUpdated": 1598000430000
     },
     {
       "categories": [
@@ -623,6 +640,23 @@
       "icon": "eu.kanade.tachiyomi.extension.es.mangamx.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.mangamx",
       "lastUpdated": 1597729480000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> http://mangaowl.com</li></ul>",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: MangaOwl (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Tapastic Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1597729267000,
+      "icon": "eu.kanade.tachiyomi.extension.en.mangaowl.6.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.mangaowl",
+      "lastUpdated": 1598000433000
     },
     {
       "categories": [
@@ -1672,6 +1706,23 @@
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
+        "added": 1597729214000,
+        "apkName": "tachiyomi-all.madara-v1.2.128.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "65577f3acbe45dac473cc5e3a1b902ed435cfad042b1e01ac081857f04c31220",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 559188,
+        "targetSdkVersion": 29,
+        "versionCode": 128,
+        "versionName": "1.2.128"
+      },
+      {
         "added": 1597729441000,
         "apkName": "tachiyomi-all.madara-v1.2.127.apk",
         "features": [
@@ -2210,6 +2261,25 @@
         "versionName": "1.2.11"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.guya": [
+      {
+        "added": 1597729247000,
+        "apkName": "tachiyomi-en.guya-v1.2.11.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "adab1b02c56ceb7d95c1a571460fcd340399e34be0dc5213e00f6dea0f534029",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.guya",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 86927,
+        "targetSdkVersion": 27,
+        "versionCode": 11,
+        "versionName": "1.2.11"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.hbrowse": [
       {
         "added": 1597729463000,
@@ -2299,6 +2369,25 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 41875,
         "targetSdkVersion": 29,
+        "versionCode": 6,
+        "versionName": "1.2.6"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.mangaowl": [
+      {
+        "added": 1597729267000,
+        "apkName": "tachiyomi-en.mangaowl-v1.2.6.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "434c06a90a9bef001b0459bf52a2687d95fca269322cf08339fdb0756c9a4060",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangaowl",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 70546,
+        "targetSdkVersion": 27,
         "versionCode": 6,
         "versionName": "1.2.6"
       }
