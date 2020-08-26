@@ -6,7 +6,7 @@ sdk_path = "$ANDROID_HOME"
 
 repo_url = "https://tachi.efreakbnc.net/fdroid/repo"
 repo_name = "Unofficial Tachiyomi Extensions F-Droid Repo"
-repo_icon = "fdroid-icon.png"
+repo_icon = "tachi-icon.png"
 repo_description = """
 This is a repository of source extensions to be used with Tachiyomi.
 Applications in this repository are official binaries built and
@@ -16,7 +16,7 @@ signed by the developers of Tachiyomi and copied to this directory.
 archive_older = 1
 archive_url = "https://tachi.efreakbnc.net/fdroid/archive"
 archive_name = "Unofficial Tachiyomi Extensions F-Droid Archive"
-archive_icon = "fdroid-icon.png"
+archive_icon = "tachi-icon.png"
 archive_description = """
 The repository of older versions of source extensions to be used with Tachiyomi.
 Applications in this repository are official binaries built and
