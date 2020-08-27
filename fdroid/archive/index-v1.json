@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1598518843000,
+    "timestamp": 1598569242000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1202,9 +1202,9 @@
       "summary": "Tachiyomi WP Manga Stream Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1597729230000,
-      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.20.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.21.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
-      "lastUpdated": 1597729459000
+      "lastUpdated": 1598569232000
     },
     {
       "categories": [
@@ -2510,6 +2510,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.wpmangastream": [
+      {
+        "added": 1597729230000,
+        "apkName": "tachiyomi-all.wpmangastream-v1.2.21.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "990b19d0b43f938bdea4e9c5c10d500800ba7d7cdc3e9729528ac9a76aa4c6c8",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 530612,
+        "targetSdkVersion": 29,
+        "versionCode": 21,
+        "versionName": "1.2.21"
+      },
       {
         "added": 1597729459000,
         "apkName": "tachiyomi-all.wpmangastream-v1.2.20.apk",
