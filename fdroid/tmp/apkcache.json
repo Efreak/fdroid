@@ -15624,5 +15624,81 @@
     "apkName": "tachiyomi-zh.jinmantiantang-v1.2.3.apk",
     "icon": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.3.png",
     "added": 1598616031.581446
+  },
+  "tachiyomi-all.madara-v1.2.131.apk": {
+    "hash": "295eb2a913c7e90cb028f9745ffcc6d210fab58ab40e291b09262ea5a375a705",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.madara.131.png",
+      "480": "eu.kanade.tachiyomi.extension.all.madara.131.png",
+      "320": "eu.kanade.tachiyomi.extension.all.madara.131.png",
+      "240": "eu.kanade.tachiyomi.extension.all.madara.131.png",
+      "160": "eu.kanade.tachiyomi.extension.all.madara.131.png",
+      "0": "eu.kanade.tachiyomi.extension.all.madara.131.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+    "versionCode": 131,
+    "name": "Tachiyomi: Madara (multiple sources)",
+    "versionName": "1.2.131",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 559188,
+    "apkName": "tachiyomi-all.madara-v1.2.131.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.madara.131.png",
+    "added": 1598695228.481546
+  },
+  "tachiyomi-ko.newtoki-v1.2.13.apk": {
+    "hash": "bb30fd383dca371cf3693cf2302a5109f939fba3910edac17724e5a2645ed50e",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ko.newtoki.13.png",
+      "480": "eu.kanade.tachiyomi.extension.ko.newtoki.13.png",
+      "320": "eu.kanade.tachiyomi.extension.ko.newtoki.13.png",
+      "240": "eu.kanade.tachiyomi.extension.ko.newtoki.13.png",
+      "160": "eu.kanade.tachiyomi.extension.ko.newtoki.13.png",
+      "0": "eu.kanade.tachiyomi.extension.ko.newtoki.13.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
+    "versionCode": 13,
+    "name": "Tachiyomi: NewToki",
+    "versionName": "1.2.13",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 600147,
+    "apkName": "tachiyomi-ko.newtoki-v1.2.13.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.13.png",
+    "added": 1598695229.891794
   }
 }

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1598590833000,
+    "timestamp": 1598670032000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1597,9 +1597,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1597729214000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.130.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.131.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1598425248000
+      "lastUpdated": 1598670028000
     },
     {
       "categories": [
@@ -2873,9 +2873,9 @@
       "summary": "Tachiyomi NewToki Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1597729337000,
-      "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.12.png",
+      "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.13.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
-      "lastUpdated": 1597729485000
+      "lastUpdated": 1598670029000
     },
     {
       "categories": [
@@ -4724,12 +4724,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
-        "added": 1598425248000,
-        "apkName": "tachiyomi-all.madara-v1.2.130.apk",
+        "added": 1598670028000,
+        "apkName": "tachiyomi-all.madara-v1.2.131.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "e274cf098733b70f952a8ba7f0227262255b67f264216cff48858e936eda0795",
+        "hash": "295eb2a913c7e90cb028f9745ffcc6d210fab58ab40e291b09262ea5a375a705",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.madara",
@@ -4737,8 +4737,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 559188,
         "targetSdkVersion": 29,
-        "versionCode": 130,
-        "versionName": "1.2.130"
+        "versionCode": 131,
+        "versionName": "1.2.131"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangabox": [
@@ -7745,12 +7745,12 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.newtoki": [
       {
-        "added": 1597729337000,
-        "apkName": "tachiyomi-ko.newtoki-v1.2.12.apk",
+        "added": 1598670029000,
+        "apkName": "tachiyomi-ko.newtoki-v1.2.13.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "256dd64716c022b10cc0b2998441b5d327237e101293cb22a37140dcb88ffb00",
+        "hash": "bb30fd383dca371cf3693cf2302a5109f939fba3910edac17724e5a2645ed50e",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
@@ -7758,8 +7758,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 600147,
         "targetSdkVersion": 29,
-        "versionCode": 12,
-        "versionName": "1.2.12"
+        "versionCode": 13,
+        "versionName": "1.2.13"
       }
     ],
     "eu.kanade.tachiyomi.extension.ko.toonkor": [
