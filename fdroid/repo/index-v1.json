@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1598569235000,
+    "timestamp": 1598590833000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1275,7 +1275,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Jinmantiantang (ZH)",
@@ -1283,9 +1283,9 @@
       "summary": "Tachiyomi Jinmantiantang Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1597729384000,
-      "icon": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-      "lastUpdated": 1597729498000
+      "lastUpdated": 1598590831000
     },
     {
       "categories": [
@@ -3454,9 +3454,9 @@
       "summary": "Tachiyomi Risens Team Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1597729367000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.risensteam.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.risensteam.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.risensteam",
-      "lastUpdated": 1597729367000
+      "lastUpdated": 1598590830000
     },
     {
       "categories": [
@@ -8410,21 +8410,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.risensteam": [
       {
-        "added": 1597729367000,
-        "apkName": "tachiyomi-ru.risensteam-v1.2.1.apk",
+        "added": 1598590830000,
+        "apkName": "tachiyomi-ru.risensteam-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "0e827a1cfbb85aa73a4e460ee775ce9e479ecee65e3fe295b87236ce3ae7cb30",
+        "hash": "74f2a52236abf6e48fb39e52b291475e9015ce0492345ee270493dd240ce1e16",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.risensteam",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 41876,
-        "targetSdkVersion": 27,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "size": 522325,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.selfmanga": [
@@ -8809,12 +8809,12 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.jinmantiantang": [
       {
-        "added": 1597729384000,
-        "apkName": "tachiyomi-zh.jinmantiantang-v1.2.2.apk",
+        "added": 1598590831000,
+        "apkName": "tachiyomi-zh.jinmantiantang-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "dbff422b6ea0ba220033dd07e9ad01a2402939faf82a8be4de955fb96765bee3",
+        "hash": "2624c4f7747dc957f397b46532756ea3cd309e0577bebef347a4835ef9952146",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
@@ -8822,8 +8822,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 1075369,
         "targetSdkVersion": 29,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua": [

@@ -15546,5 +15546,83 @@
     "apkName": "tachiyomi-all.wpmangastream-v1.2.22.apk",
     "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.22.png",
     "added": 1598594432.593515
+  },
+  "tachiyomi-ru.risensteam-v1.2.2.apk": {
+    "hash": "74f2a52236abf6e48fb39e52b291475e9015ce0492345ee270493dd240ce1e16",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.risensteam.2.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.risensteam.2.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.risensteam.2.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.risensteam.2.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.risensteam.2.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.risensteam.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.risensteam",
+    "versionCode": 2,
+    "name": "Tachiyomi: Risens Team",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 522325,
+    "apkName": "tachiyomi-ru.risensteam-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.risensteam.2.png",
+    "added": 1598616030.088255
+  },
+  "tachiyomi-zh.jinmantiantang-v1.2.3.apk": {
+    "hash": "2624c4f7747dc957f397b46532756ea3cd309e0577bebef347a4835ef9952146",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "120": "res/mipmap-ldpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.3.png",
+      "480": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.3.png",
+      "320": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.3.png",
+      "240": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.3.png",
+      "160": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.3.png",
+      "120": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.3.png",
+      "0": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
+    "versionCode": 3,
+    "name": "Tachiyomi: Jinmantiantang",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 1075369,
+    "apkName": "tachiyomi-zh.jinmantiantang-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.zh.jinmantiantang.3.png",
+    "added": 1598616031.581446
   }
 }
