@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1598670032000,
+    "timestamp": 1598677231000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -3739,6 +3739,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: The Library of Ohara",
+      "added": 1598677228000,
+      "icon": "eu.kanade.tachiyomi.extension.all.thelibraryofohara.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.all.thelibraryofohara",
+      "lastUpdated": 1598677228000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2",
@@ -5022,6 +5034,25 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50071,
         "targetSdkVersion": 27,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.all.thelibraryofohara": [
+      {
+        "added": 1598677228000,
+        "apkName": "tachiyomi-all.thelibraryofohara-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "a63aa819cced4d7e5c9d604723ac83d2fa663255f619620349f7aebc408a26f3",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.thelibraryofohara",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 608349,
+        "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
       }
