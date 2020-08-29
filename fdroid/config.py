@@ -42,7 +42,8 @@ keydname = "CN=Lenovo.localdomain, OU=F-Droid"
 # Servers listed here will also be automatically inserted in the mirrors list.
 #
 servergitmirrors = {
-    'https://github.com/Efreak/tachiyomi-extensions'
+    'https://github.com/Efreak/tachiyomi-extensions',
+    'https://gitlab.com/Efreak/tachiyomi-extensions'
 }
 
 # Any mirrors of this repo, for example all of the servers declared in
