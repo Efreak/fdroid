@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1598749230000,
+    "timestamp": 1598756434000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -2045,9 +2045,9 @@
       "summary": "Tachiyomi MangaHost Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1598693384000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.11.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.12.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.mangahost",
-      "lastUpdated": 1598693621000
+      "lastUpdated": 1598756431000
     },
     {
       "categories": [
@@ -7930,21 +7930,21 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.mangahost": [
       {
-        "added": 1598693384000,
-        "apkName": "tachiyomi-pt.mangahost-v1.2.11.apk",
+        "added": 1598756431000,
+        "apkName": "tachiyomi-pt.mangahost-v1.2.12.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "0f1405130d4c6cecd0d9de244eb3bd1d6cb82340e5f8bab14cedb13736ef5b8e",
+        "hash": "0582342144a754331e08d254d38fa4d7605c06a68b19dcdeef486c09201c3503",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangahost",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 41876,
+        "size": 41956,
         "targetSdkVersion": 29,
-        "versionCode": 11,
-        "versionName": "1.2.11"
+        "versionCode": 12,
+        "versionName": "1.2.12"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.mangasproject": [
