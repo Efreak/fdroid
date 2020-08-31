@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1598907629000,
+    "timestamp": 1598914835000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -1566,9 +1566,9 @@
       "summary": "Tachiyomi LibManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1598693397000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.19.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.20.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
-      "lastUpdated": 1598693397000
+      "lastUpdated": 1598914832000
     },
     {
       "categories": [
@@ -8253,21 +8253,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
       {
-        "added": 1598693397000,
-        "apkName": "tachiyomi-ru.libmanga-v1.2.19.apk",
+        "added": 1598914832000,
+        "apkName": "tachiyomi-ru.libmanga-v1.2.20.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "d064b8c8298e06421d7c903ebfc8384cfabc6ab145b73bbee4527aec27bb1e34",
+        "hash": "28127b86b95719b2bead87c769586b068ad04189063ae6bfa06b0daed4e2c111",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 54163,
-        "targetSdkVersion": 27,
-        "versionCode": 19,
-        "versionName": "1.2.19"
+        "size": 54243,
+        "targetSdkVersion": 29,
+        "versionCode": 20,
+        "versionName": "1.2.20"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.mangachan": [
