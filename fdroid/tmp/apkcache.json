@@ -16442,5 +16442,81 @@
     "apkName": "tachiyomi-ru.yaoichan-v1.2.1.apk",
     "icon": "eu.kanade.tachiyomi.extension.ru.yaoichan.1.png",
     "added": 1598976028.923266
+  },
+  "tachiyomi-pt.goldenmangas-v1.2.7.apk": {
+    "hash": "042c2eb2447b07f0b639eeebd53fe4de27f34c2d2f5402e10754b6e7a8e5f97a",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.goldenmangas.7.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.goldenmangas.7.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.goldenmangas.7.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.goldenmangas.7.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.goldenmangas.7.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.goldenmangas.7.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
+    "versionCode": 7,
+    "name": "Tachiyomi: Golden Mang\u00e1s",
+    "versionName": "1.2.7",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 58342,
+    "apkName": "tachiyomi-pt.goldenmangas-v1.2.7.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.goldenmangas.7.png",
+    "added": 1599127231.660908
+  },
+  "tachiyomi-ru.libmanga-v1.2.21.apk": {
+    "hash": "74728d8eb87b468e104d58ee2ec87e75fe8f90e3362c38f07541f02c5ea02370",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.libmanga.21.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.libmanga.21.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.libmanga.21.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.libmanga.21.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.libmanga.21.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.libmanga.21.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
+    "versionCode": 21,
+    "name": "Tachiyomi: MangaLib",
+    "versionName": "1.2.21",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54243,
+    "apkName": "tachiyomi-ru.libmanga-v1.2.21.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.21.png",
+    "added": 1599127232.737537
   }
 }

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1599094837000,
+    "timestamp": 1599102041000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -349,6 +349,23 @@
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "2147483647",
+      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://goldenmanga.top</li></ul>",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Golden Mang\u00e1s (PT)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi FoolSlide Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1598693381000,
+      "icon": "eu.kanade.tachiyomi.extension.pt.goldenmangas.6.png",
+      "packageName": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
+      "lastUpdated": 1599102031000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "2147483647",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://guya.moe</li><li> https://raw.githubusercontent.com/appu1232/guyamoe/master/api/data_cache/all_groups.json</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -506,9 +523,9 @@
       "summary": "Tachiyomi LibManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1598693397000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.19.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.20.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
-      "lastUpdated": 1598914832000
+      "lastUpdated": 1599102032000
     },
     {
       "categories": [
@@ -3566,6 +3583,25 @@
         "versionName": "1.2.1"
       }
     ],
+    "eu.kanade.tachiyomi.extension.pt.goldenmangas": [
+      {
+        "added": 1598693381000,
+        "apkName": "tachiyomi-pt.goldenmangas-v1.2.6.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "f48ca73697d1f555b377df7c9823b245ed20d36a77a4c7648201a1d191e2c754",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58262,
+        "targetSdkVersion": 29,
+        "versionCode": 6,
+        "versionName": "1.2.6"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.pt.mangahost": [
       {
         "added": 1598693384000,
@@ -3766,6 +3802,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
+      {
+        "added": 1598914832000,
+        "apkName": "tachiyomi-ru.libmanga-v1.2.20.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "28127b86b95719b2bead87c769586b068ad04189063ae6bfa06b0daed4e2c111",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54243,
+        "targetSdkVersion": 29,
+        "versionCode": 20,
+        "versionName": "1.2.20"
+      },
       {
         "added": 1598693397000,
         "apkName": "tachiyomi-ru.libmanga-v1.2.19.apk",
