@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1599102041000,
+    "timestamp": 1599346846000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -101,7 +101,7 @@
       "added": 1598693222000,
       "icon": "eu.kanade.tachiyomi.debug.50.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 1598742034000,
+      "lastUpdated": 1599346836000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -1750,6 +1750,83 @@
         ],
         "versionCode": 50,
         "versionName": "0.10.4-2674"
+      },
+      {
+        "added": 1599346836000,
+        "apkName": "eu.kanade.tachiyomi.debug_v0.10.4-2682_50.apk",
+        "hash": "e9c50fc38e7b13971621d7e968284d0d71399c803c517cea6f4afc7c8aaae3fe",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi.debug",
+        "sig": "4f4d96b80ff4c7d9fcba199c677c7d3c",
+        "signer": "8d9c1b4e4c093bc5b50f045bb283b41c547f6ba0932265241e40ccb27e329095",
+        "size": 19625789,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 50,
+        "versionName": "0.10.4-2682"
       },
       {
         "added": 1598693445000,
