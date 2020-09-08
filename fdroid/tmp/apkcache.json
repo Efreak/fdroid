@@ -16618,5 +16618,81 @@
     "apkName": "eu.kanade.tachiyomi.debug_v0.10.4-2682_50.apk",
     "icon": "eu.kanade.tachiyomi.debug.50.png",
     "added": 1599372036.838347
+  },
+  "tachiyomi-all.myreadingmanga-v1.2.41.apk": {
+    "hash": "1732964036365a4ab93f8d118448ed1d4ed06017f97e386019a37980a80409df",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.myreadingmanga.41.png",
+      "480": "eu.kanade.tachiyomi.extension.all.myreadingmanga.41.png",
+      "320": "eu.kanade.tachiyomi.extension.all.myreadingmanga.41.png",
+      "240": "eu.kanade.tachiyomi.extension.all.myreadingmanga.41.png",
+      "160": "eu.kanade.tachiyomi.extension.all.myreadingmanga.41.png",
+      "0": "eu.kanade.tachiyomi.extension.all.myreadingmanga.41.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
+    "versionCode": 41,
+    "name": "Tachiyomi: MyReadingManga",
+    "versionName": "1.2.41",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 46058,
+    "apkName": "tachiyomi-all.myreadingmanga-v1.2.41.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.myreadingmanga.41.png",
+    "added": 1599595232.045864
+  },
+  "tachiyomi-zh.onemanhua-v1.2.5.apk": {
+    "hash": "8e630fdb4e3cc9b178c4da0984bba00d04249b7d8dac038516dd7837e73a7e19",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.zh.onemanhua.5.png",
+      "480": "eu.kanade.tachiyomi.extension.zh.onemanhua.5.png",
+      "320": "eu.kanade.tachiyomi.extension.zh.onemanhua.5.png",
+      "240": "eu.kanade.tachiyomi.extension.zh.onemanhua.5.png",
+      "160": "eu.kanade.tachiyomi.extension.zh.onemanhua.5.png",
+      "0": "eu.kanade.tachiyomi.extension.zh.onemanhua.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.zh.onemanhua",
+    "versionCode": 5,
+    "name": "Tachiyomi: OhManhua (OneManHua)",
+    "versionName": "1.2.5",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54243,
+    "apkName": "tachiyomi-zh.onemanhua-v1.2.5.apk",
+    "icon": "eu.kanade.tachiyomi.extension.zh.onemanhua.5.png",
+    "added": 1599595233.391715
   }
 }
