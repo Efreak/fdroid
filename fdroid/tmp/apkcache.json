@@ -16944,5 +16944,81 @@
     "apkName": "tachiyomi-ko.newtoki-v1.2.14.apk",
     "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.14.png",
     "added": 1599868813.968432
+  },
+  "tachiyomi-pt.goldenmangas-v1.2.8.apk": {
+    "hash": "7c8289f14984b9af4d8f87d5e04faa8530a3228719942d4cbf2a0e59fa920fd4",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.goldenmangas.8.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.goldenmangas.8.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.goldenmangas.8.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.goldenmangas.8.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.goldenmangas.8.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.goldenmangas.8.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
+    "versionCode": 8,
+    "name": "Tachiyomi: Golden Mang\u00e1s",
+    "versionName": "1.2.8",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 58342,
+    "apkName": "tachiyomi-pt.goldenmangas-v1.2.8.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.goldenmangas.8.png",
+    "added": 1599976813.886744
+  },
+  "tachiyomi-pt.mangahost-v1.2.13.apk": {
+    "hash": "647247527c947eb7e7e8de5e212f1e3b22ce363203e2eab1540208ed9257531c",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.mangahost.13.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.mangahost.13.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.mangahost.13.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.mangahost.13.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.mangahost.13.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.mangahost.13.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.mangahost",
+    "versionCode": 13,
+    "name": "Tachiyomi: MangaHost",
+    "versionName": "1.2.13",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 41956,
+    "apkName": "tachiyomi-pt.mangahost-v1.2.13.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.13.png",
+    "added": 1599976815.014311
   }
 }

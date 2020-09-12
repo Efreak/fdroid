@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1599944408000,
+    "timestamp": 1599951617000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -849,9 +849,9 @@
       "summary": "Tachiyomi FoolSlide Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1598693381000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.goldenmangas.7.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.goldenmangas.8.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
-      "lastUpdated": 1599102031000
+      "lastUpdated": 1599951613000
     },
     {
       "categories": [
@@ -2057,9 +2057,9 @@
       "summary": "Tachiyomi MangaHost Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1598693384000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.12.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.13.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.mangahost",
-      "lastUpdated": 1598756431000
+      "lastUpdated": 1599951615000
     },
     {
       "categories": [
@@ -7897,12 +7897,12 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.goldenmangas": [
       {
-        "added": 1599102031000,
-        "apkName": "tachiyomi-pt.goldenmangas-v1.2.7.apk",
+        "added": 1599951613000,
+        "apkName": "tachiyomi-pt.goldenmangas-v1.2.8.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "042c2eb2447b07f0b639eeebd53fe4de27f34c2d2f5402e10754b6e7a8e5f97a",
+        "hash": "7c8289f14984b9af4d8f87d5e04faa8530a3228719942d4cbf2a0e59fa920fd4",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
@@ -7910,8 +7910,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 58342,
         "targetSdkVersion": 29,
-        "versionCode": 7,
-        "versionName": "1.2.7"
+        "versionCode": 8,
+        "versionName": "1.2.8"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.hipercool": [
@@ -7973,12 +7973,12 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.mangahost": [
       {
-        "added": 1598756431000,
-        "apkName": "tachiyomi-pt.mangahost-v1.2.12.apk",
+        "added": 1599951615000,
+        "apkName": "tachiyomi-pt.mangahost-v1.2.13.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "0582342144a754331e08d254d38fa4d7605c06a68b19dcdeef486c09201c3503",
+        "hash": "647247527c947eb7e7e8de5e212f1e3b22ce363203e2eab1540208ed9257531c",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangahost",
@@ -7986,8 +7986,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 41956,
         "targetSdkVersion": 29,
-        "versionCode": 12,
-        "versionName": "1.2.12"
+        "versionCode": 13,
+        "versionName": "1.2.13"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.mangasproject": [
