@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1600030814000,
+    "timestamp": 1600038030000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -574,9 +574,9 @@
       "summary": "Tachiyomi MANGA Plus by SHUEISHA Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1598693254000,
-      "icon": "eu.kanade.tachiyomi.extension.all.mangaplus.10.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.mangaplus.11.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
-      "lastUpdated": 1598693516000
+      "lastUpdated": 1600038020000
     },
     {
       "categories": [
@@ -2376,6 +2376,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangaplus": [
+      {
+        "added": 1598693254000,
+        "apkName": "tachiyomi-all.mangaplus-v1.2.11.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "33b9af9924fb10e3ddf44d8353949ad47abca961e11418d3be0c6df0fd6bef46",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 714781,
+        "targetSdkVersion": 29,
+        "versionCode": 11,
+        "versionName": "1.2.11"
+      },
       {
         "added": 1598693514000,
         "apkName": "tachiyomi-all.mangaplus-v1.2.10.apk",
