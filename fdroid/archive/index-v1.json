@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1600117217000,
+    "timestamp": 1600124429000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -610,6 +610,22 @@
       "icon": "eu.kanade.tachiyomi.extension.all.mangadex.95.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
       "lastUpdated": 1598943632000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "3",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: MangaFast (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi MangaFast Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1598693297000,
+      "icon": "eu.kanade.tachiyomi.extension.en.mangafast.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
+      "lastUpdated": 1600124417000
     },
     {
       "categories": [
@@ -3015,6 +3031,25 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.mangafast": [
+      {
+        "added": 1598693297000,
+        "apkName": "tachiyomi-en.mangafast-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "95967f1d322b7510f4fcfc0677a8ba02ca2ff2324e6ed6ad9712c0e558f0353d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 33683,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangakatana": [
