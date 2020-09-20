@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1600556408000,
+    "timestamp": 1600570810000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -2882,7 +2882,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "15",
+      "suggestedVersionCode": "16",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://$baseDomain.net</li><li> https://$baseDomain.com</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -2891,9 +2891,9 @@
       "summary": "Tachiyomi NewToki Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204256000,
-      "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.15.png",
+      "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.16.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
-      "lastUpdated": 1600443824000
+      "lastUpdated": 1600570808000
     },
     {
       "categories": [
@@ -7833,21 +7833,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.newtoki": [
       {
-        "added": 1600443824000,
-        "apkName": "tachiyomi-ko.newtoki-v1.2.15.apk",
+        "added": 1600570808000,
+        "apkName": "tachiyomi-ko.newtoki-v1.2.16.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "c56911745b940d345cb9718a5a5dbd381068650a000b5ceb9a389b04f3b0466a",
+        "hash": "9fa1d959c0df71ce55e4418c636446cdcaf5f952b76d9d783f24774553107b1b",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 119778,
+        "size": 123874,
         "targetSdkVersion": 29,
-        "versionCode": 15,
-        "versionName": "1.2.15"
+        "versionCode": 16,
+        "versionName": "1.2.16"
       }
     ],
     "eu.kanade.tachiyomi.extension.ko.toonkor": [
