@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1600700408000,
+    "timestamp": 1600714813000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -1681,10 +1681,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi ManaMoa (MangaShow.Me) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1600204255000,
+      "added": 1600714810000,
       "icon": "eu.kanade.tachiyomi.extension.ko.mangashowme.20.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.mangashowme",
-      "lastUpdated": 1600204255000
+      "lastUpdated": 1600714810000
     },
     {
       "categories": [
@@ -2882,7 +2882,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "16",
+      "suggestedVersionCode": "17",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://$baseDomain.net</li><li> https://$baseDomain.com</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -2891,9 +2891,9 @@
       "summary": "Tachiyomi NewToki Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204256000,
-      "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.16.png",
+      "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.17.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
-      "lastUpdated": 1600570808000
+      "lastUpdated": 1600714811000
     },
     {
       "categories": [
@@ -7795,19 +7795,19 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.mangashowme": [
       {
-        "added": 1600204255000,
+        "added": 1600714810000,
         "apkName": "tachiyomi-ko.mangashowme-v1.2.20.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "bdecddcc91eec72dc799eb7e08b9ebc25f0cbc6038ff96bbf2fec0ce30acdd04",
+        "hash": "c9508acfd1879820d3125d72d664f43edc94a4f925a7f4272e174a073a0fc830",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ko.mangashowme",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 66454,
-        "targetSdkVersion": 27,
+        "size": 66534,
+        "targetSdkVersion": 29,
         "versionCode": 20,
         "versionName": "1.2.20"
       }
@@ -7833,12 +7833,12 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.newtoki": [
       {
-        "added": 1600570808000,
-        "apkName": "tachiyomi-ko.newtoki-v1.2.16.apk",
+        "added": 1600714811000,
+        "apkName": "tachiyomi-ko.newtoki-v1.2.17.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "9fa1d959c0df71ce55e4418c636446cdcaf5f952b76d9d783f24774553107b1b",
+        "hash": "baae858ee98bf9c4231e5c0463080ee9acc9cf8275b01356bbb3aed83dfc1489",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
@@ -7846,8 +7846,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 123874,
         "targetSdkVersion": 29,
-        "versionCode": 16,
-        "versionName": "1.2.16"
+        "versionCode": 17,
+        "versionName": "1.2.17"
       }
     ],
     "eu.kanade.tachiyomi.extension.ko.toonkor": [

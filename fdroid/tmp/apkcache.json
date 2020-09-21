@@ -7058,7 +7058,7 @@
     "added": 1600229454.662095
   },
   "tachiyomi-ko.mangashowme-v1.2.20.apk": {
-    "hash": "bdecddcc91eec72dc799eb7e08b9ebc25f0cbc6038ff96bbf2fec0ce30acdd04",
+    "hash": "c9508acfd1879820d3125d72d664f43edc94a4f925a7f4272e174a073a0fc830",
     "hashType": "sha256",
     "uses-permission": [],
     "uses-permission-sdk-23": [],
@@ -7087,13 +7087,13 @@
     "name": "Tachiyomi: ManaMoa",
     "versionName": "1.2.20",
     "minSdkVersion": 16,
-    "targetSdkVersion": 27,
+    "targetSdkVersion": 29,
     "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
     "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-    "size": 66454,
+    "size": 66534,
     "apkName": "tachiyomi-ko.mangashowme-v1.2.20.apk",
     "icon": "eu.kanade.tachiyomi.extension.ko.mangashowme.20.png",
-    "added": 1600229455.348517
+    "added": 1600740010.682672
   },
   "tachiyomi-ko.navercomic-v1.2.2.apk": {
     "hash": "f937b9f98da83ef72cf50dd33d2ebdbbb36b1aa4b5170e33d8d5a1f7e8d68f58",
@@ -17986,5 +17986,43 @@
     "apkName": "tachiyomi-ko.newtoki-v1.2.16.apk",
     "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.16.png",
     "added": 1600596008.623139
+  },
+  "tachiyomi-ko.newtoki-v1.2.17.apk": {
+    "hash": "baae858ee98bf9c4231e5c0463080ee9acc9cf8275b01356bbb3aed83dfc1489",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ko.newtoki.17.png",
+      "480": "eu.kanade.tachiyomi.extension.ko.newtoki.17.png",
+      "320": "eu.kanade.tachiyomi.extension.ko.newtoki.17.png",
+      "240": "eu.kanade.tachiyomi.extension.ko.newtoki.17.png",
+      "160": "eu.kanade.tachiyomi.extension.ko.newtoki.17.png",
+      "0": "eu.kanade.tachiyomi.extension.ko.newtoki.17.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
+    "versionCode": 17,
+    "name": "Tachiyomi: NewToki / ManaToki(ManaMoa)",
+    "versionName": "1.2.17",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 123874,
+    "apkName": "tachiyomi-ko.newtoki-v1.2.17.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.17.png",
+    "added": 1600740011.542287
   }
 }
