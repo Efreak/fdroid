@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1600772411000,
+    "timestamp": 1600786823000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -514,7 +514,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "22",
+      "suggestedVersionCode": "23",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangalib.me</li><li> https://img2.mangalib.me</li><li> https://img3.mangalib.me</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -523,9 +523,9 @@
       "summary": "Tachiyomi LibManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204275000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.21.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.22.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
-      "lastUpdated": 1600443825000
+      "lastUpdated": 1600786814000
     },
     {
       "categories": [
@@ -883,7 +883,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "17",
+      "suggestedVersionCode": "18",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://$baseDomain.net</li><li> https://$baseDomain.com</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -892,9 +892,9 @@
       "summary": "Tachiyomi NewToki Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204256000,
-      "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.16.png",
+      "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.17.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
-      "lastUpdated": 1600714811000
+      "lastUpdated": 1600786813000
     },
     {
       "categories": [
@@ -3088,6 +3088,23 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.newtoki": [
       {
+        "added": 1600714811000,
+        "apkName": "tachiyomi-ko.newtoki-v1.2.17.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "baae858ee98bf9c4231e5c0463080ee9acc9cf8275b01356bbb3aed83dfc1489",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 123874,
+        "targetSdkVersion": 29,
+        "versionCode": 17,
+        "versionName": "1.2.17"
+      },
+      {
         "added": 1600570808000,
         "apkName": "tachiyomi-ko.newtoki-v1.2.16.apk",
         "features": [
@@ -3445,6 +3462,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
+      {
+        "added": 1600443825000,
+        "apkName": "tachiyomi-ru.libmanga-v1.2.22.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "4e9f97fbc7accf9cf5e4b20ec49423c3fc7c2796e597a435d120a6226a2e8f9c",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54243,
+        "targetSdkVersion": 29,
+        "versionCode": 22,
+        "versionName": "1.2.22"
+      },
       {
         "added": 1600204275000,
         "apkName": "tachiyomi-ru.libmanga-v1.2.21.apk",

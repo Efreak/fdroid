@@ -18024,5 +18024,81 @@
     "apkName": "tachiyomi-ko.newtoki-v1.2.17.apk",
     "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.17.png",
     "added": 1600740011.542287
+  },
+  "tachiyomi-ko.newtoki-v1.2.18.apk": {
+    "hash": "31eaa6897ebda0c0ccf9ee278567b27873419caaadc6982fa139aafd7bf06344",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ko.newtoki.18.png",
+      "480": "eu.kanade.tachiyomi.extension.ko.newtoki.18.png",
+      "320": "eu.kanade.tachiyomi.extension.ko.newtoki.18.png",
+      "240": "eu.kanade.tachiyomi.extension.ko.newtoki.18.png",
+      "160": "eu.kanade.tachiyomi.extension.ko.newtoki.18.png",
+      "0": "eu.kanade.tachiyomi.extension.ko.newtoki.18.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
+    "versionCode": 18,
+    "name": "Tachiyomi: NewToki / ManaToki(ManaMoa)",
+    "versionName": "1.2.18",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 123874,
+    "apkName": "tachiyomi-ko.newtoki-v1.2.18.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.18.png",
+    "added": 1600812013.979041
+  },
+  "tachiyomi-ru.libmanga-v1.2.23.apk": {
+    "hash": "36e8eef2267e34138cd7973ebc572600d1dfa17a424140be9c241d9c74e38f37",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.libmanga.23.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.libmanga.23.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.libmanga.23.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.libmanga.23.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.libmanga.23.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.libmanga.23.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
+    "versionCode": 23,
+    "name": "Tachiyomi: MangaLib",
+    "versionName": "1.2.23",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54243,
+    "apkName": "tachiyomi-ru.libmanga-v1.2.23.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.23.png",
+    "added": 1600812014.802687
   }
 }
