@@ -18350,5 +18350,119 @@
     "apkName": "tachiyomi-en.schlockmercenary-v1.2.1.apk",
     "icon": "eu.kanade.tachiyomi.extension.en.schlockmercenary.1.png",
     "added": 1600999215.162753
+  },
+  "tachiyomi-all.madara-v1.2.133.apk": {
+    "hash": "cd654611a14077aa7003de911d8ef1007e4f4b79ae5beb2f95440442580e4f5b",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.madara.133.png",
+      "480": "eu.kanade.tachiyomi.extension.all.madara.133.png",
+      "320": "eu.kanade.tachiyomi.extension.all.madara.133.png",
+      "240": "eu.kanade.tachiyomi.extension.all.madara.133.png",
+      "160": "eu.kanade.tachiyomi.extension.all.madara.133.png",
+      "0": "eu.kanade.tachiyomi.extension.all.madara.133.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+    "versionCode": 133,
+    "name": "Tachiyomi: Madara (multiple sources)",
+    "versionName": "1.2.133",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 78819,
+    "apkName": "tachiyomi-all.madara-v1.2.133.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.madara.133.png",
+    "added": 1601071212.167177
+  },
+  "tachiyomi-en.manga1s-v1.2.1.apk": {
+    "hash": "5ad08fa556821dce2efae70261a8e0d74f2f4df8bd877836886401694b0db03e",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.manga1s.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.manga1s.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.manga1s.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.manga1s.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.manga1s.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.manga1s.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.manga1s",
+    "versionCode": 1,
+    "name": "Tachiyomi: Manga1s",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 70625,
+    "apkName": "tachiyomi-en.manga1s-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.manga1s.1.png",
+    "added": 1601071213.129582
+  },
+  "tachiyomi-en.mangadoom-v1.2.1.apk": {
+    "hash": "e0e02a01cca6c9bc8c66798eb3f35ebb3c1c03645284a08af614628a01fa13a0",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangadoom.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangadoom.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangadoom.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangadoom.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangadoom.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangadoom.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangadoom",
+    "versionCode": 1,
+    "name": "Tachiyomi: MangaDoom",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 66531,
+    "apkName": "tachiyomi-en.mangadoom-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangadoom.1.png",
+    "added": 1601071214.031208
   }
 }
