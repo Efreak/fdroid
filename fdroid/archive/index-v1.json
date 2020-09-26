@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601103613000,
+    "timestamp": 1601118011000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/archive",
       "https://tachiext.netlify.com/fdroid/archive",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/archive",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/archive",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/archive"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/archive",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/archive"
     ]
   },
   "requests": {
