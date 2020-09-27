@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601218817000,
+    "timestamp": 1601233214000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -1276,7 +1276,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "21",
+      "suggestedVersionCode": "22",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://www.japscan.co</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1285,9 +1285,9 @@
       "summary": "Tachiyomi Japscan Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204225000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.japscan.21.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.japscan.22.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
-      "lastUpdated": 1601218814000
+      "lastUpdated": 1601233211000
     },
     {
       "categories": [
@@ -7147,12 +7147,12 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.japscan": [
       {
-        "added": 1601218814000,
-        "apkName": "tachiyomi-fr.japscan-v1.2.21.apk",
+        "added": 1601233211000,
+        "apkName": "tachiyomi-fr.japscan-v1.2.22.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "a3c7549fc87a8dad19e2edd19058f51b5ba6f373693cd79e8f7ac7979d09160a",
+        "hash": "36858fa823c5276e1142dbba3418d20c578281c76661286ec6b672f1bc74d109",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
@@ -7160,8 +7160,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 254946,
         "targetSdkVersion": 29,
-        "versionCode": 21,
-        "versionName": "1.2.21"
+        "versionCode": 22,
+        "versionName": "1.2.22"
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.kangaryu": [
