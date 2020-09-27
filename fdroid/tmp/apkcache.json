@@ -18578,5 +18578,43 @@
     "apkName": "tachiyomi-all.wpmangastream-v1.2.24.apk",
     "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.24.png",
     "added": 1601215212.732408
+  },
+  "tachiyomi-fr.japscan-v1.2.21.apk": {
+    "hash": "a3c7549fc87a8dad19e2edd19058f51b5ba6f373693cd79e8f7ac7979d09160a",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.fr.japscan.21.png",
+      "480": "eu.kanade.tachiyomi.extension.fr.japscan.21.png",
+      "320": "eu.kanade.tachiyomi.extension.fr.japscan.21.png",
+      "240": "eu.kanade.tachiyomi.extension.fr.japscan.21.png",
+      "160": "eu.kanade.tachiyomi.extension.fr.japscan.21.png",
+      "0": "eu.kanade.tachiyomi.extension.fr.japscan.21.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
+    "versionCode": 21,
+    "name": "Tachiyomi: Japscan",
+    "versionName": "1.2.21",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 254946,
+    "apkName": "tachiyomi-fr.japscan-v1.2.21.apk",
+    "icon": "eu.kanade.tachiyomi.extension.fr.japscan.21.png",
+    "added": 1601244014.124742
   }
 }

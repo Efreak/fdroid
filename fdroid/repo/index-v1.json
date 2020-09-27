@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601204405000,
+    "timestamp": 1601218817000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1276,7 +1276,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "20",
+      "suggestedVersionCode": "21",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://www.japscan.co</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1285,9 +1285,9 @@
       "summary": "Tachiyomi Japscan Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204225000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.japscan.20.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.japscan.21.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
-      "lastUpdated": 1600204225000
+      "lastUpdated": 1601218814000
     },
     {
       "categories": [
@@ -7147,21 +7147,21 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.japscan": [
       {
-        "added": 1600204225000,
-        "apkName": "tachiyomi-fr.japscan-v1.2.20.apk",
+        "added": 1601218814000,
+        "apkName": "tachiyomi-fr.japscan-v1.2.21.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "d2422b62bb9fb78ee81dbfb90668c378686efd6a018b99d96c09045c2dd96ab8",
+        "hash": "a3c7549fc87a8dad19e2edd19058f51b5ba6f373693cd79e8f7ac7979d09160a",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 250770,
-        "targetSdkVersion": 27,
-        "versionCode": 20,
-        "versionName": "1.2.20"
+        "size": 254946,
+        "targetSdkVersion": 29,
+        "versionCode": 21,
+        "versionName": "1.2.21"
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.kangaryu": [
