@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601262014000,
+    "timestamp": 1601478014000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -799,7 +799,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "13",
+      "suggestedVersionCode": "14",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://leitor.net</li><li> https://mangalivre.com</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -808,9 +808,9 @@
       "summary": "Tachiyomi mang\u00e1sPROJECT Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204263000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.mangasproject.12.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.mangasproject.13.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.mangasproject",
-      "lastUpdated": 1600204480000
+      "lastUpdated": 1601276411000
     },
     {
       "categories": [
@@ -3420,6 +3420,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.mangasproject": [
+      {
+        "added": 1600204263000,
+        "apkName": "tachiyomi-pt.mangasproject-v1.2.13.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "c17cd21cbbee118c39ec70c9a00e25a8be7e52831327dccedd42cdb3bb3c2fa9",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.mangasproject",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 530521,
+        "targetSdkVersion": 29,
+        "versionCode": 13,
+        "versionName": "1.2.13"
+      },
       {
         "added": 1600204480000,
         "apkName": "tachiyomi-pt.mangasproject-v1.2.12.apk",
