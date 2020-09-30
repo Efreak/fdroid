@@ -18692,5 +18692,81 @@
     "apkName": "tachiyomi-pt.mangasproject-v1.2.14.apk",
     "icon": "eu.kanade.tachiyomi.extension.pt.mangasproject.14.png",
     "added": 1601301611.655263
+  },
+  "tachiyomi-all.madara-v1.2.135.apk": {
+    "hash": "5c79e852938da773041b9db3df29e7c4563cd05356c6c06730a669e5c6847ee5",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.madara.135.png",
+      "480": "eu.kanade.tachiyomi.extension.all.madara.135.png",
+      "320": "eu.kanade.tachiyomi.extension.all.madara.135.png",
+      "240": "eu.kanade.tachiyomi.extension.all.madara.135.png",
+      "160": "eu.kanade.tachiyomi.extension.all.madara.135.png",
+      "0": "eu.kanade.tachiyomi.extension.all.madara.135.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+    "versionCode": 135,
+    "name": "Tachiyomi: Madara (multiple sources)",
+    "versionName": "1.2.135",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 78819,
+    "apkName": "tachiyomi-all.madara-v1.2.135.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.madara.135.png",
+    "added": 1601517610.846833
+  },
+  "tachiyomi-pt.yesmangas-v1.2.5.apk": {
+    "hash": "8af2c257dea62867dc77cf06f0c6b5dc9120a759b132409481dfb53cfb838030",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.yesmangas.5.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.yesmangas.5.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.yesmangas.5.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.yesmangas.5.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.yesmangas.5.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.yesmangas.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.yesmangas",
+    "versionCode": 5,
+    "name": "Tachiyomi: YES Mang\u00e1s",
+    "versionName": "1.2.5",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 46051,
+    "apkName": "tachiyomi-pt.yesmangas-v1.2.5.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.yesmangas.5.png",
+    "added": 1601517611.846685
   }
 }

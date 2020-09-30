@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601478014000,
+    "timestamp": 1601521213000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -548,7 +548,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "134",
+      "suggestedVersionCode": "135",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangasushi.net</li><li> https://ninjascans.com</li><li> https://readmanhua.net</li><li> https://zeroscans.com</li><li> https://isekaiscan.com/</li><li> https://happyteascans.com/</li><li> https://just-for-fun.ru/</li><li> https://aoc.moe/</li><li> https://komikgo.com</li><li> https://luxyscans.com/</li><li> http://ghajik.ml/</li><li> https://tsubakinoscan.com/</li><li> https://yokaijump.fr/</li><li> https://zmanga.org/</li><li> https://mangazuki.me/</li><li> https://www.mangazuki.online/</li><li> https://mangazuki.club/</li><li> https://1stkissmanga.com/</li><li> https://mangakomi.com/</li><li> https://www.mangasy.com/</li><li> https://manhwa.club/</li><li> https://wuxiaworld.site/</li><li> https://wordrain69.com</li><li> https://yomanga.info/</li><li> https://manytoon.com/</li><li> http://www.cmreader.info/</li><li> https://zinmanga.com/</li><li> https://manhwahentai.me</li><li> https://3asq.org</li><li> https://nmanhwa.com</li><li> https://manhwa18.net</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -557,9 +557,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204129000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.133.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.134.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1601190011000
+      "lastUpdated": 1601492410000
     },
     {
       "categories": [
@@ -1329,7 +1329,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "4",
+      "suggestedVersionCode": "5",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://yesmangas1.com</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1338,9 +1338,9 @@
       "summary": "Tachiyomi YES Mang\u00e1s Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204270000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.yesmangas.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.yesmangas.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.yesmangas",
-      "lastUpdated": 1600204482000
+      "lastUpdated": 1601492411000
     },
     {
       "categories": [
@@ -1987,6 +1987,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
+      {
+        "added": 1601190011000,
+        "apkName": "tachiyomi-all.madara-v1.2.134.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6810c61523686d5d77f25ceb03159a0dd5e63ed03ce15eb301ba4e9d9bd1c00e",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 78819,
+        "targetSdkVersion": 29,
+        "versionCode": 134,
+        "versionName": "1.2.134"
+      },
       {
         "added": 1601046012000,
         "apkName": "tachiyomi-all.madara-v1.2.133.apk",
@@ -3528,6 +3545,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.yesmangas": [
+      {
+        "added": 1600204270000,
+        "apkName": "tachiyomi-pt.yesmangas-v1.2.4.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "26438717aa4cbc7c26a6e949b786fab7e91398c17c6c0fc023d726614869ab0e",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.yesmangas",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 45971,
+        "targetSdkVersion": 29,
+        "versionCode": 4,
+        "versionName": "1.2.4"
+      },
       {
         "added": 1600204482000,
         "apkName": "tachiyomi-pt.yesmangas-v1.2.3.apk",
