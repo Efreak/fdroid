@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601564417000,
+    "timestamp": 1601636407000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -4122,7 +4122,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://www.wnacg.org</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4131,9 +4131,9 @@
       "summary": "Tachiyomi WNACG Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204307000,
-      "icon": "eu.kanade.tachiyomi.extension.zh.wnacg.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.zh.wnacg.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.wnacg",
-      "lastUpdated": 1600204307000
+      "lastUpdated": 1601578809000
     },
     {
       "categories": [
@@ -9230,21 +9230,21 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.wnacg": [
       {
-        "added": 1600204307000,
-        "apkName": "tachiyomi-zh.wnacg-v1.2.2.apk",
+        "added": 1601578809000,
+        "apkName": "tachiyomi-zh.wnacg-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "9acf870c693993cc6a0dd72b76dc56ea3627b110ea19f759ce55e34537becb8a",
+        "hash": "7bd82a5a5c169a23e42d15f84968e61e410912f50662a993559b7914d1428f43",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.zh.wnacg",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 62351,
-        "targetSdkVersion": 27,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "size": 62431,
+        "targetSdkVersion": 29,
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.zh.wuqimanga": [
