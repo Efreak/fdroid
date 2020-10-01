@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601521213000,
+    "timestamp": 1601550011000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -431,7 +431,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "22",
+      "suggestedVersionCode": "23",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://www.japscan.co</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -440,9 +440,9 @@
       "summary": "Tachiyomi Japscan Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204225000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.japscan.21.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.japscan.22.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
-      "lastUpdated": 1601233211000
+      "lastUpdated": 1601535610000
     },
     {
       "categories": [
@@ -3113,6 +3113,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.japscan": [
+      {
+        "added": 1601233211000,
+        "apkName": "tachiyomi-fr.japscan-v1.2.22.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "36858fa823c5276e1142dbba3418d20c578281c76661286ec6b672f1bc74d109",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 254946,
+        "targetSdkVersion": 29,
+        "versionCode": 22,
+        "versionName": "1.2.22"
+      },
       {
         "added": 1601218814000,
         "apkName": "tachiyomi-fr.japscan-v1.2.21.apk",
