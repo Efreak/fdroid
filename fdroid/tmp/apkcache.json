@@ -18882,5 +18882,119 @@
     "apkName": "tachiyomi-zh.wnacg-v1.2.3.apk",
     "icon": "eu.kanade.tachiyomi.extension.zh.wnacg.3.png",
     "added": 1601604009.792391
+  },
+  "tachiyomi-en.mangadoom-v1.2.2.apk": {
+    "hash": "bb96aff773229bc989fc0fb9f0378e3e174c38fa93981925f3a28533ff922ab2",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangadoom.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangadoom.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangadoom.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangadoom.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangadoom.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangadoom.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangadoom",
+    "versionCode": 2,
+    "name": "Tachiyomi: MangaDoom",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 66531,
+    "apkName": "tachiyomi-en.mangadoom-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangadoom.2.png",
+    "added": 1601676011.731712
+  },
+  "tachiyomi-pt.mundomangakun-v1.2.1.apk": {
+    "hash": "c2691ce5a2f726a170a29744f6a474f7f728eab1cd1abc4830b3d99de5684c7e",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.mundomangakun.1.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.mundomangakun.1.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.mundomangakun.1.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.mundomangakun.1.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.mundomangakun.1.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.mundomangakun.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.mundomangakun",
+    "versionCode": 1,
+    "name": "Tachiyomi: Mundo Mang\u00e1-Kun",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 46055,
+    "apkName": "tachiyomi-pt.mundomangakun-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.mundomangakun.1.png",
+    "added": 1601676012.579834
+  },
+  "tachiyomi-ru.nudemoon-v1.2.5.apk": {
+    "hash": "35101ff7d1bc4d2155f926460cb1e8c6756b34b80283bfc6c2fc802f165f7519",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.nudemoon.5.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.nudemoon.5.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.nudemoon.5.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.nudemoon.5.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.nudemoon.5.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.nudemoon.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.nudemoon",
+    "versionCode": 5,
+    "name": "Tachiyomi: Nude-Moon",
+    "versionName": "1.2.5",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54242,
+    "apkName": "tachiyomi-ru.nudemoon-v1.2.5.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.nudemoon.5.png",
+    "added": 1601676013.381738
   }
 }

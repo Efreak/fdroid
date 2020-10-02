@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601636407000,
+    "timestamp": 1601737210000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -1951,9 +1951,9 @@
       "license": "Unknown",
       "name": "Tachiyomi: MangaDoom",
       "added": 1601046014000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangadoom.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangadoom.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangadoom",
-      "lastUpdated": 1601046014000
+      "lastUpdated": 1601650811000
     },
     {
       "categories": [
@@ -2739,6 +2739,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Mundo Mang\u00e1-Kun",
+      "added": 1601650812000,
+      "icon": "eu.kanade.tachiyomi.extension.pt.mundomangakun.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.pt.mundomangakun",
+      "lastUpdated": 1601650812000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "51",
@@ -3071,7 +3083,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "4",
+      "suggestedVersionCode": "5",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://nude-moon.net</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3080,9 +3092,9 @@
       "summary": "Tachiyomi Nude-Moon Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204279000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.nudemoon.4.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.nudemoon.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-      "lastUpdated": 1600204279000
+      "lastUpdated": 1601650813000
     },
     {
       "categories": [
@@ -5943,12 +5955,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangadoom": [
       {
-        "added": 1601046014000,
-        "apkName": "tachiyomi-en.mangadoom-v1.2.1.apk",
+        "added": 1601650811000,
+        "apkName": "tachiyomi-en.mangadoom-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "e0e02a01cca6c9bc8c66798eb3f35ebb3c1c03645284a08af614628a01fa13a0",
+        "hash": "bb96aff773229bc989fc0fb9f0378e3e174c38fa93981925f3a28533ff922ab2",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadoom",
@@ -5956,8 +5968,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 66531,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangaeden": [
@@ -8164,6 +8176,25 @@
         "versionName": "1.2.1"
       }
     ],
+    "eu.kanade.tachiyomi.extension.pt.mundomangakun": [
+      {
+        "added": 1601650812000,
+        "apkName": "tachiyomi-pt.mundomangakun-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "c2691ce5a2f726a170a29744f6a474f7f728eab1cd1abc4830b3d99de5684c7e",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.mundomangakun",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 46055,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.pt.saikaiscan": [
       {
         "added": 1600204265000,
@@ -8546,21 +8577,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.nudemoon": [
       {
-        "added": 1600204279000,
-        "apkName": "tachiyomi-ru.nudemoon-v1.2.4.apk",
+        "added": 1601650813000,
+        "apkName": "tachiyomi-ru.nudemoon-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "8dbe688cef2c462a315fb00e0a634cd585c5ddec0c75b4752f749bad4f95e394",
+        "hash": "35101ff7d1bc4d2155f926460cb1e8c6756b34b80283bfc6c2fc802f165f7519",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.nudemoon",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50066,
-        "targetSdkVersion": 27,
-        "versionCode": 4,
-        "versionName": "1.2.4"
+        "size": 54242,
+        "targetSdkVersion": 29,
+        "versionCode": 5,
+        "versionName": "1.2.5"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.onlinecomics": [
