@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601737210000,
+    "timestamp": 1601823608000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1606,7 +1606,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "135",
+      "suggestedVersionCode": "136",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangasushi.net</li><li> https://ninjascans.com</li><li> https://readmanhua.net</li><li> https://zeroscans.com</li><li> https://isekaiscan.com/</li><li> https://happyteascans.com/</li><li> https://just-for-fun.ru/</li><li> https://aoc.moe/</li><li> https://komikgo.com</li><li> https://luxyscans.com/</li><li> http://ghajik.ml/</li><li> https://tsubakinoscan.com/</li><li> https://yokaijump.fr/</li><li> https://zmanga.org/</li><li> https://mangazuki.me/</li><li> https://www.mangazuki.online/</li><li> https://mangazuki.club/</li><li> https://1stkissmanga.com/</li><li> https://mangakomi.com/</li><li> https://www.mangasy.com/</li><li> https://manhwa.club/</li><li> https://wuxiaworld.site/</li><li> https://wordrain69.com</li><li> https://yomanga.info/</li><li> https://manytoon.com/</li><li> http://www.cmreader.info/</li><li> https://zinmanga.com/</li><li> https://manhwahentai.me</li><li> https://3asq.org</li><li> https://nmanhwa.com</li><li> https://manhwa18.net</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1615,9 +1615,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204129000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.135.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.136.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1601492410000
+      "lastUpdated": 1601751610000
     },
     {
       "categories": [
@@ -4853,12 +4853,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
-        "added": 1601492410000,
-        "apkName": "tachiyomi-all.madara-v1.2.135.apk",
+        "added": 1601751610000,
+        "apkName": "tachiyomi-all.madara-v1.2.136.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "5c79e852938da773041b9db3df29e7c4563cd05356c6c06730a669e5c6847ee5",
+        "hash": "7534d3e23832617d303154f1b182e72cbf6a0264adbbef61bef8cfeb6a938f6f",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.madara",
@@ -4866,8 +4866,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 78819,
         "targetSdkVersion": 29,
-        "versionCode": 135,
-        "versionName": "1.2.135"
+        "versionCode": 136,
+        "versionName": "1.2.136"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangabox": [
