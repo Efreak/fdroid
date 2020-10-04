@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1601823608000,
+    "timestamp": 1601838015000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -1697,10 +1697,10 @@
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi Manga Cruzers Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
-      "added": 1600204174000,
+      "added": 1601838010000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangacruzers.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangacruzers",
-      "lastUpdated": 1600204174000
+      "lastUpdated": 1601838010000
     },
     {
       "categories": [
@@ -2708,7 +2708,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "23",
+      "suggestedVersionCode": "24",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> http://mintmanga.com</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -2717,9 +2717,9 @@
       "summary": "Tachiyomi Mintmanga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204279000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.mintmanga.23.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.mintmanga.24.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-      "lastUpdated": 1600204279000
+      "lastUpdated": 1601838011000
     },
     {
       "categories": [
@@ -3416,7 +3416,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "21",
+      "suggestedVersionCode": "22",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> http://readmanga.me</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3425,9 +3425,9 @@
       "summary": "Tachiyomi Readmanga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204281000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.readmanga.21.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.readmanga.22.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.readmanga",
-      "lastUpdated": 1600204487000
+      "lastUpdated": 1601838012000
     },
     {
       "categories": [
@@ -5917,19 +5917,19 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangacruzers": [
       {
-        "added": 1600204174000,
+        "added": 1601838010000,
         "apkName": "tachiyomi-en.mangacruzers-v1.2.1.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "91fac8563cd59eff26509f2d2b1716a9782f0831fa14ee11c9ece5dc69a18cb6",
+        "hash": "d0f4deb075fbd1d1f5c187c0ebf72a34a8e2278b5e23b4ee2083507cfd301f03",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.mangacruzers",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 29590,
-        "targetSdkVersion": 27,
+        "size": 33766,
+        "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
       }
@@ -8558,21 +8558,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.mintmanga": [
       {
-        "added": 1600204279000,
-        "apkName": "tachiyomi-ru.mintmanga-v1.2.23.apk",
+        "added": 1601838011000,
+        "apkName": "tachiyomi-ru.mintmanga-v1.2.24.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "4308bbbbf1ed9293372f9ffae535c8ace5bd741ae9e1bcb027446c888849f171",
+        "hash": "d54312a55f8218296ed5fc6ebd5545df0318c0dd69a0bb78842f0223e3e71efb",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.mintmanga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 82926,
-        "targetSdkVersion": 27,
-        "versionCode": 23,
-        "versionName": "1.2.23"
+        "size": 83006,
+        "targetSdkVersion": 29,
+        "versionCode": 24,
+        "versionName": "1.2.24"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.nudemoon": [
@@ -8615,21 +8615,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.readmanga": [
       {
-        "added": 1600204281000,
-        "apkName": "tachiyomi-ru.readmanga-v1.2.21.apk",
+        "added": 1601838012000,
+        "apkName": "tachiyomi-ru.readmanga-v1.2.22.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "1795905bb4c083bd7a5bebf2e3ff214933bb3a4236cc117026ea571250afc37b",
+        "hash": "91af59a3b9f20e1f42250a9ebbf9cfc7f3bdb18ee0b7d86e26c4bf002570b5f8",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.readmanga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 70638,
+        "size": 70718,
         "targetSdkVersion": 29,
-        "versionCode": 21,
-        "versionName": "1.2.21"
+        "versionCode": 22,
+        "versionName": "1.2.22"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.remanga": [
