@@ -19110,5 +19110,81 @@
     "apkName": "tachiyomi-ru.readmanga-v1.2.22.apk",
     "icon": "eu.kanade.tachiyomi.extension.ru.readmanga.22.png",
     "added": 1601863212.490808
+  },
+  "tachiyomi-all.emerald-v1.2.2.apk": {
+    "hash": "94588a41c0ed994e146a7d58562f12302774d17c728cef40a396efa7ff1194c4",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.emerald.2.png",
+      "480": "eu.kanade.tachiyomi.extension.all.emerald.2.png",
+      "320": "eu.kanade.tachiyomi.extension.all.emerald.2.png",
+      "240": "eu.kanade.tachiyomi.extension.all.emerald.2.png",
+      "160": "eu.kanade.tachiyomi.extension.all.emerald.2.png",
+      "0": "eu.kanade.tachiyomi.extension.all.emerald.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.emerald",
+    "versionCode": 2,
+    "name": "Tachiyomi: Emerald",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54242,
+    "apkName": "tachiyomi-all.emerald-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.emerald.2.png",
+    "added": 1601877612.441664
+  },
+  "tachiyomi-all.madara-v1.2.137.apk": {
+    "hash": "038540881924e41683f9d2df06f53d01ea5d34ea12e5b20bcd9ce309634c19ea",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.madara.137.png",
+      "480": "eu.kanade.tachiyomi.extension.all.madara.137.png",
+      "320": "eu.kanade.tachiyomi.extension.all.madara.137.png",
+      "240": "eu.kanade.tachiyomi.extension.all.madara.137.png",
+      "160": "eu.kanade.tachiyomi.extension.all.madara.137.png",
+      "0": "eu.kanade.tachiyomi.extension.all.madara.137.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+    "versionCode": 137,
+    "name": "Tachiyomi: Madara (multiple sources)",
+    "versionName": "1.2.137",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 78819,
+    "apkName": "tachiyomi-all.madara-v1.2.137.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.madara.137.png",
+    "added": 1601877613.231748
   }
 }
