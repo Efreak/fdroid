@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602068411000,
+    "timestamp": 1602183620000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -54,7 +54,7 @@
         "Reading",
         "Multimedia"
       ],
-      "suggestedVersionCode": "91",
+      "suggestedVersionCode": "92",
       "description": "<p>Goal:</p><p>Using Tachiyomi as a base to add MangaDex specific features.</p><p>Features:</p><ul><li> Supports login to MangaDex</li><li> Local reading of downloaded manga</li><li> <a href=\"https://myanimelist.net/\">MyAnimeList</a>, <a href=\"https://anilist.co/\">AniList</a>, <a href=\"https://kitsu.io/explore/anime\">Kitsu</a> and <a href=\"https://shikimori.org/\">Shikimori</a> support.</li><li> Schedule updating your library for new chapters.</li><li> Create backups locally to read offline or to your desired cloud service.</li></ul>",
       "issueTracker": "https://github.com/CarlosEsco/Neko/issues",
       "license": "Apache-2.0",
@@ -63,9 +63,9 @@
       "summary": "Free, open source, unofficial MangaDex reader forked from Tachiyomi",
       "webSite": "https://github.com/CarlosEsco/Neko",
       "added": 1600204311000,
-      "icon": "tachiyomi.mangadex.91.png",
+      "icon": "tachiyomi.mangadex.92.png",
       "packageName": "tachiyomi.mangadex",
-      "lastUpdated": 1600899293000,
+      "lastUpdated": 1602077812000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -101,7 +101,7 @@
       "added": 1600204336000,
       "icon": "eu.kanade.tachiyomi.debug.51.png",
       "packageName": "eu.kanade.tachiyomi.debug",
-      "lastUpdated": 1600899290000,
+      "lastUpdated": 1602077816000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -9469,9 +9469,9 @@
     ],
     "tachiyomi.mangadex": [
       {
-        "added": 1600899293000,
-        "apkName": "tachiyomi.mangadex_v2.1.3.10_91.apk",
-        "hash": "b34f44d1fcf8ef00f4a2cf4c152999dbc2225d302154b06a141c4aef4c0b9d25",
+        "added": 1602077812000,
+        "apkName": "tachiyomi.mangadex_v2.1.3.11_92.apk",
+        "hash": "080f1ce2fb2de0c59f78c489a7197f9837c42bc50eb9b2686fbda4279c50c551",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -9554,8 +9554,8 @@
             null
           ]
         ],
-        "versionCode": 91,
-        "versionName": "2.1.3.10"
+        "versionCode": 92,
+        "versionName": "2.1.3.11"
       }
     ]
   }
