@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602183625000,
+    "timestamp": 1602241225000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/archive",
       "https://tachiext.netlify.com/fdroid/archive",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/archive",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/archive",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/archive",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/archive"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/archive"
     ]
   },
   "requests": {
@@ -447,7 +447,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "23",
+      "suggestedVersionCode": "24",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://www.japscan.co</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -456,9 +456,9 @@
       "summary": "Tachiyomi Japscan Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204225000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.japscan.22.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.japscan.23.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
-      "lastUpdated": 1601535610000
+      "lastUpdated": 1602198025000
     },
     {
       "categories": [
@@ -497,7 +497,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "16",
+      "suggestedVersionCode": "17",
       "description": "<p>My script was unable to find a list of urls in the source for this extension. The command used was sed 's/\"/\\n/g|grep -E '^https?://'</p>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -506,9 +506,9 @@
       "summary": "Tachiyomi Komga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204127000,
-      "icon": "eu.kanade.tachiyomi.extension.all.komga.15.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.komga.16.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.komga",
-      "lastUpdated": 1600204403000
+      "lastUpdated": 1602198023000
     },
     {
       "categories": [
@@ -564,7 +564,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "140",
+      "suggestedVersionCode": "141",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangasushi.net</li><li> https://ninjascans.com</li><li> https://readmanhua.net</li><li> https://zeroscans.com</li><li> https://isekaiscan.com/</li><li> https://happyteascans.com/</li><li> https://just-for-fun.ru/</li><li> https://aoc.moe/</li><li> https://komikgo.com</li><li> https://luxyscans.com/</li><li> http://ghajik.ml/</li><li> https://tsubakinoscan.com/</li><li> https://yokaijump.fr/</li><li> https://zmanga.org/</li><li> https://mangazuki.me/</li><li> https://www.mangazuki.online/</li><li> https://mangazuki.club/</li><li> https://1stkissmanga.com/</li><li> https://mangakomi.com/</li><li> https://www.mangasy.com/</li><li> https://manhwa.club/</li><li> https://wuxiaworld.site/</li><li> https://wordrain69.com</li><li> https://yomanga.info/</li><li> https://manytoon.com/</li><li> http://www.cmreader.info/</li><li> https://zinmanga.com/</li><li> https://manhwahentai.me</li><li> https://3asq.org</li><li> https://nmanhwa.com</li><li> https://manhwa18.net</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -573,9 +573,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204129000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.139.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.140.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1602039610000
+      "lastUpdated": 1602198024000
     },
     {
       "categories": [
@@ -1045,7 +1045,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "5",
+      "suggestedVersionCode": "6",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: OneManHua (ZH)",
@@ -1053,9 +1053,9 @@
       "summary": "Tachiyomi OneManHua Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204304000,
-      "icon": "eu.kanade.tachiyomi.extension.zh.onemanhua.4.png",
+      "icon": "eu.kanade.tachiyomi.extension.zh.onemanhua.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.onemanhua",
-      "lastUpdated": 1600204501000
+      "lastUpdated": 1602198026000
     },
     {
       "categories": [
@@ -2127,6 +2127,23 @@
     ],
     "eu.kanade.tachiyomi.extension.all.komga": [
       {
+        "added": 1600204127000,
+        "apkName": "tachiyomi-all.komga-v1.2.16.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "e3fad7e3e1236f9b96b0ec7364f9338c9f09519f44acb6d8381899b75c72f2a1",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.komga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 841882,
+        "targetSdkVersion": 29,
+        "versionCode": 16,
+        "versionName": "1.2.16"
+      },
+      {
         "added": 1600204403000,
         "apkName": "tachiyomi-all.komga-v1.2.15.apk",
         "features": [
@@ -2162,6 +2179,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
+      {
+        "added": 1602039610000,
+        "apkName": "tachiyomi-all.madara-v1.2.140.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "f936bbcf66f751c846ff14225fc9a6ace87b43a4fef5edfd7ce83f9f75ab3584",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 78819,
+        "targetSdkVersion": 29,
+        "versionCode": 140,
+        "versionName": "1.2.140"
+      },
       {
         "added": 1601924412000,
         "apkName": "tachiyomi-all.madara-v1.2.139.apk",
@@ -3393,6 +3427,23 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.japscan": [
       {
+        "added": 1601535610000,
+        "apkName": "tachiyomi-fr.japscan-v1.2.23.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "a0b9b3ff9e7a72512458601ab3f7a448e49443383c1d4538b4f76ef4deae9fb4",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.japscan",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 254946,
+        "targetSdkVersion": 29,
+        "versionCode": 23,
+        "versionName": "1.2.23"
+      },
+      {
         "added": 1601233211000,
         "apkName": "tachiyomi-fr.japscan-v1.2.22.apk",
         "features": [
@@ -4292,6 +4343,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.zh.onemanhua": [
+      {
+        "added": 1600204304000,
+        "apkName": "tachiyomi-zh.onemanhua-v1.2.5.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "8e630fdb4e3cc9b178c4da0984bba00d04249b7d8dac038516dd7837e73a7e19",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.zh.onemanhua",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54243,
+        "targetSdkVersion": 29,
+        "versionCode": 5,
+        "versionName": "1.2.5"
+      },
       {
         "added": 1600204501000,
         "apkName": "tachiyomi-zh.onemanhua-v1.2.4.apk",
