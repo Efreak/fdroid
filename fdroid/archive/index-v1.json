@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602270029000,
+    "timestamp": 1602284434000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1164,7 +1164,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "7",
+      "suggestedVersionCode": "8",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Remanga (RU)",
@@ -1172,9 +1172,9 @@
       "summary": "Tachiyomi Remanga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204281000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.remanga.6.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.remanga.7.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.remanga",
-      "lastUpdated": 1600443826000
+      "lastUpdated": 1602284426000
     },
     {
       "categories": [
@@ -4146,6 +4146,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.remanga": [
+      {
+        "added": 1600443826000,
+        "apkName": "tachiyomi-ru.remanga-v1.2.7.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "f5539770266548d0880d0d240613c7e4b215c9a588028c61443660e7ca13a14c",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ru.remanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66619,
+        "targetSdkVersion": 29,
+        "versionCode": 7,
+        "versionName": "1.2.7"
+      },
       {
         "added": 1600204281000,
         "apkName": "tachiyomi-ru.remanga-v1.2.6.apk",
