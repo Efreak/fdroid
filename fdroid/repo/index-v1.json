@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602255632000,
+    "timestamp": 1602270023000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -1818,11 +1818,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2147483647",
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: Manga1s",
+      "name": "Tachiyomi: Manga1s (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Manga1s Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1601046013000,
       "icon": "eu.kanade.tachiyomi.extension.en.manga1s.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.manga1s",
@@ -1945,11 +1949,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2147483647",
+      "suggestedVersionCode": "2",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: MangaDoom",
+      "name": "Tachiyomi: MangaDoom (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi MangaDoom Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1601046014000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangadoom.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangadoom",
@@ -2739,11 +2747,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2147483647",
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: Mundo Mang\u00e1-Kun",
+      "name": "Tachiyomi: Mundo Mang\u00e1-Kun (PT)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Mundo Mang\u00e1-Kun Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1601650812000,
       "icon": "eu.kanade.tachiyomi.extension.pt.mundomangakun.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.mundomangakun",
@@ -3564,11 +3576,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2147483647",
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: Schlock Mercenary",
+      "name": "Tachiyomi: Schlock Mercenary (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Schlock Mercenary Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600974015000,
       "icon": "eu.kanade.tachiyomi.extension.en.schlockmercenary.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.schlockmercenary",
@@ -3708,11 +3724,15 @@
     },
     {
       "categories": [
-        "fdroid"
+        "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2147483647",
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
-      "name": "Tachiyomi: Social Comics",
+      "name": "Tachiyomi: Social Comics (PT)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Social Comics Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1601564413000,
       "icon": "eu.kanade.tachiyomi.extension.pt.socialcomics.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.socialcomics",
