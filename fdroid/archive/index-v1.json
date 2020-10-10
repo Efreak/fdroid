@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602342025000,
+    "timestamp": 1602370824000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1032,7 +1032,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "5",
+      "suggestedVersionCode": "6",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://nude-moon.net</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1041,9 +1041,9 @@
       "summary": "Tachiyomi Nude-Moon Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204279000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.nudemoon.4.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.nudemoon.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-      "lastUpdated": 1601650813000
+      "lastUpdated": 1602356421000
     },
     {
       "categories": [
@@ -4108,6 +4108,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.nudemoon": [
+      {
+        "added": 1601650813000,
+        "apkName": "tachiyomi-ru.nudemoon-v1.2.5.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "35101ff7d1bc4d2155f926460cb1e8c6756b34b80283bfc6c2fc802f165f7519",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ru.nudemoon",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54242,
+        "targetSdkVersion": 29,
+        "versionCode": 5,
+        "versionName": "1.2.5"
+      },
       {
         "added": 1600204279000,
         "apkName": "tachiyomi-ru.nudemoon-v1.2.4.apk",
