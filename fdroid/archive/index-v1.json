@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602284434000,
+    "timestamp": 1602342025000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -814,7 +814,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "12",
+      "suggestedVersionCode": "13",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangaseeonline.us</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -823,9 +823,9 @@
       "summary": "Tachiyomi Mangasee Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204189000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangasee.11.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangasee.12.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangasee",
-      "lastUpdated": 1600204452000
+      "lastUpdated": 1602298839000
     },
     {
       "categories": [
@@ -3134,6 +3134,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangasee": [
+      {
+        "added": 1600204189000,
+        "apkName": "tachiyomi-en.mangasee-v1.2.12.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "df0e9f2b6fed4c0c6039fd6b3bb61240899c58010160f86c536aeffa56c1f8fc",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangasee",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66451,
+        "targetSdkVersion": 29,
+        "versionCode": 12,
+        "versionName": "1.2.12"
+      },
       {
         "added": 1600204452000,
         "apkName": "tachiyomi-en.mangasee-v1.2.11.apk",
