@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602370824000,
+    "timestamp": 1602442825000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/archive",
       "https://tachiext.netlify.com/fdroid/archive",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/archive",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/archive",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/archive"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/archive",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/archive"
     ]
   },
   "requests": {
@@ -525,6 +525,22 @@
       "icon": "eu.kanade.tachiyomi.extension.es.kumanga.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.kumanga",
       "lastUpdated": 1600204459000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "2",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: LANraragi (ALL)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi LANraragi Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1600204128000,
+      "icon": "eu.kanade.tachiyomi.extension.all.lanraragi.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.all.lanraragi",
+      "lastUpdated": 1602385221000
     },
     {
       "categories": [
@@ -2180,6 +2196,25 @@
         "targetSdkVersion": 29,
         "versionCode": 14,
         "versionName": "1.2.14"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.all.lanraragi": [
+      {
+        "added": 1600204128000,
+        "apkName": "tachiyomi-all.lanraragi-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "7bf8e3e37471f9a1e80fc9ebd9f3b42bcf5ac5a9990cfcbd4eaa39a2112a495f",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.lanraragi",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 41876,
+        "targetSdkVersion": 27,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [

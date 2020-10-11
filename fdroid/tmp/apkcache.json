@@ -19816,5 +19816,43 @@
     "apkName": "tachiyomi-ru.nudemoon-v1.2.6.apk",
     "icon": "eu.kanade.tachiyomi.extension.ru.nudemoon.6.png",
     "added": 1602381621.138773
+  },
+  "tachiyomi-all.lanraragi-v1.2.2.apk": {
+    "hash": "ef4d659b1a48358a6ab83c4bc586312911bb01c6710d82bc7d9fdfc7bc40e911",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.lanraragi.2.png",
+      "480": "eu.kanade.tachiyomi.extension.all.lanraragi.2.png",
+      "320": "eu.kanade.tachiyomi.extension.all.lanraragi.2.png",
+      "240": "eu.kanade.tachiyomi.extension.all.lanraragi.2.png",
+      "160": "eu.kanade.tachiyomi.extension.all.lanraragi.2.png",
+      "0": "eu.kanade.tachiyomi.extension.all.lanraragi.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.lanraragi",
+    "versionCode": 2,
+    "name": "Tachiyomi: LANraragi",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 41956,
+    "apkName": "tachiyomi-all.lanraragi-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.lanraragi.2.png",
+    "added": 1602410421.416444
   }
 }
