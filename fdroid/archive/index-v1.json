@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602500426000,
+    "timestamp": 1602543625000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/archive",
       "https://tachiext.netlify.com/fdroid/archive",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/archive",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/archive",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/archive"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/archive",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/archive"
     ]
   },
   "requests": {
@@ -431,7 +431,41 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "10",
+      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://hentai2read.com</li><li> https://static.hentaicdn.com/hentai</li></ul>",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Hentai2Read (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Hentai2Read Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1600204166000,
+      "icon": "eu.kanade.tachiyomi.extension.en.hentai2read.9.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
+      "lastUpdated": 1602514826000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "3",
+      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://hentainexus.com</li></ul>",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: HentaiNexus (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi HentaiNexus Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1600204167000,
+      "icon": "eu.kanade.tachiyomi.extension.en.hentainexus.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.hentainexus",
+      "lastUpdated": 1602514827000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Hitomi.la (ALL)",
@@ -439,9 +473,9 @@
       "summary": "Tachiyomi Hitomi.la Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204126000,
-      "icon": "eu.kanade.tachiyomi.extension.all.hitomi.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.hitomi.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.hitomi",
-      "lastUpdated": 1600204399000
+      "lastUpdated": 1602514825000
     },
     {
       "categories": [
@@ -2128,6 +2162,23 @@
     ],
     "eu.kanade.tachiyomi.extension.all.hitomi": [
       {
+        "added": 1600204126000,
+        "apkName": "tachiyomi-all.hitomi-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "2fe7f892b8521378ed17f620589ad2b37dc611869b0071f000a3606f8fbd0eb2",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.hitomi",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 542802,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
+      },
+      {
         "added": 1600204399000,
         "apkName": "tachiyomi-all.hitomi-v1.2.1.apk",
         "features": [
@@ -2963,6 +3014,44 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.hentai2read": [
+      {
+        "added": 1600204166000,
+        "apkName": "tachiyomi-en.hentai2read-v1.2.9.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "1d3075b6957c7029e2d27e18df2afa4e723b2bab1f0109f8529f2ffaa1a5ddea",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 70549,
+        "targetSdkVersion": 27,
+        "versionCode": 9,
+        "versionName": "1.2.9"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.hentainexus": [
+      {
+        "added": 1600204167000,
+        "apkName": "tachiyomi-en.hentainexus-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "02bdcb135995ae2c84b2f949b941cffa48da70d66b58212b5e33880a18e9865e",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.hentainexus",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 41877,
+        "targetSdkVersion": 27,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangadoom": [

@@ -19966,5 +19966,119 @@
     "apkName": "tachiyomi.mangadex_v2.1.4_93.apk",
     "icon": "tachiyomi.mangadex.93.png",
     "added": 1602482425.417266
+  },
+  "tachiyomi-all.hitomi-v1.2.3.apk": {
+    "hash": "1308f84db19cf62d8fd99a36ee207709302e4e787fb2a50ac8e8977fd0fa718c",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.hitomi.3.png",
+      "480": "eu.kanade.tachiyomi.extension.all.hitomi.3.png",
+      "320": "eu.kanade.tachiyomi.extension.all.hitomi.3.png",
+      "240": "eu.kanade.tachiyomi.extension.all.hitomi.3.png",
+      "160": "eu.kanade.tachiyomi.extension.all.hitomi.3.png",
+      "0": "eu.kanade.tachiyomi.extension.all.hitomi.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.hitomi",
+    "versionCode": 3,
+    "name": "Tachiyomi: Hitomi.la",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62433,
+    "apkName": "tachiyomi-all.hitomi-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.hitomi.3.png",
+    "added": 1602540025.598531
+  },
+  "tachiyomi-en.hentai2read-v1.2.10.apk": {
+    "hash": "b48ab98f3b8c5c478517a9d151f92e11e4f030279a06bff33bb8fa7d2a1b20a3",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.hentai2read.10.png",
+      "480": "eu.kanade.tachiyomi.extension.en.hentai2read.10.png",
+      "320": "eu.kanade.tachiyomi.extension.en.hentai2read.10.png",
+      "240": "eu.kanade.tachiyomi.extension.en.hentai2read.10.png",
+      "160": "eu.kanade.tachiyomi.extension.en.hentai2read.10.png",
+      "0": "eu.kanade.tachiyomi.extension.en.hentai2read.10.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
+    "versionCode": 10,
+    "name": "Tachiyomi: Hentai2Read",
+    "versionName": "1.2.10",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 70630,
+    "apkName": "tachiyomi-en.hentai2read-v1.2.10.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.hentai2read.10.png",
+    "added": 1602540026.486405
+  },
+  "tachiyomi-en.hentainexus-v1.2.3.apk": {
+    "hash": "f54b0539006329e3c1decdd8c75dbdae6f40df837690774603468c75e2ca5b72",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.hentainexus.3.png",
+      "480": "eu.kanade.tachiyomi.extension.en.hentainexus.3.png",
+      "320": "eu.kanade.tachiyomi.extension.en.hentainexus.3.png",
+      "240": "eu.kanade.tachiyomi.extension.en.hentainexus.3.png",
+      "160": "eu.kanade.tachiyomi.extension.en.hentainexus.3.png",
+      "0": "eu.kanade.tachiyomi.extension.en.hentainexus.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.hentainexus",
+    "versionCode": 3,
+    "name": "Tachiyomi: HentaiNexus",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 41957,
+    "apkName": "tachiyomi-en.hentainexus-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.hentainexus.3.png",
+    "added": 1602540027.399252
   }
 }
