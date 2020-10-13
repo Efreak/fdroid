@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602615620000,
+    "timestamp": 1602673219000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -4171,7 +4171,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "25",
+      "suggestedVersionCode": "26",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://</li><li> http://images.weserv.nl/?w=300&amp;q=70&amp;url=</li><li> http://images.weserv.nl/?w=600&amp;q=70&amp;url=</li><li> https://sektekomik.com</li><li> https://kiryuu.co</li><li> https://komikav.com</li><li> https://komikstation.com</li><li> https://komikcast.com</li><li> https://westmanga.info</li><li> https://komikgo.com</li><li> https://www.komikindo.web.id</li><li> https://www.maid.my.id</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4180,9 +4180,9 @@
       "summary": "Tachiyomi WP Manga Stream Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204147000,
-      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.25.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.26.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
-      "lastUpdated": 1602255628000
+      "lastUpdated": 1602630023000
     },
     {
       "categories": [
@@ -5253,12 +5253,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.wpmangastream": [
       {
-        "added": 1602255628000,
-        "apkName": "tachiyomi-all.wpmangastream-v1.2.25.apk",
+        "added": 1602630023000,
+        "apkName": "tachiyomi-all.wpmangastream-v1.2.26.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "8af66b7ea8f24e9376665bf50f1cb514edef33dd890fecfda26b8376e66d9bd5",
+        "hash": "aa903d8e2c64556534720513261179529949ef8da0532d980fd7f9a1b1c1445e",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
@@ -5266,8 +5266,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50243,
         "targetSdkVersion": 29,
-        "versionCode": 25,
-        "versionName": "1.2.25"
+        "versionCode": 26,
+        "versionName": "1.2.26"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.zbulu": [
