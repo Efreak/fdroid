@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1602874818000,
+    "timestamp": 1603062020000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9,9 +9,9 @@
     "mirrors": [
       "https://tachi.cloud.efreakbnc.net/fdroid/repo",
       "https://tachiext.netlify.com/fdroid/repo",
-      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo",
       "https://Efreak.gitlab.io/tachiyomi-extensions/fdroid/repo",
-      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo"
+      "https://gitlab.com/Efreak/tachiyomi-extensions/raw/master/fdroid/repo",
+      "https://raw.githubusercontent.com/Efreak/tachiyomi-extensions/master/fdroid/repo"
     ]
   },
   "requests": {
@@ -1606,7 +1606,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "141",
+      "suggestedVersionCode": "142",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangasushi.net</li><li> https://ninjascans.com</li><li> https://readmanhua.net</li><li> https://zeroscans.com</li><li> https://isekaiscan.com/</li><li> https://happyteascans.com/</li><li> https://just-for-fun.ru/</li><li> https://aoc.moe/</li><li> https://komikgo.com</li><li> https://luxyscans.com/</li><li> http://ghajik.ml/</li><li> https://tsubakinoscan.com/</li><li> https://yokaijump.fr/</li><li> https://zmanga.org/</li><li> https://mangazuki.me/</li><li> https://www.mangazuki.online/</li><li> https://mangazuki.club/</li><li> https://1stkissmanga.com/</li><li> https://mangakomi.com/</li><li> https://www.mangasy.com/</li><li> https://manhwa.club/</li><li> https://wuxiaworld.site/</li><li> https://wordrain69.com</li><li> https://yomanga.info/</li><li> https://manytoon.com/</li><li> http://www.cmreader.info/</li><li> https://zinmanga.com/</li><li> https://manhwahentai.me</li><li> https://3asq.org</li><li> https://nmanhwa.com</li><li> https://manhwa18.net</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1615,9 +1615,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204129000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.141.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.142.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1602198024000
+      "lastUpdated": 1602889222000
     },
     {
       "categories": [
@@ -2167,7 +2167,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "10",
+      "suggestedVersionCode": "11",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://www.mangakawaii.to</li><li> https://www.mangakawaii.to/manga/</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -2176,9 +2176,9 @@
       "summary": "Tachiyomi Mangakawaii Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204228000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.10.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.11.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-      "lastUpdated": 1602558028000
+      "lastUpdated": 1602889225000
     },
     {
       "categories": [
@@ -3029,7 +3029,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "7",
+      "suggestedVersionCode": "8",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://9hentai.com</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3038,9 +3038,9 @@
       "summary": "Tachiyomi NineHentai Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204138000,
-      "icon": "eu.kanade.tachiyomi.extension.all.ninehentai.7.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.ninehentai.8.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.ninehentai",
-      "lastUpdated": 1600204428000
+      "lastUpdated": 1602889223000
     },
     {
       "categories": [
@@ -4171,7 +4171,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "26",
+      "suggestedVersionCode": "27",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://</li><li> http://images.weserv.nl/?w=300&amp;q=70&amp;url=</li><li> http://images.weserv.nl/?w=600&amp;q=70&amp;url=</li><li> https://sektekomik.com</li><li> https://kiryuu.co</li><li> https://komikav.com</li><li> https://komikstation.com</li><li> https://komikcast.com</li><li> https://westmanga.info</li><li> https://komikgo.com</li><li> https://www.komikindo.web.id</li><li> https://www.maid.my.id</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4180,9 +4180,9 @@
       "summary": "Tachiyomi WP Manga Stream Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1600204147000,
-      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.26.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.27.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
-      "lastUpdated": 1602630023000
+      "lastUpdated": 1602889224000
     },
     {
       "categories": [
@@ -4873,21 +4873,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
-        "added": 1602198024000,
-        "apkName": "tachiyomi-all.madara-v1.2.141.apk",
+        "added": 1602889222000,
+        "apkName": "tachiyomi-all.madara-v1.2.142.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "8de808ee0da2d67569e9ef7518d7674c4b48585eb5c1e065c9ec7d5cabf57630",
+        "hash": "29c4ac716988d2f43949d9d59f27e5e2073ea1f5ba2976e9939d5741166394c2",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.madara",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 82915,
+        "size": 78819,
         "targetSdkVersion": 29,
-        "versionCode": 141,
-        "versionName": "1.2.141"
+        "versionCode": 142,
+        "versionName": "1.2.142"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangabox": [
@@ -5082,21 +5082,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.ninehentai": [
       {
-        "added": 1600204138000,
-        "apkName": "tachiyomi-all.ninehentai-v1.2.7.apk",
+        "added": 1602889223000,
+        "apkName": "tachiyomi-all.ninehentai-v1.2.8.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "fba353e5316e472a50674cb2312f7b991561161d96e2fdcd6fba4c1fd4a9b0dc",
+        "hash": "6d368299d3c22c8c53a9fddbb923724d3cb3cb39805bf4487735ab1b3e2c559e",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.ninehentai",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 82837,
-        "targetSdkVersion": 27,
-        "versionCode": 7,
-        "versionName": "1.2.7"
+        "size": 82917,
+        "targetSdkVersion": 29,
+        "versionCode": 8,
+        "versionName": "1.2.8"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.ninemanga": [
@@ -5253,12 +5253,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.wpmangastream": [
       {
-        "added": 1602630023000,
-        "apkName": "tachiyomi-all.wpmangastream-v1.2.26.apk",
+        "added": 1602889224000,
+        "apkName": "tachiyomi-all.wpmangastream-v1.2.27.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "aa903d8e2c64556534720513261179529949ef8da0532d980fd7f9a1b1c1445e",
+        "hash": "5ae515c51197946ee666ec92f2e5e2410aa8f38d90a2999803aa939d1bfbf5d5",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
@@ -5266,8 +5266,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50243,
         "targetSdkVersion": 29,
-        "versionCode": 26,
-        "versionName": "1.2.26"
+        "versionCode": 27,
+        "versionName": "1.2.27"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.zbulu": [
@@ -7248,12 +7248,12 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.mangakawaii": [
       {
-        "added": 1602558028000,
-        "apkName": "tachiyomi-fr.mangakawaii-v1.2.10.apk",
+        "added": 1602889225000,
+        "apkName": "tachiyomi-fr.mangakawaii-v1.2.11.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "07b1e12a56d88946da2f98f2e8bace7d167a8ee45fdb6d02f54d5a8016f7e4e1",
+        "hash": "660cb70d03e6a50bafc893c425901996d758c94489dd2ac61661cd333fb450ed",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
@@ -7261,8 +7261,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 54246,
         "targetSdkVersion": 29,
-        "versionCode": 10,
-        "versionName": "1.2.10"
+        "versionCode": 11,
+        "versionName": "1.2.11"
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.scantrad": [
