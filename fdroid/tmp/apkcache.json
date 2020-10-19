@@ -20954,5 +20954,81 @@
     "apkName": "tachiyomi-all.wpmangastream-v1.2.28.apk",
     "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.28.png",
     "added": 1603101629.626585
+  },
+  "tachiyomi-all.madara-v1.2.145.apk": {
+    "hash": "0fd20be095506f43d705fcaa4582c84ff91fe944b584528a1949d82647ebb41e",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.madara.145.png",
+      "480": "eu.kanade.tachiyomi.extension.all.madara.145.png",
+      "320": "eu.kanade.tachiyomi.extension.all.madara.145.png",
+      "240": "eu.kanade.tachiyomi.extension.all.madara.145.png",
+      "160": "eu.kanade.tachiyomi.extension.all.madara.145.png",
+      "0": "eu.kanade.tachiyomi.extension.all.madara.145.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+    "versionCode": 145,
+    "name": "Tachiyomi: Madara (multiple sources)",
+    "versionName": "1.2.145",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 82915,
+    "apkName": "tachiyomi-all.madara-v1.2.145.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.madara.145.png",
+    "added": 1603144826.090697
+  },
+  "tachiyomi-ru.allhentai-v1.2.1.apk": {
+    "hash": "f5c9702bc75de27381b033e4ce43c3438045be86e78c8cadaec9737b98ff67da",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.allhentai.1.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.allhentai.1.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.allhentai.1.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.allhentai.1.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.allhentai.1.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.allhentai.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.allhentai",
+    "versionCode": 1,
+    "name": "Tachiyomi: AllHentai",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 37949,
+    "apkName": "tachiyomi-ru.allhentai-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.allhentai.1.png",
+    "added": 1603144827.070417
   }
 }
