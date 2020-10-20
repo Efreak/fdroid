@@ -42,8 +42,7 @@ keydname = "CN=Lenovo.localdomain, OU=F-Droid"
 # Servers listed here will also be automatically inserted in the mirrors list.
 #
 servergitmirrors = {
-    'https://github.com/Efreak/tachiyomi-extensions',
-    'https://gitlab.com/Efreak/tachiyomi-extensions'
+    'https://github.com/Efreak/tachiyomi-extensions'
 }
 
 # Any mirrors of this repo, for example all of the servers declared in
@@ -56,7 +55,7 @@ servergitmirrors = {
 # 'fdroid' base of the F-Droid part of the web server like serverwebroot.
 #
 mirrors = (
-    'https://tachiext.netlify.com/fdroid',
+#    'https://tachiext.netlify.com/fdroid',
     'https://tachi.cloud.efreakbnc.net/fdroid',
 # this is occasionally used on my local network. If it annoys you, disable it.
 # you can do this by opening the repo settings in fdroid.
