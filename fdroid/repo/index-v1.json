@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1603234822000,
+    "timestamp": 1603263621000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -51,7 +51,7 @@
         "Reading",
         "Multimedia"
       ],
-      "suggestedVersionCode": "93",
+      "suggestedVersionCode": "94",
       "description": "<p>Goal:</p><p>Using Tachiyomi as a base to add MangaDex specific features.</p><p>Features:</p><ul><li> Supports login to MangaDex</li><li> Local reading of downloaded manga</li><li> <a href=\"https://myanimelist.net/\">MyAnimeList</a>, <a href=\"https://anilist.co/\">AniList</a>, <a href=\"https://kitsu.io/explore/anime\">Kitsu</a> and <a href=\"https://shikimori.org/\">Shikimori</a> support.</li><li> Schedule updating your library for new chapters.</li><li> Create backups locally to read offline or to your desired cloud service.</li></ul>",
       "issueTracker": "https://github.com/CarlosEsco/Neko/issues",
       "license": "Apache-2.0",
@@ -60,9 +60,9 @@
       "summary": "Free, open source, unofficial MangaDex reader forked from Tachiyomi",
       "webSite": "https://github.com/CarlosEsco/Neko",
       "added": 1603200904000,
-      "icon": "tachiyomi.mangadex.93.png",
+      "icon": "tachiyomi.mangadex.94.png",
       "packageName": "tachiyomi.mangadex",
-      "lastUpdated": 1603201066000,
+      "lastUpdated": 1603249225000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -9517,9 +9517,9 @@
     ],
     "tachiyomi.mangadex": [
       {
-        "added": 1603200904000,
-        "apkName": "tachiyomi.mangadex_v2.1.4_93.apk",
-        "hash": "5aee2d4f13439e008aaa87031646f305f3a5db557919b3452a386d3ad1896575",
+        "added": 1603249225000,
+        "apkName": "tachiyomi.mangadex_v2.1.4.1_94.apk",
+        "hash": "fefa89fea39a3356954f0cf942394da799140c535d814686a3f524d2323eb924",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -9602,8 +9602,8 @@
             null
           ]
         ],
-        "versionCode": 93,
-        "versionName": "2.1.4"
+        "versionCode": 94,
+        "versionName": "2.1.4.1"
       }
     ]
   }
