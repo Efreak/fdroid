@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1603278036000,
+    "timestamp": 1603306827000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -940,6 +940,23 @@
       "icon": "eu.kanade.tachiyomi.extension.en.mangasee.13.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangasee",
       "lastUpdated": 1603201004000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "5",
+      "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangashiro.org</li></ul>",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Mangashiro (ID)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Mangashiro Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1603200852000,
+      "icon": "eu.kanade.tachiyomi.extension.id.mangashiro.4.png",
+      "packageName": "eu.kanade.tachiyomi.extension.id.mangashiro",
+      "lastUpdated": 1603292427000
     },
     {
       "categories": [
@@ -4198,6 +4215,25 @@
         "targetSdkVersion": 27,
         "versionCode": 3,
         "versionName": "1.2.3"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.id.mangashiro": [
+      {
+        "added": 1603200852000,
+        "apkName": "tachiyomi-id.mangashiro-v1.2.4.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "0c613075ab6a3407fed2916413a2002d190f630ed835299dc9401008eda0e142",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.id.mangashiro",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50068,
+        "targetSdkVersion": 27,
+        "versionCode": 4,
+        "versionName": "1.2.4"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.ngomik": [
