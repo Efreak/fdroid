@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1603263621000,
+    "timestamp": 1603278030000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1484,7 +1484,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Komiku (ID)",
@@ -1492,9 +1492,9 @@
       "summary": "Tachiyomi Komiku Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1603200849000,
-      "icon": "eu.kanade.tachiyomi.extension.id.komiku.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.id.komiku.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.komiku",
-      "lastUpdated": 1603200849000
+      "lastUpdated": 1603278026000
     },
     {
       "categories": [
@@ -1615,7 +1615,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "145",
+      "suggestedVersionCode": "146",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangasushi.net</li><li> https://ninjascans.com</li><li> https://readmanhua.net</li><li> https://zeroscans.com</li><li> https://isekaiscan.com/</li><li> https://happyteascans.com/</li><li> https://just-for-fun.ru/</li><li> https://aoc.moe/</li><li> https://komikgo.com</li><li> https://luxyscans.com/</li><li> http://ghajik.ml/</li><li> https://tsubakinoscan.com/</li><li> https://yokaijump.fr/</li><li> https://zmanga.org/</li><li> https://mangazuki.me/</li><li> https://www.mangazuki.online/</li><li> https://mangazuki.club/</li><li> https://1stkissmanga.com/</li><li> https://mangakomi.com/</li><li> https://www.mangasy.com/</li><li> https://manhwa.club/</li><li> https://wuxiaworld.site/</li><li> https://wordrain69.com</li><li> https://yomanga.info/</li><li> https://manytoon.com/</li><li> http://www.cmreader.info/</li><li> https://zinmanga.com/</li><li> https://manhwahentai.me</li><li> https://3asq.org</li><li> https://nmanhwa.com</li><li> https://manhwa18.net</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1624,9 +1624,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1603200729000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.145.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.146.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1603200972000
+      "lastUpdated": 1603278025000
     },
     {
       "categories": [
@@ -4882,12 +4882,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
-        "added": 1603200729000,
-        "apkName": "tachiyomi-all.madara-v1.2.145.apk",
+        "added": 1603278025000,
+        "apkName": "tachiyomi-all.madara-v1.2.146.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "0fd20be095506f43d705fcaa4582c84ff91fe944b584528a1949d82647ebb41e",
+        "hash": "c416731426b33ec85e80e7b755d70b4880dec63c21b6aff50c43affdefc46e61",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.madara",
@@ -4895,8 +4895,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 82915,
         "targetSdkVersion": 29,
-        "versionCode": 145,
-        "versionName": "1.2.145"
+        "versionCode": 146,
+        "versionName": "1.2.146"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangabox": [
@@ -7428,21 +7428,21 @@
     ],
     "eu.kanade.tachiyomi.extension.id.komiku": [
       {
-        "added": 1603200849000,
-        "apkName": "tachiyomi-id.komiku-v1.2.2.apk",
+        "added": 1603278026000,
+        "apkName": "tachiyomi-id.komiku-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "7f45607175c5118a2dbfbad54167ffa3b309f91d0921671677882496a9a97c18",
+        "hash": "1b719b716ecd79342d62a10cf27952acf589712f0cfdbf3ea69451de74568ce7",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.id.komiku",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 41872,
-        "targetSdkVersion": 27,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "size": 46048,
+        "targetSdkVersion": 29,
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.maidmanga": [
