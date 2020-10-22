@@ -18892,5 +18892,81 @@
     "apkName": "tachiyomi-all.madara-v1.2.147.apk",
     "icon": "eu.kanade.tachiyomi.extension.all.madara.147.png",
     "added": 1603346424.380497
+  },
+  "tachiyomi-all.komga-v1.2.18.apk": {
+    "hash": "8024b3f91268a02bdd46bee86dd9970b977539fc2259bb16e932d4edc639f01c",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.komga.18.png",
+      "480": "eu.kanade.tachiyomi.extension.all.komga.18.png",
+      "320": "eu.kanade.tachiyomi.extension.all.komga.18.png",
+      "240": "eu.kanade.tachiyomi.extension.all.komga.18.png",
+      "160": "eu.kanade.tachiyomi.extension.all.komga.18.png",
+      "0": "eu.kanade.tachiyomi.extension.all.komga.18.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.komga",
+    "versionCode": 18,
+    "name": "Tachiyomi: Komga",
+    "versionName": "1.2.18",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 369705,
+    "apkName": "tachiyomi-all.komga-v1.2.18.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.komga.18.png",
+    "added": 1603404026.423496
+  },
+  "tachiyomi-ru.henchan-v1.2.21.apk": {
+    "hash": "34caab68d601c50445de048f1fe8fd737148b7dd9cc8572b05f0493a7809ed19",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.henchan.21.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.henchan.21.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.henchan.21.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.henchan.21.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.henchan.21.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.henchan.21.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
+    "versionCode": 21,
+    "name": "Tachiyomi: Henchan",
+    "versionName": "1.2.21",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 74812,
+    "apkName": "tachiyomi-ru.henchan-v1.2.21.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.henchan.21.png",
+    "added": 1603404027.397555
   }
 }

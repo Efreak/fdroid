@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1603364422000,
+    "timestamp": 1603450822000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -969,7 +969,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "20",
+      "suggestedVersionCode": "21",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> http://h-chan.me</li><li> http://exhentai-dono.me</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -978,9 +978,9 @@
       "summary": "Tachiyomi Henchan Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1603200878000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.henchan.20.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.henchan.21.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
-      "lastUpdated": 1603201035000
+      "lastUpdated": 1603378827000
     },
     {
       "categories": [
@@ -1433,7 +1433,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "17",
+      "suggestedVersionCode": "18",
       "description": "<p>My script was unable to find a list of urls in the source for this extension. The command used was sed 's/\"/\\n/g|grep -E '^https?://'</p>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1442,9 +1442,9 @@
       "summary": "Tachiyomi Komga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1603200727000,
-      "icon": "eu.kanade.tachiyomi.extension.all.komga.17.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.komga.18.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.komga",
-      "lastUpdated": 1603200964000
+      "lastUpdated": 1603378826000
     },
     {
       "categories": [
@@ -4844,12 +4844,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.komga": [
       {
-        "added": 1603200727000,
-        "apkName": "tachiyomi-all.komga-v1.2.17.apk",
+        "added": 1603378826000,
+        "apkName": "tachiyomi-all.komga-v1.2.18.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "5d0fe1dda70a7e9d9c0722459c184c29520ecdf688a2ea220f1cd63f803b6e7d",
+        "hash": "8024b3f91268a02bdd46bee86dd9970b977539fc2259bb16e932d4edc639f01c",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.komga",
@@ -4857,8 +4857,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 369705,
         "targetSdkVersion": 29,
-        "versionCode": 17,
-        "versionName": "1.2.17"
+        "versionCode": 18,
+        "versionName": "1.2.18"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.lanraragi": [
@@ -8492,12 +8492,12 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.henchan": [
       {
-        "added": 1603200878000,
-        "apkName": "tachiyomi-ru.henchan-v1.2.20.apk",
+        "added": 1603378827000,
+        "apkName": "tachiyomi-ru.henchan-v1.2.21.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "e62b2046cd1f098bda18a257d077c650237eb6effa578e8fb1751c98865a1a72",
+        "hash": "34caab68d601c50445de048f1fe8fd737148b7dd9cc8572b05f0493a7809ed19",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
@@ -8505,8 +8505,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 74812,
         "targetSdkVersion": 29,
-        "versionCode": 20,
-        "versionName": "1.2.20"
+        "versionCode": 21,
+        "versionName": "1.2.21"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
