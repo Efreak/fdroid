@@ -19006,5 +19006,81 @@
     "apkName": "tachiyomi-zh.qiximh-v1.2.1.apk",
     "icon": "eu.kanade.tachiyomi.extension.zh.qiximh.1.png",
     "added": 1603490424.888699
+  },
+  "tachiyomi-all.madara-v1.2.148.apk": {
+    "hash": "9697a7a406a2b2407a3bec60b6e431efb331b3e1744a6c3079ee61f1de474965",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.madara.148.png",
+      "480": "eu.kanade.tachiyomi.extension.all.madara.148.png",
+      "320": "eu.kanade.tachiyomi.extension.all.madara.148.png",
+      "240": "eu.kanade.tachiyomi.extension.all.madara.148.png",
+      "160": "eu.kanade.tachiyomi.extension.all.madara.148.png",
+      "0": "eu.kanade.tachiyomi.extension.all.madara.148.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.madara",
+    "versionCode": 148,
+    "name": "Tachiyomi: Madara (multiple sources)",
+    "versionName": "1.2.148",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 82915,
+    "apkName": "tachiyomi-all.madara-v1.2.148.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.madara.148.png",
+    "added": 1603504825.570262
+  },
+  "tachiyomi-all.wpmangastream-v1.2.29.apk": {
+    "hash": "697b7473c2e2dcc48dfee6d86b99b1bb12900728e480c1131dfd47f147b45d20",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.wpmangastream.29.png",
+      "480": "eu.kanade.tachiyomi.extension.all.wpmangastream.29.png",
+      "320": "eu.kanade.tachiyomi.extension.all.wpmangastream.29.png",
+      "240": "eu.kanade.tachiyomi.extension.all.wpmangastream.29.png",
+      "160": "eu.kanade.tachiyomi.extension.all.wpmangastream.29.png",
+      "0": "eu.kanade.tachiyomi.extension.all.wpmangastream.29.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
+    "versionCode": 29,
+    "name": "Tachiyomi: WP MangaStream (multiple sources)",
+    "versionName": "1.2.29",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54339,
+    "apkName": "tachiyomi-all.wpmangastream-v1.2.29.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.29.png",
+    "added": 1603504826.501019
   }
 }
