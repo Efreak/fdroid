@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1603450822000,
+    "timestamp": 1603465229000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -3332,6 +3332,18 @@
       "icon": "eu.kanade.tachiyomi.extension.zh.qimiaomh.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.qimiaomh",
       "lastUpdated": 1603200901000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: QiXiManhua",
+      "added": 1603465224000,
+      "icon": "eu.kanade.tachiyomi.extension.zh.qiximh.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.zh.qiximh",
+      "lastUpdated": 1603465224000
     },
     {
       "categories": [
@@ -9284,6 +9296,25 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50066,
         "targetSdkVersion": 27,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.zh.qiximh": [
+      {
+        "added": 1603465224000,
+        "apkName": "tachiyomi-zh.qiximh-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "9f414e5cc990f643d2e9ca4e868bae73208bec3267940f6c6f597ef620ca826e",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.zh.qiximh",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 70624,
+        "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
       }
