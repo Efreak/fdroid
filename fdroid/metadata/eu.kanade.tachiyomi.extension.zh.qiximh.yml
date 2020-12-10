@@ -1,9 +1,12 @@
-AuthorName: ''
 Categories:
-- fdroid
-CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: 'Tachiyomi: QiXiManhua'
-SourceCode: ''
-Summary: ''
-WebSite: ''
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
+Name: 'Tachiyomi: QiXiManhua (ZH)'
+Summary: Tachiyomi QiXiManhua Extension
+
+AutoUpdateMode: None
+UpdateCheckMode: None

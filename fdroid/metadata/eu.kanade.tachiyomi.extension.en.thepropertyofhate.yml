@@ -1,9 +1,12 @@
-AuthorName: ''
 Categories:
-- fdroid
-CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: 'Tachiyomi: The Property of Hate'
-SourceCode: ''
-Summary: ''
-WebSite: ''
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
+Name: 'Tachiyomi: The Property of Hate (EN)'
+Summary: Tachiyomi The Property of Hate Extension
+
+AutoUpdateMode: None
+UpdateCheckMode: None

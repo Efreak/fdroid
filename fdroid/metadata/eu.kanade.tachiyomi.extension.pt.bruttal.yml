@@ -1,9 +1,12 @@
-AuthorName: ''
 Categories:
-- fdroid
-CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: 'Tachiyomi: Bruttal'
-SourceCode: ''
-Summary: ''
-WebSite: ''
+  - Tachiyomi Extensions
+License: Unknown
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+
+Name: 'Tachiyomi: Bruttal (PT)'
+Summary: Tachiyomi Bruttal Extension
+
+AutoUpdateMode: None
+UpdateCheckMode: None
