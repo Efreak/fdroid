@@ -27592,5 +27592,43 @@
     "apkName": "tachiyomi-all.mangadex-v1.2.101.apk",
     "icon": "eu.kanade.tachiyomi.extension.all.mangadex.101.png",
     "added": 1610856024.470194
+  },
+  "tachiyomi-ru.libmanga-v1.2.27.apk": {
+    "hash": "a41682d89ed38c6cee145a03ca171d488252e90b122aa7b845f74426cf0e210d",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.libmanga.27.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.libmanga.27.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.libmanga.27.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.libmanga.27.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.libmanga.27.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.libmanga.27.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
+    "versionCode": 27,
+    "name": "Tachiyomi: MangaLib",
+    "versionName": "1.2.27",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 58339,
+    "apkName": "tachiyomi-ru.libmanga-v1.2.27.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.27.png",
+    "added": 1610870425.520539
   }
 }

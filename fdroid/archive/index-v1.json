@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1610827234000,
+    "timestamp": 1610841635000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -806,7 +806,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "26",
+      "suggestedVersionCode": "27",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangalib.me</li><li> https://img2.mangalib.me</li><li> https://img3.mangalib.me</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -815,9 +815,9 @@
       "summary": "Tachiyomi LibManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1603200879000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.25.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.26.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
-      "lastUpdated": 1607817631000
+      "lastUpdated": 1610841625000
     },
     {
       "categories": [
@@ -7333,6 +7333,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
+      {
+        "added": 1607817631000,
+        "apkName": "tachiyomi-ru.libmanga-v1.2.26.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "fbe53f1c937d4e93a42225a4e0ce12eb467b98fb5d18eebb0737d33b5e619603",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54243,
+        "targetSdkVersion": 29,
+        "versionCode": 26,
+        "versionName": "1.2.26"
+      },
       {
         "added": 1607788821000,
         "apkName": "tachiyomi-ru.libmanga-v1.2.25.apk",
