@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1610884821000,
+    "timestamp": 1610913615000,
     "version": 21,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -664,6 +664,18 @@
       "icon": "eu.kanade.tachiyomi.extension.ru.desu.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.desu",
       "lastUpdated": 1603200878000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: DigitalTeam",
+      "added": 1610899227000,
+      "icon": "eu.kanade.tachiyomi.extension.it.digitalteam.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.it.digitalteam",
+      "lastUpdated": 1610899227000
     },
     {
       "categories": [
@@ -1612,7 +1624,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "7",
+      "suggestedVersionCode": "8",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Komiku (ID)",
@@ -1620,9 +1632,9 @@
       "summary": "Tachiyomi Komiku Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1603200849000,
-      "icon": "eu.kanade.tachiyomi.extension.id.komiku.7.png",
+      "icon": "eu.kanade.tachiyomi.extension.id.komiku.8.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.komiku",
-      "lastUpdated": 1608480024000
+      "lastUpdated": 1610899227000
     },
     {
       "categories": [
@@ -1661,7 +1673,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: LANraragi (ALL)",
@@ -1669,9 +1681,9 @@
       "summary": "Tachiyomi LANraragi Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1603200728000,
-      "icon": "eu.kanade.tachiyomi.extension.all.lanraragi.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.lanraragi.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.lanraragi",
-      "lastUpdated": 1603200964000
+      "lastUpdated": 1610899224000
     },
     {
       "categories": [
@@ -1759,7 +1771,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "171",
+      "suggestedVersionCode": "172",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://mangasushi.net</li><li> https://ninjascans.com</li><li> https://readmanhua.net</li><li> https://zeroscans.com</li><li> https://isekaiscan.com/</li><li> https://happyteascans.com/</li><li> https://just-for-fun.ru/</li><li> https://aoc.moe/</li><li> https://komikgo.com</li><li> https://luxyscans.com/</li><li> http://ghajik.ml/</li><li> https://tsubakinoscan.com/</li><li> https://yokaijump.fr/</li><li> https://zmanga.org/</li><li> https://mangazuki.me/</li><li> https://www.mangazuki.online/</li><li> https://mangazuki.club/</li><li> https://1stkissmanga.com/</li><li> https://mangakomi.com/</li><li> https://www.mangasy.com/</li><li> https://manhwa.club/</li><li> https://wuxiaworld.site/</li><li> https://wordrain69.com</li><li> https://yomanga.info/</li><li> https://manytoon.com/</li><li> http://www.cmreader.info/</li><li> https://zinmanga.com/</li><li> https://manhwahentai.me</li><li> https://3asq.org</li><li> https://nmanhwa.com</li><li> https://manhwa18.net</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1768,9 +1780,9 @@
       "summary": "Tachiyomi Madara Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1603278025000,
-      "icon": "eu.kanade.tachiyomi.extension.all.madara.171.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.madara.172.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.madara",
-      "lastUpdated": 1610812825000
+      "lastUpdated": 1610899225000
     },
     {
       "categories": [
@@ -4460,7 +4472,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "45",
+      "suggestedVersionCode": "46",
       "description": "<p>The following is a list of urls found in the source for this extension:</p><ul><li> https://</li><li> http://images.weserv.nl/?w=300&amp;q=70&amp;url=</li><li> http://images.weserv.nl/?w=600&amp;q=70&amp;url=</li><li> https://sektekomik.com</li><li> https://kiryuu.co</li><li> https://komikav.com</li><li> https://komikstation.com</li><li> https://komikcast.com</li><li> https://westmanga.info</li><li> https://komikgo.com</li><li> https://www.komikindo.web.id</li><li> https://www.maid.my.id</li></ul>",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4469,9 +4481,9 @@
       "summary": "Tachiyomi WP Manga Stream Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1603200750000,
-      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.45.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.wpmangastream.46.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
-      "lastUpdated": 1610769624000
+      "lastUpdated": 1610899226000
     },
     {
       "categories": [
@@ -5178,31 +5190,31 @@
     ],
     "eu.kanade.tachiyomi.extension.all.lanraragi": [
       {
-        "added": 1603200728000,
-        "apkName": "tachiyomi-all.lanraragi-v1.2.2.apk",
+        "added": 1610899224000,
+        "apkName": "tachiyomi-all.lanraragi-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "ef4d659b1a48358a6ab83c4bc586312911bb01c6710d82bc7d9fdfc7bc40e911",
+        "hash": "e65460825389c75921aa8be95344ea58e16e7e2b9bdff8670ebf937830e7eb4d",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.lanraragi",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 41956,
+        "size": 328748,
         "targetSdkVersion": 29,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
       {
-        "added": 1610812825000,
-        "apkName": "tachiyomi-all.madara-v1.2.171.apk",
+        "added": 1610899225000,
+        "apkName": "tachiyomi-all.madara-v1.2.172.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "7492493f1d1d93b6442c3c0f469e6b792b15dd43162b1a475eeea143feee1053",
+        "hash": "bc2480d841c2aa7ca99f29b6e551dfa8c29537c6e19328c4a130f303e9cbd03f",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.madara",
@@ -5210,8 +5222,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 82915,
         "targetSdkVersion": 29,
-        "versionCode": 171,
-        "versionName": "1.2.171"
+        "versionCode": 172,
+        "versionName": "1.2.172"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangabox": [
@@ -5596,12 +5608,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.wpmangastream": [
       {
-        "added": 1610769624000,
-        "apkName": "tachiyomi-all.wpmangastream-v1.2.45.apk",
+        "added": 1610899226000,
+        "apkName": "tachiyomi-all.wpmangastream-v1.2.46.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "60ab26f8f4b0c83e24afaa82edf445ba90eb550e6ed0fbc5bcd817a5468a76df",
+        "hash": "fac9e52a98c50f01f730672561eea043e7b102ba75ff186c8c3aba9ca49e2f8e",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.wpmangastream",
@@ -5609,8 +5621,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 54339,
         "targetSdkVersion": 29,
-        "versionCode": 45,
-        "versionName": "1.2.45"
+        "versionCode": 46,
+        "versionName": "1.2.46"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.zbulu": [
@@ -8028,21 +8040,21 @@
     ],
     "eu.kanade.tachiyomi.extension.id.komiku": [
       {
-        "added": 1608480024000,
-        "apkName": "tachiyomi-id.komiku-v1.2.7.apk",
+        "added": 1610899227000,
+        "apkName": "tachiyomi-id.komiku-v1.2.8.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "91dd5be71336f5a20e1fef30ee3ece075da90c1ca5e19050aeac0791bff839fb",
+        "hash": "666fb027cdc9d0655f626f491a26c2627e120023d610e776c8acbdf5344f60bd",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.id.komiku",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50144,
+        "size": 46048,
         "targetSdkVersion": 29,
-        "versionCode": 7,
-        "versionName": "1.2.7"
+        "versionCode": 8,
+        "versionName": "1.2.8"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.maidmanga": [
@@ -8307,6 +8319,25 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 45999,
         "targetSdkVersion": 27,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.it.digitalteam": [
+      {
+        "added": 1610899227000,
+        "apkName": "tachiyomi-it.digitalteam-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "2fff026fd287f564975f4e9f03f0f280c5e21cab4538aa2e4da7316d0f49191b",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.it.digitalteam",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54245,
+        "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
       }
