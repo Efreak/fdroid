@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613232034000,
+    "timestamp": 1613246421000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -865,7 +865,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "30",
+      "suggestedVersionCode": "31",
       "description": "The following is a list of urls found in the source for this extension:\n* https://mangalib.me\n* https://img2.mangalib.me\n* https://img3.mangalib.me",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -874,9 +874,9 @@
       "summary": "Tachiyomi LibManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166993000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.30.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.31.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
-      "lastUpdated": 1613232032000
+      "lastUpdated": 1613246419000
     },
     {
       "categories": [
@@ -1457,6 +1457,18 @@
       "icon": "eu.kanade.tachiyomi.extension.en.manhwamanga.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhwamanga",
       "lastUpdated": 1613167134000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: ManhwaSmut",
+      "added": 1613174431000,
+      "icon": "eu.kanade.tachiyomi.extension.en.manhwasmut.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.manhwasmut",
+      "lastUpdated": 1613246418000
     },
     {
       "categories": [
@@ -4120,6 +4132,25 @@
         "versionName": "1.2.2"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.manhwasmut": [
+      {
+        "added": 1613174431000,
+        "apkName": "tachiyomi-en.manhwasmut-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "8c6c27bf540d7879ab30663b975355aa16a5b0cbe7928b4a8d189cb63e210fd8",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhwasmut",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54244,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.manwhaclub": [
       {
         "added": 1613166866000,
@@ -5317,6 +5348,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
+      {
+        "added": 1613232032000,
+        "apkName": "tachiyomi-ru.libmanga-v1.2.31.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6b5abc13023901599e06faf46ee34185d369ff72809ebedd6c53bef11a18850a",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58339,
+        "targetSdkVersion": 29,
+        "versionCode": 31,
+        "versionName": "1.2.31"
+      },
       {
         "added": 1613166994000,
         "apkName": "tachiyomi-ru.libmanga-v1.2.30.apk",
