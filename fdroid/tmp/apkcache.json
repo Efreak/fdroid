@@ -28122,5 +28122,147 @@
     "apkName": "tachiyomi-zh.pufei-v1.2.6.apk",
     "icon": "eu.kanade.tachiyomi.extension.zh.pufei.6.png",
     "added": 1613203238.345101
+  },
+  "eu.kanade.tachiyomi.sy_v1.5.0_13.apk": {
+    "hash": "1864f590460a0bc71e4d5ea414b0dc934aa0dcc5af604f87309300bf5a926d86",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.USE_BIOMETRIC",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "eu.kanade.tachiyomi.sy.13.xml",
+      "640": "eu.kanade.tachiyomi.sy.13.png",
+      "480": "eu.kanade.tachiyomi.sy.13.png",
+      "320": "eu.kanade.tachiyomi.sy.13.png",
+      "240": "eu.kanade.tachiyomi.sy.13.png",
+      "160": "eu.kanade.tachiyomi.sy.13.png",
+      "0": "eu.kanade.tachiyomi.sy.13.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.sy",
+    "versionCode": 13,
+    "name": "TachiyomiSY",
+    "versionName": "1.5.0",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86"
+    ],
+    "sig": "65c001ff0feaed4bd40f348755a0c50e",
+    "signer": "5286b9045443f59b48b6de4a37ca7635d6e7b1fa111293015bdb0842ebc7b752",
+    "size": 25070310,
+    "apkName": "eu.kanade.tachiyomi.sy_v1.5.0_13.apk",
+    "icon": "eu.kanade.tachiyomi.sy.13.png",
+    "added": 1613217628.264828
+  },
+  "tachiyomi-en.mangakatana-v1.2.4.apk": {
+    "hash": "2c5ffd00dfb8ade8d1de968978cf970fc04d578ceadc6373cf62a3f47fc670e8",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangakatana.4.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangakatana.4.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangakatana.4.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangakatana.4.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangakatana.4.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangakatana.4.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangakatana",
+    "versionCode": 4,
+    "name": "Tachiyomi: MangaKatana",
+    "versionName": "1.2.4",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 37861,
+    "apkName": "tachiyomi-en.mangakatana-v1.2.4.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangakatana.4.png",
+    "added": 1613217629.68592
   }
 }
