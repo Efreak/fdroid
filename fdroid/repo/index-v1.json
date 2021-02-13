@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613217626000,
+    "timestamp": 1613232039000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -3070,7 +3070,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: LHTranslation (EN)",
@@ -3078,15 +3078,15 @@
       "summary": "Tachiyomi LHTranslation Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613174427000,
-      "icon": "eu.kanade.tachiyomi.extension.en.lhtranslation.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.lhtranslation.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.lhtranslation",
-      "lastUpdated": 1613174427000
+      "lastUpdated": 1613232027000
     },
     {
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "30",
+      "suggestedVersionCode": "31",
       "description": "The following is a list of urls found in the source for this extension:\n* https://mangalib.me\n* https://img2.mangalib.me\n* https://img3.mangalib.me",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3095,9 +3095,9 @@
       "summary": "Tachiyomi LibManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166993000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.30.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.31.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
-      "lastUpdated": 1613167159000
+      "lastUpdated": 1613232032000
     },
     {
       "categories": [
@@ -3761,7 +3761,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Manga347 (EN)",
@@ -3769,9 +3769,9 @@
       "summary": "Tachiyomi Manga347 Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166822000,
-      "icon": "eu.kanade.tachiyomi.extension.en.manga347.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.manga347.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.manga347",
-      "lastUpdated": 1613166822000
+      "lastUpdated": 1613232028000
     },
     {
       "categories": [
@@ -5535,7 +5535,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Manwha Club (EN)",
@@ -5543,9 +5543,9 @@
       "summary": "Tachiyomi Manwha Club Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166866000,
-      "icon": "eu.kanade.tachiyomi.extension.en.manwhaclub.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.manwhaclub.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.manwhaclub",
-      "lastUpdated": 1613166866000
+      "lastUpdated": 1613232029000
     },
     {
       "categories": [
@@ -6526,6 +6526,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Painful Nightz Scan",
+      "added": 1613232030000,
+      "icon": "eu.kanade.tachiyomi.extension.en.painfulnightzscan.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.painfulnightzscan",
+      "lastUpdated": 1613232030000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "7",
@@ -6822,7 +6834,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Rain Of Snow (EN)",
@@ -6830,9 +6842,9 @@
       "summary": "Tachiyomi Rain Of Snow Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166884000,
-      "icon": "eu.kanade.tachiyomi.extension.en.rainofsnow.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.rainofsnow.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.rainofsnow",
-      "lastUpdated": 1613166884000
+      "lastUpdated": 1613232031000
     },
     {
       "categories": [
@@ -11803,21 +11815,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.lhtranslation": [
       {
-        "added": 1613174427000,
-        "apkName": "tachiyomi-en.lhtranslation-v1.2.1.apk",
+        "added": 1613232027000,
+        "apkName": "tachiyomi-en.lhtranslation-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "ddf939edf66a27763e6f4f56a3ae305f061f15c6fcfac2685b106ec297c1ef57",
+        "hash": "7c87c727795e48d07609e9df40e5727068c5bbdc6801a91c08ee6febbcd10f6d",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.lhtranslation",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 54247,
+        "size": 58343,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.lilymanga": [
@@ -11898,12 +11910,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.manga347": [
       {
-        "added": 1613166822000,
-        "apkName": "tachiyomi-en.manga347-v1.2.1.apk",
+        "added": 1613232028000,
+        "apkName": "tachiyomi-en.manga347-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "238b405d51f1df7296cbcf2a286313c50bf606576270cbe8c4a2eba991ec4553",
+        "hash": "d4dd4160e28e4b76b00fa30369b6469f7888628dc9763fcf1d25d59a7d79a950",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.manga347",
@@ -11911,8 +11923,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50146,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.manga3s": [
@@ -13475,12 +13487,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.manwhaclub": [
       {
-        "added": 1613166866000,
-        "apkName": "tachiyomi-en.manwhaclub-v1.2.1.apk",
+        "added": 1613232029000,
+        "apkName": "tachiyomi-en.manwhaclub-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "614532f282a61c5211c6b802bc71c9d0c2c825098363ec8b252a945c3c618e65",
+        "hash": "fc42275f2ef3faea426162aa39a3312c2e392c2fc36317ec342de831871d867c",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.manwhaclub",
@@ -13488,8 +13500,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50148,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.manytoon": [
@@ -13967,6 +13979,25 @@
         "versionName": "1.2.1"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.painfulnightzscan": [
+      {
+        "added": 1613232030000,
+        "apkName": "tachiyomi-en.painfulnightzscan-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "41833b2f5c5c910c2a218361c18fa06770a0fcdde56a81376fdd789ace88d6a1",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.painfulnightzscan",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 119787,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.patchfriday": [
       {
         "added": 1613166880000,
@@ -14121,12 +14152,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.rainofsnow": [
       {
-        "added": 1613166884000,
-        "apkName": "tachiyomi-en.rainofsnow-v1.2.2.apk",
+        "added": 1613232031000,
+        "apkName": "tachiyomi-en.rainofsnow-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "241ec1adfc7cf5e9e1175226be84e1fbbd32ab7de7a4d2a7b60ee01f15c0e9d1",
+        "hash": "06b118eba00f8945952f7041cbc5a6b107e984984e089cfacc056c0f8379db11",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.rainofsnow",
@@ -14134,8 +14165,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 95204,
         "targetSdkVersion": 29,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.randomtranslations": [
@@ -17788,21 +17819,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
       {
-        "added": 1613166994000,
-        "apkName": "tachiyomi-ru.libmanga-v1.2.30.apk",
+        "added": 1613232032000,
+        "apkName": "tachiyomi-ru.libmanga-v1.2.31.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "a5fc4af41be8efd9c16988f19c9cfcc4d937c0c5fe2a5412c089f0003fd29386",
+        "hash": "6b5abc13023901599e06faf46ee34185d369ff72809ebedd6c53bef11a18850a",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 54243,
+        "size": 58339,
         "targetSdkVersion": 29,
-        "versionCode": 30,
-        "versionName": "1.2.30"
+        "versionCode": 31,
+        "versionName": "1.2.31"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.mangachan": [
