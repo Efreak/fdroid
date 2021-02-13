@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613168337000,
+    "timestamp": 1613174443000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -130,7 +130,7 @@
         "Multimedia"
       ],
       "changelog": "https://github.com/inorichi/tachiyomi/releases",
-      "suggestedVersionCode": "53",
+      "suggestedVersionCode": "55",
       "description": "Tachiyomi is a free and open source manga reader for Android.\n\nFeatures include:\n* Online reading from sources such as KissManga, MangaDex, [https://github.com/inorichi/tachiyomi-extensions and more]\n* Local reading of downloaded manga\n* Configurable reader with multiple viewers, reading directions and other settings\n* [https://myanimelist.net/ MyAnimeList], [https://anilist.co/ AniList], and [https://kitsu.io/explore/anime Kitsu] support\n* Categories to organize your library\n* Light and dark themes\n* Schedule updating your library for new chapters\n* Create backups locally to read offline or to your desired cloud service.",
       "issueTracker": "https://www.github.com/inorichi/Tachiyomi/issues",
       "license": "Apache-2.0",
@@ -139,9 +139,9 @@
       "summary": "Free and open source manga reader for Android",
       "webSite": "https://www.tachiyomi.org",
       "added": 1613166736000,
-      "icon": "eu.kanade.tachiyomi.53.png",
+      "icon": "eu.kanade.tachiyomi.55.png",
       "packageName": "eu.kanade.tachiyomi",
-      "lastUpdated": 1613167102000
+      "lastUpdated": 1613174424000
     },
     {
       "antiFeatures": [
@@ -1712,7 +1712,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "3",
+      "suggestedVersionCode": "5",
       "description": "The following is a list of urls found in the source for this extension:\n* http://m.pufei.net\n* http://res.img.pufei.net/",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1721,9 +1721,9 @@
       "summary": "Tachiyomi Pufei Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613167035000,
-      "icon": "eu.kanade.tachiyomi.extension.zh.pufei.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.zh.pufei.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.pufei",
-      "lastUpdated": 1613167168000
+      "lastUpdated": 1613174438000
     },
     {
       "categories": [
@@ -2043,7 +2043,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "8",
+      "suggestedVersionCode": "9",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Tsuki Mang\u00e1s (PT)",
@@ -2051,9 +2051,9 @@
       "summary": "Tachiyomi Tsuki Mang\u00e1s Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166983000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.tsukimangas.8.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.tsukimangas.9.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
-      "lastUpdated": 1613167157000
+      "lastUpdated": 1613174434000
     },
     {
       "categories": [
@@ -2316,6 +2316,87 @@
   ],
   "packages": {
     "eu.kanade.tachiyomi": [
+      {
+        "added": 1613166740000,
+        "apkName": "eu.kanade.tachiyomi_v0.10.8_55.apk",
+        "hash": "7b98b1505e2e1083c36a763e19e77dbb4a21714a4d0ec03b67167819313df741",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "eu.kanade.tachiyomi",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 19276273,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 55,
+        "versionName": "0.10.8"
+      },
       {
         "added": 1613166736000,
         "apkName": "eu.kanade.tachiyomi_v0.10.7_53.apk",
@@ -4915,6 +4996,23 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.tsukimangas": [
       {
+        "added": 1613166984000,
+        "apkName": "tachiyomi-pt.tsukimangas-v1.2.9.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "c5d789fdfbd2a38e0038800aa609d91128a7cbb3a2c824a4fac418216f89d26f",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 42047,
+        "targetSdkVersion": 29,
+        "versionCode": 9,
+        "versionName": "1.2.9"
+      },
+      {
         "added": 1613166983000,
         "apkName": "tachiyomi-pt.tsukimangas-v1.2.8.apk",
         "features": [
@@ -5506,6 +5604,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.zh.pufei": [
+      {
+        "added": 1613167035000,
+        "apkName": "tachiyomi-zh.pufei-v1.2.5.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "5ceb6d62a6f1a9a85bc7ea5590890029d825c042ebc6233108fb6caccf827c14",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.zh.pufei",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 70543,
+        "targetSdkVersion": 27,
+        "versionCode": 5,
+        "versionName": "1.2.5"
+      },
       {
         "added": 1613167168000,
         "apkName": "tachiyomi-zh.pufei-v1.2.3.apk",
