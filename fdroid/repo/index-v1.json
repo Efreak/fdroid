@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613362183000,
+    "timestamp": 1613376491000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -5697,7 +5697,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Milftoon (EN)",
@@ -5705,9 +5705,9 @@
       "summary": "Tachiyomi Milftoon Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166869000,
-      "icon": "eu.kanade.tachiyomi.extension.en.milftoon.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.milftoon.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.milftoon",
-      "lastUpdated": 1613166869000
+      "lastUpdated": 1613376481000
     },
     {
       "categories": [
@@ -6866,7 +6866,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Raw Mangas (JA)",
@@ -6874,9 +6874,9 @@
       "summary": "Tachiyomi Raw Mangas Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166960000,
-      "icon": "eu.kanade.tachiyomi.extension.ja.rawmangas.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.ja.rawmangas.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ja.rawmangas",
-      "lastUpdated": 1613166960000
+      "lastUpdated": 1613376483000
     },
     {
       "categories": [
@@ -7418,7 +7418,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Siyahmelek (TR)",
@@ -7426,9 +7426,9 @@
       "summary": "Tachiyomi Siyahmelek Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613167014000,
-      "icon": "eu.kanade.tachiyomi.extension.tr.siyahmelek.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.tr.siyahmelek.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-      "lastUpdated": 1613167014000
+      "lastUpdated": 1613376485000
     },
     {
       "categories": [
@@ -7807,7 +7807,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Toonily (EN)",
@@ -7815,9 +7815,9 @@
       "summary": "Tachiyomi Toonily Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166901000,
-      "icon": "eu.kanade.tachiyomi.extension.en.toonily.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.toonily.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.toonily",
-      "lastUpdated": 1613166901000
+      "lastUpdated": 1613376482000
     },
     {
       "categories": [
@@ -8586,7 +8586,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Yaoi Toshokan (PT)",
@@ -8594,9 +8594,9 @@
       "summary": "Tachiyomi Yaoi Toshokan Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166986000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.yaoitoshokan.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.yaoitoshokan.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.yaoitoshokan",
-      "lastUpdated": 1613166986000
+      "lastUpdated": 1613376484000
     },
     {
       "categories": [
@@ -13601,12 +13601,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.milftoon": [
       {
-        "added": 1613166869000,
-        "apkName": "tachiyomi-en.milftoon-v1.2.1.apk",
+        "added": 1613376481000,
+        "apkName": "tachiyomi-en.milftoon-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "3ea91c2e6fdae868184927eae4696cccb2464f9abd08fac120cdf6d83596a619",
+        "hash": "035a898de8ab03d02ef4af36ade21400190ea67ec97bb8a3513cac65d8780ad5",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.milftoon",
@@ -13614,8 +13614,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50146,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.miraclescans": [
@@ -14722,12 +14722,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.toonily": [
       {
-        "added": 1613166901000,
-        "apkName": "tachiyomi-en.toonily-v1.2.2.apk",
+        "added": 1613376482000,
+        "apkName": "tachiyomi-en.toonily-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "5a3d8aa533523711946fd743c058b53fa145ffaa7f91a054cca02026ee8cbe60",
+        "hash": "d41242bd34a27c2080c8405335a6b2d7254ae3c8eb4fb05bf3abaff3fb91f31e",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.toonily",
@@ -14735,8 +14735,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50145,
         "targetSdkVersion": 29,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.toonilynet": [
@@ -16736,12 +16736,12 @@
     ],
     "eu.kanade.tachiyomi.extension.ja.rawmangas": [
       {
-        "added": 1613166960000,
-        "apkName": "tachiyomi-ja.rawmangas-v1.2.1.apk",
+        "added": 1613376483000,
+        "apkName": "tachiyomi-ja.rawmangas-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "38fad6de3bb7c461394836e12ee478b6850b8e721d7c752dfbde5344aece2464",
+        "hash": "5f0905c4dc99fe140bf355a0742145ed52dc9d3b3335d252fbebf7bdd81928e0",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ja.rawmangas",
@@ -16749,8 +16749,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50147,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.ja.senmanga": [
@@ -17591,12 +17591,12 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.yaoitoshokan": [
       {
-        "added": 1613166986000,
-        "apkName": "tachiyomi-pt.yaoitoshokan-v1.2.1.apk",
+        "added": 1613376484000,
+        "apkName": "tachiyomi-pt.yaoitoshokan-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "b726410c49863efef815eef6237452a7651a105b2a4e2a49b0ff9eaf0fb585d1",
+        "hash": "6c81700b9e2b548cd9657b8f6584ad59ea55fcf4263c6b634583f1b3c46e554b",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.yaoitoshokan",
@@ -17604,8 +17604,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 54246,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.yesmangas": [
@@ -18541,12 +18541,12 @@
     ],
     "eu.kanade.tachiyomi.extension.tr.siyahmelek": [
       {
-        "added": 1613167014000,
-        "apkName": "tachiyomi-tr.siyahmelek-v1.2.1.apk",
+        "added": 1613376485000,
+        "apkName": "tachiyomi-tr.siyahmelek-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "f78ef4b23ba76ac510c8443f802fbe8dead1b5cb6fb1bf4e0e96e100ec6e2704",
+        "hash": "a29a1a13ea54bc5966393c060bd4f3d60d49bd089700949d7d6b22e7c28469c6",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
@@ -18554,8 +18554,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50148,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.tr.turkcemanga": [
