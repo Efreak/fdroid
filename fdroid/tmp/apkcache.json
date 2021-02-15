@@ -29100,5 +29100,81 @@
     "apkName": "tachiyomi-tr.siyahmelek-v1.2.2.apk",
     "icon": "eu.kanade.tachiyomi.extension.tr.siyahmelek.2.png",
     "added": 1613405285.044601
+  },
+  "tachiyomi-en.earlymanga-v1.2.5.apk": {
+    "hash": "bb90389d442dd93f80a0710fa667b24cf31155fb1a38423639f94a74277eacf1",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.earlymanga.5.png",
+      "480": "eu.kanade.tachiyomi.extension.en.earlymanga.5.png",
+      "320": "eu.kanade.tachiyomi.extension.en.earlymanga.5.png",
+      "240": "eu.kanade.tachiyomi.extension.en.earlymanga.5.png",
+      "160": "eu.kanade.tachiyomi.extension.en.earlymanga.5.png",
+      "0": "eu.kanade.tachiyomi.extension.en.earlymanga.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.earlymanga",
+    "versionCode": 5,
+    "name": "Tachiyomi: EarlyManga",
+    "versionName": "1.2.5",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 58340,
+    "apkName": "tachiyomi-en.earlymanga-v1.2.5.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.earlymanga.5.png",
+    "added": 1613433623.492812
+  },
+  "tachiyomi-en.manhuaga-v1.2.2.apk": {
+    "hash": "aee35929c06c28c50510206eab58bc47d847f99b71ef84559b734af3a8f3f178",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.manhuaga.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.manhuaga.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.manhuaga.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.manhuaga.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.manhuaga.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.manhuaga.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.manhuaga",
+    "versionCode": 2,
+    "name": "Tachiyomi: Manhuaga",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 95202,
+    "apkName": "tachiyomi-en.manhuaga-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.manhuaga.2.png",
+    "added": 1613433624.415999
   }
 }

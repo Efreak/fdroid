@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613390414000,
+    "timestamp": 1613404826000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -419,7 +419,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "3",
+      "suggestedVersionCode": "4",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: EarlyManga (EN)",
@@ -427,9 +427,9 @@
       "summary": "Tachiyomi EarlyManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166797000,
-      "icon": "eu.kanade.tachiyomi.extension.en.earlymanga.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.earlymanga.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.earlymanga",
-      "lastUpdated": 1613318755000
+      "lastUpdated": 1613404823000
     },
     {
       "categories": [
@@ -1440,6 +1440,22 @@
       "icon": "eu.kanade.tachiyomi.extension.zh.manhuadui.13.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.manhuadui",
       "lastUpdated": 1613167167000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Manhuaga (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Manhuaga Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613166860000,
+      "icon": "eu.kanade.tachiyomi.extension.en.manhuaga.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.manhuaga",
+      "lastUpdated": 1613404824000
     },
     {
       "categories": [
@@ -3825,6 +3841,23 @@
     ],
     "eu.kanade.tachiyomi.extension.en.earlymanga": [
       {
+        "added": 1613318755000,
+        "apkName": "tachiyomi-en.earlymanga-v1.2.4.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "043319646a0dacea55d68e0d5a8f46e717b2ff6b7caf809ba74585fb8e50a839",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.earlymanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58340,
+        "targetSdkVersion": 29,
+        "versionCode": 4,
+        "versionName": "1.2.4"
+      },
+      {
         "added": 1613166798000,
         "apkName": "tachiyomi-en.earlymanga-v1.2.3.apk",
         "features": [
@@ -4355,6 +4388,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50148,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.manhuaga": [
+      {
+        "added": 1613166860000,
+        "apkName": "tachiyomi-en.manhuaga-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "67f87c41222da413171b06bc4728092f34c545d45761daba34904fde5450cad3",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhuaga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50146,
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
