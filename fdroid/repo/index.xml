@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="tachi-icon.png" name="Unofficial Tachiyomi Extensions F-Droid Repo" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1613404832" url="https://tachi.efreakbnc.net/fdroid/repo" version="20000">
+	<repo icon="tachi-icon.png" name="Unofficial Tachiyomi Extensions F-Droid Repo" pubkey="308204fd308202e5a00302010202040a38dfda300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3139303830343134343733325a170d3436313232303134343733325a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a0282020100972b66125028ad869c2fbceeba9dd65fb4e47dc52ea34a92b8b67d59a638b8b8cbdc3da8c4d5dccc6a8a31d29847953b0961b0f7de7dbde62b8d47e21eeb8403ee3985f5b8603083e05dcaec739e4dff17153ac36a390df713c77d787b89ac570ee2de0982649c321f6e4f29da2f85612c7e1e12ff066dfda724e26b4b21539e021635e61e1ce1b71542399585078a785ad19a7da102f255adbc6e0d313f2a41f9287c50e3bf2c0191e28bda235c17e7998106b6d84586f9bd1148cc7908183abaab6fbd4834939f211ebdd30c4eb71786da1debda56092909c580dedcaa646b5a7b09fa0842c40f2b26f9a5428d27f63885be9b69903e98ddd6d25f49f821eb5a60b242ac3d1e97008f6fe5680f34069627037d85bf216205764e9f4705d02371f9b58a5395e2ab151ed3402c7a7f49b50484ff663574f38ffa525599492379f31169fcf54d6762dcb58f3dd6058f34705f0c0f6354c19c5f434fcd1901ec5660166497eb72ca1f9c6ca0ef7adaf58f7a93430cffdbcf55b5fbbc5c93a7c6b31f69ba74938a920901aa9049d2691f5c82ee353bf2a77815a4476d0614fb992c5ca31946e694a9ba41d154645b56729dfa1dd5269373de9d906d18ce913f5fac558ae3bc9f7cab37f3098a696811d61797b058392e99fceefb93e410dd368e05488bfe6b10cc70510ed8353deee323032a61009e47f532e583e810331dcd18bd0203010001a321301f301d0603551d0e041604140a795c523ce0519005d4153bd7bc70ba2247983a300d06092a864886f70d01010b0500038202010002ee399e651ee620831571e102ba27c39e654d5c9597336432f9cdf25199215639a56afd2ea4c84b926fcb9557e84fd65f05ddaaab562629e4f55c9f7fb68a20c270a788da1924876a3f35b482cb5c6609c3b9c4b3665addf02286e487b43cdbbc1e04ff5241098b99240fa52bb6d7fd0462ee8aefe9c9a3f74488c169529bca38e530fd8078bace513fa49aab1011e1d2855fba6430b988f2f2a1331b34b7472c5851a4c40f0841e424063402fd17bbf4cb821fc1d597043bb1623d7ad7624f743eb9a247a37801e5af83733c3e1321af84368b9e91cc737fade56cad309894a054013bc507c702fcce10b501247c39ce1f13f79d64516fa66cc9e60e4ca1f5da5088cefde789a587b9a8805d00628b7ec8a0b6146e40e62d10ed2df29c07f2fce3013bad0cc93e758240ffbd7182e594ada84da3a1976307f45d104411f3cadb38d419c6438c8bb744bf0e438f62f605ce1d853747d0f0725953ec647b1b8c46c54d99f58864e19fbae37d830f6bea28a2a2d597eed3697ca8208f41c62eea77a6aaea94dad018e6a031d69afb4d015d8e0b60a8da2bf97e60054bcc9f7793ae4ee514cacea8a23bd92e19455b13827c57bb5692d3251da3cf938523c7c02a20f324a8c32dc10f8a54ba2715c65367c3d02db3dfd40a2f991e150ddcf9b89099441a15224d30f15fa7d485dc59656bbde619cd0fd650c893042b7f9a5daf88" timestamp="1613419298" url="https://tachi.efreakbnc.net/fdroid/repo" version="20000">
 		<description>
 This is a repository of source extensions to be used with Tachiyomi.
 Applications in this repository are official binaries built and
@@ -546,6 +546,35 @@ Features include:
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.fr.ajianoscantrad">
+		<id>eu.kanade.tachiyomi.extension.fr.ajianoscantrad</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Ajia no Scantrad</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.fr.ajianoscantrad.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-fr.ajianoscantrad-v1.2.1.apk</apkname>
+			<hash type="sha256">3f4ca178de7e93bf256c6409bc12bca6c1cb4a20fb551634e5c6bda1ffac5b9e</hash>
+			<size>33768</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.ar.akumanga">
 		<id>eu.kanade.tachiyomi.extension.ar.akumanga</id>
 		<added>2021-02-12</added>
@@ -687,6 +716,35 @@ Features include:
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.anatanomotokare">
+		<id>eu.kanade.tachiyomi.extension.en.anatanomotokare</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Anata no Motokare</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.anatanomotokare.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.anatanomotokare-v1.2.1.apk</apkname>
+			<hash type="sha256">c9e172f36d9980431ce8929c76b910b6d4ae4bd6372ee998eb20b7cda296c1d0</hash>
+			<size>33769</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1190,6 +1248,35 @@ Features include:
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.pt.baixarhentai">
+		<id>eu.kanade.tachiyomi.extension.pt.baixarhentai</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Baixar Hentai</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.pt.baixarhentai.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-pt.baixarhentai-v1.2.1.apk</apkname>
+			<hash type="sha256">8c57c79511b2d7357b934a2a9e31ef8ff06150238100b33a97999fa1352ca89f</hash>
+			<size>33766</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.th.bakaman">
 		<id>eu.kanade.tachiyomi.extension.th.bakaman</id>
 		<added>2021-02-12</added>
@@ -1390,6 +1477,35 @@ Features include:
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.boosei">
+		<id>eu.kanade.tachiyomi.extension.id.boosei</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Boosei</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.boosei.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.boosei-v1.2.1.apk</apkname>
+			<hash type="sha256">e4cc22dc9a50340a10fb09d11b6e54af78197ee91e78d5519467585b1c59682b</hash>
+			<size>70714</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -1598,6 +1714,35 @@ Features include:
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.chiotaku">
+		<id>eu.kanade.tachiyomi.extension.id.chiotaku</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: ChiOtaku</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.chiotaku.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.chiotaku-v1.2.1.apk</apkname>
+			<hash type="sha256">9012d5e712f0091a622479c3bd9100d56323aabcf5abac3f3b3275fc0d67a008</hash>
+			<size>37948</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2131,6 +2276,35 @@ Features include:
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.deathtollscans">
+		<id>eu.kanade.tachiyomi.extension.en.deathtollscans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Death Toll Scans</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.deathtollscans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.deathtollscans-v1.2.1.apk</apkname>
+			<hash type="sha256">39f1fd9bacfd72a9af25e03866ab352f5999cf9c6af77521e6943e0e1155fa44</hash>
+			<size>33768</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.decadencescans">
 		<id>eu.kanade.tachiyomi.extension.en.decadencescans</id>
 		<added>2021-02-12</added>
@@ -2642,7 +2816,7 @@ Features include:
 		<lastupdated>2021-02-15</lastupdated>
 		<name>Tachiyomi: EarlyManga (EN)</name>
 		<summary>Tachiyomi EarlyManga Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.en.earlymanga.5.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.en.earlymanga.6.png</icon>
 		<desc>No description available</desc>
 		<license>Unknown</license>
 		<categories>Tachiyomi Extensions</categories>
@@ -2651,12 +2825,12 @@ Features include:
 		<source>https://github.com/inorichi/tachiyomi-extensions</source>
 		<tracker>https://github.com/inorichi/tachiyomi-extensions/issues</tracker>
 		<marketversion></marketversion>
-		<marketvercode>5</marketvercode>
+		<marketvercode>6</marketvercode>
 		<package>
-			<version>1.2.5</version>
-			<versioncode>5</versioncode>
-			<apkname>tachiyomi-en.earlymanga-v1.2.5.apk</apkname>
-			<hash type="sha256">bb90389d442dd93f80a0710fa667b24cf31155fb1a38423639f94a74277eacf1</hash>
+			<version>1.2.6</version>
+			<versioncode>6</versioncode>
+			<apkname>tachiyomi-en.earlymanga-v1.2.6.apk</apkname>
+			<hash type="sha256">f013522144b60a4bdfddb2f853c12ed282fbe8cbc305f1d354179730a3650e48</hash>
 			<size>58340</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
@@ -2897,6 +3071,35 @@ Features include:
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.evilflowers">
+		<id>eu.kanade.tachiyomi.extension.en.evilflowers</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Evil Flowers</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.evilflowers.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.evilflowers-v1.2.1.apk</apkname>
+			<hash type="sha256">9ae0385b8e44a65b6bb0615a7f98c85ae72e75604fdadd918aad11a6c575552e</hash>
+			<size>33765</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.existentialcomics">
 		<id>eu.kanade.tachiyomi.extension.en.existentialcomics</id>
 		<added>2021-02-12</added>
@@ -2922,6 +3125,35 @@ Features include:
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.it.fallenworldorder">
+		<id>eu.kanade.tachiyomi.extension.it.fallenworldorder</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Fall World Reader</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.it.fallenworldorder.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-it.fallenworldorder-v1.2.1.apk</apkname>
+			<hash type="sha256">bbcab52b93d0d1d368b1596c55f10e956ffb8d8455e4ee17f10e564260a867c8</hash>
+			<size>33770</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -2980,6 +3212,35 @@ Features include:
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.flamescans">
+		<id>eu.kanade.tachiyomi.extension.en.flamescans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Flame Scans</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.flamescans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.flamescans-v1.2.1.apk</apkname>
+			<hash type="sha256">998a7d84d53a08208d8c0d3a8805aee7d84c0ef8ec00cd53df16a4f0ecd791ba</hash>
+			<size>37950</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3080,6 +3341,35 @@ Features include:
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.all.foolslidecustomizable">
+		<id>eu.kanade.tachiyomi.extension.all.foolslidecustomizable</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: FoolSlide Customizable</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.all.foolslidecustomizable.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-all.foolslidecustomizable-v1.2.1.apk</apkname>
+			<hash type="sha256">083fc9d2b7b7fed27f12c2ce0372573624a54a06a97bf2233b69de835789b103</hash>
+			<size>37872</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3323,6 +3613,35 @@ Features include:
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.it.gto">
+		<id>eu.kanade.tachiyomi.extension.it.gto</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: GTO The Great Site</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.it.gto.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-it.gto-v1.2.1.apk</apkname>
+			<hash type="sha256">a08fa3cf68193247797b3710adf53beaf4472e8460f40ce757704bf17034d83f</hash>
+			<size>33757</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.zh.gufengmh">
 		<id>eu.kanade.tachiyomi.extension.zh.gufengmh</id>
 		<added>2021-02-12</added>
@@ -3408,6 +3727,35 @@ Features include:
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.gurukomik">
+		<id>eu.kanade.tachiyomi.extension.id.gurukomik</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: GURU Komik</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.gurukomik.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.gurukomik-v1.2.1.apk</apkname>
+			<hash type="sha256">53f74e911d75c4c527d87960e9f27779ebda645748f96854b94787acdf733e56</hash>
+			<size>78909</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3590,6 +3938,35 @@ Features include:
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.helveticascans">
+		<id>eu.kanade.tachiyomi.extension.en.helveticascans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Helvetica Scans</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.helveticascans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.helveticascans-v1.2.1.apk</apkname>
+			<hash type="sha256">9adcb19f0d24e3a0195295cc9a6a2438051c7ffc46397d3a5ee2ffdd2d7e48a0</hash>
+			<size>33768</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.ru.henchan">
 		<id>eu.kanade.tachiyomi.extension.ru.henchan</id>
 		<added>2021-02-12</added>
@@ -3617,6 +3994,35 @@ Features include:
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.hentaicafe">
+		<id>eu.kanade.tachiyomi.extension.en.hentaicafe</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Hentai Cafe</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.hentaicafe.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.hentaicafe-v1.2.1.apk</apkname>
+			<hash type="sha256">eb62903ad3c77af56df26b43cfe30942830cb2f0c82fa0395ee79dc396f3295c</hash>
+			<size>46052</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -3773,10 +4179,10 @@ Features include:
 	<application id="eu.kanade.tachiyomi.extension.vi.hentaivn">
 		<id>eu.kanade.tachiyomi.extension.vi.hentaivn</id>
 		<added>2021-02-12</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<lastupdated>2021-02-15</lastupdated>
 		<name>Tachiyomi: HentaiVN (VI)</name>
 		<summary>Tachiyomi HentaiVN Extension</summary>
-		<icon>eu.kanade.tachiyomi.extension.vi.hentaivn.7.png</icon>
+		<icon>eu.kanade.tachiyomi.extension.vi.hentaivn.8.png</icon>
 		<desc>The following is a list of urls found in the source for this extension:
 * https://hentaivn.net</desc>
 		<license>Unknown</license>
@@ -3786,16 +4192,16 @@ Features include:
 		<source>https://github.com/inorichi/tachiyomi-extensions</source>
 		<tracker>https://github.com/inorichi/tachiyomi-extensions/issues</tracker>
 		<marketversion></marketversion>
-		<marketvercode>7</marketvercode>
+		<marketvercode>8</marketvercode>
 		<package>
-			<version>1.2.7</version>
-			<versioncode>7</versioncode>
-			<apkname>tachiyomi-vi.hentaivn-v1.2.7.apk</apkname>
-			<hash type="sha256">a6a9dcb74254ce23c276a0e9057e5c81c8cf0b6d4a4d6d44b2d801795be59249</hash>
+			<version>1.2.8</version>
+			<versioncode>8</versioncode>
+			<apkname>tachiyomi-vi.hentaivn-v1.2.8.apk</apkname>
+			<hash type="sha256">10ca3c7ed65f7f680694ef9dec4d3b11b5636d8e54cfa46233285e2cc59c50dc</hash>
 			<size>91106</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-02-12</added>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -4201,6 +4607,64 @@ The following comics are published directly on the main hiveworks website, howev
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.hniscantraden">
+		<id>eu.kanade.tachiyomi.extension.en.hniscantraden</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: HNI-Scantrad</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.hniscantraden.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.hniscantraden-v1.2.1.apk</apkname>
+			<hash type="sha256">6b0d70bd65eb58f10d8479bec157b4191e2685d1e8e3d0d1dd08b160335be300</hash>
+			<size>37863</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.fr.hniscantrad">
+		<id>eu.kanade.tachiyomi.extension.fr.hniscantrad</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: HNI-Scantrad</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.fr.hniscantrad.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-fr.hniscantrad-v1.2.1.apk</apkname>
+			<hash type="sha256">ac94c27af4de11c7740c1be8909dcc98cda1c3f9229eb544e9f1d5c2d96e98fb</hash>
+			<size>33765</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -4645,6 +5109,35 @@ The following comics are published directly on the main hiveworks website, howev
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.iskultripscans">
+		<id>eu.kanade.tachiyomi.extension.en.iskultripscans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Iskultrip Scans</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.iskultripscans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.iskultripscans-v1.2.1.apk</apkname>
+			<hash type="sha256">182af9e37a964e62e5aa7e7786fd766cbc9fe30e37b837b3228ffa3c9de3f922</hash>
+			<size>33768</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.it.itascan">
 		<id>eu.kanade.tachiyomi.extension.it.itascan</id>
 		<added>2021-02-12</added>
@@ -4909,6 +5402,35 @@ The following comics are published directly on the main hiveworks website, howev
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.kaisarkomik">
+		<id>eu.kanade.tachiyomi.extension.id.kaisarkomik</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Kaisar Komik</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.kaisarkomik.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.kaisarkomik-v1.2.1.apk</apkname>
+			<hash type="sha256">342bbb808158dc71a3d3fa481b56132ac7c4acf459d43296d9c149c8201fbbd3</hash>
+			<size>103487</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.fr.kangaryu">
 		<id>eu.kanade.tachiyomi.extension.fr.kangaryu</id>
 		<added>2021-02-12</added>
@@ -5025,10 +5547,68 @@ The following comics are published directly on the main hiveworks website, howev
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.kireicake">
+		<id>eu.kanade.tachiyomi.extension.en.kireicake</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Kirei Cake</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.kireicake.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.kireicake-v1.2.1.apk</apkname>
+			<hash type="sha256">f49839e9932c9bf59e9e986685e96603cbe0189e2cf263e0723e8b6e631f066d</hash>
+			<size>62435</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.es.kirishimafansub">
+		<id>eu.kanade.tachiyomi.extension.es.kirishimafansub</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Kirishima Fansub</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.es.kirishimafansub.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-es.kirishimafansub-v1.2.1.apk</apkname>
+			<hash type="sha256">2afca6285e269b4fa51bc506f775443f0ecd4a6d35939e37481cc50bb11f76ea</hash>
+			<size>33769</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.id.kiryuu">
 		<id>eu.kanade.tachiyomi.extension.id.kiryuu</id>
 		<added>2021-02-12</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<lastupdated>2021-02-15</lastupdated>
 		<name>Tachiyomi: Kiryuu (ID)</name>
 		<summary>Tachiyomi Kiryuu Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.id.kiryuu.2.png</icon>
@@ -5173,6 +5753,35 @@ The following comics are published directly on the main hiveworks website, howev
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.klankomik">
+		<id>eu.kanade.tachiyomi.extension.id.klankomik</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: KlanKomik</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.klankomik.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.klankomik-v1.2.1.apk</apkname>
+			<hash type="sha256">9810a67f1eb6fcdc36feee21846e8a63c9ac5f36017a9053debaaab51035a9c5</hash>
+			<size>37949</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.id.klikmanga">
 		<id>eu.kanade.tachiyomi.extension.id.klikmanga</id>
 		<added>2021-02-12</added>
@@ -5261,6 +5870,64 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.komikav">
+		<id>eu.kanade.tachiyomi.extension.id.komikav</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Komik AV</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.komikav.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.komikav-v1.2.1.apk</apkname>
+			<hash type="sha256">6eb874dd519a44e7c57d4d8311cfa6acfcbcf87d910521ef7cd5219a11aaa241</hash>
+			<size>62523</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.komikindowpms">
+		<id>eu.kanade.tachiyomi.extension.id.komikindowpms</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Komik Indo</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.komikindowpms.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.komikindowpms-v1.2.1.apk</apkname>
+			<hash type="sha256">21e1d1ebf6c7de43d64f1551b38d31bf7163a201af1419d730affdcecc9b70d5</hash>
+			<size>46145</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.id.komikindo">
 		<id>eu.kanade.tachiyomi.extension.id.komikindo</id>
 		<added>2021-02-12</added>
@@ -5291,10 +5958,39 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.komikstation">
+		<id>eu.kanade.tachiyomi.extension.id.komikstation</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Komik Station</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.komikstation.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.komikstation-v1.2.1.apk</apkname>
+			<hash type="sha256">bd4b1cae3e7caf9a6439e2ad209c78277c284d3ae7c73dfd98c2b7a5b4d4ee2e</hash>
+			<size>37952</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.id.komikcast">
 		<id>eu.kanade.tachiyomi.extension.id.komikcast</id>
 		<added>2021-02-12</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<lastupdated>2021-02-15</lastupdated>
 		<name>Tachiyomi: Komikcast (ID)</name>
 		<summary>Tachiyomi Komikcast Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.id.komikcast.4.png</icon>
@@ -5352,8 +6048,8 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.id.komikgo">
 		<id>eu.kanade.tachiyomi.extension.id.komikgo</id>
-		<added>2021-02-12</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
 		<name>Tachiyomi: Komikgo (ID)</name>
 		<summary>Tachiyomi Komikgo Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.id.komikgo.1.png</icon>
@@ -5370,11 +6066,40 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<version>1.2.1</version>
 			<versioncode>1</versioncode>
 			<apkname>tachiyomi-id.komikgo-v1.2.1.apk</apkname>
-			<hash type="sha256">305dd8b778b7d05230f858c938591a7c19e71109b112aaeebe364588d074112d</hash>
-			<size>50145</size>
+			<hash type="sha256">aa130419653c11a0f4df8543215b019861ed9cd51ca4ddb76685c8161f6e63f3</hash>
+			<size>42043</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-02-12</added>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.komikindoco">
+		<id>eu.kanade.tachiyomi.extension.id.komikindoco</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: KomikIndo.co</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.komikindoco.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.komikindoco-v1.2.1.apk</apkname>
+			<hash type="sha256">d5f74586ce1922338138c082e5c48c1531dc89b92deab9ba3fcff145970d075f</hash>
+			<size>115775</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -5404,6 +6129,64 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.komikru">
+		<id>eu.kanade.tachiyomi.extension.id.komikru</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: KomikRu</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.komikru.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.komikru-v1.2.1.apk</apkname>
+			<hash type="sha256">516c566c5081f143f167be0d7c6499f65011d799a35e3638feee447505ad0932</hash>
+			<size>37947</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.komiktap">
+		<id>eu.kanade.tachiyomi.extension.id.komiktap</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: KomikTap</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.komiktap.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.komiktap-v1.2.1.apk</apkname>
+			<hash type="sha256">8b34c2c982b8e7181e495dcde56ea5511e4a608c7e9b12c10ad42103e0562808</hash>
+			<size>37948</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -5463,6 +6246,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.kumascans">
+		<id>eu.kanade.tachiyomi.extension.en.kumascans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Kuma Scans (Kuma Translation)</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.kumascans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.kumascans-v1.2.1.apk</apkname>
+			<hash type="sha256">2a99b21d9edeeb8cad6f9180f2ddf564058f1114ac5bf06fb12338b35436e807</hash>
+			<size>119869</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -5732,6 +6544,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.tr.liebeschneehiver">
+		<id>eu.kanade.tachiyomi.extension.tr.liebeschneehiver</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Liebe Schnee Hiver</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.tr.liebeschneehiver.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-tr.liebeschneehiver-v1.2.1.apk</apkname>
+			<hash type="sha256">941013b86ed829c51edf6905cbf2f2b402462564d5cc4028c2cb38be529bfd78</hash>
+			<size>37956</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.lilymanga">
 		<id>eu.kanade.tachiyomi.extension.en.lilymanga</id>
 		<added>2021-02-12</added>
@@ -5757,6 +6598,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.lilyreader">
+		<id>eu.kanade.tachiyomi.extension.en.lilyreader</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Lilyreader</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.lilyreader.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.lilyreader-v1.2.1.apk</apkname>
+			<hash type="sha256">6d41a301b271f23cbbd18ab4e70d90dab1ad60e1dc58a5f5e23191421750bc6f</hash>
+			<size>33764</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -5819,6 +6689,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.it.lupiteam">
+		<id>eu.kanade.tachiyomi.extension.it.lupiteam</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: LupiTeam</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.it.lupiteam.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-it.lupiteam-v1.2.1.apk</apkname>
+			<hash type="sha256">d1d66255d5e3f868dfe5cd860a1fa0e20924476c6797f76bd680660ae031323e</hash>
+			<size>33762</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.luscious">
 		<id>eu.kanade.tachiyomi.extension.all.luscious</id>
 		<added>2021-02-12</added>
@@ -5844,6 +6743,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.tr.mabushimajo">
+		<id>eu.kanade.tachiyomi.extension.tr.mabushimajo</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Mabushimajo</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.tr.mabushimajo.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-tr.mabushimajo-v1.2.1.apk</apkname>
+			<hash type="sha256">40b91b75333dd8855c26d8925deba5ff969e2b3961b9e90f561e0503c7283fa1</hash>
+			<size>33765</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -6521,6 +7449,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.ar.mangaproz">
+		<id>eu.kanade.tachiyomi.extension.ar.mangaproz</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Manga Pro Z</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.ar.mangaproz.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-ar.mangaproz-v1.2.1.apk</apkname>
+			<hash type="sha256">3c2030399853b348848ad3f913a1d85754afdcf9838e0208cbc89076453e0aec</hash>
+			<size>37949</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -7874,6 +8831,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.mangaindonesia">
+		<id>eu.kanade.tachiyomi.extension.id.mangaindonesia</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: MangaIndonesia</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.mangaindonesia.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.mangaindonesia-v1.2.1.apk</apkname>
+			<hash type="sha256">5b6376b5531252cf1091f34ee2aaf4f7bf823226ccc7e513eb223b5d626e9cf8</hash>
+			<size>37954</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.mangairo">
 		<id>eu.kanade.tachiyomi.extension.en.mangairo</id>
 		<added>2021-02-12</added>
@@ -8172,7 +9158,7 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 	<application id="eu.kanade.tachiyomi.extension.id.mangakyo">
 		<id>eu.kanade.tachiyomi.extension.id.mangakyo</id>
 		<added>2021-02-12</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<lastupdated>2021-02-15</lastupdated>
 		<name>Tachiyomi: Mangakyo (ID)</name>
 		<summary>Tachiyomi Mangakyo Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.id.mangakyo.2.png</icon>
@@ -8458,6 +9444,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.ar.mangap">
+		<id>eu.kanade.tachiyomi.extension.ar.mangap</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: MangaP</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.ar.mangap.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-ar.mangap-v1.2.1.apk</apkname>
+			<hash type="sha256">805d4de5870cf8453cafdba3851863f2bb6316414a8f6d2421852bef905698ac</hash>
+			<size>37946</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -8843,6 +9858,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.de.mangascouts">
+		<id>eu.kanade.tachiyomi.extension.de.mangascouts</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: MangaScouts</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.de.mangascouts.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-de.mangascouts-v1.2.1.apk</apkname>
+			<hash type="sha256">3e92788f440a77ae8ab19f392ab89eb5e31d59335284b5f98bea8f52a5675199</hash>
+			<size>33765</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.mangasee">
 		<id>eu.kanade.tachiyomi.extension.en.mangasee</id>
 		<added>2021-02-12</added>
@@ -8876,7 +9920,7 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 	<application id="eu.kanade.tachiyomi.extension.id.mangashiro">
 		<id>eu.kanade.tachiyomi.extension.id.mangashiro</id>
 		<added>2021-02-12</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<lastupdated>2021-02-15</lastupdated>
 		<name>Tachiyomi: Mangashiro (ID)</name>
 		<summary>Tachiyomi Mangashiro Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.id.mangashiro.5.png</icon>
@@ -9048,6 +10092,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.ar.mangaswat">
+		<id>eu.kanade.tachiyomi.extension.ar.mangaswat</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: MangaSwat</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.ar.mangaswat.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-ar.mangaswat-v1.2.1.apk</apkname>
+			<hash type="sha256">7656940ce6a029bb03234b57c4b2f48fdae89de1ae96f2603c3955771eecbe2f</hash>
+			<size>42045</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.pt.mangateca">
 		<id>eu.kanade.tachiyomi.extension.pt.mangateca</id>
 		<added>2021-02-12</added>
@@ -9073,6 +10146,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.mangatellers">
+		<id>eu.kanade.tachiyomi.extension.en.mangatellers</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Mangatellers</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.mangatellers.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.mangatellers-v1.2.1.apk</apkname>
+			<hash type="sha256">e98e6c0add9e51874fc5aaf900c7083dbf4514a5ebae4f16a9c4aa9b49dd05d9</hash>
+			<size>33766</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -10369,6 +11471,64 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.masterkomik">
+		<id>eu.kanade.tachiyomi.extension.id.masterkomik</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: MasterKomik</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.masterkomik.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.masterkomik-v1.2.1.apk</apkname>
+			<hash type="sha256">5e0a59276c9b0ba530ee2858647f42aff454da752a0351ded57e0fcf1a2cafeb</hash>
+			<size>74815</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.matakomik">
+		<id>eu.kanade.tachiyomi.extension.id.matakomik</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Matakomik</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.matakomik.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.matakomik-v1.2.1.apk</apkname>
+			<hash type="sha256">0d054ed0b760655d74e949c99fa0fa672d632ba253075abb1e813b63c6144905</hash>
+			<size>37949</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.vi.medoctruyentranh">
 		<id>eu.kanade.tachiyomi.extension.vi.medoctruyentranh</id>
 		<added>2021-02-12</added>
@@ -10395,6 +11555,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.es.menudofansub">
+		<id>eu.kanade.tachiyomi.extension.es.menudofansub</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Menudo-Fansub</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.es.menudofansub.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-es.menudofansub-v1.2.1.apk</apkname>
+			<hash type="sha256">0161794d588787ba20a7cbf33690bad964b46f181560ae5300dfa26bda4e8929</hash>
+			<size>33766</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -11497,6 +12686,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.it.nifteam">
+		<id>eu.kanade.tachiyomi.extension.it.nifteam</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: NIFTeam</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.it.nifteam.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-it.nifteam-v1.2.1.apk</apkname>
+			<hash type="sha256">17ceafb4c69013a156b69caffca2a5f6249d7f65ff05929219a5ae4d777a6f8e</hash>
+			<size>33761</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.nightcomic">
 		<id>eu.kanade.tachiyomi.extension.en.nightcomic</id>
 		<added>2021-02-12</added>
@@ -11738,6 +12956,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.nonstopscans">
+		<id>eu.kanade.tachiyomi.extension.en.nonstopscans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Non-Stop Scans</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.nonstopscans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.nonstopscans-v1.2.1.apk</apkname>
+			<hash type="sha256">2445bb441b1d453c10aedefdbc72421a7a4ec54458bb200bbf7f437aabb137fa</hash>
+			<size>37952</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.it.novelleleggere">
 		<id>eu.kanade.tachiyomi.extension.it.novelleleggere</id>
 		<added>2021-02-12</added>
@@ -11938,6 +13185,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.onetimescans">
+		<id>eu.kanade.tachiyomi.extension.en.onetimescans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: One Time Scans</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.onetimescans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.onetimescans-v1.2.1.apk</apkname>
+			<hash type="sha256">e522e4ea36b625f22cbba5b80ddd8bfb62e54c61d86acff3b4a7e8cfcf7bdaaf</hash>
+			<size>33766</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -12384,6 +13660,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.it.powermangait">
+		<id>eu.kanade.tachiyomi.extension.it.powermangait</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: PowerManga</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.it.powermangait.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-it.powermangait-v1.2.1.apk</apkname>
+			<hash type="sha256">a131912fddbac228e1bcb99b441a1914cda7ecd401368db9d4cc85896d238fb6</hash>
+			<size>33766</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.primemanga">
 		<id>eu.kanade.tachiyomi.extension.en.primemanga</id>
 		<added>2021-02-12</added>
@@ -12680,6 +13985,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.it.rama">
+		<id>eu.kanade.tachiyomi.extension.it.rama</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Rama</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.it.rama.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-it.rama-v1.2.1.apk</apkname>
+			<hash type="sha256">769f40a4802a0eb2d8124ca39ceeac1420ee4ddd26db65c1949e0de8a7cf485c</hash>
+			<size>33758</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.randomtranslations">
 		<id>eu.kanade.tachiyomi.extension.en.randomtranslations</id>
 		<added>2021-02-12</added>
@@ -12771,7 +14105,7 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 	<application id="eu.kanade.tachiyomi.extension.ja.rawkuma">
 		<id>eu.kanade.tachiyomi.extension.ja.rawkuma</id>
 		<added>2021-02-12</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<lastupdated>2021-02-15</lastupdated>
 		<name>Tachiyomi: Rawkuma (JA)</name>
 		<summary>Tachiyomi Rawkuma Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.ja.rawkuma.3.png</icon>
@@ -12883,6 +14217,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.readkomik">
+		<id>eu.kanade.tachiyomi.extension.en.readkomik</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Readkomik</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.readkomik.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.readkomik-v1.2.1.apk</apkname>
+			<hash type="sha256">6368206f740c80d4390c2c52f00786b8346390cde75479e221556b06822ac24f</hash>
+			<size>37949</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -13147,6 +14510,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.resetscans">
+		<id>eu.kanade.tachiyomi.extension.en.resetscans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Reset Scans</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.resetscans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.resetscans-v1.2.1.apk</apkname>
+			<hash type="sha256">7ab4c83d8a4f358b60e54eb6e9150aac0de4bd3a9f62b4cd7d1abf767ab54737</hash>
+			<size>37950</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -13445,6 +14837,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.sektekomik">
+		<id>eu.kanade.tachiyomi.extension.id.sektekomik</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Sekte Komik</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.sektekomik.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.sektekomik-v1.2.1.apk</apkname>
+			<hash type="sha256">2e01be35e996344275aa0a26dbb56bd09218fac8e385ad8336e6fbcb32e9f067</hash>
+			<size>66622</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.ru.selfmanga">
 		<id>eu.kanade.tachiyomi.extension.ru.selfmanga</id>
 		<added>2021-02-12</added>
@@ -13505,6 +14926,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.sensescans">
+		<id>eu.kanade.tachiyomi.extension.en.sensescans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Sense-Scans</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.sensescans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.sensescans-v1.2.1.apk</apkname>
+			<hash type="sha256">e33c1cc5a2519b46c0e2e2d3953183322a551fab29ece59b78ddbcb33db222bb</hash>
+			<size>33764</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.tr.serimanga">
 		<id>eu.kanade.tachiyomi.extension.tr.serimanga</id>
 		<added>2021-02-12</added>
@@ -13530,6 +14980,64 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.id.sheamanga">
+		<id>eu.kanade.tachiyomi.extension.id.sheamanga</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Shea Manga</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.id.sheamanga.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-id.sheamanga-v1.2.1.apk</apkname>
+			<hash type="sha256">f82f3f0ffe07a25ba74634a0087256e7ff877f9d2fdbee430377c1e06961350e</hash>
+			<size>62525</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.shieldmanga">
+		<id>eu.kanade.tachiyomi.extension.en.shieldmanga</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Shield Manga</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.shieldmanga.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.shieldmanga-v1.2.1.apk</apkname>
+			<hash type="sha256">2da0430cbec1c20631e1bfef57e52dc43003e14d53d097d726833209f1928276</hash>
+			<size>82917</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -13622,6 +15130,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.pt.silencescan">
+		<id>eu.kanade.tachiyomi.extension.pt.silencescan</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Silence Scan</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.pt.silencescan.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-pt.silencescan-v1.2.1.apk</apkname>
+			<hash type="sha256">0d5eefba79e115bef20d45adf1b7fcf8208e07b969707b03efd924980c158810</hash>
+			<size>42047</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.silentmangaaudition">
 		<id>eu.kanade.tachiyomi.extension.en.silentmangaaudition</id>
 		<added>2021-02-12</added>
@@ -13647,6 +15184,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.silentsky">
+		<id>eu.kanade.tachiyomi.extension.en.silentsky</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Silent Sky</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.silentsky.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.silentsky-v1.2.1.apk</apkname>
+			<hash type="sha256">bdcdb7d038c97db39a1f63c363a99d497ea662ed89b08e46a6d46204ddd342ab</hash>
+			<size>33763</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -13942,6 +15508,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.it.storminheaven">
+		<id>eu.kanade.tachiyomi.extension.it.storminheaven</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Storm in Heaven</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.it.storminheaven.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-it.storminheaven-v1.2.1.apk</apkname>
+			<hash type="sha256">1b4497dcf0ac49447514e89087b7f4980fc73615111227cbc67f0724d6447272</hash>
+			<size>33767</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.pt.superhentais">
 		<id>eu.kanade.tachiyomi.extension.pt.superhentais</id>
 		<added>2021-02-12</added>
@@ -14146,6 +15741,64 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.tr.tempestmanga">
+		<id>eu.kanade.tachiyomi.extension.tr.tempestmanga</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Tempest Manga</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.tr.tempestmanga.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-tr.tempestmanga-v1.2.1.apk</apkname>
+			<hash type="sha256">efdd66e1fdbbed3576dd48aaed538cbdd525dadaa3b1e7ef482bce46236a2d39</hash>
+			<size>115776</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.thecatscans">
+		<id>eu.kanade.tachiyomi.extension.en.thecatscans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: The Cat Scans</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.thecatscans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.thecatscans-v1.2.1.apk</apkname>
+			<hash type="sha256">b648a7ed31c9f9ff899e97c5edd21f6984a5ecf51096d625609aa9c22791a3f5</hash>
+			<size>33765</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.all.thelibraryofohara">
 		<id>eu.kanade.tachiyomi.extension.all.thelibraryofohara</id>
 		<added>2021-02-12</added>
@@ -14200,6 +15853,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.it.phoenixscans">
+		<id>eu.kanade.tachiyomi.extension.it.phoenixscans</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: The Phoenix Scans</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.it.phoenixscans.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-it.phoenixscans-v1.2.1.apk</apkname>
+			<hash type="sha256">e37f406b89976d89923a319a46c57ce08c42ed7715c227f13c46c9ce8f85d710</hash>
+			<size>33766</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -14555,6 +16237,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.tr.tortugaceviri">
+		<id>eu.kanade.tachiyomi.extension.tr.tortugaceviri</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Tortuga Ceviri</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.tr.tortugaceviri.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-tr.tortugaceviri-v1.2.1.apk</apkname>
+			<hash type="sha256">ed10a52fb33f94e60af1a380d428a633b50b1768785ee747769fc871c662386c</hash>
+			<size>33767</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.en.tritiniascans">
 		<id>eu.kanade.tachiyomi.extension.en.tritiniascans</id>
 		<added>2021-02-12</added>
@@ -14872,6 +16583,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.it.tuttoanimemanga">
+		<id>eu.kanade.tachiyomi.extension.it.tuttoanimemanga</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: TuttoAnimeManga</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.it.tuttoanimemanga.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-it.tuttoanimemanga-v1.2.1.apk</apkname>
+			<hash type="sha256">a5422ad0cdd7547ae9ab7126dc1be084174307a8eb10dbd0bf44f17a2b9de04f</hash>
+			<size>33769</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -15410,8 +17150,8 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 	</application>
 	<application id="eu.kanade.tachiyomi.extension.id.westmanga">
 		<id>eu.kanade.tachiyomi.extension.id.westmanga</id>
-		<added>2021-02-12</added>
-		<lastupdated>2021-02-12</lastupdated>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
 		<name>Tachiyomi: West Manga (ID)</name>
 		<summary>Tachiyomi West Manga Extension</summary>
 		<icon>eu.kanade.tachiyomi.extension.id.westmanga.1.png</icon>
@@ -15429,11 +17169,11 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<version>1.2.1</version>
 			<versioncode>1</versioncode>
 			<apkname>tachiyomi-id.westmanga-v1.2.1.apk</apkname>
-			<hash type="sha256">cc285032c56c8a54a0ce5bf107da0bfd04fd84b3263336f2a4eb1c7caa1647be</hash>
-			<size>45999</size>
+			<hash type="sha256">792358021f61f0ca0ea0a5122c28286f95469a46c0290d8e7d2cbde4548c90c8</hash>
+			<size>91197</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2021-02-12</added>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -15978,6 +17718,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<features>tachiyomi.extension</features>
 		</package>
 	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.yuriism">
+		<id>eu.kanade.tachiyomi.extension.en.yuriism</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Yuri-ism</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.yuriism.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.yuriism-v1.2.1.apk</apkname>
+			<hash type="sha256">ac332dd5918824e32a97a4acdc9b8b4be0142ed2069971f7ea739e891f7d4645</hash>
+			<size>33761</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
 	<application id="eu.kanade.tachiyomi.extension.es.zahard">
 		<id>eu.kanade.tachiyomi.extension.es.zahard</id>
 		<added>2021-02-12</added>
@@ -16004,6 +17773,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.en.zandynofansub">
+		<id>eu.kanade.tachiyomi.extension.en.zandynofansub</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Zandy no Fansub</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.en.zandynofansub.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-en.zandynofansub-v1.2.1.apk</apkname>
+			<hash type="sha256">ec2b9dc41e5e519a73537e622c8c9da44a13879e9c70d0f36757f7e4a12cff0a</hash>
+			<size>33767</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
@@ -16150,6 +17948,35 @@ The command used was sed 's/&quot;/\n/g|grep -E '^https?://'</desc>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-02-12</added>
+			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
+			<features>tachiyomi.extension</features>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.extension.ru.russification">
+		<id>eu.kanade.tachiyomi.extension.ru.russification</id>
+		<added>2021-02-15</added>
+		<lastupdated>2021-02-15</lastupdated>
+		<name>Tachiyomi: Русификация</name>
+		<summary></summary>
+		<icon>eu.kanade.tachiyomi.extension.ru.russification.1.png</icon>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<categories>fdroid</categories>
+		<category>fdroid</category>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>2147483647</marketvercode>
+		<package>
+			<version>1.2.1</version>
+			<versioncode>1</versioncode>
+			<apkname>tachiyomi-ru.russification-v1.2.1.apk</apkname>
+			<hash type="sha256">95adb95dd881c8c53e656bb01603fcb59665654a5012c6a26e5c18281d7b6f78</hash>
+			<size>33767</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2021-02-15</added>
 			<sig>87dacf9f9adcd0e3f7daf57a923f943d</sig>
 			<features>tachiyomi.extension</features>
 		</package>
