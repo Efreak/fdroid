@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1613462430102,
+  "endTimestamp": 1613476834909,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -400,6 +400,7 @@
     "eu.kanade.tachiyomi.extension.en.woopread",
     "eu.kanade.tachiyomi.extension.en.wutopia",
     "eu.kanade.tachiyomi.extension.en.wuxiaworld",
+    "eu.kanade.tachiyomi.extension.en.xcalibrscans",
     "eu.kanade.tachiyomi.extension.en.xkcd",
     "eu.kanade.tachiyomi.extension.en.xoxocomics",
     "eu.kanade.tachiyomi.extension.en.yuriism",
@@ -666,6 +667,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1613491211000,
+  "startTimestamp": 1613505616000,
   "subcommand": "update"
 }
