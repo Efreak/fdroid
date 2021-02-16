@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1613491347551,
+  "endTimestamp": 1613505635927,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -326,6 +326,7 @@
     "eu.kanade.tachiyomi.extension.en.nhentai.com",
     "eu.kanade.tachiyomi.extension.en.nightcomic",
     "eu.kanade.tachiyomi.extension.en.nineanime",
+    "eu.kanade.tachiyomi.extension.en.nitroscans",
     "eu.kanade.tachiyomi.extension.en.nonstopscans",
     "eu.kanade.tachiyomi.extension.en.ntsvoidscans",
     "eu.kanade.tachiyomi.extension.en.nuxscans",
@@ -513,6 +514,7 @@
     "eu.kanade.tachiyomi.extension.ja.hanascanrawqq",
     "eu.kanade.tachiyomi.extension.ja.kisslove",
     "eu.kanade.tachiyomi.extension.ja.mangaraw",
+    "eu.kanade.tachiyomi.extension.ja.mangaraworg",
     "eu.kanade.tachiyomi.extension.ja.nikkangecchan",
     "eu.kanade.tachiyomi.extension.ja.rawdevart",
     "eu.kanade.tachiyomi.extension.ja.rawkuma",
@@ -667,6 +669,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1613520128000,
+  "startTimestamp": 1613534416000,
   "subcommand": "update"
 }

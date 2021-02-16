@@ -31950,5 +31950,157 @@
     "apkName": "tachiyomi-fr.scantrad-v1.2.13.apk",
     "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.13.png",
     "added": 1613505621.256038
+  },
+  "tachiyomi-en.earlymanga-v1.2.8.apk": {
+    "hash": "21d3bc88d960ba575382d910674867dbbf03d0462dc152a6feb76b7a83ec2d07",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.earlymanga.8.png",
+      "480": "eu.kanade.tachiyomi.extension.en.earlymanga.8.png",
+      "320": "eu.kanade.tachiyomi.extension.en.earlymanga.8.png",
+      "240": "eu.kanade.tachiyomi.extension.en.earlymanga.8.png",
+      "160": "eu.kanade.tachiyomi.extension.en.earlymanga.8.png",
+      "0": "eu.kanade.tachiyomi.extension.en.earlymanga.8.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.earlymanga",
+    "versionCode": 8,
+    "name": "Tachiyomi: EarlyManga",
+    "versionName": "1.2.8",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 58430,
+    "apkName": "tachiyomi-en.earlymanga-v1.2.8.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.earlymanga.8.png",
+    "added": 1613534419.668079
+  },
+  "tachiyomi-en.nitroscans-v1.2.1.apk": {
+    "hash": "5921a2d0150cf9569c00504b6f6da8318aa2ea3d5045071df9f340c2de1ccbd8",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.nitroscans.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.nitroscans.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.nitroscans.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.nitroscans.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.nitroscans.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.nitroscans.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.nitroscans",
+    "versionCode": 1,
+    "name": "Tachiyomi: Nitro Scans",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 66532,
+    "apkName": "tachiyomi-en.nitroscans-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.nitroscans.1.png",
+    "added": 1613534420.575684
+  },
+  "tachiyomi-fr.scantrad-v1.2.14.apk": {
+    "hash": "3d4610a09462d04cd17aeca5699b1c6eda3a200a50bea5f0d1d4b98eaa5a80e2",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.fr.scantrad.14.png",
+      "480": "eu.kanade.tachiyomi.extension.fr.scantrad.14.png",
+      "320": "eu.kanade.tachiyomi.extension.fr.scantrad.14.png",
+      "240": "eu.kanade.tachiyomi.extension.fr.scantrad.14.png",
+      "160": "eu.kanade.tachiyomi.extension.fr.scantrad.14.png",
+      "0": "eu.kanade.tachiyomi.extension.fr.scantrad.14.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
+    "versionCode": 14,
+    "name": "Tachiyomi: Scantrad",
+    "versionName": "1.2.14",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 58429,
+    "apkName": "tachiyomi-fr.scantrad-v1.2.14.apk",
+    "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.14.png",
+    "added": 1613534421.446728
+  },
+  "tachiyomi-ja.mangaraworg-v1.2.2.apk": {
+    "hash": "75ec55b58a2e9d21e7b7b7d0fe34db0b8f683dec7ec62a49c29c1514436d5d1d",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ja.mangaraworg.2.png",
+      "480": "eu.kanade.tachiyomi.extension.ja.mangaraworg.2.png",
+      "320": "eu.kanade.tachiyomi.extension.ja.mangaraworg.2.png",
+      "240": "eu.kanade.tachiyomi.extension.ja.mangaraworg.2.png",
+      "160": "eu.kanade.tachiyomi.extension.ja.mangaraworg.2.png",
+      "0": "eu.kanade.tachiyomi.extension.ja.mangaraworg.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ja.mangaraworg",
+    "versionCode": 2,
+    "name": "Tachiyomi: Manga Raw.org",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 37951,
+    "apkName": "tachiyomi-ja.mangaraworg-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ja.mangaraworg.2.png",
+    "added": 1613534422.285241
   }
 }
