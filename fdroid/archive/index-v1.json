@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613520017000,
+    "timestamp": 1613534422000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -2183,7 +2183,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "13",
+      "suggestedVersionCode": "14",
       "description": "The following is a list of urls found in the source for this extension:\n* https://scantrad.fr\n* https://myanimelist.net/manga.php?q=",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -2192,9 +2192,9 @@
       "summary": "Tachiyomi Scantrad Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166932000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.13.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.14.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
-      "lastUpdated": 1613505621000
+      "lastUpdated": 1613534421000
     },
     {
       "categories": [
@@ -5171,6 +5171,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.scantrad": [
+      {
+        "added": 1613505621000,
+        "apkName": "tachiyomi-fr.scantrad-v1.2.14.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "3d4610a09462d04cd17aeca5699b1c6eda3a200a50bea5f0d1d4b98eaa5a80e2",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58429,
+        "targetSdkVersion": 29,
+        "versionCode": 14,
+        "versionName": "1.2.14"
+      },
       {
         "added": 1613476821000,
         "apkName": "tachiyomi-fr.scantrad-v1.2.13.apk",
