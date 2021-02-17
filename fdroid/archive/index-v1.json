@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613563293000,
+    "timestamp": 1613577946000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -419,7 +419,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "7",
+      "suggestedVersionCode": "8",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: EarlyManga (EN)",
@@ -427,9 +427,9 @@
       "summary": "Tachiyomi EarlyManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166797000,
-      "icon": "eu.kanade.tachiyomi.extension.en.earlymanga.7.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.earlymanga.8.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.earlymanga",
-      "lastUpdated": 1613505619000
+      "lastUpdated": 1613577942000
     },
     {
       "categories": [
@@ -1180,7 +1180,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "13",
+      "suggestedVersionCode": "20",
       "description": "The following is a list of urls found in the source for this extension:\n* https://www.mangakawaii.to\n* https://www.mangakawaii.to/manga/",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1189,9 +1189,9 @@
       "summary": "Tachiyomi Mangakawaii Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166930000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.13.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.20.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-      "lastUpdated": 1613167144000
+      "lastUpdated": 1613577943000
     },
     {
       "categories": [
@@ -2183,7 +2183,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "14",
+      "suggestedVersionCode": "15",
       "description": "The following is a list of urls found in the source for this extension:\n* https://scantrad.fr\n* https://myanimelist.net/manga.php?q=",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -2192,9 +2192,9 @@
       "summary": "Tachiyomi Scantrad Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166932000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.14.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.15.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
-      "lastUpdated": 1613534421000
+      "lastUpdated": 1613577944000
     },
     {
       "categories": [
@@ -3908,6 +3908,23 @@
     ],
     "eu.kanade.tachiyomi.extension.en.earlymanga": [
       {
+        "added": 1613505619000,
+        "apkName": "tachiyomi-en.earlymanga-v1.2.8.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "21d3bc88d960ba575382d910674867dbbf03d0462dc152a6feb76b7a83ec2d07",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.earlymanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58430,
+        "targetSdkVersion": 29,
+        "versionCode": 8,
+        "versionName": "1.2.8"
+      },
+      {
         "added": 1613476819000,
         "apkName": "tachiyomi-en.earlymanga-v1.2.7.apk",
         "features": [
@@ -5136,6 +5153,23 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.mangakawaii": [
       {
+        "added": 1613166931000,
+        "apkName": "tachiyomi-fr.mangakawaii-v1.2.20.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6de9ea36f6a9462c353e76835f6a79cd7184a3a39d6737391b0b83a553caf925",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58432,
+        "targetSdkVersion": 29,
+        "versionCode": 20,
+        "versionName": "1.2.20"
+      },
+      {
         "added": 1613166930000,
         "apkName": "tachiyomi-fr.mangakawaii-v1.2.13.apk",
         "features": [
@@ -5171,6 +5205,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.scantrad": [
+      {
+        "added": 1613534421000,
+        "apkName": "tachiyomi-fr.scantrad-v1.2.15.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "1e0f0679c1bb91e0a6b17201c5a2fd91e2806fa3b70959bf17f5bed7065a282d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58429,
+        "targetSdkVersion": 29,
+        "versionCode": 15,
+        "versionName": "1.2.15"
+      },
       {
         "added": 1613505621000,
         "apkName": "tachiyomi-fr.scantrad-v1.2.14.apk",
