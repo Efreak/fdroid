@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613736273000,
+    "timestamp": 1613750461000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -6607,7 +6607,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "19",
+      "suggestedVersionCode": "20",
       "description": "The following is a list of urls found in the source for this extension:\n* https://$baseDomain.net\n* https://$baseDomain.com",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -6616,9 +6616,9 @@
       "summary": "Tachiyomi NewToki Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166964000,
-      "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.19.png",
+      "icon": "eu.kanade.tachiyomi.extension.ko.newtoki.20.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
-      "lastUpdated": 1613167152000
+      "lastUpdated": 1613750453000
     },
     {
       "categories": [
@@ -18801,12 +18801,12 @@
     ],
     "eu.kanade.tachiyomi.extension.ko.newtoki": [
       {
-        "added": 1613166964000,
-        "apkName": "tachiyomi-ko.newtoki-v1.2.19.apk",
+        "added": 1613750453000,
+        "apkName": "tachiyomi-ko.newtoki-v1.2.20.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "a8f84e07853bbac4f80b03aabbd5cbda30592ad4844627baa74d3b72d5425de0",
+        "hash": "a02f85667275643c83d37daac0fba1fa5ac8205c4cd16fad15245bf05498e792",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ko.newtoki",
@@ -18814,8 +18814,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 128060,
         "targetSdkVersion": 29,
-        "versionCode": 19,
-        "versionName": "1.2.19"
+        "versionCode": 20,
+        "versionName": "1.2.20"
       }
     ],
     "eu.kanade.tachiyomi.extension.ko.toonkor": [
