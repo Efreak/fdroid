@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613764821000,
+    "timestamp": 1613779277000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1578,7 +1578,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "11",
+      "suggestedVersionCode": "12",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: EarlyManga (EN)",
@@ -1586,9 +1586,9 @@
       "summary": "Tachiyomi EarlyManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166797000,
-      "icon": "eu.kanade.tachiyomi.extension.en.earlymanga.11.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.earlymanga.12.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.earlymanga",
-      "lastUpdated": 1613664226000
+      "lastUpdated": 1613779268000
     },
     {
       "categories": [
@@ -7667,7 +7667,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "17",
+      "suggestedVersionCode": "18",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Remanga (RU)",
@@ -7675,9 +7675,9 @@
       "summary": "Tachiyomi Remanga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166999000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.remanga.17.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.remanga.18.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.remanga",
-      "lastUpdated": 1613167163000
+      "lastUpdated": 1613779270000
     },
     {
       "categories": [
@@ -7961,9 +7961,9 @@
       "license": "Unknown",
       "name": "Tachiyomi: Shield Manga",
       "added": 1613419237000,
-      "icon": "eu.kanade.tachiyomi.extension.en.shieldmanga.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.shieldmanga.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.shieldmanga",
-      "lastUpdated": 1613419237000
+      "lastUpdated": 1613779269000
     },
     {
       "categories": [
@@ -11923,21 +11923,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.earlymanga": [
       {
-        "added": 1613664226000,
-        "apkName": "tachiyomi-en.earlymanga-v1.2.11.apk",
+        "added": 1613779268000,
+        "apkName": "tachiyomi-en.earlymanga-v1.2.12.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "0caf21fae81c2d3a77534176d193e604fb1ac9f2b03e0b816b38c4822868ed86",
+        "hash": "ddafe0a67b1559b7a7d03dd4bb8976553f7ff843e9eb47c112d40ad66dcbb0f4",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.earlymanga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 58431,
+        "size": 58341,
         "targetSdkVersion": 29,
-        "versionCode": 11,
-        "versionName": "1.2.11"
+        "versionCode": 12,
+        "versionName": "1.2.12"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.edelgardescans": [
@@ -15647,21 +15647,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.shieldmanga": [
       {
-        "added": 1613419237000,
-        "apkName": "tachiyomi-en.shieldmanga-v1.2.1.apk",
+        "added": 1613779269000,
+        "apkName": "tachiyomi-en.shieldmanga-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "2da0430cbec1c20631e1bfef57e52dc43003e14d53d097d726833209f1928276",
+        "hash": "8ffccc155090027574ae3b1d10fb606d3ade4185c7ef187d344c0417bf0ce417",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.shieldmanga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 82917,
+        "size": 87103,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.shoujohearts": [
@@ -19941,12 +19941,12 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.remanga": [
       {
-        "added": 1613167000000,
-        "apkName": "tachiyomi-ru.remanga-v1.2.17.apk",
+        "added": 1613779270000,
+        "apkName": "tachiyomi-ru.remanga-v1.2.18.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "cb736bdf6aeec50b807a9ff88670146f2559f5f98072dba01f150cae6f34e401",
+        "hash": "af7d19ff88e76b797340ab2614bd2ded15e39e217333fddeb39b5fca75aa9f9d",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.remanga",
@@ -19954,8 +19954,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 66620,
         "targetSdkVersion": 29,
-        "versionCode": 17,
-        "versionName": "1.2.17"
+        "versionCode": 18,
+        "versionName": "1.2.18"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.risensteam": [
