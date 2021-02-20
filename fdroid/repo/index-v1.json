@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613837157000,
+    "timestamp": 1613851230000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -428,7 +428,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Aloalivn (EN)",
@@ -436,9 +436,9 @@
       "summary": "Tachiyomi Aloalivn Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166784000,
-      "icon": "eu.kanade.tachiyomi.extension.en.aloalivn.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.aloalivn.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.aloalivn",
-      "lastUpdated": 1613166784000
+      "lastUpdated": 1613851220000
     },
     {
       "categories": [
@@ -2680,7 +2680,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: IsekaiScan.com (EN)",
@@ -2688,9 +2688,9 @@
       "summary": "Tachiyomi IsekaiScan.com Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166814000,
-      "icon": "eu.kanade.tachiyomi.extension.en.isekaiscancom.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.isekaiscancom.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.isekaiscancom",
-      "lastUpdated": 1613166814000
+      "lastUpdated": 1613851221000
     },
     {
       "categories": [
@@ -6003,7 +6003,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Manwha Club (EN)",
@@ -6011,9 +6011,9 @@
       "summary": "Tachiyomi Manwha Club Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613166866000,
-      "icon": "eu.kanade.tachiyomi.extension.en.manwhaclub.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.manwhaclub.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.manwhaclub",
-      "lastUpdated": 1613232029000
+      "lastUpdated": 1613851222000
     },
     {
       "categories": [
@@ -11448,21 +11448,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.aloalivn": [
       {
-        "added": 1613166784000,
-        "apkName": "tachiyomi-en.aloalivn-v1.2.1.apk",
+        "added": 1613851220000,
+        "apkName": "tachiyomi-en.aloalivn-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "8a7c227c967d179c75c0c839b765acee1b7eb50faacfca10646e960d97efdc4b",
+        "hash": "79ed22be4df5c39cf35f3990759c2748a93258eecff5fb79b200d086fdc644c5",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.aloalivn",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50146,
+        "size": 54242,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.anatanomotokare": [
@@ -12626,21 +12626,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.isekaiscancom": [
       {
-        "added": 1613166814000,
-        "apkName": "tachiyomi-en.isekaiscancom-v1.2.1.apk",
+        "added": 1613851221000,
+        "apkName": "tachiyomi-en.isekaiscancom-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "1a8a9ad58d8d7bb8e696e09e408cdc0d4dfb1da6f7c2837018c8ca30006824db",
+        "hash": "fecc6e2baf982bd5000ccef49372823abc71e0f6258850ab5e0cd42dfa9dd277",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.isekaiscancom",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50151,
+        "size": 54247,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.iskultripscans": [
@@ -14602,21 +14602,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.manwhaclub": [
       {
-        "added": 1613232029000,
-        "apkName": "tachiyomi-en.manwhaclub-v1.2.2.apk",
+        "added": 1613851222000,
+        "apkName": "tachiyomi-en.manwhaclub-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "fc42275f2ef3faea426162aa39a3312c2e392c2fc36317ec342de831871d867c",
+        "hash": "0c87c1239ddf3f3b99e792573dcadbfbe9fb200b0e208628b5b1b0e5d4cb9977",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.manwhaclub",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50148,
+        "size": 54244,
         "targetSdkVersion": 29,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.manytoon": [
