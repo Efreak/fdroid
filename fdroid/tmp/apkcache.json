@@ -29978,5 +29978,119 @@
     "apkName": "tachiyomi-ru.remanga-v1.2.19.apk",
     "icon": "eu.kanade.tachiyomi.extension.ru.remanga.19.png",
     "added": 1613952137.945826
+  },
+  "tachiyomi-pt.mangahost-v1.2.17.apk": {
+    "hash": "1818dbaa879896b30a4efedae136a2f30bb96eeed4c09207bf87c0ca61a27d6c",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.mangahost.17.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.mangahost.17.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.mangahost.17.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.mangahost.17.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.mangahost.17.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.mangahost.17.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.mangahost",
+    "versionCode": 17,
+    "name": "Tachiyomi: MangaHost",
+    "versionName": "1.2.17",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 46142,
+    "apkName": "tachiyomi-pt.mangahost-v1.2.17.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.17.png",
+    "added": 1613966420.870449
+  },
+  "tachiyomi-pt.mangasproject-v1.2.18.apk": {
+    "hash": "c3933684613f77abec9d6383abbe7174f9509ee3fec5a605e38120380aa5bf14",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.mangasproject.18.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.mangasproject.18.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.mangasproject.18.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.mangasproject.18.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.mangasproject.18.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.mangasproject.18.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.mangasproject",
+    "versionCode": 18,
+    "name": "Tachiyomi: mang\u00e1sPROJECT",
+    "versionName": "1.2.18",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54338,
+    "apkName": "tachiyomi-pt.mangasproject-v1.2.18.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.mangasproject.18.png",
+    "added": 1613966421.746833
+  },
+  "tachiyomi-pt.tsukimangas-v1.2.11.apk": {
+    "hash": "a5e8bbaf51dbd9ef61836e11c76ab8a2e82be45e09b35ac71a21d86fe38ed801",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.tsukimangas.11.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.tsukimangas.11.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.tsukimangas.11.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.tsukimangas.11.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.tsukimangas.11.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.tsukimangas.11.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
+    "versionCode": 11,
+    "name": "Tachiyomi: Tsuki Mang\u00e1s",
+    "versionName": "1.2.11",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 42048,
+    "apkName": "tachiyomi-pt.tsukimangas-v1.2.11.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.tsukimangas.11.png",
+    "added": 1613966422.70722
   }
 }

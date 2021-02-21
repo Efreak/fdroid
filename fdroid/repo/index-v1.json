@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613923344000,
+    "timestamp": 1613937629000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -4785,7 +4785,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "16",
+      "suggestedVersionCode": "17",
       "description": "The following is a list of urls found in the source for this extension:\n* https://mangahosted.com",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4794,9 +4794,9 @@
       "summary": "Tachiyomi MangaHost Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894535000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.16.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.17.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.mangahost",
-      "lastUpdated": 1613894696000
+      "lastUpdated": 1613937620000
     },
     {
       "categories": [
@@ -5810,7 +5810,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "17",
+      "suggestedVersionCode": "18",
       "description": "The following is a list of urls found in the source for this extension:\n* https://leitor.net\n* https://mangalivre.com",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -5819,9 +5819,9 @@
       "summary": "Tachiyomi mang\u00e1sPROJECT Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894536000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.mangasproject.17.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.mangasproject.18.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.mangasproject",
-      "lastUpdated": 1613894697000
+      "lastUpdated": 1613937621000
     },
     {
       "categories": [
@@ -9023,7 +9023,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "10",
+      "suggestedVersionCode": "11",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Tsuki Mang\u00e1s (PT)",
@@ -9031,9 +9031,9 @@
       "summary": "Tachiyomi Tsuki Mang\u00e1s Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894546000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.tsukimangas.10.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.tsukimangas.11.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
-      "lastUpdated": 1613894699000
+      "lastUpdated": 1613937622000
     },
     {
       "categories": [
@@ -19436,31 +19436,31 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.mangahost": [
       {
-        "added": 1613894535000,
-        "apkName": "tachiyomi-pt.mangahost-v1.2.16.apk",
+        "added": 1613937620000,
+        "apkName": "tachiyomi-pt.mangahost-v1.2.17.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "5703e99059c505e0624ab54781cff20e13c689f1f8f06574bbf1ea766f46aea3",
+        "hash": "1818dbaa879896b30a4efedae136a2f30bb96eeed4c09207bf87c0ca61a27d6c",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangahost",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 41956,
+        "size": 46142,
         "targetSdkVersion": 29,
-        "versionCode": 16,
-        "versionName": "1.2.16"
+        "versionCode": 17,
+        "versionName": "1.2.17"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.mangasproject": [
       {
-        "added": 1613894536000,
-        "apkName": "tachiyomi-pt.mangasproject-v1.2.17.apk",
+        "added": 1613937621000,
+        "apkName": "tachiyomi-pt.mangasproject-v1.2.18.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "40091829b59de3ad5459e929f3c025d002ef21d84f0aa883fc11fd1a3caa5f91",
+        "hash": "c3933684613f77abec9d6383abbe7174f9509ee3fec5a605e38120380aa5bf14",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangasproject",
@@ -19468,8 +19468,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 54338,
         "targetSdkVersion": 29,
-        "versionCode": 17,
-        "versionName": "1.2.17"
+        "versionCode": 18,
+        "versionName": "1.2.18"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.mangateca": [
@@ -19797,12 +19797,12 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.tsukimangas": [
       {
-        "added": 1613894546000,
-        "apkName": "tachiyomi-pt.tsukimangas-v1.2.10.apk",
+        "added": 1613937622000,
+        "apkName": "tachiyomi-pt.tsukimangas-v1.2.11.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "2dd2ee64e273d077b6613737f7400bee96e6670980a986509db2286243174148",
+        "hash": "a5e8bbaf51dbd9ef61836e11c76ab8a2e82be45e09b35ac71a21d86fe38ed801",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
@@ -19810,8 +19810,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 42048,
         "targetSdkVersion": 29,
-        "versionCode": 10,
-        "versionName": "1.2.10"
+        "versionCode": 11,
+        "versionName": "1.2.11"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.unionmangas": [
