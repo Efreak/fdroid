@@ -1,9 +1,7 @@
-AuthorName: ''
 Categories:
-- fdroid
-CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: 'Tachiyomi: Fall World Reader'
-SourceCode: ''
-Summary: ''
-WebSite: ''
+  - Tachiyomi Extensions
+WebSite: https://github.com/inorichi/tachiyomi-extensions
+SourceCode: https://github.com/inorichi/tachiyomi-extensions
+IssueTracker: https://github.com/inorichi/tachiyomi-extensions/issues
+Name: 'Tachiyomi: Fall World Reader (IT)'
+Summary: Tachiyomi Fall World Reader Extension
