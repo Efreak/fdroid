@@ -37,12 +37,12 @@
     }
   },
   "commandLine": [
-    "/usr/bin/fdroid update",
+    "/mnt/fdroidserver/.local/bin/fdroid update",
     "--create-metadata",
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1613880108365,
+  "endTimestamp": 1613890933819,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -669,6 +669,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1613908890000,
+  "startTimestamp": 1613919715000,
   "subcommand": "update"
 }

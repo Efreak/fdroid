@@ -1,0 +1,73 @@
+cd /mnt/fdroidserver/tachi-lang-extensions/all/fdroid/archive/ && git rm tachiyomi-all.batoto-v1.2.2.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/all/fdroid/archive/ && git rm tachiyomi-all.fmreader-v1.2.25.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/all/fdroid/archive/ && git rm tachiyomi-all.foolslide-v1.2.55.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/all/fdroid/archive/ && git rm tachiyomi-all.hitomi-v1.2.2.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/all/fdroid/archive/ && git rm tachiyomi-all.hitomi-v1.2.3.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/all/fdroid/archive/ && git rm tachiyomi-all.komga-v1.2.17.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/all/fdroid/archive/ && git rm tachiyomi-all.mangadex-v1.2.100.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/all/fdroid/archive/ && git rm tachiyomi-all.ninehentai-v1.2.7.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/all/fdroid/archive/ && git rm tachiyomi-all.toomics-v1.2.4.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/all/fdroid/archive/ && git rm tachiyomi-all.wpcomics-v1.2.18.apk
+git commit -m 'remove old'
+cd /mnt/fdroidserver/tachi-lang-extensions/apps/fdroid/archive/ && git rm eu.kanade.tachiyomi.sy_v1.4.1_11.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/apps/fdroid/archive/ && git rm tachiyomi.mangadex_v2.1.5.1_99.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/apps/fdroid/archive/ && git rm tachiyomi.mangadex_v2.1.5.2_100.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/apps/fdroid/archive/ && git rm tachiyomi.mangadex_v2.1.5_98.apk
+git commit -m 'remove old'
+cd /mnt/fdroidserver/tachi-lang-extensions/ar/fdroid/archive/ && git rm tachiyomi-ar.gmanga-v1.2.1.apk
+git commit -m 'remove old'
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.doujins-v1.2.1.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.earlymanga-v1.2.1.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.earlymanga-v1.2.10.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.earlymanga-v1.2.2.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.earlymanga-v1.2.3.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.earlymanga-v1.2.4.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.earlymanga-v1.2.5.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.earlymanga-v1.2.6.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.earlymanga-v1.2.7.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.earlymanga-v1.2.8.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.earlymanga-v1.2.9.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.hentainexus-v1.2.4.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.mangafast-v1.2.2.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.mangakatana-v1.2.2.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.mangalife-v1.2.8.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.mangasee-v1.2.14.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.manwhaclub-v1.2.1.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.readmanhua-v1.2.1.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/en/fdroid/archive/ && git rm tachiyomi-en.vizshonenjump-v1.2.4.apk
+git commit -m 'remove old'
+cd /mnt/fdroidserver/tachi-lang-extensions/fr/fdroid/archive/ && git rm tachiyomi-fr.japscan-v1.2.23.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/fr/fdroid/archive/ && git rm tachiyomi-fr.mangakawaii-v1.2.12.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/fr/fdroid/archive/ && git rm tachiyomi-fr.mangakawaii-v1.2.13.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/fr/fdroid/archive/ && git rm tachiyomi-fr.scantrad-v1.2.12.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/fr/fdroid/archive/ && git rm tachiyomi-fr.scantrad-v1.2.13.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/fr/fdroid/archive/ && git rm tachiyomi-fr.scantrad-v1.2.14.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/fr/fdroid/archive/ && git rm tachiyomi-fr.scantrad-v1.2.8.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/fr/fdroid/archive/ && git rm tachiyomi-fr.scantrad-v1.2.9.apk
+git commit -m 'remove old'
+cd /mnt/fdroidserver/tachi-lang-extensions/id/fdroid/archive/ && git rm tachiyomi-id.mangashiro-v1.2.1.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/id/fdroid/archive/ && git rm tachiyomi-id.ngomik-v1.2.1.apk
+git commit -m 'remove old'
+cd /mnt/fdroidserver/tachi-lang-extensions/ko/fdroid/archive/ && git rm tachiyomi-ko.newtoki-v1.2.18.apk
+git commit -m 'remove old'
+cd /mnt/fdroidserver/tachi-lang-extensions/pt/fdroid/archive/ && git rm tachiyomi-pt.mangasproject-v1.2.15.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/pt/fdroid/archive/ && git rm tachiyomi-pt.mangayabu-v1.2.3.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/pt/fdroid/archive/ && git rm tachiyomi-pt.tsukimangas-v1.2.7.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/pt/fdroid/archive/ && git rm tachiyomi-pt.tsukimangas-v1.2.8.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/pt/fdroid/archive/ && git rm tachiyomi-pt.unionmangas-v1.2.16.apk
+git commit -m 'remove old'
+cd /mnt/fdroidserver/tachi-lang-extensions/ru/fdroid/archive/ && git rm tachiyomi-ru.libmanga-v1.2.26.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/ru/fdroid/archive/ && git rm tachiyomi-ru.libmanga-v1.2.27.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/ru/fdroid/archive/ && git rm tachiyomi-ru.libmanga-v1.2.30.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/ru/fdroid/archive/ && git rm tachiyomi-ru.nudemoon-v1.2.5.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/ru/fdroid/archive/ && git rm tachiyomi-ru.remanga-v1.2.11.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/ru/fdroid/archive/ && git rm tachiyomi-ru.remanga-v1.2.12.apk
+git commit -m 'remove old'
+cd /mnt/fdroidserver/tachi-lang-extensions/vi/fdroid/archive/ && git rm tachiyomi-vi.hentaivn-v1.2.5.apk
+git commit -m 'remove old'
+cd /mnt/fdroidserver/tachi-lang-extensions/zh/fdroid/archive/ && git rm tachiyomi-zh.copymanga-v1.2.3.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/zh/fdroid/archive/ && git rm tachiyomi-zh.dmzj-v1.2.11.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/zh/fdroid/archive/ && git rm tachiyomi-zh.manhuadui-v1.2.12.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/zh/fdroid/archive/ && git rm tachiyomi-zh.manhuadui-v1.2.13.apk
+cd /mnt/fdroidserver/tachi-lang-extensions/zh/fdroid/archive/ && git rm tachiyomi-zh.pufei-v1.2.3.apk
+git commit -m 'remove old'
