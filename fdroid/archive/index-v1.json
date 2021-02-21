@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613890921000,
+    "timestamp": 1613893005000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1406,7 +1406,7 @@
       "added": 1613166945000,
       "icon": "eu.kanade.tachiyomi.extension.id.mangashiro.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.mangashiro",
-      "lastUpdated": 1613167148000
+      "lastUpdated": 1613419258000
     },
     {
       "categories": [
@@ -4298,6 +4298,23 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      },
+      {
+        "added": 1613166890000,
+        "apkName": "tachiyomi-en.renascans-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "149e461e70c11e18144fdda521fecb7b30465142fb725e9acec721838ffe1a1c",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.renascans",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50147,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.shieldmanga": [
@@ -4716,9 +4733,43 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      },
+      {
+        "added": 1613419248000,
+        "apkName": "tachiyomi-id.kiryuu-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "77670502e53a5c8109938c021eab43b975f9539a866f40a27b4100e63e4e2f44",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.id.kiryuu",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 37946,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.komikcast": [
+      {
+        "added": 1613419251000,
+        "apkName": "tachiyomi-id.komikcast-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "53b34ff3963ae710a63e0669631973ef7a9c827e8c2a14dc6a6256bbf05313bc",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66621,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      },
       {
         "added": 1613419251000,
         "apkName": "tachiyomi-id.komikcast-v1.2.1.apk",
@@ -4792,9 +4843,43 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      },
+      {
+        "added": 1613168336000,
+        "apkName": "tachiyomi-id.mangakita-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "b20edcc468569a8f67ed939150ef8a63841e9b3654628235cf86c5b32dfe0a43",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.id.mangakita",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 62435,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.mangakyo": [
+      {
+        "added": 1613419257000,
+        "apkName": "tachiyomi-id.mangakyo-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "35f0d34bfb9330a9c090f60f1614b7994ee144382a9c30cc75003999862c267d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.id.mangakyo",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 37948,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      },
       {
         "added": 1613419257000,
         "apkName": "tachiyomi-id.mangakyo-v1.2.1.apk",
@@ -4830,6 +4915,23 @@
         "targetSdkVersion": 27,
         "versionCode": 4,
         "versionName": "1.2.4"
+      },
+      {
+        "added": 1613419258000,
+        "apkName": "tachiyomi-id.mangashiro-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "dc3d4ea28dc470691c791c80eefd7dc3276effbd60f7f586007b4a96f3322dd3",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.id.mangashiro",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 37950,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.mangayu": [
@@ -4887,6 +4989,23 @@
         "targetSdkVersion": 29,
         "versionCode": 3,
         "versionName": "1.2.3"
+      },
+      {
+        "added": 1613166949000,
+        "apkName": "tachiyomi-id.ngomik-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6f9a2758887c105a7fb01d2f5717cae666b9edd22510daa564bfdbd357c8122c",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.id.ngomik",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58336,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.pojokmanga": [
@@ -4966,6 +5085,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.ja.rawkuma": [
+      {
+        "added": 1613419271000,
+        "apkName": "tachiyomi-ja.rawkuma-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "ffc45f47f42321fe7150b9a415f0ab311326feca8fe435ddece309aa2942e62d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ja.rawkuma",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 37947,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      },
       {
         "added": 1613419271000,
         "apkName": "tachiyomi-ja.rawkuma-v1.2.1.apk",
@@ -5555,6 +5691,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.vi.nettruyen": [
+      {
+        "added": 1613167020000,
+        "apkName": "tachiyomi-vi.nettruyen-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "c60621d6c01730f70962fa01bdbb4a0d455a467c952b0d0158ecbd24ec5de175",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.vi.nettruyen",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 62435,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      },
       {
         "added": 1613167020000,
         "apkName": "tachiyomi-vi.nettruyen-v1.2.1.apk",
