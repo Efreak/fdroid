@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1613937629000,
+    "timestamp": 1613952024000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -8523,7 +8523,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "5",
+      "suggestedVersionCode": "6",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Super Mang\u00e1s (PT)",
@@ -8531,9 +8531,9 @@
       "summary": "Tachiyomi Super Mang\u00e1s Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894545000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.supermangas.5.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.supermangas.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.supermangas",
-      "lastUpdated": 1613894698000
+      "lastUpdated": 1613952017000
     },
     {
       "categories": [
@@ -19759,12 +19759,12 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.supermangas": [
       {
-        "added": 1613894545000,
-        "apkName": "tachiyomi-pt.supermangas-v1.2.5.apk",
+        "added": 1613952017000,
+        "apkName": "tachiyomi-pt.supermangas-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "1f0d2a8a7dfe7224fcb7b4fb093270ce18708335558ff9ee8d57ccee409e4082",
+        "hash": "39240d152f7fc434d6520753060ac9283a09199c2bda951a5290e8ca0af662c9",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.supermangas",
@@ -19772,8 +19772,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 62437,
         "targetSdkVersion": 29,
-        "versionCode": 5,
-        "versionName": "1.2.5"
+        "versionCode": 6,
+        "versionName": "1.2.6"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.taosect": [

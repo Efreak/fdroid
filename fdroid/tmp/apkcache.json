@@ -30092,5 +30092,43 @@
     "apkName": "tachiyomi-pt.tsukimangas-v1.2.11.apk",
     "icon": "eu.kanade.tachiyomi.extension.pt.tsukimangas.11.png",
     "added": 1613966422.70722
+  },
+  "tachiyomi-pt.supermangas-v1.2.6.apk": {
+    "hash": "39240d152f7fc434d6520753060ac9283a09199c2bda951a5290e8ca0af662c9",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.supermangas.6.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.supermangas.6.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.supermangas.6.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.supermangas.6.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.supermangas.6.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.supermangas.6.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.supermangas",
+    "versionCode": 6,
+    "name": "Tachiyomi: Super Mang\u00e1s",
+    "versionName": "1.2.6",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62437,
+    "apkName": "tachiyomi-pt.supermangas-v1.2.6.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.supermangas.6.png",
+    "added": 1613980817.721542
   }
 }
