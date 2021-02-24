@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614110420000,
+    "timestamp": 1614124826000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1606,7 +1606,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "13",
+      "suggestedVersionCode": "14",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: EarlyManga (EN)",
@@ -1614,9 +1614,9 @@
       "summary": "Tachiyomi EarlyManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894325000,
-      "icon": "eu.kanade.tachiyomi.extension.en.earlymanga.13.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.earlymanga.14.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.earlymanga",
-      "lastUpdated": 1613995452000
+      "lastUpdated": 1614124819000
     },
     {
       "categories": [
@@ -12235,12 +12235,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.earlymanga": [
       {
-        "added": 1613995452000,
-        "apkName": "tachiyomi-en.earlymanga-v1.2.13.apk",
+        "added": 1614124819000,
+        "apkName": "tachiyomi-en.earlymanga-v1.2.14.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "769d1d05084135037eba355bd0d443396cfec3901f57532c5625d5001445c7a9",
+        "hash": "5107cb9d2667e1ed43a37afe3873d15e2edbf83bdc9f81335c2db1d31910fc37",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.earlymanga",
@@ -12248,8 +12248,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 58341,
         "targetSdkVersion": 29,
-        "versionCode": 13,
-        "versionName": "1.2.13"
+        "versionCode": 14,
+        "versionName": "1.2.14"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.edelgardescans": [
