@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614269429000,
+    "timestamp": 1614283224000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -4785,7 +4785,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "17",
+      "suggestedVersionCode": "18",
       "description": "The following is a list of urls found in the source for this extension:\n* https://mangahosted.com",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4794,9 +4794,9 @@
       "summary": "Tachiyomi MangaHost Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894535000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.17.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.18.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.mangahost",
-      "lastUpdated": 1613937620000
+      "lastUpdated": 1614283217000
     },
     {
       "categories": [
@@ -19436,12 +19436,12 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.mangahost": [
       {
-        "added": 1613937620000,
-        "apkName": "tachiyomi-pt.mangahost-v1.2.17.apk",
+        "added": 1614283217000,
+        "apkName": "tachiyomi-pt.mangahost-v1.2.18.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "1818dbaa879896b30a4efedae136a2f30bb96eeed4c09207bf87c0ca61a27d6c",
+        "hash": "012d7fce6c4f207b8f01edfe1b4d908ebd22ab78bc436832f697f884f2d60423",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangahost",
@@ -19449,8 +19449,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 46142,
         "targetSdkVersion": 29,
-        "versionCode": 17,
-        "versionName": "1.2.17"
+        "versionCode": 18,
+        "versionName": "1.2.18"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.mangasproject": [
