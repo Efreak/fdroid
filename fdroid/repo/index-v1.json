@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614326753000,
+    "timestamp": 1614340929000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -8152,7 +8152,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "4",
+      "suggestedVersionCode": "5",
       "description": "The following is a list of urls found in the source for this extension:\n* https://raw.senmanga.com",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -8161,9 +8161,9 @@
       "summary": "Tachiyomi Sen Manga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894522000,
-      "icon": "eu.kanade.tachiyomi.extension.ja.senmanga.4.png",
+      "icon": "eu.kanade.tachiyomi.extension.ja.senmanga.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.ja.senmanga",
-      "lastUpdated": 1613894522000
+      "lastUpdated": 1614340923000
     },
     {
       "categories": [
@@ -18980,21 +18980,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ja.senmanga": [
       {
-        "added": 1613894522000,
-        "apkName": "tachiyomi-ja.senmanga-v1.2.4.apk",
+        "added": 1614340923000,
+        "apkName": "tachiyomi-ja.senmanga-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "c4e9acc5dbe00bb01d451579e51c1c892826c0b5d8d991e302311b122df377bd",
+        "hash": "afe63378fd9e642ed8ff0aa6bf23442c1a512e30ad6a3542b7681f019172c07f",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ja.senmanga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50066,
-        "targetSdkVersion": 27,
-        "versionCode": 4,
-        "versionName": "1.2.4"
+        "size": 50146,
+        "targetSdkVersion": 29,
+        "versionCode": 5,
+        "versionName": "1.2.5"
       }
     ],
     "eu.kanade.tachiyomi.extension.ja.shonenjumpplus": [

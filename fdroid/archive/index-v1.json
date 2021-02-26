@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614326748000,
+    "timestamp": 1614340924000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -2214,6 +2214,23 @@
       "icon": "eu.kanade.tachiyomi.extension.fr.scantrad.15.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.scantrad",
       "lastUpdated": 1613894681000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "4",
+      "description": "The following is a list of urls found in the source for this extension:\n* https://raw.senmanga.com",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Sen Manga (JA)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Sen Manga Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894522000,
+      "icon": "eu.kanade.tachiyomi.extension.ja.senmanga.4.png",
+      "packageName": "eu.kanade.tachiyomi.extension.ja.senmanga",
+      "lastUpdated": 1614340923000
     },
     {
       "categories": [
@@ -5129,6 +5146,25 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.ja.senmanga": [
+      {
+        "added": 1613894522000,
+        "apkName": "tachiyomi-ja.senmanga-v1.2.4.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "c4e9acc5dbe00bb01d451579e51c1c892826c0b5d8d991e302311b122df377bd",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ja.senmanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50066,
+        "targetSdkVersion": 27,
+        "versionCode": 4,
+        "versionName": "1.2.4"
       }
     ],
     "eu.kanade.tachiyomi.extension.ko.jmana": [
