@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1614355937087,
+  "endTimestamp": 1614369632309,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -620,6 +620,7 @@
     "eu.kanade.tachiyomi.extension.tr.mangastein",
     "eu.kanade.tachiyomi.extension.tr.mangatr",
     "eu.kanade.tachiyomi.extension.tr.mangawt",
+    "eu.kanade.tachiyomi.extension.tr.noxsubs",
     "eu.kanade.tachiyomi.extension.tr.ruyamanga",
     "eu.kanade.tachiyomi.extension.tr.serimanga",
     "eu.kanade.tachiyomi.extension.tr.siyahmelek",
@@ -669,6 +670,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1614384722000,
+  "startTimestamp": 1614398417000,
   "subcommand": "update"
 }

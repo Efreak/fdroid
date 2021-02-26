@@ -30282,5 +30282,81 @@
     "apkName": "tachiyomi-ja.senmanga-v1.2.5.apk",
     "icon": "eu.kanade.tachiyomi.extension.ja.senmanga.5.png",
     "added": 1614369723.522374
+  },
+  "tachiyomi-all.mmrcms-v1.2.55.apk": {
+    "hash": "2fe5fd8691656748e85b388584cc6e9af9c67681e90c605b64ff4eb9b21552b1",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.mmrcms.55.png",
+      "480": "eu.kanade.tachiyomi.extension.all.mmrcms.55.png",
+      "320": "eu.kanade.tachiyomi.extension.all.mmrcms.55.png",
+      "240": "eu.kanade.tachiyomi.extension.all.mmrcms.55.png",
+      "160": "eu.kanade.tachiyomi.extension.all.mmrcms.55.png",
+      "0": "eu.kanade.tachiyomi.extension.all.mmrcms.55.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.mmrcms",
+    "versionCode": 55,
+    "name": "Tachiyomi: My Manga Reader CMS (Many sources)",
+    "versionName": "1.2.55",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 70626,
+    "apkName": "tachiyomi-all.mmrcms-v1.2.55.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.mmrcms.55.png",
+    "added": 1614398418.993739
+  },
+  "tachiyomi-tr.noxsubs-v1.2.1.apk": {
+    "hash": "655b5e4ea2760d20c78291e7f91cb794f1dd63162ff13fc2247d2b7c10320615",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.tr.noxsubs.1.png",
+      "480": "eu.kanade.tachiyomi.extension.tr.noxsubs.1.png",
+      "320": "eu.kanade.tachiyomi.extension.tr.noxsubs.1.png",
+      "240": "eu.kanade.tachiyomi.extension.tr.noxsubs.1.png",
+      "160": "eu.kanade.tachiyomi.extension.tr.noxsubs.1.png",
+      "0": "eu.kanade.tachiyomi.extension.tr.noxsubs.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.tr.noxsubs",
+    "versionCode": 1,
+    "name": "Tachiyomi: NoxSubs",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 37947,
+    "apkName": "tachiyomi-tr.noxsubs-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.tr.noxsubs.1.png",
+    "added": 1614398420.050019
   }
 }

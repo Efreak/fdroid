@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614355931000,
+    "timestamp": 1614369626000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -6554,7 +6554,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "54",
+      "suggestedVersionCode": "55",
       "description": "The following is a list of urls found in the source for this extension:\n* https://www.on-manga.me\n* https://www.on-manga.me/manga/\n* http://readcomicsonline.ru\n* https://readcomicsonline.ru/comic/\n* http://biamam.com/\n* http://biamam.com/manga/\n* http://manga.fascans.com\n* https://manga.fascans.com/manga/\n* https://hatigarmscans.net\n* https://hatigarmscans.net/manga/\n* http://mangawww.club\n* http://mangawww.club/manga/\n* http://zxcomic.com\n* http://zxcomic.com/comic/\n* http://www.whitecloudpavilion.com/manga/free\n* http://www.whitecloudpavilion.com/manga/free/manga/\n* http://www.mangatreat.com\n* http://www.mangatreat.com/manga/\n* https://sosscanlation.com\n* https://sosscanlation.com/manga/\n* http://www.scan-fr.io\n* https://www.scan-fr.io/manga/\n* https://www.scan-vf.co\n* https://www.scan-vf.co/\n* http://www.komikid.com\n* http://www.komikid.com/manga/\n* http://torascans.pl\n* http://torascans.pl/manga/\n* https://www.comicspace.com.br\n* https://www.comicspace.com.br/manga/\n* https://mangasyuri.net\n* https://mangasyuri.net/manga/\n* http://dracaena.webd.pl/czytnik\n* http://dracaena.webd.pl/czytnik/manga/\n* http://azbivo.webd.pro\n* http://azbivo.webd.pro/manga/\n* http://anigai.ru\n* http://anigai.ru/manga/\n* http://mangahanta.com\n* http://mangahanta.com/manga/\n* http://truyen.fascans.com\n* https://truyen.fascans.com/manga/\n* https://leomanga.me\n* https://leomanga.me/manga/\n* https://submanga.online\n* https://submanga.online/manga/\n* https://mangadoor.com\n* https://mangadoor.com/manga/\n* https://mangas.pw\n* https://mangas.pw/manga/\n* https://www.hentaishark.com\n* https://www.hentaishark.com/manga/\n* https://mangasyuri.net/manga/SELECTION\n* http://www.cmreader.info\n* http://www.epikmanga.com\n* https://mangacasa.com\n* https://rawmanga.site\n* http://mangafyi.com/manga/arabic\n* http://mangaroot.com\n* http://manga4ever.com\n* http://mangaspoil.com\n* http://mangablue.com\n* https://mangaforest.com\n* http://dmanga.website\n* http://dbmanga.com\n* http://mangacox.com\n* http://gomanhwa.xyz\n* https://komanga.net\n* http://manganimecan.com\n* http://hentai2manga.com\n* http://4-manga.com\n* http://xyxx.info\n* https://isekaimanga.club\n* http://trinityreader.pw\n* https://www.manga-lel.com\n* https://www.etonnia.com\n* http://scanfr.com\n* http://mangafyi.com/manga/french\n* http://scans-manga.com\n* http://henkanokazelel.esy.es/upload\n* http://www.tous-vos-scans.com\n* http://mangadesu.net\n* http://go.mangafire.id\n* https://mangaonline.web.id\n* https://manganesia.com\n* https://mangaid.me\n* http://www.mangaseru.top\n* http://mangafyi.com/manga/indonesian\n* http://www.bacamangaku.com\n* http://indomangareader.com\n* http://kireader.altervista.org\n* http://ichigobook.com\n* http://mangaraw.online\n* https://raws.mangazuki.co\n* https://www.mgraw.com\n* http://netabare-manga-raw.com\n* http://nakama.ru\n* http://mangaoi.com\n* http://www.manhua-tr.com\n* http://example.com\n* http://example.com/manga/",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -6563,9 +6563,9 @@
       "summary": "Tachiyomi My Manga Reader CMS (Many sources) Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894286000,
-      "icon": "eu.kanade.tachiyomi.extension.all.mmrcms.54.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.mmrcms.55.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mmrcms",
-      "lastUpdated": 1613894635000
+      "lastUpdated": 1614369618000
     },
     {
       "categories": [
@@ -7103,6 +7103,18 @@
       "icon": "eu.kanade.tachiyomi.extension.it.novelleleggere.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.it.novelleleggere",
       "lastUpdated": 1613894691000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: NoxSubs",
+      "added": 1614369620000,
+      "icon": "eu.kanade.tachiyomi.extension.tr.noxsubs.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.tr.noxsubs",
+      "lastUpdated": 1614369620000
     },
     {
       "categories": [
@@ -10829,21 +10841,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mmrcms": [
       {
-        "added": 1613894286000,
-        "apkName": "tachiyomi-all.mmrcms-v1.2.54.apk",
+        "added": 1614369618000,
+        "apkName": "tachiyomi-all.mmrcms-v1.2.55.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "9cf18e852b99a01dfa8e41681ad25462fcbab6408625e0b292f82971837738c5",
+        "hash": "2fe5fd8691656748e85b388584cc6e9af9c67681e90c605b64ff4eb9b21552b1",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.mmrcms",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 74722,
+        "size": 70626,
         "targetSdkVersion": 29,
-        "versionCode": 54,
-        "versionName": "1.2.54"
+        "versionCode": 55,
+        "versionName": "1.2.55"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.myreadingmanga": [
@@ -20816,6 +20828,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50145,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.tr.noxsubs": [
+      {
+        "added": 1614369620000,
+        "apkName": "tachiyomi-tr.noxsubs-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "655b5e4ea2760d20c78291e7f91cb794f1dd63162ff13fc2247d2b7c10320615",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.tr.noxsubs",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 37947,
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
