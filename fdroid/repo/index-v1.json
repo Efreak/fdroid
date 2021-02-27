@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614441920000,
+    "timestamp": 1614456032000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -2774,6 +2774,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: IsekaiScanManga (unoriginal)",
+      "added": 1614456021000,
+      "icon": "eu.kanade.tachiyomi.extension.en.isekaiscanmanga.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.isekaiscanmanga",
+      "lastUpdated": 1614456021000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "1",
@@ -4687,7 +4699,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "4",
+      "suggestedVersionCode": "5",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: MangaFast (EN)",
@@ -4695,9 +4707,9 @@
       "summary": "Tachiyomi MangaFast Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894363000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangafast.4.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangafast.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
-      "lastUpdated": 1613894656000
+      "lastUpdated": 1614456022000
     },
     {
       "categories": [
@@ -5644,6 +5656,18 @@
       "icon": "eu.kanade.tachiyomi.extension.en.mangatx.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangatx",
       "lastUpdated": 1613894389000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: MangaUS",
+      "added": 1614456022000,
+      "icon": "eu.kanade.tachiyomi.extension.en.mangaus.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.mangaus",
+      "lastUpdated": 1614456022000
     },
     {
       "categories": [
@@ -8356,6 +8380,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: SISI GELAP",
+      "added": 1614456023000,
+      "icon": "eu.kanade.tachiyomi.extension.id.sisigelap.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.id.sisigelap",
+      "lastUpdated": 1614456023000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "1",
@@ -9066,6 +9102,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Tsundoku Traducoes",
+      "added": 1614456025000,
+      "icon": "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes",
+      "lastUpdated": 1614456025000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "29",
@@ -9492,7 +9540,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: World Romance Translation (ID)",
@@ -9500,9 +9548,9 @@
       "summary": "Tachiyomi World Romance Translation Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894506000,
-      "icon": "eu.kanade.tachiyomi.extension.id.worldromancetranslation.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.id.worldromancetranslation.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.worldromancetranslation",
-      "lastUpdated": 1613894506000
+      "lastUpdated": 1614456024000
     },
     {
       "categories": [
@@ -12967,6 +13015,25 @@
         "versionName": "1.2.2"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.isekaiscanmanga": [
+      {
+        "added": 1614456021000,
+        "apkName": "tachiyomi-en.isekaiscanmanga-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "ac45297b8d38c0e1fda3c0ed6fea7a317849fa85b6b19476f71bc9d482c1acea",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.isekaiscanmanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50153,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.iskultripscans": [
       {
         "added": 1613894345000,
@@ -13634,12 +13701,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangafast": [
       {
-        "added": 1613894363000,
-        "apkName": "tachiyomi-en.mangafast-v1.2.4.apk",
+        "added": 1614456022000,
+        "apkName": "tachiyomi-en.mangafast-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "ee0ac0665694dd383fc557e801fc8017ca82acb307cb314a096c8d93fc6322c6",
+        "hash": "125d0430344335cb312c78815950cddf9d0c31f67139064686c15643a65ae1e3",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
@@ -13647,8 +13714,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50147,
         "targetSdkVersion": 29,
-        "versionCode": 4,
-        "versionName": "1.2.4"
+        "versionCode": 5,
+        "versionName": "1.2.5"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangafreak": [
@@ -14536,6 +14603,25 @@
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.mangatx",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50145,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.mangaus": [
+      {
+        "added": 1614456022000,
+        "apkName": "tachiyomi-en.mangaus-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6f67fc3217a13f1d4f5114247c98b674b3572bec703ab4820219989eb3e045b6",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangaus",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50145,
@@ -18458,6 +18544,25 @@
         "versionName": "1.2.1"
       }
     ],
+    "eu.kanade.tachiyomi.extension.id.sisigelap": [
+      {
+        "added": 1614456023000,
+        "apkName": "tachiyomi-id.sisigelap-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "8ee9dcad66b2c0aa2ee250cab5312d44545ec393f2e75c3d1554bcd469577d26",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.id.sisigelap",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50147,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.id.westmanga": [
       {
         "added": 1613894506000,
@@ -18479,21 +18584,21 @@
     ],
     "eu.kanade.tachiyomi.extension.id.worldromancetranslation": [
       {
-        "added": 1613894506000,
-        "apkName": "tachiyomi-id.worldromancetranslation-v1.2.1.apk",
+        "added": 1614456024000,
+        "apkName": "tachiyomi-id.worldromancetranslation-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "d5f4c1b67a23c29162533aabe3421de93e0c005bb1e0d5e014e7399b1c6a99d3",
+        "hash": "966eaac25b652b1a78219aacfad1bf16b5a4fe0382c9da2fa57956ea92b6b1c2",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.id.worldromancetranslation",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50161,
+        "size": 37963,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.it.digitalteam": [
@@ -19824,6 +19929,25 @@
         "targetSdkVersion": 29,
         "versionCode": 11,
         "versionName": "1.2.11"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes": [
+      {
+        "added": 1614456025000,
+        "apkName": "tachiyomi-pt.tsundokutraducoes-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "d17e1e72d396116dd9ee5e7373fe1c8cf8fd4f3574bb6547bae7f37ad064d875",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50155,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.unionmangas": [

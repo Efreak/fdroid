@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614441914000,
+    "timestamp": 1614456027000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1128,7 +1128,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "3",
+      "suggestedVersionCode": "4",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: MangaFast (EN)",
@@ -1136,9 +1136,9 @@
       "summary": "Tachiyomi MangaFast Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894363000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangafast.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangafast.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
-      "lastUpdated": 1613894656000
+      "lastUpdated": 1614456022000
     },
     {
       "categories": [
@@ -2563,6 +2563,22 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: World Romance Translation (ID)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi World Romance Translation Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894506000,
+      "icon": "eu.kanade.tachiyomi.extension.id.worldromancetranslation.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.id.worldromancetranslation",
+      "lastUpdated": 1614456024000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
       "suggestedVersionCode": "44",
       "description": "The following is a list of urls found in the source for this extension:\n* https://\n* http://images.weserv.nl/?w=300&q=70&url=\n* http://images.weserv.nl/?w=600&q=70&url=\n* https://sektekomik.com\n* https://kiryuu.co\n* https://komikav.com\n* https://komikstation.com\n* https://komikcast.com\n* https://westmanga.info\n* https://komikgo.com\n* https://www.komikindo.web.id\n* https://www.maid.my.id",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
@@ -3933,6 +3949,23 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangafast": [
       {
+        "added": 1613894363000,
+        "apkName": "tachiyomi-en.mangafast-v1.2.4.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "ee0ac0665694dd383fc557e801fc8017ca82acb307cb314a096c8d93fc6322c6",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50147,
+        "targetSdkVersion": 29,
+        "versionCode": 4,
+        "versionName": "1.2.4"
+      },
+      {
         "added": 1613894656000,
         "apkName": "tachiyomi-en.mangafast-v1.2.3.apk",
         "features": [
@@ -5100,6 +5133,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50148,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.id.worldromancetranslation": [
+      {
+        "added": 1613894506000,
+        "apkName": "tachiyomi-id.worldromancetranslation-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "d5f4c1b67a23c29162533aabe3421de93e0c005bb1e0d5e014e7399b1c6a99d3",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.id.worldromancetranslation",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50161,
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"

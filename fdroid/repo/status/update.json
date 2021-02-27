@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1614441926551,
+  "endTimestamp": 1614456038381,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -193,6 +193,7 @@
     "eu.kanade.tachiyomi.extension.en.immortalupdates",
     "eu.kanade.tachiyomi.extension.en.inkr",
     "eu.kanade.tachiyomi.extension.en.isekaiscancom",
+    "eu.kanade.tachiyomi.extension.en.isekaiscanmanga",
     "eu.kanade.tachiyomi.extension.en.iskultripscans",
     "eu.kanade.tachiyomi.extension.en.itsyourrightmanhua",
     "eu.kanade.tachiyomi.extension.en.jjutsuscans",
@@ -282,6 +283,7 @@
     "eu.kanade.tachiyomi.extension.en.mangatown",
     "eu.kanade.tachiyomi.extension.en.mangaturf",
     "eu.kanade.tachiyomi.extension.en.mangatx",
+    "eu.kanade.tachiyomi.extension.en.mangaus",
     "eu.kanade.tachiyomi.extension.en.mangaweebs",
     "eu.kanade.tachiyomi.extension.en.mangazuki",
     "eu.kanade.tachiyomi.extension.en.mangazukime",
@@ -492,6 +494,7 @@
     "eu.kanade.tachiyomi.extension.id.sektedoujin",
     "eu.kanade.tachiyomi.extension.id.sektekomik",
     "eu.kanade.tachiyomi.extension.id.sheamanga",
+    "eu.kanade.tachiyomi.extension.id.sisigelap",
     "eu.kanade.tachiyomi.extension.id.westmanga",
     "eu.kanade.tachiyomi.extension.id.worldromancetranslation",
     "eu.kanade.tachiyomi.extension.it.digitalteam",
@@ -567,6 +570,7 @@
     "eu.kanade.tachiyomi.extension.pt.supermangas",
     "eu.kanade.tachiyomi.extension.pt.taosect",
     "eu.kanade.tachiyomi.extension.pt.tsukimangas",
+    "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes",
     "eu.kanade.tachiyomi.extension.pt.unionmangas",
     "eu.kanade.tachiyomi.extension.pt.warqueenscan",
     "eu.kanade.tachiyomi.extension.pt.yaoitoshokan",
@@ -670,6 +674,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1614470710000,
+  "startTimestamp": 1614484818000,
   "subcommand": "update"
 }
