@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614384012000,
+    "timestamp": 1614398540000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -778,6 +778,22 @@
       "icon": "eu.kanade.tachiyomi.extension.ko.jmana.10.png",
       "packageName": "eu.kanade.tachiyomi.extension.ko.jmana",
       "lastUpdated": 1613894693000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: keenspot (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi keenspot Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894347000,
+      "icon": "eu.kanade.tachiyomi.extension.en.keenspot.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.keenspot",
+      "lastUpdated": 1614398539000
     },
     {
       "categories": [
@@ -3798,6 +3814,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50151,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.keenspot": [
+      {
+        "added": 1613894347000,
+        "apkName": "tachiyomi-en.keenspot-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "5fcc950f25445f43747c328ff40b9916d200417546c3a5f142daf7269127e731",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.keenspot",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 37858,
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
