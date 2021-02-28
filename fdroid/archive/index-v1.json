@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614528453000,
+    "timestamp": 1614542418000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1766,6 +1766,22 @@
       "icon": "eu.kanade.tachiyomi.extension.en.naniscans.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.naniscans",
       "lastUpdated": 1613894667000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "3",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Nekopost (TH)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Nekopost Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894565000,
+      "icon": "eu.kanade.tachiyomi.extension.th.nekopost.3.png",
+      "packageName": "eu.kanade.tachiyomi.extension.th.nekopost",
+      "lastUpdated": 1614542416000
     },
     {
       "categories": [
@@ -5968,6 +5984,25 @@
         "targetSdkVersion": 27,
         "versionCode": 1,
         "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.th.nekopost": [
+      {
+        "added": 1613894565000,
+        "apkName": "tachiyomi-th.nekopost-v1.2.3.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "a53ef88ce6e16f4ddfc1ef96eeb5a73f1a5ee1f6c7cf8e78b048e0c666da08ec",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.th.nekopost",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 82834,
+        "targetSdkVersion": 27,
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.tr.mangadenizi": [
