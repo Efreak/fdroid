@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614513861000,
+    "timestamp": 1614528458000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1117,7 +1117,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "6",
+      "suggestedVersionCode": "7",
       "description": "The following is a list of urls found in the source for this extension:\n* https://www.comicextra.com",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1126,9 +1126,9 @@
       "summary": "Tachiyomi ComicExtra Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894318000,
-      "icon": "eu.kanade.tachiyomi.extension.en.comicextra.6.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.comicextra.7.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.comicextra",
-      "lastUpdated": 1613894318000
+      "lastUpdated": 1614528448000
     },
     {
       "categories": [
@@ -1540,7 +1540,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Dream Manga (EN)",
@@ -1548,9 +1548,9 @@
       "summary": "Tachiyomi Dream Manga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894324000,
-      "icon": "eu.kanade.tachiyomi.extension.en.dreammanga.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.dreammanga.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.dreammanga",
-      "lastUpdated": 1613894324000
+      "lastUpdated": 1614528449000
     },
     {
       "categories": [
@@ -3388,7 +3388,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "8",
+      "suggestedVersionCode": "9",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Komiku (ID)",
@@ -3396,9 +3396,9 @@
       "summary": "Tachiyomi Komiku Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894492000,
-      "icon": "eu.kanade.tachiyomi.extension.id.komiku.8.png",
+      "icon": "eu.kanade.tachiyomi.extension.id.komiku.9.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.komiku",
-      "lastUpdated": 1613894684000
+      "lastUpdated": 1614528451000
     },
     {
       "categories": [
@@ -4944,7 +4944,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "21",
+      "suggestedVersionCode": "22",
       "description": "The following is a list of urls found in the source for this extension:\n* https://www.mangakawaii.to\n* https://www.mangakawaii.to/manga/",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4953,9 +4953,9 @@
       "summary": "Tachiyomi Mangakawaii Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894475000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.21.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.22.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-      "lastUpdated": 1613894681000
+      "lastUpdated": 1614528451000
     },
     {
       "categories": [
@@ -12067,21 +12067,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.comicextra": [
       {
-        "added": 1613894318000,
-        "apkName": "tachiyomi-en.comicextra-v1.2.6.apk",
+        "added": 1614528448000,
+        "apkName": "tachiyomi-en.comicextra-v1.2.7.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "f6e4573bdd97b9d3d811ab1b4724e055ee286b509450a6d05f6829572ab5e52c",
+        "hash": "f37ff2539719013fe030f2822443bb4f9797bf031e330c8292a42a9abbe83f80",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.comicextra",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50068,
-        "targetSdkVersion": 27,
-        "versionCode": 6,
-        "versionName": "1.2.6"
+        "size": 50148,
+        "targetSdkVersion": 29,
+        "versionCode": 7,
+        "versionName": "1.2.7"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.comickiba": [
@@ -12257,12 +12257,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.dreammanga": [
       {
-        "added": 1613894324000,
-        "apkName": "tachiyomi-en.dreammanga-v1.2.1.apk",
+        "added": 1614528449000,
+        "apkName": "tachiyomi-en.dreammanga-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "cfac3a5812ae2ecb8ea12f87c3675f3a284fc46bb1dc27ebfdf6407475df3093",
+        "hash": "158da5dde15f522ae913dd65af393c3788629ee267aebd590ba852be80608f84",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.dreammanga",
@@ -12270,8 +12270,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50148,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.dynasty": [
@@ -17482,12 +17482,12 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.mangakawaii": [
       {
-        "added": 1613894475000,
-        "apkName": "tachiyomi-fr.mangakawaii-v1.2.21.apk",
+        "added": 1614528451000,
+        "apkName": "tachiyomi-fr.mangakawaii-v1.2.22.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "1ad05818b1c7b2e543cf8a4b5cfb94afb82c65c24326ff6f16fe140de97c127b",
+        "hash": "a17ec9640627bc514110aec70a199a57ff01c1a495fea7c8bbb5e4a22060cd7a",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
@@ -17495,8 +17495,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 58432,
         "targetSdkVersion": 29,
-        "versionCode": 21,
-        "versionName": "1.2.21"
+        "versionCode": 22,
+        "versionName": "1.2.22"
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.mangascantrad": [
@@ -18071,12 +18071,12 @@
     ],
     "eu.kanade.tachiyomi.extension.id.komiku": [
       {
-        "added": 1613894492000,
-        "apkName": "tachiyomi-id.komiku-v1.2.8.apk",
+        "added": 1614528451000,
+        "apkName": "tachiyomi-id.komiku-v1.2.9.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "35a36ee984c0d774592d2aafa7f6e62229d392beb97fe88616a1a5b9a2d3ca9e",
+        "hash": "5c3799eb05764361925132e1b9bde2741d2821f8177e4ceaad6c6120ba0e73ea",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.id.komiku",
@@ -18084,8 +18084,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50144,
         "targetSdkVersion": 29,
-        "versionCode": 8,
-        "versionName": "1.2.8"
+        "versionCode": 9,
+        "versionName": "1.2.9"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.maidmanga": [
