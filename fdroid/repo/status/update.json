@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1614556830273,
+  "endTimestamp": 1614571333600,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -397,6 +397,7 @@
     "eu.kanade.tachiyomi.extension.en.webnovel",
     "eu.kanade.tachiyomi.extension.en.webnovellive",
     "eu.kanade.tachiyomi.extension.en.webtoonily",
+    "eu.kanade.tachiyomi.extension.en.webtoonuk",
     "eu.kanade.tachiyomi.extension.en.webtoonxyz",
     "eu.kanade.tachiyomi.extension.en.wescans",
     "eu.kanade.tachiyomi.extension.en.whimsubs",
@@ -471,6 +472,7 @@
     "eu.kanade.tachiyomi.extension.id.komiktap",
     "eu.kanade.tachiyomi.extension.id.komiku",
     "eu.kanade.tachiyomi.extension.id.maidmanga",
+    "eu.kanade.tachiyomi.extension.id.mangadropout",
     "eu.kanade.tachiyomi.extension.id.mangaindo",
     "eu.kanade.tachiyomi.extension.id.mangaindonesia",
     "eu.kanade.tachiyomi.extension.id.mangakita",
@@ -481,6 +483,7 @@
     "eu.kanade.tachiyomi.extension.id.mangayaku",
     "eu.kanade.tachiyomi.extension.id.mangayosh",
     "eu.kanade.tachiyomi.extension.id.mangayu",
+    "eu.kanade.tachiyomi.extension.id.mangceh",
     "eu.kanade.tachiyomi.extension.id.manhuaid",
     "eu.kanade.tachiyomi.extension.id.masterkomik",
     "eu.kanade.tachiyomi.extension.id.matakomik",
@@ -491,6 +494,7 @@
     "eu.kanade.tachiyomi.extension.id.otakufile",
     "eu.kanade.tachiyomi.extension.id.pecintakomik",
     "eu.kanade.tachiyomi.extension.id.pojokmanga",
+    "eu.kanade.tachiyomi.extension.id.sekaikomik",
     "eu.kanade.tachiyomi.extension.id.sektedoujin",
     "eu.kanade.tachiyomi.extension.id.sektekomik",
     "eu.kanade.tachiyomi.extension.id.sheamanga",
@@ -533,6 +537,7 @@
     "eu.kanade.tachiyomi.extension.ko.manytoonclub",
     "eu.kanade.tachiyomi.extension.ko.navercomic",
     "eu.kanade.tachiyomi.extension.ko.newtoki",
+    "eu.kanade.tachiyomi.extension.ko.rawdex",
     "eu.kanade.tachiyomi.extension.ko.toonkor",
     "eu.kanade.tachiyomi.extension.pt.animaregia",
     "eu.kanade.tachiyomi.extension.pt.argosscan",
@@ -563,6 +568,7 @@
     "eu.kanade.tachiyomi.extension.pt.origamiorpheans",
     "eu.kanade.tachiyomi.extension.pt.projetoscanlator",
     "eu.kanade.tachiyomi.extension.pt.saikaiscan",
+    "eu.kanade.tachiyomi.extension.pt.shinzoo",
     "eu.kanade.tachiyomi.extension.pt.silencescan",
     "eu.kanade.tachiyomi.extension.pt.socialcomics",
     "eu.kanade.tachiyomi.extension.pt.stagecomics",
@@ -606,6 +612,7 @@
     "eu.kanade.tachiyomi.extension.tr.adonisfansub",
     "eu.kanade.tachiyomi.extension.tr.araznovel",
     "eu.kanade.tachiyomi.extension.tr.atikrost",
+    "eu.kanade.tachiyomi.extension.tr.ayatoon",
     "eu.kanade.tachiyomi.extension.tr.clovermanga",
     "eu.kanade.tachiyomi.extension.tr.cutiepie",
     "eu.kanade.tachiyomi.extension.tr.diamondfansub",
@@ -674,6 +681,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1614585615000,
+  "startTimestamp": 1614600111000,
   "subcommand": "update"
 }
