@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614600401000,
+    "timestamp": 1614614781000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -3205,7 +3205,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "19",
+      "suggestedVersionCode": "20",
       "description": "My script was unable to find a list of urls in the source for this extension.\nThe command used was sed 's/\"/\\n/g|grep -E '^https?://'",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3214,9 +3214,9 @@
       "summary": "Tachiyomi Komga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894277000,
-      "icon": "eu.kanade.tachiyomi.extension.all.komga.19.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.komga.20.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.komga",
-      "lastUpdated": 1613894632000
+      "lastUpdated": 1614614774000
     },
     {
       "categories": [
@@ -10688,21 +10688,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.komga": [
       {
-        "added": 1613894277000,
-        "apkName": "tachiyomi-all.komga-v1.2.19.apk",
+        "added": 1614614774000,
+        "apkName": "tachiyomi-all.komga-v1.2.20.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "57eb4c44c254b0a7f683c5ce08683a4919d28f5a94ffaf5d17422f16f01d4d96",
+        "hash": "2393d244169ca724db0d1dd7bd3f6c830e300c79991134a8bf00b142a8457b8d",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.komga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 369705,
+        "size": 373801,
         "targetSdkVersion": 29,
-        "versionCode": 19,
-        "versionName": "1.2.19"
+        "versionCode": 20,
+        "versionName": "1.2.20"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.lanraragi": [
