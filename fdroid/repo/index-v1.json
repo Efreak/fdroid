@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614542423000,
+    "timestamp": 1614556824000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -2254,7 +2254,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "11",
+      "suggestedVersionCode": "12",
       "description": "The following is a list of urls found in the source for this extension:\n* https://hentai2read.com\n* https://static.hentaicdn.com/hentai",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -2263,9 +2263,9 @@
       "summary": "Tachiyomi Hentai2Read Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894336000,
-      "icon": "eu.kanade.tachiyomi.extension.en.hentai2read.11.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.hentai2read.12.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
-      "lastUpdated": 1613894652000
+      "lastUpdated": 1614556817000
     },
     {
       "categories": [
@@ -9116,7 +9116,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "29",
+      "suggestedVersionCode": "30",
       "description": "The following is a list of urls found in the source for this extension:\n* https://tmofans.com",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -9125,9 +9125,9 @@
       "summary": "Tachiyomi TuMangaOnline Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894469000,
-      "icon": "eu.kanade.tachiyomi.extension.es.tumangaonline.29.png",
+      "icon": "eu.kanade.tachiyomi.extension.es.tumangaonline.30.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-      "lastUpdated": 1613894678000
+      "lastUpdated": 1614556818000
     },
     {
       "categories": [
@@ -12694,21 +12694,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.hentai2read": [
       {
-        "added": 1613894336000,
-        "apkName": "tachiyomi-en.hentai2read-v1.2.11.apk",
+        "added": 1614556817000,
+        "apkName": "tachiyomi-en.hentai2read-v1.2.12.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "f645ea4903c8933715a823f9824db006b36318f8fa2f509c0606ddaeab480500",
+        "hash": "77b6c0ea66a67b32c75e592aa14f1aafd0695be4b63fc25cafdd620033168910",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 70630,
+        "size": 74726,
         "targetSdkVersion": 29,
-        "versionCode": 11,
-        "versionName": "1.2.11"
+        "versionCode": 12,
+        "versionName": "1.2.12"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.hentaicafe": [
@@ -17292,21 +17292,21 @@
     ],
     "eu.kanade.tachiyomi.extension.es.tumangaonline": [
       {
-        "added": 1613894469000,
-        "apkName": "tachiyomi-es.tumangaonline-v1.2.29.apk",
+        "added": 1614556818000,
+        "apkName": "tachiyomi-es.tumangaonline-v1.2.30.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "31595dbe2c481a3817741e891ad236d99cf23fa7bb553986b358f284a8fbe0f9",
+        "hash": "c7e49839926cfc3fb85416d25167dff23b20de1e3c41bf5784bc46a8e0699012",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.es.tumangaonline",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 542809,
+        "size": 62530,
         "targetSdkVersion": 29,
-        "versionCode": 29,
-        "versionName": "1.2.29"
+        "versionCode": 30,
+        "versionName": "1.2.30"
       }
     ],
     "eu.kanade.tachiyomi.extension.es.vcpvmp": [

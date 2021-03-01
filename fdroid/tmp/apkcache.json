@@ -30814,5 +30814,81 @@
     "apkName": "tachiyomi-th.nekopost-v1.2.4.apk",
     "icon": "eu.kanade.tachiyomi.extension.th.nekopost.4.png",
     "added": 1614571216.937137
+  },
+  "tachiyomi-en.hentai2read-v1.2.12.apk": {
+    "hash": "77b6c0ea66a67b32c75e592aa14f1aafd0695be4b63fc25cafdd620033168910",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.hentai2read.12.png",
+      "480": "eu.kanade.tachiyomi.extension.en.hentai2read.12.png",
+      "320": "eu.kanade.tachiyomi.extension.en.hentai2read.12.png",
+      "240": "eu.kanade.tachiyomi.extension.en.hentai2read.12.png",
+      "160": "eu.kanade.tachiyomi.extension.en.hentai2read.12.png",
+      "0": "eu.kanade.tachiyomi.extension.en.hentai2read.12.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.hentai2read",
+    "versionCode": 12,
+    "name": "Tachiyomi: Hentai2Read",
+    "versionName": "1.2.12",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 74726,
+    "apkName": "tachiyomi-en.hentai2read-v1.2.12.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.hentai2read.12.png",
+    "added": 1614585617.126397
+  },
+  "tachiyomi-es.tumangaonline-v1.2.30.apk": {
+    "hash": "c7e49839926cfc3fb85416d25167dff23b20de1e3c41bf5784bc46a8e0699012",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.es.tumangaonline.30.png",
+      "480": "eu.kanade.tachiyomi.extension.es.tumangaonline.30.png",
+      "320": "eu.kanade.tachiyomi.extension.es.tumangaonline.30.png",
+      "240": "eu.kanade.tachiyomi.extension.es.tumangaonline.30.png",
+      "160": "eu.kanade.tachiyomi.extension.es.tumangaonline.30.png",
+      "0": "eu.kanade.tachiyomi.extension.es.tumangaonline.30.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.es.tumangaonline",
+    "versionCode": 30,
+    "name": "Tachiyomi: TuMangaOnline",
+    "versionName": "1.2.30",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62530,
+    "apkName": "tachiyomi-es.tumangaonline-v1.2.30.apk",
+    "icon": "eu.kanade.tachiyomi.extension.es.tumangaonline.30.png",
+    "added": 1614585618.121798
   }
 }
