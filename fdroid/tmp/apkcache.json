@@ -31270,5 +31270,43 @@
     "apkName": "tachiyomi-en.readmanhwa-v1.2.8.apk",
     "icon": "eu.kanade.tachiyomi.extension.en.readmanhwa.8.png",
     "added": 1614657619.912248
+  },
+  "tachiyomi-en.manhuaes-v1.2.2.apk": {
+    "hash": "b15e2f2636fb1699110e4fd8b6545a23a0a671e819bd0ccb96714919abb8dcf5",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.manhuaes.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.manhuaes.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.manhuaes.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.manhuaes.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.manhuaes.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.manhuaes.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.manhuaes",
+    "versionCode": 2,
+    "name": "Tachiyomi: Manhua ES",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62434,
+    "apkName": "tachiyomi-en.manhuaes-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.manhuaes.2.png",
+    "added": 1614730206.201919
   }
 }

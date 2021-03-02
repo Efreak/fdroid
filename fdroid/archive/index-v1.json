@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614686456000,
+    "timestamp": 1614701407000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1570,6 +1570,22 @@
       "icon": "eu.kanade.tachiyomi.extension.pt.mangasproject.17.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.mangasproject",
       "lastUpdated": 1613937621000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Manhua ES (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Manhua ES Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894391000,
+      "icon": "eu.kanade.tachiyomi.extension.en.manhuaes.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.manhuaes",
+      "lastUpdated": 1614701406000
     },
     {
       "categories": [
@@ -4343,6 +4359,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50148,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.manhuaes": [
+      {
+        "added": 1613894391000,
+        "apkName": "tachiyomi-en.manhuaes-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6d0b873cff6a571ad891053a3502ec5ce6c8cde2bdef3dcff2d72e9f66ce3a78",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhuaes",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58338,
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
