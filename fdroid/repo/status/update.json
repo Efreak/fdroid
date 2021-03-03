@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1614772947863,
+  "endTimestamp": 1614787412232,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -441,6 +441,7 @@
     "eu.kanade.tachiyomi.extension.fr.lirescan",
     "eu.kanade.tachiyomi.extension.fr.mangakawaii",
     "eu.kanade.tachiyomi.extension.fr.mangascantrad",
+    "eu.kanade.tachiyomi.extension.fr.mangasorigines",
     "eu.kanade.tachiyomi.extension.fr.scantrad",
     "eu.kanade.tachiyomi.extension.fr.scantradunion",
     "eu.kanade.tachiyomi.extension.fr.tsubakinoscan",
@@ -681,6 +682,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1614801734000,
+  "startTimestamp": 1614816140000,
   "subcommand": "update"
 }
