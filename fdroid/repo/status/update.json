@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1614758539638,
+  "endTimestamp": 1614772947863,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -681,6 +681,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1614787326000,
+  "startTimestamp": 1614801734000,
   "subcommand": "update"
 }
