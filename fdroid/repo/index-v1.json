@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614787406000,
+    "timestamp": 1614801622000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -5100,7 +5100,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: MangaMainac (EN)",
@@ -5108,9 +5108,9 @@
       "summary": "Tachiyomi MangaMainac Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894374000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangamainac.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangamainac.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangamainac",
-      "lastUpdated": 1613894374000
+      "lastUpdated": 1614801615000
     },
     {
       "categories": [
@@ -14158,21 +14158,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangamainac": [
       {
-        "added": 1613894374000,
-        "apkName": "tachiyomi-en.mangamainac-v1.2.1.apk",
+        "added": 1614801615000,
+        "apkName": "tachiyomi-en.mangamainac-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "b5cb04325e2da97f2548fa80bde706e4f7794ead8d7203fda67bbee2b67864b0",
+        "hash": "0f61d9e67370504cff753f7dce54e5d9dc1f53d5ec36d5857f3cff5cbf87bf14",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.mangamainac",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 62357,
-        "targetSdkVersion": 27,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "size": 66533,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangamutiny": [
