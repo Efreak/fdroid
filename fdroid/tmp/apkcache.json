@@ -31574,5 +31574,43 @@
     "apkName": "tachiyomi-tr.turktoon-v1.2.2.apk",
     "icon": "eu.kanade.tachiyomi.extension.tr.turktoon.2.png",
     "added": 1614744025.123025
+  },
+  "tachiyomi-en.mangaus-v1.2.2.apk": {
+    "hash": "e37568ebf771d910e73fed0564b6bc1381f88c09e105c081c2595b07d5e955bc",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangaus.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangaus.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangaus.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangaus.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangaus.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangaus.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangaus",
+    "versionCode": 2,
+    "name": "Tachiyomi: MangaUS",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50145,
+    "apkName": "tachiyomi-en.mangaus-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangaus.2.png",
+    "added": 1614772832.146785
   }
 }

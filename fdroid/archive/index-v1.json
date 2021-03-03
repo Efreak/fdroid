@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614729613000,
+    "timestamp": 1614744033000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1536,6 +1536,18 @@
       "icon": "eu.kanade.tachiyomi.extension.en.mangasushi.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangasushi",
       "lastUpdated": 1613894662000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: MangaUS",
+      "added": 1614456022000,
+      "icon": "eu.kanade.tachiyomi.extension.en.mangaus.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.mangaus",
+      "lastUpdated": 1614744032000
     },
     {
       "categories": [
@@ -4455,6 +4467,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50148,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.mangaus": [
+      {
+        "added": 1614456022000,
+        "apkName": "tachiyomi-en.mangaus-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6f67fc3217a13f1d4f5114247c98b674b3572bec703ab4820219989eb3e045b6",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangaus",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50145,
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
