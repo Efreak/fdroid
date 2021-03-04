@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614859249000,
+    "timestamp": 1614874038000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -4575,7 +4575,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "103",
+      "suggestedVersionCode": "104",
       "description": "The following is a list of urls found in the source for this extension:\n* https://mangadex.org\n* https://cdndex.com",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4584,9 +4584,9 @@
       "summary": "Tachiyomi MangaDex Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894281000,
-      "icon": "eu.kanade.tachiyomi.extension.all.mangadex.103.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.mangadex.104.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
-      "lastUpdated": 1613894633000
+      "lastUpdated": 1614874031000
     },
     {
       "categories": [
@@ -10833,12 +10833,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mangadex": [
       {
-        "added": 1613894281000,
-        "apkName": "tachiyomi-all.mangadex-v1.2.103.apk",
+        "added": 1614874031000,
+        "apkName": "tachiyomi-all.mangadex-v1.2.104.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "1cce8187e2e66b6ae2a945346624cd4d4cb79dec736ec77bd6b86dabb260d458",
+        "hash": "0341b2465871c85823d5e7db3cc771f82aa088ad6e1c80d77629a679583b45c6",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.mangadex",
@@ -10846,8 +10846,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 78911,
         "targetSdkVersion": 29,
-        "versionCode": 103,
-        "versionName": "1.2.103"
+        "versionCode": 104,
+        "versionName": "1.2.104"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangadventure": [
