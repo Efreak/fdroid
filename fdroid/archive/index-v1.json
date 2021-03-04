@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1614801617000,
+    "timestamp": 1614816020000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -51,7 +51,7 @@
         "Reading",
         "Multimedia"
       ],
-      "suggestedVersionCode": "101",
+      "suggestedVersionCode": "105",
       "description": "Goal:\n\nUsing Tachiyomi as a base to add MangaDex specific features.\n\nFeatures:\n* Supports login to MangaDex\n* Local reading of downloaded manga\n* [https://myanimelist.net/ MyAnimeList], [https://anilist.co/ AniList], [https://kitsu.io/explore/anime Kitsu] and [https://shikimori.org/ Shikimori] support.\n* Schedule updating your library for new chapters.\n* Create backups locally to read offline or to your desired cloud service.",
       "issueTracker": "https://github.com/CarlosEsco/Neko/issues",
       "license": "Apache-2.0",
@@ -60,9 +60,9 @@
       "summary": "Free, open source, unofficial MangaDex reader forked from Tachiyomi",
       "webSite": "https://github.com/CarlosEsco/Neko",
       "added": 1613894602000,
-      "icon": "tachiyomi.mangadex.101.png",
+      "icon": "tachiyomi.mangadex.105.png",
       "packageName": "tachiyomi.mangadex",
-      "lastUpdated": 1613894717000
+      "lastUpdated": 1614816019000
     },
     {
       "antiFeatures": [
@@ -8120,6 +8120,95 @@
       }
     ],
     "tachiyomi.mangadex": [
+      {
+        "added": 1613894602000,
+        "apkName": "tachiyomi.mangadex_v2.1.5.6.1_105.apk",
+        "hash": "506301cde3abc2054ba694d03389eb8719ea8fb38caacac71259854bdb9a2870",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "tachiyomi.mangadex",
+        "sig": "81688c90989dcd70e06a3951a90e102c",
+        "signer": "126b1f50861b46c7075bb9fb5210da82c34e417e6d8bc4df2e32313cb421d18c",
+        "size": 20331094,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 105,
+        "versionName": "2.1.5.6.1"
+      },
       {
         "added": 1613894717000,
         "apkName": "tachiyomi.mangadex_v2.1.5.3_101.apk",
