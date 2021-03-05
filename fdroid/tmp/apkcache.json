@@ -33508,5 +33508,43 @@
     "apkName": "tachiyomi.mangadex_v2.2.1_107.apk",
     "icon": "tachiyomi.mangadex.107.png",
     "added": 1614916821.199424
+  },
+  "tachiyomi-en.manhuaus-v1.2.3.apk": {
+    "hash": "cbb14109795557ec081a00e2f0484503b884b9faa2ab67e1951618e6dbe8b175",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.manhuaus.3.png",
+      "480": "eu.kanade.tachiyomi.extension.en.manhuaus.3.png",
+      "320": "eu.kanade.tachiyomi.extension.en.manhuaus.3.png",
+      "240": "eu.kanade.tachiyomi.extension.en.manhuaus.3.png",
+      "160": "eu.kanade.tachiyomi.extension.en.manhuaus.3.png",
+      "0": "eu.kanade.tachiyomi.extension.en.manhuaus.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.manhuaus",
+    "versionCode": 3,
+    "name": "Tachiyomi: ManhuaUS",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 103394,
+    "apkName": "tachiyomi-en.manhuaus-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.manhuaus.3.png",
+    "added": 1614989291.104431
   }
 }
