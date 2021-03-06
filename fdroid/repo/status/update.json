@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1614988826443,
+  "endTimestamp": 1615003273427,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -77,6 +77,7 @@
     "eu.kanade.tachiyomi.extension.all.mangatensei",
     "eu.kanade.tachiyomi.extension.all.mangatoon",
     "eu.kanade.tachiyomi.extension.all.mangazukiclub",
+    "eu.kanade.tachiyomi.extension.all.mango",
     "eu.kanade.tachiyomi.extension.all.manhwa18net",
     "eu.kanade.tachiyomi.extension.all.mmrcms",
     "eu.kanade.tachiyomi.extension.all.myreadingmanga",
@@ -682,6 +683,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1615017612000,
+  "startTimestamp": 1615032058000,
   "subcommand": "update"
 }
