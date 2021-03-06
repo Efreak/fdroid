@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615047020000,
+    "timestamp": 1615060824000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -3807,7 +3807,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Manga Action (AR)",
@@ -3815,9 +3815,9 @@
       "summary": "Tachiyomi Manga Action Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894299000,
-      "icon": "eu.kanade.tachiyomi.extension.ar.mangaaction.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.ar.mangaaction.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ar.mangaaction",
-      "lastUpdated": 1613894299000
+      "lastUpdated": 1615060818000
     },
     {
       "categories": [
@@ -11472,12 +11472,12 @@
     ],
     "eu.kanade.tachiyomi.extension.ar.mangaaction": [
       {
-        "added": 1613894299000,
-        "apkName": "tachiyomi-ar.mangaaction-v1.2.1.apk",
+        "added": 1615060818000,
+        "apkName": "tachiyomi-ar.mangaaction-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "3ed4bec128f0fbcef9301bc7c4414b4f904930dba625689d1d8792c0f5279d9a",
+        "hash": "9fcf6d1bb12739327b57228c891219b3a7062f91c0bea75cf55412f511ac19d3",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangaaction",
@@ -11485,8 +11485,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50149,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.ar.mangaae": [
