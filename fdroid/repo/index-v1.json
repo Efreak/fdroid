@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615017902000,
+    "timestamp": 1615032022000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -5886,9 +5886,9 @@
       "license": "Unknown",
       "name": "Tachiyomi: Mango",
       "added": 1615003260000,
-      "icon": "eu.kanade.tachiyomi.extension.all.mango.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.mango.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mango",
-      "lastUpdated": 1615003260000
+      "lastUpdated": 1615032016000
     },
     {
       "categories": [
@@ -10978,12 +10978,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mango": [
       {
-        "added": 1615003260000,
-        "apkName": "tachiyomi-all.mango-v1.2.1.apk",
+        "added": 1615032016000,
+        "apkName": "tachiyomi-all.mango-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "2b07027632277986352bedc038161e8781b6b114aa4783306c7d73265399c809",
+        "hash": "df2353b88d26025cdae2642498f50e612cdcdc0c83013e60fd069c25800bc5ea",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.mango",
@@ -10991,8 +10991,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 62512,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.manhwa18net": [

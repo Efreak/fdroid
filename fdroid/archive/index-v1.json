@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615017896000,
+    "timestamp": 1615032017000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1949,6 +1949,18 @@
       "icon": "eu.kanade.tachiyomi.extension.id.mangayu.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.mangayu",
       "lastUpdated": 1613894688000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Mango",
+      "added": 1615003260000,
+      "icon": "eu.kanade.tachiyomi.extension.all.mango.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.all.mango",
+      "lastUpdated": 1615032016000
     },
     {
       "categories": [
@@ -4011,6 +4023,25 @@
         "targetSdkVersion": 29,
         "versionCode": 14,
         "versionName": "1.2.14"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.all.mango": [
+      {
+        "added": 1615003260000,
+        "apkName": "tachiyomi-all.mango-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "2b07027632277986352bedc038161e8781b6b114aa4783306c7d73265399c809",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.mango",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 62512,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mmrcms": [
