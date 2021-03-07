@@ -33664,5 +33664,43 @@
     "apkName": "tachiyomi-ar.mangaaction-v1.2.2.apk",
     "icon": "eu.kanade.tachiyomi.extension.ar.mangaaction.2.png",
     "added": 1615089618.07459
+  },
+  "tachiyomi-en.mangalife-v1.2.11.apk": {
+    "hash": "a80452ac54eb2b567b72bb015551b0dfd927d32f27eea046d6cddf0181c73a14",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangalife.11.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangalife.11.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangalife.11.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangalife.11.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangalife.11.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangalife.11.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangalife",
+    "versionCode": 11,
+    "name": "Tachiyomi: MangaLife",
+    "versionName": "1.2.11",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 46052,
+    "apkName": "tachiyomi-en.mangalife-v1.2.11.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangalife.11.png",
+    "added": 1615104018.93366
   }
 }

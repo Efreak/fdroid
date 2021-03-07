@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615060819000,
+    "timestamp": 1615075220000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1695,7 +1695,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "9",
+      "suggestedVersionCode": "10",
       "description": "The following is a list of urls found in the source for this extension:\n* https://mangalife.us",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1704,9 +1704,9 @@
       "summary": "Tachiyomi MangaLife Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894372000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangalife.9.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangalife.10.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangalife",
-      "lastUpdated": 1613894658000
+      "lastUpdated": 1615075218000
     },
     {
       "categories": [
@@ -5075,6 +5075,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangalife": [
+      {
+        "added": 1613894372000,
+        "apkName": "tachiyomi-en.mangalife-v1.2.10.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "adece4c6044646baddd3a0cff09e052146a670d1956ea35ca239ed6e1ea9024a",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangalife",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 46052,
+        "targetSdkVersion": 29,
+        "versionCode": 10,
+        "versionName": "1.2.10"
+      },
       {
         "added": 1613894658000,
         "apkName": "tachiyomi-en.mangalife-v1.2.9.apk",
