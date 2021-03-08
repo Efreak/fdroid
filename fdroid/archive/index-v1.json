@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615219516000,
+    "timestamp": 1615233617000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -696,7 +696,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "13",
+      "suggestedVersionCode": "14",
       "description": "The following is a list of urls found in the source for this extension:\n* https://guya.moe\n* https://raw.githubusercontent.com/appu1232/guyamoe/master/api/data_cache/all_groups.json",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -705,9 +705,9 @@
       "summary": "Tachiyomi Guya Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894334000,
-      "icon": "eu.kanade.tachiyomi.extension.en.guya.13.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.guya.14.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.guya",
-      "lastUpdated": 1615204828000
+      "lastUpdated": 1615233616000
     },
     {
       "categories": [
@@ -4730,6 +4730,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.guya": [
+      {
+        "added": 1615204828000,
+        "apkName": "tachiyomi-en.guya-v1.2.14.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "83b689a844bab2b9a7aa73c26436ce1b2a91f983bcc3e8b7fbe72c2b6b6def40",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.guya",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 87007,
+        "targetSdkVersion": 29,
+        "versionCode": 14,
+        "versionName": "1.2.14"
+      },
       {
         "added": 1613894334000,
         "apkName": "tachiyomi-en.guya-v1.2.13.apk",
