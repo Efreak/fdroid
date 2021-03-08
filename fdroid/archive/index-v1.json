@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615204831000,
+    "timestamp": 1615219516000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -2465,6 +2465,18 @@
       "icon": "eu.kanade.tachiyomi.extension.ru.nudemoon.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.nudemoon",
       "lastUpdated": 1613894705000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: NyaHentai",
+      "added": 1615204829000,
+      "icon": "eu.kanade.tachiyomi.extension.en.nyahentai.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.nyahentai",
+      "lastUpdated": 1615219513000
     },
     {
       "categories": [
@@ -5535,6 +5547,25 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.nyahentai": [
+      {
+        "added": 1615204829000,
+        "apkName": "tachiyomi-en.nyahentai-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "92a186aaee7401e9b82946250f44c79cd399031b9c5fdae0057db358b2d6b237",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.nyahentai",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54243,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.pururin": [
