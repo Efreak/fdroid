@@ -33740,5 +33740,81 @@
     "apkName": "tachiyomi-all.komga-v1.2.22.apk",
     "icon": "eu.kanade.tachiyomi.extension.all.komga.22.png",
     "added": 1615205027.831591
+  },
+  "tachiyomi-en.guya-v1.2.14.apk": {
+    "hash": "83b689a844bab2b9a7aa73c26436ce1b2a91f983bcc3e8b7fbe72c2b6b6def40",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.guya.14.png",
+      "480": "eu.kanade.tachiyomi.extension.en.guya.14.png",
+      "320": "eu.kanade.tachiyomi.extension.en.guya.14.png",
+      "240": "eu.kanade.tachiyomi.extension.en.guya.14.png",
+      "160": "eu.kanade.tachiyomi.extension.en.guya.14.png",
+      "0": "eu.kanade.tachiyomi.extension.en.guya.14.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.guya",
+    "versionCode": 14,
+    "name": "Tachiyomi: Guya",
+    "versionName": "1.2.14",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 87007,
+    "apkName": "tachiyomi-en.guya-v1.2.14.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.guya.14.png",
+    "added": 1615233628.639371
+  },
+  "tachiyomi-en.nyahentai-v1.2.2.apk": {
+    "hash": "92a186aaee7401e9b82946250f44c79cd399031b9c5fdae0057db358b2d6b237",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.nyahentai.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.nyahentai.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.nyahentai.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.nyahentai.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.nyahentai.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.nyahentai.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.nyahentai",
+    "versionCode": 2,
+    "name": "Tachiyomi: NyaHentai",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54243,
+    "apkName": "tachiyomi-en.nyahentai-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.nyahentai.2.png",
+    "added": 1615233629.514465
   }
 }

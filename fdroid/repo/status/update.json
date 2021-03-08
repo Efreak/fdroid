@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1615190503891,
+  "endTimestamp": 1615204842234,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -333,6 +333,7 @@
     "eu.kanade.tachiyomi.extension.en.nonstopscans",
     "eu.kanade.tachiyomi.extension.en.ntsvoidscans",
     "eu.kanade.tachiyomi.extension.en.nuxscans",
+    "eu.kanade.tachiyomi.extension.en.nyahentai",
     "eu.kanade.tachiyomi.extension.en.oglaf",
     "eu.kanade.tachiyomi.extension.en.onetimescans",
     "eu.kanade.tachiyomi.extension.en.onmanga",
@@ -683,6 +684,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1615219290000,
+  "startTimestamp": 1615233626000,
   "subcommand": "update"
 }
