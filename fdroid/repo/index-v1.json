@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615262436000,
+    "timestamp": 1615276874000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -51,7 +51,7 @@
         "Reading",
         "Multimedia"
       ],
-      "suggestedVersionCode": "108",
+      "suggestedVersionCode": "109",
       "description": "Goal:\n\nUsing Tachiyomi as a base to add MangaDex specific features.\n\nFeatures:\n* Supports login to MangaDex\n* Local reading of downloaded manga\n* [https://myanimelist.net/ MyAnimeList], [https://anilist.co/ AniList], [https://kitsu.io/explore/anime Kitsu] and [https://shikimori.org/ Shikimori] support.\n* Schedule updating your library for new chapters.\n* Create backups locally to read offline or to your desired cloud service.",
       "issueTracker": "https://github.com/CarlosEsco/Neko/issues",
       "license": "Apache-2.0",
@@ -60,9 +60,9 @@
       "summary": "Free, open source, unofficial MangaDex reader forked from Tachiyomi",
       "webSite": "https://github.com/CarlosEsco/Neko",
       "added": 1613894602000,
-      "icon": "tachiyomi.mangadex.108.png",
+      "icon": "tachiyomi.mangadex.109.png",
       "packageName": "tachiyomi.mangadex",
-      "lastUpdated": 1615262430000,
+      "lastUpdated": 1615276867000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -22279,9 +22279,9 @@
     ],
     "tachiyomi.mangadex": [
       {
-        "added": 1615262430000,
-        "apkName": "tachiyomi.mangadex_v2.2.2_108.apk",
-        "hash": "e735c9ccf41020ce9539658503f8ef4c9d1d2bc0959352e1b15d785f25a689a6",
+        "added": 1615276867000,
+        "apkName": "tachiyomi.mangadex_v2.2.2.1_109.apk",
+        "hash": "2b39696e56ffff36622aa648e4cc111b57401a237fc85c12b2ada41900df5e5a",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -22364,8 +22364,8 @@
             null
           ]
         ],
-        "versionCode": 108,
-        "versionName": "2.2.2"
+        "versionCode": 109,
+        "versionName": "2.2.2.1"
       }
     ]
   }
