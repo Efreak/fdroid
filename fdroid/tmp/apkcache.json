@@ -34800,5 +34800,119 @@
     "apkName": "tachiyomi-en.mangasee-v1.2.17.apk",
     "icon": "eu.kanade.tachiyomi.extension.en.mangasee.17.png",
     "added": 1615464021.741526
+  },
+  "tachiyomi-en.mangabat-v1.2.5.apk": {
+    "hash": "2c7acf9990b838da65be8f60e12381132f64284eaa626ddb683a25cc0c091b5b",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangabat.5.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangabat.5.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangabat.5.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangabat.5.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangabat.5.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangabat.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangabat",
+    "versionCode": 5,
+    "name": "Tachiyomi: Mangabat",
+    "versionName": "1.2.5",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54242,
+    "apkName": "tachiyomi-en.mangabat-v1.2.5.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangabat.5.png",
+    "added": 1615492816.232535
+  },
+  "tachiyomi-en.mangalife-v1.2.14.apk": {
+    "hash": "43efbc726ae75224eec7fcf035f7868fd01576e7d4264ad885734865657787d7",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangalife.14.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangalife.14.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangalife.14.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangalife.14.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangalife.14.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangalife.14.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangalife",
+    "versionCode": 14,
+    "name": "Tachiyomi: MangaLife",
+    "versionName": "1.2.14",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 46142,
+    "apkName": "tachiyomi-en.mangalife-v1.2.14.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangalife.14.png",
+    "added": 1615492817.209462
+  },
+  "tachiyomi-en.mangasee-v1.2.18.apk": {
+    "hash": "9b245e6fd859f08752afc3ff71114ffd0a31e4bba08e328228a10cf4a7d275bb",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangasee.18.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangasee.18.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangasee.18.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangasee.18.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangasee.18.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangasee.18.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangasee",
+    "versionCode": 18,
+    "name": "Tachiyomi: Mangasee",
+    "versionName": "1.2.18",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 70717,
+    "apkName": "tachiyomi-en.mangasee-v1.2.18.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangasee.18.png",
+    "added": 1615492818.06237
   }
 }
