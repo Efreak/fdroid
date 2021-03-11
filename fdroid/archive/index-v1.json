@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615420813000,
+    "timestamp": 1615435223000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1463,7 +1463,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Mangabat (EN)",
@@ -1471,9 +1471,9 @@
       "summary": "Tachiyomi Mangabat Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894357000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangabat.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangabat.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangabat",
-      "lastUpdated": 1615392359000
+      "lastUpdated": 1615435220000
     },
     {
       "categories": [
@@ -1775,7 +1775,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "11",
+      "suggestedVersionCode": "12",
       "description": "The following is a list of urls found in the source for this extension:\n* https://mangalife.us",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1784,9 +1784,9 @@
       "summary": "Tachiyomi MangaLife Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894372000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangalife.11.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangalife.12.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangalife",
-      "lastUpdated": 1615392361000
+      "lastUpdated": 1615435220000
     },
     {
       "categories": [
@@ -1923,7 +1923,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "15",
+      "suggestedVersionCode": "16",
       "description": "The following is a list of urls found in the source for this extension:\n* https://mangaseeonline.us",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1932,9 +1932,9 @@
       "summary": "Tachiyomi Mangasee Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894385000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangasee.15.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangasee.16.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangasee",
-      "lastUpdated": 1613894661000
+      "lastUpdated": 1615435221000
     },
     {
       "categories": [
@@ -5157,6 +5157,23 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangabat": [
       {
+        "added": 1615392359000,
+        "apkName": "tachiyomi-en.mangabat-v1.2.3.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "b2ae1a4d4dcecba81d77e2099c3cf63255ea8b1d8be75241ed562f081f20652a",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangabat",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54242,
+        "targetSdkVersion": 29,
+        "versionCode": 3,
+        "versionName": "1.2.3"
+      },
+      {
         "added": 1615334418000,
         "apkName": "tachiyomi-en.mangabat-v1.2.2.apk",
         "features": [
@@ -5379,6 +5396,23 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangalife": [
       {
+        "added": 1615392361000,
+        "apkName": "tachiyomi-en.mangalife-v1.2.12.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "c946b12584a80b269f1d912630a5d895028ff6d37434f66b9d2b617349c3fc7b",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangalife",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 46052,
+        "targetSdkVersion": 29,
+        "versionCode": 12,
+        "versionName": "1.2.12"
+      },
+      {
         "added": 1615075218000,
         "apkName": "tachiyomi-en.mangalife-v1.2.11.apk",
         "features": [
@@ -5543,6 +5577,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangasee": [
+      {
+        "added": 1613894385000,
+        "apkName": "tachiyomi-en.mangasee-v1.2.16.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "ca324d74b4b19eb0117b8631479b6ef68e9f986195a0118f907d1d99a8e66ca7",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangasee",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66531,
+        "targetSdkVersion": 29,
+        "versionCode": 16,
+        "versionName": "1.2.16"
+      },
       {
         "added": 1613894661000,
         "apkName": "tachiyomi-en.mangasee-v1.2.15.apk",
