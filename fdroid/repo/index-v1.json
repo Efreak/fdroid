@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615550420000,
+    "timestamp": 1615564827000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -4055,7 +4055,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "5",
+      "suggestedVersionCode": "6",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Manga Mutiny (EN)",
@@ -4063,9 +4063,9 @@
       "summary": "Tachiyomi Manga Mutiny Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894374000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangamutiny.5.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangamutiny.6.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangamutiny",
-      "lastUpdated": 1614787346000
+      "lastUpdated": 1615564818000
     },
     {
       "categories": [
@@ -14251,12 +14251,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangamutiny": [
       {
-        "added": 1614787346000,
-        "apkName": "tachiyomi-en.mangamutiny-v1.2.5.apk",
+        "added": 1615564818000,
+        "apkName": "tachiyomi-en.mangamutiny-v1.2.6.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "9b1dedab439d7fa087e1b3c0de0438d097a9f4656d770bccb80c441b62f286e8",
+        "hash": "42478c98d521aa6e0af66f6e6d1a8268f01ab4d47be644819030b2c3bae1ca20",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.mangamutiny",
@@ -14264,8 +14264,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 41957,
         "targetSdkVersion": 29,
-        "versionCode": 5,
-        "versionName": "1.2.5"
+        "versionCode": 6,
+        "versionName": "1.2.6"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.manganelo": [
