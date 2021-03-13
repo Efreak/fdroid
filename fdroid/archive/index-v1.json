@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615636814000,
+    "timestamp": 1615651223000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1377,6 +1377,18 @@
       "icon": "eu.kanade.tachiyomi.extension.tr.liebeschneehiver.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.tr.liebeschneehiver",
       "lastUpdated": 1614787396000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: LynxScans",
+      "added": 1615406417000,
+      "icon": "eu.kanade.tachiyomi.extension.en.lynxscans.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.lynxscans",
+      "lastUpdated": 1615651220000
     },
     {
       "categories": [
@@ -5267,6 +5279,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 54247,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.lynxscans": [
+      {
+        "added": 1615406417000,
+        "apkName": "tachiyomi-en.lynxscans-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "3d492f38953f3ff0535bbd21f541dc074d9cc567b4431d0177458222ce80b5a4",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.lynxscans",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 46051,
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
