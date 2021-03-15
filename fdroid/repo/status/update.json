@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1615820437299,
+  "endTimestamp": 1615834832458,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -89,6 +89,7 @@
     "eu.kanade.tachiyomi.extension.all.simplyhentai",
     "eu.kanade.tachiyomi.extension.all.thelibraryofohara",
     "eu.kanade.tachiyomi.extension.all.toomics",
+    "eu.kanade.tachiyomi.extension.all.vinnieVeritas",
     "eu.kanade.tachiyomi.extension.all.webtoons",
     "eu.kanade.tachiyomi.extension.all.wpcomics",
     "eu.kanade.tachiyomi.extension.all.wpmanga",
@@ -685,6 +686,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1615849218000,
+  "startTimestamp": 1615863616000,
   "subcommand": "update"
 }

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615820431000,
+    "timestamp": 1615834826000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -7750,7 +7750,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "3",
+      "suggestedVersionCode": "4",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Rain Of Snow (EN)",
@@ -7758,9 +7758,9 @@
       "summary": "Tachiyomi Rain Of Snow Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894424000,
-      "icon": "eu.kanade.tachiyomi.extension.en.rainofsnow.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.rainofsnow.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.rainofsnow",
-      "lastUpdated": 1613894668000
+      "lastUpdated": 1615834819000
     },
     {
       "categories": [
@@ -9394,6 +9394,18 @@
       "icon": "eu.kanade.tachiyomi.extension.en.vgperson.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.vgperson",
       "lastUpdated": 1613894448000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Vinne Veritas - CCC",
+      "added": 1615834818000,
+      "icon": "eu.kanade.tachiyomi.extension.all.vinnieVeritas.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.all.vinnieVeritas",
+      "lastUpdated": 1615834818000
     },
     {
       "categories": [
@@ -11226,6 +11238,25 @@
         "targetSdkVersion": 29,
         "versionCode": 6,
         "versionName": "1.2.6"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.all.vinnieVeritas": [
+      {
+        "added": 1615834818000,
+        "apkName": "tachiyomi-all.vinnieVeritas-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "cc6cc7422285fa8b8c79cfb86b7d9397fd0f262b2c7160f805b8675e5e99d5ca",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.vinnieVeritas",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66536,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.webtoons": [
@@ -15923,12 +15954,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.rainofsnow": [
       {
-        "added": 1613894424000,
-        "apkName": "tachiyomi-en.rainofsnow-v1.2.3.apk",
+        "added": 1615834819000,
+        "apkName": "tachiyomi-en.rainofsnow-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "06b118eba00f8945952f7041cbc5a6b107e984984e089cfacc056c0f8379db11",
+        "hash": "e4067bdadbf9a3268ee257e84858e85348f42d6864040cc6eee22a4cc41b6773",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.rainofsnow",
@@ -15936,8 +15967,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 95204,
         "targetSdkVersion": 29,
-        "versionCode": 3,
-        "versionName": "1.2.3"
+        "versionCode": 4,
+        "versionName": "1.2.4"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.randomtranslations": [

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615820425000,
+    "timestamp": 1615834821000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -2802,7 +2802,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Rain Of Snow (EN)",
@@ -2810,9 +2810,9 @@
       "summary": "Tachiyomi Rain Of Snow Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894424000,
-      "icon": "eu.kanade.tachiyomi.extension.en.rainofsnow.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.rainofsnow.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.rainofsnow",
-      "lastUpdated": 1613894668000
+      "lastUpdated": 1615834819000
     },
     {
       "categories": [
@@ -6304,6 +6304,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.rainofsnow": [
+      {
+        "added": 1613894424000,
+        "apkName": "tachiyomi-en.rainofsnow-v1.2.3.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "06b118eba00f8945952f7041cbc5a6b107e984984e089cfacc056c0f8379db11",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.rainofsnow",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 95204,
+        "targetSdkVersion": 29,
+        "versionCode": 3,
+        "versionName": "1.2.3"
+      },
       {
         "added": 1613894668000,
         "apkName": "tachiyomi-en.rainofsnow-v1.2.2.apk",
