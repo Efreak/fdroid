@@ -35558,5 +35558,119 @@
     "apkName": "tachiyomi-en.lynxscans-v1.2.2.apk",
     "icon": "eu.kanade.tachiyomi.extension.en.lynxscans.2.png",
     "added": 1615680020.336274
+  },
+  "tachiyomi-en.aloalivn-v1.2.3.apk": {
+    "hash": "31e1438b58833240c097b00ee6588d5a01bfec815fdd9b915880bb403fc96677",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.aloalivn.3.png",
+      "480": "eu.kanade.tachiyomi.extension.en.aloalivn.3.png",
+      "320": "eu.kanade.tachiyomi.extension.en.aloalivn.3.png",
+      "240": "eu.kanade.tachiyomi.extension.en.aloalivn.3.png",
+      "160": "eu.kanade.tachiyomi.extension.en.aloalivn.3.png",
+      "0": "eu.kanade.tachiyomi.extension.en.aloalivn.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.aloalivn",
+    "versionCode": 3,
+    "name": "Tachiyomi: Aloalivn",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54242,
+    "apkName": "tachiyomi-en.aloalivn-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.aloalivn.3.png",
+    "added": 1615845622.004648
+  },
+  "tachiyomi-en.hiperdex-v1.2.2.apk": {
+    "hash": "5cd61ce4b7043303815decfe8947a05dfe687b474199fd5f00b572fb867e5211",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.hiperdex.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.hiperdex.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.hiperdex.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.hiperdex.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.hiperdex.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.hiperdex.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.hiperdex",
+    "versionCode": 2,
+    "name": "Tachiyomi: Hiperdex",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54242,
+    "apkName": "tachiyomi-en.hiperdex-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.hiperdex.2.png",
+    "added": 1615845622.925597
+  },
+  "tachiyomi-pt.supermangas-v1.2.7.apk": {
+    "hash": "47d006356c4d92945e0291c08418fcce7a3ad0b9693d4875971bbc0f52900740",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.supermangas.7.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.supermangas.7.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.supermangas.7.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.supermangas.7.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.supermangas.7.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.supermangas.7.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.supermangas",
+    "versionCode": 7,
+    "name": "Tachiyomi: Super Mang\u00e1s",
+    "versionName": "1.2.7",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 66533,
+    "apkName": "tachiyomi-pt.supermangas-v1.2.7.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.supermangas.7.png",
+    "added": 1615845623.954832
   }
 }

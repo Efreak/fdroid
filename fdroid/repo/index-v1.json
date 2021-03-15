@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615806020000,
+    "timestamp": 1615820431000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -436,7 +436,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Aloalivn (EN)",
@@ -444,9 +444,9 @@
       "summary": "Tachiyomi Aloalivn Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894312000,
-      "icon": "eu.kanade.tachiyomi.extension.en.aloalivn.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.aloalivn.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.aloalivn",
-      "lastUpdated": 1613894646000
+      "lastUpdated": 1615820422000
     },
     {
       "categories": [
@@ -2463,7 +2463,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Hiperdex (EN)",
@@ -2471,9 +2471,9 @@
       "summary": "Tachiyomi Hiperdex Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894340000,
-      "icon": "eu.kanade.tachiyomi.extension.en.hiperdex.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.hiperdex.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.hiperdex",
-      "lastUpdated": 1613894340000
+      "lastUpdated": 1615820422000
     },
     {
       "categories": [
@@ -8691,7 +8691,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "6",
+      "suggestedVersionCode": "7",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Super Mang\u00e1s (PT)",
@@ -8699,9 +8699,9 @@
       "summary": "Tachiyomi Super Mang\u00e1s Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894545000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.supermangas.6.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.supermangas.7.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.supermangas",
-      "lastUpdated": 1613952017000
+      "lastUpdated": 1615820423000
     },
     {
       "categories": [
@@ -11971,12 +11971,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.aloalivn": [
       {
-        "added": 1613894312000,
-        "apkName": "tachiyomi-en.aloalivn-v1.2.2.apk",
+        "added": 1615820422000,
+        "apkName": "tachiyomi-en.aloalivn-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "79ed22be4df5c39cf35f3990759c2748a93258eecff5fb79b200d086fdc644c5",
+        "hash": "31e1438b58833240c097b00ee6588d5a01bfec815fdd9b915880bb403fc96677",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.aloalivn",
@@ -11984,8 +11984,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 54242,
         "targetSdkVersion": 29,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.anatanomotokare": [
@@ -12978,12 +12978,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.hiperdex": [
       {
-        "added": 1613894340000,
-        "apkName": "tachiyomi-en.hiperdex-v1.2.1.apk",
+        "added": 1615820422000,
+        "apkName": "tachiyomi-en.hiperdex-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "082092743161b689941734b5b33471a1212a62d95c373bb28a3618e02fd9a829",
+        "hash": "5cd61ce4b7043303815decfe8947a05dfe687b474199fd5f00b572fb867e5211",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.hiperdex",
@@ -12991,8 +12991,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 54242,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.hiveworks": [
@@ -20198,21 +20198,21 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.supermangas": [
       {
-        "added": 1613952017000,
-        "apkName": "tachiyomi-pt.supermangas-v1.2.6.apk",
+        "added": 1615820423000,
+        "apkName": "tachiyomi-pt.supermangas-v1.2.7.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "39240d152f7fc434d6520753060ac9283a09199c2bda951a5290e8ca0af662c9",
+        "hash": "47d006356c4d92945e0291c08418fcce7a3ad0b9693d4875971bbc0f52900740",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.supermangas",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 62437,
+        "size": 66533,
         "targetSdkVersion": 29,
-        "versionCode": 6,
-        "versionName": "1.2.6"
+        "versionCode": 7,
+        "versionName": "1.2.7"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.taosect": [
