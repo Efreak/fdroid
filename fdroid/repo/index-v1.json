@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1615935625000,
+    "timestamp": 1615950025000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -9403,9 +9403,9 @@
       "license": "Unknown",
       "name": "Tachiyomi: Vinne Veritas - CCC",
       "added": 1615834818000,
-      "icon": "eu.kanade.tachiyomi.extension.all.vinnieVeritas.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.vinnieVeritas.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.vinnieVeritas",
-      "lastUpdated": 1615834818000
+      "lastUpdated": 1615950018000
     },
     {
       "categories": [
@@ -11242,12 +11242,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.vinnieVeritas": [
       {
-        "added": 1615834818000,
-        "apkName": "tachiyomi-all.vinnieVeritas-v1.2.1.apk",
+        "added": 1615950018000,
+        "apkName": "tachiyomi-all.vinnieVeritas-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "cc6cc7422285fa8b8c79cfb86b7d9397fd0f262b2c7160f805b8675e5e99d5ca",
+        "hash": "978009bef01dbc19c239b0e0427c77c7a4baee9aba15554a227de0ba3ec6de8b",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.vinnieVeritas",
@@ -11255,8 +11255,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 66536,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.webtoons": [
