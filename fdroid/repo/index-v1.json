@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616065220000,
+    "timestamp": 1616079631000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -5923,7 +5923,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "3",
+      "suggestedVersionCode": "4",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Manhua ES (EN)",
@@ -5931,9 +5931,9 @@
       "summary": "Tachiyomi Manhua ES Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894391000,
-      "icon": "eu.kanade.tachiyomi.extension.en.manhuaes.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.manhuaes.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuaes",
-      "lastUpdated": 1615392362000
+      "lastUpdated": 1616079622000
     },
     {
       "categories": [
@@ -14909,12 +14909,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.manhuaes": [
       {
-        "added": 1615392362000,
-        "apkName": "tachiyomi-en.manhuaes-v1.2.3.apk",
+        "added": 1616079622000,
+        "apkName": "tachiyomi-en.manhuaes-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "7098c35d31c160a8166cc5aa736b656b3feed8b064dfb3ac2383302ab1c4a9b1",
+        "hash": "81c3f22351964538f48f0721edac816b59ea33b4fdd2c20aa4168af6888c8836",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.manhuaes",
@@ -14922,8 +14922,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 62434,
         "targetSdkVersion": 29,
-        "versionCode": 3,
-        "versionName": "1.2.3"
+        "versionCode": 4,
+        "versionName": "1.2.4"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.manhuafast": [
