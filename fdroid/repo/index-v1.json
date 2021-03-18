@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616079631000,
+    "timestamp": 1616094024000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -5107,6 +5107,18 @@
       "icon": "eu.kanade.tachiyomi.extension.ar.mangalink.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.ar.mangalink",
       "lastUpdated": 1613894645000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: MangaLionz",
+      "added": 1616094016000,
+      "icon": "eu.kanade.tachiyomi.extension.ar.mangalionz.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.ar.mangalionz",
+      "lastUpdated": 1616094016000
     },
     {
       "categories": [
@@ -11656,6 +11668,25 @@
         "targetSdkVersion": 29,
         "versionCode": 2,
         "versionName": "1.2.2"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.ar.mangalionz": [
+      {
+        "added": 1616094016000,
+        "apkName": "tachiyomi-ar.mangalionz-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "2e5474a40c242486b32d90fa7288502074886999113367d77028fffd7ba177a5",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ar.mangalionz",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50148,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.ar.mangap": [
