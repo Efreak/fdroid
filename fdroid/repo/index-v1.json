@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616166021000,
+    "timestamp": 1616180427000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1842,7 +1842,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Flame Scans (EN)",
@@ -1850,9 +1850,9 @@
       "summary": "Tachiyomi Flame Scans Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894331000,
-      "icon": "eu.kanade.tachiyomi.extension.en.flamescans.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.flamescans.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.flamescans",
-      "lastUpdated": 1614787345000
+      "lastUpdated": 1616180419000
     },
     {
       "categories": [
@@ -3287,7 +3287,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "4",
+      "suggestedVersionCode": "5",
       "description": "The following is a list of urls found in the source for this extension:\n* https://komikcast.com",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3296,9 +3296,9 @@
       "summary": "Tachiyomi Komikcast Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894487000,
-      "icon": "eu.kanade.tachiyomi.extension.id.komikcast.4.png",
+      "icon": "eu.kanade.tachiyomi.extension.id.komikcast.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
-      "lastUpdated": 1614787359000
+      "lastUpdated": 1616180420000
     },
     {
       "categories": [
@@ -12736,21 +12736,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.flamescans": [
       {
-        "added": 1614787345000,
-        "apkName": "tachiyomi-en.flamescans-v1.2.2.apk",
+        "added": 1616180419000,
+        "apkName": "tachiyomi-en.flamescans-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "871732e8f3defff44b625451596e4521cc7d9aefbcb8c016a03ad2e2b385708c",
+        "hash": "be5a4ec88776b2de4348ddb58d854269b06764e2e238f10ff888b2fcc34d26b0",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.flamescans",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 37950,
+        "size": 62526,
         "targetSdkVersion": 29,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.freewebtooncoins": [
@@ -18170,21 +18170,21 @@
     ],
     "eu.kanade.tachiyomi.extension.id.komikcast": [
       {
-        "added": 1613894487000,
-        "apkName": "tachiyomi-id.komikcast-v1.2.4.apk",
+        "added": 1616180420000,
+        "apkName": "tachiyomi-id.komikcast-v1.2.5.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "c960a2c9f51214a126e3aa72a2150e53e2498d2067cba5cc218ec0a6ca15f61c",
+        "hash": "4dc18ff4d8bd5c52b7808a2069d6a0caf470f6572671ffacd9d012515774bc32",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 58259,
-        "targetSdkVersion": 27,
-        "versionCode": 4,
-        "versionName": "1.2.4"
+        "size": 66621,
+        "targetSdkVersion": 29,
+        "versionCode": 5,
+        "versionName": "1.2.5"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.komikfan": [

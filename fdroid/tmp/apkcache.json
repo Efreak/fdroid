@@ -35976,5 +35976,81 @@
     "apkName": "tachiyomi-ar.mangalionz-v1.2.1.apk",
     "icon": "eu.kanade.tachiyomi.extension.ar.mangalionz.1.png",
     "added": 1616119216.856719
+  },
+  "tachiyomi-en.flamescans-v1.2.3.apk": {
+    "hash": "be5a4ec88776b2de4348ddb58d854269b06764e2e238f10ff888b2fcc34d26b0",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.flamescans.3.png",
+      "480": "eu.kanade.tachiyomi.extension.en.flamescans.3.png",
+      "320": "eu.kanade.tachiyomi.extension.en.flamescans.3.png",
+      "240": "eu.kanade.tachiyomi.extension.en.flamescans.3.png",
+      "160": "eu.kanade.tachiyomi.extension.en.flamescans.3.png",
+      "0": "eu.kanade.tachiyomi.extension.en.flamescans.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.flamescans",
+    "versionCode": 3,
+    "name": "Tachiyomi: Flame Scans",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62526,
+    "apkName": "tachiyomi-en.flamescans-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.flamescans.3.png",
+    "added": 1616205619.540341
+  },
+  "tachiyomi-id.komikcast-v1.2.5.apk": {
+    "hash": "4dc18ff4d8bd5c52b7808a2069d6a0caf470f6572671ffacd9d012515774bc32",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.id.komikcast.5.png",
+      "480": "eu.kanade.tachiyomi.extension.id.komikcast.5.png",
+      "320": "eu.kanade.tachiyomi.extension.id.komikcast.5.png",
+      "240": "eu.kanade.tachiyomi.extension.id.komikcast.5.png",
+      "160": "eu.kanade.tachiyomi.extension.id.komikcast.5.png",
+      "0": "eu.kanade.tachiyomi.extension.id.komikcast.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.id.komikcast",
+    "versionCode": 5,
+    "name": "Tachiyomi: Komik Cast",
+    "versionName": "1.2.5",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 66621,
+    "apkName": "tachiyomi-id.komikcast-v1.2.5.apk",
+    "icon": "eu.kanade.tachiyomi.extension.id.komikcast.5.png",
+    "added": 1616205620.510504
   }
 }
