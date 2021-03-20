@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616252429000,
+    "timestamp": 1616266825000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -723,7 +723,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Bacakomik (ID)",
@@ -731,9 +731,9 @@
       "summary": "Tachiyomi Bacakomik Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894480000,
-      "icon": "eu.kanade.tachiyomi.extension.id.bacakomik.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.id.bacakomik.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.bacakomik",
-      "lastUpdated": 1613894682000
+      "lastUpdated": 1616266818000
     },
     {
       "categories": [
@@ -17923,12 +17923,12 @@
     ],
     "eu.kanade.tachiyomi.extension.id.bacakomik": [
       {
-        "added": 1613894480000,
-        "apkName": "tachiyomi-id.bacakomik-v1.2.2.apk",
+        "added": 1616266818000,
+        "apkName": "tachiyomi-id.bacakomik-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "c35fc77ddbfd5029426b893c34f4b5958dc700749a64f7919ff2403dddd2df3c",
+        "hash": "b7ab4cd55511251eacf4e5cd69214cd41c2e6c9ff0c7595d27ee7290ab868304",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.id.bacakomik",
@@ -17936,8 +17936,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 41955,
         "targetSdkVersion": 29,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.bacamanga": [
