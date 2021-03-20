@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616238017000,
+    "timestamp": 1616252424000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1349,7 +1349,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Leviatan Scans (ALL)",
@@ -1357,9 +1357,9 @@
       "summary": "Tachiyomi Leviatan Scans Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894279000,
-      "icon": "eu.kanade.tachiyomi.extension.all.leviatanscans.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.leviatanscans.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.leviatanscans",
-      "lastUpdated": 1616209218000
+      "lastUpdated": 1616252421000
     },
     {
       "categories": [
@@ -3190,6 +3190,22 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Sleeping Knight Scans (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Sleeping Knight Scans Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894436000,
+      "icon": "eu.kanade.tachiyomi.extension.en.sleepingknightscans.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.sleepingknightscans",
+      "lastUpdated": 1616252422000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
       "suggestedVersionCode": "6",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4266,6 +4282,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.leviatanscans": [
+      {
+        "added": 1613894279000,
+        "apkName": "tachiyomi-all.leviatanscans-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "5ef588c4964437dd61bf8369d63b72aa6cf54fb8fed900ccc72b814202dcff2e",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.leviatanscans",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54248,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
+      },
       {
         "added": 1616209218000,
         "apkName": "tachiyomi-all.leviatanscans-v1.2.1.apk",
@@ -6654,6 +6687,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 82917,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.sleepingknightscans": [
+      {
+        "added": 1613894436000,
+        "apkName": "tachiyomi-en.sleepingknightscans-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "3569df166caf31b596bbc5958bd600254097918af2e8c9bd6a4b2fe7a09ab3a9",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.sleepingknightscans",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66541,
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
