@@ -36204,5 +36204,81 @@
     "apkName": "tachiyomi-id.bacakomik-v1.2.3.apk",
     "icon": "eu.kanade.tachiyomi.extension.id.bacakomik.3.png",
     "added": 1616292018.391174
+  },
+  "tachiyomi-all.leviatanscans-v1.2.4.apk": {
+    "hash": "8b661c60e318f022af0943c5e1880419eae06da8f5b52e2fed54908ac981af78",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.leviatanscans.4.png",
+      "480": "eu.kanade.tachiyomi.extension.all.leviatanscans.4.png",
+      "320": "eu.kanade.tachiyomi.extension.all.leviatanscans.4.png",
+      "240": "eu.kanade.tachiyomi.extension.all.leviatanscans.4.png",
+      "160": "eu.kanade.tachiyomi.extension.all.leviatanscans.4.png",
+      "0": "eu.kanade.tachiyomi.extension.all.leviatanscans.4.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.leviatanscans",
+    "versionCode": 4,
+    "name": "Tachiyomi: Leviatan Scans",
+    "versionName": "1.2.4",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62440,
+    "apkName": "tachiyomi-all.leviatanscans-v1.2.4.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.leviatanscans.4.png",
+    "added": 1616306415.787008
+  },
+  "tachiyomi-en.sleepingknightscans-v1.2.3.apk": {
+    "hash": "f9f93657ddc19f16390252891cd226de4ef4a07ada04862d8a9702f84ce1d214",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.sleepingknightscans.3.png",
+      "480": "eu.kanade.tachiyomi.extension.en.sleepingknightscans.3.png",
+      "320": "eu.kanade.tachiyomi.extension.en.sleepingknightscans.3.png",
+      "240": "eu.kanade.tachiyomi.extension.en.sleepingknightscans.3.png",
+      "160": "eu.kanade.tachiyomi.extension.en.sleepingknightscans.3.png",
+      "0": "eu.kanade.tachiyomi.extension.en.sleepingknightscans.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.sleepingknightscans",
+    "versionCode": 3,
+    "name": "Tachiyomi: Sleeping Knight Scans",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 74733,
+    "apkName": "tachiyomi-en.sleepingknightscans-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.sleepingknightscans.3.png",
+    "added": 1616306416.721307
   }
 }
