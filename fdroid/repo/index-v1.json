@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616353225000,
+    "timestamp": 1616367628000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -51,7 +51,7 @@
         "Reading",
         "Multimedia"
       ],
-      "suggestedVersionCode": "110",
+      "suggestedVersionCode": "111",
       "description": "Goal:\n\nUsing Tachiyomi as a base to add MangaDex specific features.\n\nFeatures:\n* Supports login to MangaDex\n* Local reading of downloaded manga\n* [https://myanimelist.net/ MyAnimeList], [https://anilist.co/ AniList], [https://kitsu.io/explore/anime Kitsu] and [https://shikimori.org/ Shikimori] support.\n* Schedule updating your library for new chapters.\n* Create backups locally to read offline or to your desired cloud service.",
       "issueTracker": "https://github.com/CarlosEsco/Neko/issues",
       "license": "Apache-2.0",
@@ -60,9 +60,9 @@
       "summary": "Free, open source, unofficial MangaDex reader forked from Tachiyomi",
       "webSite": "https://github.com/CarlosEsco/Neko",
       "added": 1613894602000,
-      "icon": "tachiyomi.mangadex.110.png",
+      "icon": "tachiyomi.mangadex.111.png",
       "packageName": "tachiyomi.mangadex",
-      "lastUpdated": 1615507228000,
+      "lastUpdated": 1616367620000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -22372,9 +22372,9 @@
     ],
     "tachiyomi.mangadex": [
       {
-        "added": 1615507228000,
-        "apkName": "tachiyomi.mangadex_v2.2.2.2_110.apk",
-        "hash": "23ca55e3a0b3d483bb883ddfc2e953917b0406b1dbf840896fa6f6b0447a6e2b",
+        "added": 1616367620000,
+        "apkName": "tachiyomi.mangadex_v2.2.2.3_111.apk",
+        "hash": "39ebd2261d92635210625d1403459c083b73de2e7544c8e1f8652edaa226aa83",
         "hashType": "sha256",
         "minSdkVersion": 24,
         "nativecode": [
@@ -22385,7 +22385,7 @@
         "packageName": "tachiyomi.mangadex",
         "sig": "81688c90989dcd70e06a3951a90e102c",
         "signer": "126b1f50861b46c7075bb9fb5210da82c34e417e6d8bc4df2e32313cb421d18c",
-        "size": 20388533,
+        "size": 20482741,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -22457,8 +22457,8 @@
             null
           ]
         ],
-        "versionCode": 110,
-        "versionName": "2.2.2.2"
+        "versionCode": 111,
+        "versionName": "2.2.2.3"
       }
     ]
   }
