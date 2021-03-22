@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616410819000,
+    "timestamp": 1616425234000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -4980,7 +4980,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "22",
+      "suggestedVersionCode": "23",
       "description": "The following is a list of urls found in the source for this extension:\n* https://www.mangakawaii.to\n* https://www.mangakawaii.to/manga/",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4989,9 +4989,21 @@
       "summary": "Tachiyomi Mangakawaii Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894475000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.22.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.23.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-      "lastUpdated": 1614528451000
+      "lastUpdated": 1616425223000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Mangakik",
+      "added": 1616425220000,
+      "icon": "eu.kanade.tachiyomi.extension.en.mangakik.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.mangakik",
+      "lastUpdated": 1616425220000
     },
     {
       "categories": [
@@ -5723,6 +5735,18 @@
       ],
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
+      "name": "Tachiyomi: Mangauptocats",
+      "added": 1616425224000,
+      "icon": "eu.kanade.tachiyomi.extension.th.mangauptocats.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.th.mangauptocats",
+      "lastUpdated": 1616425224000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
       "name": "Tachiyomi: MangaUS",
       "added": 1614456022000,
       "icon": "eu.kanade.tachiyomi.extension.en.mangaus.2.png",
@@ -6387,7 +6411,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Martial Scans (EN)",
@@ -6395,9 +6419,9 @@
       "summary": "Tachiyomi Martial Scans Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894402000,
-      "icon": "eu.kanade.tachiyomi.extension.en.martialscans.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.martialscans.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.martialscans",
-      "lastUpdated": 1613894402000
+      "lastUpdated": 1616425221000
     },
     {
       "categories": [
@@ -8164,6 +8188,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: SamuraiScan",
+      "added": 1616425222000,
+      "icon": "eu.kanade.tachiyomi.extension.es.samuraiscan.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.es.samuraiscan",
+      "lastUpdated": 1616425222000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "1",
@@ -9592,6 +9628,18 @@
       "icon": "eu.kanade.tachiyomi.extension.en.webtoonxyz.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.webtoonxyz",
       "lastUpdated": 1613894452000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: WeComics",
+      "added": 1616425221000,
+      "icon": "eu.kanade.tachiyomi.extension.en.wecomics.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.wecomics",
+      "lastUpdated": 1616425221000
     },
     {
       "categories": [
@@ -14178,6 +14226,25 @@
         "versionName": "1.2.4"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.mangakik": [
+      {
+        "added": 1616425220000,
+        "apkName": "tachiyomi-en.mangakik-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "d4719c2881bacfffe6fe36022149a164d2b834b24820c883b353a4b60c2d4a2d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangakik",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58338,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.mangakisa": [
       {
         "added": 1613894371000,
@@ -15301,21 +15368,21 @@
     ],
     "eu.kanade.tachiyomi.extension.en.martialscans": [
       {
-        "added": 1613894402000,
-        "apkName": "tachiyomi-en.martialscans-v1.2.1.apk",
+        "added": 1616425221000,
+        "apkName": "tachiyomi-en.martialscans-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "1c8953461f500a7a1fdcd0b6a3be0ace3fbe01f85558880435b4ce41be4bc3b7",
+        "hash": "8db7f1f029ca18d5c6c79be8be23f92b38e61b1a0e00c1b7a9f4283efedabd1f",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.martialscans",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50150,
+        "size": 54246,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.merakiscans": [
@@ -16990,6 +17057,25 @@
         "versionName": "1.2.1"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.wecomics": [
+      {
+        "added": 1616425221000,
+        "apkName": "tachiyomi-en.wecomics-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "921c540c7e4c44081050303875825120e0b458e40164ac958c005480ad420e8c",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.wecomics",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 46050,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.wescans": [
       {
         "added": 1613894452000,
@@ -17522,6 +17608,25 @@
         "versionName": "1.2.2"
       }
     ],
+    "eu.kanade.tachiyomi.extension.es.samuraiscan": [
+      {
+        "added": 1616425222000,
+        "apkName": "tachiyomi-es.samuraiscan-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "dda7320eb57bbeedd69860e033a9aa24d927527a9e33ef4451015f4201d6666d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.es.samuraiscan",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54245,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.es.spookyscanlations": [
       {
         "added": 1613894468000,
@@ -17752,12 +17857,12 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.mangakawaii": [
       {
-        "added": 1614528451000,
-        "apkName": "tachiyomi-fr.mangakawaii-v1.2.22.apk",
+        "added": 1616425223000,
+        "apkName": "tachiyomi-fr.mangakawaii-v1.2.23.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "a17ec9640627bc514110aec70a199a57ff01c1a495fea7c8bbb5e4a22060cd7a",
+        "hash": "1b3e46be327767df0058d9071e2358c86a456109b16eb01b70a3b33cc093f240",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
@@ -17765,8 +17870,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 58432,
         "targetSdkVersion": 29,
-        "versionCode": 22,
-        "versionName": "1.2.22"
+        "versionCode": 23,
+        "versionName": "1.2.23"
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.mangascantrad": [
@@ -20915,6 +21020,25 @@
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.th.mangaonlineco",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54247,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.th.mangauptocats": [
+      {
+        "added": 1616425224000,
+        "apkName": "tachiyomi-th.mangauptocats-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "754025d4ea5c1c086291f4e71a5f79c0ffffb3678108a81cdaa90b5d11ac9a13",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.th.mangauptocats",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 54247,

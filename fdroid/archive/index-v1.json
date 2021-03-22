@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616410814000,
+    "timestamp": 1616425228000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1802,7 +1802,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "21",
+      "suggestedVersionCode": "22",
       "description": "The following is a list of urls found in the source for this extension:\n* https://www.mangakawaii.to\n* https://www.mangakawaii.to/manga/",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1811,9 +1811,9 @@
       "summary": "Tachiyomi Mangakawaii Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894475000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.21.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.22.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-      "lastUpdated": 1614528451000
+      "lastUpdated": 1616425223000
     },
     {
       "categories": [
@@ -2312,6 +2312,22 @@
       "icon": "eu.kanade.tachiyomi.extension.en.manwhaclub.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.manwhaclub",
       "lastUpdated": 1613894665000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Martial Scans (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Martial Scans Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894402000,
+      "icon": "eu.kanade.tachiyomi.extension.en.martialscans.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.martialscans",
+      "lastUpdated": 1616425221000
     },
     {
       "categories": [
@@ -6390,6 +6406,25 @@
         "versionName": "1.2.2"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.martialscans": [
+      {
+        "added": 1613894402000,
+        "apkName": "tachiyomi-en.martialscans-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "1c8953461f500a7a1fdcd0b6a3be0ace3fbe01f85558880435b4ce41be4bc3b7",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.martialscans",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50150,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.milftoon": [
       {
         "added": 1613894666000,
@@ -7122,6 +7157,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.mangakawaii": [
+      {
+        "added": 1614528451000,
+        "apkName": "tachiyomi-fr.mangakawaii-v1.2.22.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "a17ec9640627bc514110aec70a199a57ff01c1a495fea7c8bbb5e4a22060cd7a",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58432,
+        "targetSdkVersion": 29,
+        "versionCode": 22,
+        "versionName": "1.2.22"
+      },
       {
         "added": 1613894475000,
         "apkName": "tachiyomi-fr.mangakawaii-v1.2.21.apk",

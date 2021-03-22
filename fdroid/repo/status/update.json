@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1616410825266,
+  "endTimestamp": 1616425240261,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -250,6 +250,7 @@
     "eu.kanade.tachiyomi.extension.en.mangakakalot",
     "eu.kanade.tachiyomi.extension.en.mangakakalots",
     "eu.kanade.tachiyomi.extension.en.mangakatana",
+    "eu.kanade.tachiyomi.extension.en.mangakik",
     "eu.kanade.tachiyomi.extension.en.mangakisa",
     "eu.kanade.tachiyomi.extension.en.mangakiss",
     "eu.kanade.tachiyomi.extension.en.mangakomi",
@@ -404,6 +405,7 @@
     "eu.kanade.tachiyomi.extension.en.webtoonily",
     "eu.kanade.tachiyomi.extension.en.webtoonuk",
     "eu.kanade.tachiyomi.extension.en.webtoonxyz",
+    "eu.kanade.tachiyomi.extension.en.wecomics",
     "eu.kanade.tachiyomi.extension.en.wescans",
     "eu.kanade.tachiyomi.extension.en.whimsubs",
     "eu.kanade.tachiyomi.extension.en.woopread",
@@ -432,6 +434,7 @@
     "eu.kanade.tachiyomi.extension.es.menudofansub",
     "eu.kanade.tachiyomi.extension.es.mundowuxia",
     "eu.kanade.tachiyomi.extension.es.plottwistnofansub",
+    "eu.kanade.tachiyomi.extension.es.samuraiscan",
     "eu.kanade.tachiyomi.extension.es.spookyscanlations",
     "eu.kanade.tachiyomi.extension.es.tmohentai",
     "eu.kanade.tachiyomi.extension.es.tumangaonline",
@@ -614,6 +617,7 @@
     "eu.kanade.tachiyomi.extension.th.bakaman",
     "eu.kanade.tachiyomi.extension.th.cattranslator",
     "eu.kanade.tachiyomi.extension.th.mangaonlineco",
+    "eu.kanade.tachiyomi.extension.th.mangauptocats",
     "eu.kanade.tachiyomi.extension.th.nekopost",
     "eu.kanade.tachiyomi.extension.tr.adonisfansub",
     "eu.kanade.tachiyomi.extension.tr.araznovel",
@@ -687,6 +691,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1616439609000,
+  "startTimestamp": 1616454016000,
   "subcommand": "update"
 }
