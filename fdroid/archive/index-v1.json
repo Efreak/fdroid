@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616425228000,
+    "timestamp": 1616439625000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1654,7 +1654,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "4",
+      "suggestedVersionCode": "5",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: MangaFast (EN)",
@@ -1662,9 +1662,9 @@
       "summary": "Tachiyomi MangaFast Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894363000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangafast.4.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangafast.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
-      "lastUpdated": 1614456022000
+      "lastUpdated": 1616439622000
     },
     {
       "categories": [
@@ -3495,7 +3495,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Webnovel.com (EN)",
@@ -3503,9 +3503,9 @@
       "summary": "Tachiyomi Webnovel.com Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894450000,
-      "icon": "eu.kanade.tachiyomi.extension.en.webnovel.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.webnovel.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.webnovel",
-      "lastUpdated": 1613894674000
+      "lastUpdated": 1616439623000
     },
     {
       "categories": [
@@ -5631,6 +5631,23 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangafast": [
       {
+        "added": 1614456022000,
+        "apkName": "tachiyomi-en.mangafast-v1.2.5.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "125d0430344335cb312c78815950cddf9d0c31f67139064686c15643a65ae1e3",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50147,
+        "targetSdkVersion": 29,
+        "versionCode": 5,
+        "versionName": "1.2.5"
+      },
+      {
         "added": 1613894363000,
         "apkName": "tachiyomi-en.mangafast-v1.2.4.apk",
         "features": [
@@ -6876,6 +6893,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.webnovel": [
+      {
+        "added": 1613894450000,
+        "apkName": "tachiyomi-en.webnovel-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "ec5de3734dd61bcd9c6e30b6490ff1b5d16e54ffdc02e6d79ae727d6f14ade5f",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.webnovel",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 46050,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
+      },
       {
         "added": 1613894674000,
         "apkName": "tachiyomi-en.webnovel-v1.2.1.apk",

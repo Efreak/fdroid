@@ -36620,5 +36620,81 @@
     "apkName": "tachiyomi-th.mangauptocats-v1.2.1.apk",
     "icon": "eu.kanade.tachiyomi.extension.th.mangauptocats.1.png",
     "added": 1616450424.585275
+  },
+  "tachiyomi-en.mangafast-v1.2.6.apk": {
+    "hash": "6d0b8e5804934e9bfc4a2cd7498bdba7d50504fbad684d0a5a819ab1d11bed6d",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangafast.6.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangafast.6.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangafast.6.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangafast.6.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangafast.6.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangafast.6.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangafast",
+    "versionCode": 6,
+    "name": "Tachiyomi: MangaFast",
+    "versionName": "1.2.6",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50147,
+    "apkName": "tachiyomi-en.mangafast-v1.2.6.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangafast.6.png",
+    "added": 1616464822.04595
+  },
+  "tachiyomi-en.webnovel-v1.2.3.apk": {
+    "hash": "0be7e4b4bf923c9b988efca0fba7882b2bae00a3ff4ba65810a9d210a0b61f65",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.webnovel.3.png",
+      "480": "eu.kanade.tachiyomi.extension.en.webnovel.3.png",
+      "320": "eu.kanade.tachiyomi.extension.en.webnovel.3.png",
+      "240": "eu.kanade.tachiyomi.extension.en.webnovel.3.png",
+      "160": "eu.kanade.tachiyomi.extension.en.webnovel.3.png",
+      "0": "eu.kanade.tachiyomi.extension.en.webnovel.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.webnovel",
+    "versionCode": 3,
+    "name": "Tachiyomi: Webnovel.com",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 46050,
+    "apkName": "tachiyomi-en.webnovel-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.webnovel.3.png",
+    "added": 1616464823.03059
   }
 }
