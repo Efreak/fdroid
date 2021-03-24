@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616583615000,
+    "timestamp": 1616598025000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -269,7 +269,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "3",
+      "suggestedVersionCode": "4",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Bato.to (ALL)",
@@ -277,9 +277,9 @@
       "summary": "Tachiyomi Bato.to Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894269000,
-      "icon": "eu.kanade.tachiyomi.extension.all.batoto.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.batoto.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.batoto",
-      "lastUpdated": 1613894624000
+      "lastUpdated": 1616598020000
     },
     {
       "categories": [
@@ -2172,7 +2172,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "3",
+      "suggestedVersionCode": "4",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Manhua ES (EN)",
@@ -2180,9 +2180,9 @@
       "summary": "Tachiyomi Manhua ES Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894391000,
-      "icon": "eu.kanade.tachiyomi.extension.en.manhuaes.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.manhuaes.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.manhuaes",
-      "lastUpdated": 1616079622000
+      "lastUpdated": 1616598021000
     },
     {
       "categories": [
@@ -3983,6 +3983,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.batoto": [
+      {
+        "added": 1613894269000,
+        "apkName": "tachiyomi-all.batoto-v1.2.4.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "699e67f4527d9657696ec37ba9bcb4794f18fc12256a25bb329a39f9f4cf07a9",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.batoto",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50145,
+        "targetSdkVersion": 29,
+        "versionCode": 4,
+        "versionName": "1.2.4"
+      },
       {
         "added": 1613894624000,
         "apkName": "tachiyomi-all.batoto-v1.2.3.apk",
@@ -6223,6 +6240,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.manhuaes": [
+      {
+        "added": 1616079622000,
+        "apkName": "tachiyomi-en.manhuaes-v1.2.4.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "81c3f22351964538f48f0721edac816b59ea33b4fdd2c20aa4168af6888c8836",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhuaes",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 62434,
+        "targetSdkVersion": 29,
+        "versionCode": 4,
+        "versionName": "1.2.4"
+      },
       {
         "added": 1615392362000,
         "apkName": "tachiyomi-en.manhuaes-v1.2.3.apk",

@@ -36696,5 +36696,81 @@
     "apkName": "tachiyomi-en.webnovel-v1.2.3.apk",
     "icon": "eu.kanade.tachiyomi.extension.en.webnovel.3.png",
     "added": 1616464823.03059
+  },
+  "tachiyomi-all.batoto-v1.2.5.apk": {
+    "hash": "98447a319e162ef746d33f4952e92f6d4c7aa7d924435a1f49e0299b1dc29c23",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.batoto.5.png",
+      "480": "eu.kanade.tachiyomi.extension.all.batoto.5.png",
+      "320": "eu.kanade.tachiyomi.extension.all.batoto.5.png",
+      "240": "eu.kanade.tachiyomi.extension.all.batoto.5.png",
+      "160": "eu.kanade.tachiyomi.extension.all.batoto.5.png",
+      "0": "eu.kanade.tachiyomi.extension.all.batoto.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.batoto",
+    "versionCode": 5,
+    "name": "Tachiyomi: Bato.to",
+    "versionName": "1.2.5",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50145,
+    "apkName": "tachiyomi-all.batoto-v1.2.5.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.batoto.5.png",
+    "added": 1616623220.649931
+  },
+  "tachiyomi-en.manhuaes-v1.2.5.apk": {
+    "hash": "53fe5d1c5ae3eadbd69a3a8e56aa7761b3989f2605c567eb6a63ffce6561ba2c",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.manhuaes.5.png",
+      "480": "eu.kanade.tachiyomi.extension.en.manhuaes.5.png",
+      "320": "eu.kanade.tachiyomi.extension.en.manhuaes.5.png",
+      "240": "eu.kanade.tachiyomi.extension.en.manhuaes.5.png",
+      "160": "eu.kanade.tachiyomi.extension.en.manhuaes.5.png",
+      "0": "eu.kanade.tachiyomi.extension.en.manhuaes.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.manhuaes",
+    "versionCode": 5,
+    "name": "Tachiyomi: Manhua ES",
+    "versionName": "1.2.5",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 62434,
+    "apkName": "tachiyomi-en.manhuaes-v1.2.5.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.manhuaes.5.png",
+    "added": 1616623221.629927
   }
 }
