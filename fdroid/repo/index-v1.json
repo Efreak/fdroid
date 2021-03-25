@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616641226000,
+    "timestamp": 1616655626000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -6246,6 +6246,18 @@
       "icon": "eu.kanade.tachiyomi.extension.all.manhwa18net.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.manhwa18net",
       "lastUpdated": 1613894285000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: ManhwaLive",
+      "added": 1616655618000,
+      "icon": "eu.kanade.tachiyomi.extension.en.manhwalive.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.manhwalive",
+      "lastUpdated": 1616655618000
     },
     {
       "categories": [
@@ -15193,6 +15205,25 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.manhwalive": [
+      {
+        "added": 1616655618000,
+        "apkName": "tachiyomi-en.manhwalive-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "19f6af04b1c2b1a6cdedfc5dee09e9232ccea997746ea186bad81cfe0485ff88",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.manhwalive",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50148,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.manhwamanga": [
