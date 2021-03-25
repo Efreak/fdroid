@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616626819000,
+    "timestamp": 1616641226000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -2119,7 +2119,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "16",
+      "suggestedVersionCode": "17",
       "description": "The following is a list of urls found in the source for this extension:\n* https://guya.moe\n* https://raw.githubusercontent.com/appu1232/guyamoe/master/api/data_cache/all_groups.json",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -2128,9 +2128,9 @@
       "summary": "Tachiyomi Guya Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894334000,
-      "icon": "eu.kanade.tachiyomi.extension.en.guya.16.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.guya.17.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.guya",
-      "lastUpdated": 1616612423000
+      "lastUpdated": 1616641217000
     },
     {
       "categories": [
@@ -8287,9 +8287,9 @@
       "license": "Unknown",
       "name": "Tachiyomi: Sekaikomik",
       "added": 1614571315000,
-      "icon": "eu.kanade.tachiyomi.extension.id.sekaikomik.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.id.sekaikomik.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.sekaikomik",
-      "lastUpdated": 1614715223000
+      "lastUpdated": 1616641218000
     },
     {
       "categories": [
@@ -12879,12 +12879,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.guya": [
       {
-        "added": 1616612423000,
-        "apkName": "tachiyomi-en.guya-v1.2.16.apk",
+        "added": 1616641217000,
+        "apkName": "tachiyomi-en.guya-v1.2.17.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "e0f8e84d03ea4250ddc883310aa15124fbc7efbd73e319924e33e9a0ca3c0369",
+        "hash": "5b6797aca80c66bcb74c7db2f5d0a7f4abd7ed466be9a644245af19cb01d1838",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.guya",
@@ -12892,8 +12892,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 87007,
         "targetSdkVersion": 29,
-        "versionCode": 16,
-        "versionName": "1.2.16"
+        "versionCode": 17,
+        "versionName": "1.2.17"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.hatigarmscans": [
@@ -18921,12 +18921,12 @@
     ],
     "eu.kanade.tachiyomi.extension.id.sekaikomik": [
       {
-        "added": 1614715223000,
-        "apkName": "tachiyomi-id.sekaikomik-v1.2.2.apk",
+        "added": 1616641218000,
+        "apkName": "tachiyomi-id.sekaikomik-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "cd5fb9c75d17bc7431c87fd16d56243a6bbcd020dccbff340aa389d432d1cf2b",
+        "hash": "652c3128141b35c3adf4bda3dcf7e9fcda3e8e89799441d1da77290d476dab38",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.id.sekaikomik",
@@ -18934,8 +18934,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 54244,
         "targetSdkVersion": 29,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.id.sektedoujin": [

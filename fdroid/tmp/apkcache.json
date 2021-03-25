@@ -36924,5 +36924,81 @@
     "apkName": "tachiyomi-fr.mangakawaii-v1.2.24.apk",
     "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.24.png",
     "added": 1616637626.156403
+  },
+  "tachiyomi-en.guya-v1.2.17.apk": {
+    "hash": "5b6797aca80c66bcb74c7db2f5d0a7f4abd7ed466be9a644245af19cb01d1838",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.guya.17.png",
+      "480": "eu.kanade.tachiyomi.extension.en.guya.17.png",
+      "320": "eu.kanade.tachiyomi.extension.en.guya.17.png",
+      "240": "eu.kanade.tachiyomi.extension.en.guya.17.png",
+      "160": "eu.kanade.tachiyomi.extension.en.guya.17.png",
+      "0": "eu.kanade.tachiyomi.extension.en.guya.17.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.guya",
+    "versionCode": 17,
+    "name": "Tachiyomi: Guya",
+    "versionName": "1.2.17",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 87007,
+    "apkName": "tachiyomi-en.guya-v1.2.17.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.guya.17.png",
+    "added": 1616666417.943105
+  },
+  "tachiyomi-id.sekaikomik-v1.2.3.apk": {
+    "hash": "652c3128141b35c3adf4bda3dcf7e9fcda3e8e89799441d1da77290d476dab38",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.id.sekaikomik.3.png",
+      "480": "eu.kanade.tachiyomi.extension.id.sekaikomik.3.png",
+      "320": "eu.kanade.tachiyomi.extension.id.sekaikomik.3.png",
+      "240": "eu.kanade.tachiyomi.extension.id.sekaikomik.3.png",
+      "160": "eu.kanade.tachiyomi.extension.id.sekaikomik.3.png",
+      "0": "eu.kanade.tachiyomi.extension.id.sekaikomik.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.id.sekaikomik",
+    "versionCode": 3,
+    "name": "Tachiyomi: Sekaikomik",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54244,
+    "apkName": "tachiyomi-id.sekaikomik-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.id.sekaikomik.3.png",
+    "added": 1616666418.899344
   }
 }
