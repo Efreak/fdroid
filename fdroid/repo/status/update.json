@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1616756435415,
+  "endTimestamp": 1616770838501,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -382,6 +382,7 @@
     "eu.kanade.tachiyomi.extension.en.swordscomic",
     "eu.kanade.tachiyomi.extension.en.tapastic",
     "eu.kanade.tachiyomi.extension.en.tcbscans",
+    "eu.kanade.tachiyomi.extension.en.theapolloteam",
     "eu.kanade.tachiyomi.extension.en.thecatscans",
     "eu.kanade.tachiyomi.extension.en.thenonamesscans",
     "eu.kanade.tachiyomi.extension.en.thepropertyofhate",
@@ -451,6 +452,7 @@
     "eu.kanade.tachiyomi.extension.fr.mangakawaii",
     "eu.kanade.tachiyomi.extension.fr.mangascantrad",
     "eu.kanade.tachiyomi.extension.fr.mangasorigines",
+    "eu.kanade.tachiyomi.extension.fr.scanmanga",
     "eu.kanade.tachiyomi.extension.fr.scantrad",
     "eu.kanade.tachiyomi.extension.fr.scantradunion",
     "eu.kanade.tachiyomi.extension.fr.tsubakinoscan",
@@ -692,6 +694,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1616785217000,
+  "startTimestamp": 1616799618000,
   "subcommand": "update"
 }

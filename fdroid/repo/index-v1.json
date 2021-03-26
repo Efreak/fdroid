@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616756429000,
+    "timestamp": 1616770832000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -8228,6 +8228,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Scan-Manga",
+      "added": 1616770822000,
+      "icon": "eu.kanade.tachiyomi.extension.fr.scanmanga.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.fr.scanmanga",
+      "lastUpdated": 1616770822000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "16",
@@ -8859,6 +8871,18 @@
       "icon": "eu.kanade.tachiyomi.extension.tr.tempestmanga.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.tr.tempestmanga",
       "lastUpdated": 1614787398000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: The Apollo Team",
+      "added": 1616770821000,
+      "icon": "eu.kanade.tachiyomi.extension.en.theapolloteam.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.theapolloteam",
+      "lastUpdated": 1616770821000
     },
     {
       "categories": [
@@ -16632,6 +16656,25 @@
         "versionName": "1.2.2"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.theapolloteam": [
+      {
+        "added": 1616770821000,
+        "apkName": "tachiyomi-en.theapolloteam-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "5638d6ea9718efb5a37fefe69d08fe95787a116598e05ce8a9ce34490e4318b4",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.theapolloteam",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 78913,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.thecatscans": [
       {
         "added": 1613894440000,
@@ -17938,6 +17981,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 50152,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.fr.scanmanga": [
+      {
+        "added": 1616770822000,
+        "apkName": "tachiyomi-fr.scanmanga-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "f049a1458374a7b6319b6cf4e5cc7d5046ce24301022138323ade26f1fee9e94",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scanmanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 41955,
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
