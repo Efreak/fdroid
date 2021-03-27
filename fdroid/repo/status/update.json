@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1616871628044,
+  "endTimestamp": 1616886028872,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -51,6 +51,7 @@
     "eu.kanade.tachiyomi.extension.all.boommanga",
     "eu.kanade.tachiyomi.extension.all.ciayo",
     "eu.kanade.tachiyomi.extension.all.comicake",
+    "eu.kanade.tachiyomi.extension.all.cubari",
     "eu.kanade.tachiyomi.extension.all.dragonball_multiverse",
     "eu.kanade.tachiyomi.extension.all.ehentai",
     "eu.kanade.tachiyomi.extension.all.elimangas",
@@ -694,6 +695,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1616900411000,
+  "startTimestamp": 1616914812000,
   "subcommand": "update"
 }

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1616871622000,
+    "timestamp": 1616886023000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1271,6 +1271,18 @@
       "icon": "eu.kanade.tachiyomi.extension.es.copypastescan.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.copypastescan",
       "lastUpdated": 1613894460000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Cubari",
+      "added": 1616886014000,
+      "icon": "eu.kanade.tachiyomi.extension.all.cubari.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.all.cubari",
+      "lastUpdated": 1616886014000
     },
     {
       "categories": [
@@ -4980,7 +4992,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "24",
+      "suggestedVersionCode": "25",
       "description": "The following is a list of urls found in the source for this extension:\n* https://www.mangakawaii.to\n* https://www.mangakawaii.to/manga/",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4989,9 +5001,9 @@
       "summary": "Tachiyomi Mangakawaii Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894475000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.24.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.25.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-      "lastUpdated": 1616612426000
+      "lastUpdated": 1616886015000
     },
     {
       "categories": [
@@ -10612,6 +10624,25 @@
         "targetSdkVersion": 29,
         "versionCode": 9,
         "versionName": "1.2.9"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.all.cubari": [
+      {
+        "added": 1616886014000,
+        "apkName": "tachiyomi-all.cubari-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "9c4b7ad6bb9b6a2f6e703a315f362e53578ce627d57465bcaaae023cd13922d9",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.cubari",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50145,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.dragonball_multiverse": [
@@ -17931,12 +17962,12 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.mangakawaii": [
       {
-        "added": 1616612426000,
-        "apkName": "tachiyomi-fr.mangakawaii-v1.2.24.apk",
+        "added": 1616886015000,
+        "apkName": "tachiyomi-fr.mangakawaii-v1.2.25.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "315df7855388e161d80b771f9762791f92c1e8a598642d3244a390573a982172",
+        "hash": "2a969014648e4673f5257185bb28a7f5bbb692ad9e576ef44ab0210815980264",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
@@ -17944,8 +17975,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 58432,
         "targetSdkVersion": 29,
-        "versionCode": 24,
-        "versionName": "1.2.24"
+        "versionCode": 25,
+        "versionName": "1.2.25"
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.mangascantrad": [

@@ -37114,5 +37114,81 @@
     "apkName": "tachiyomi-fr.scanmanga-v1.2.1.apk",
     "icon": "eu.kanade.tachiyomi.extension.fr.scanmanga.1.png",
     "added": 1616796022.578075
+  },
+  "tachiyomi-all.cubari-v1.2.1.apk": {
+    "hash": "9c4b7ad6bb9b6a2f6e703a315f362e53578ce627d57465bcaaae023cd13922d9",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.cubari.1.png",
+      "480": "eu.kanade.tachiyomi.extension.all.cubari.1.png",
+      "320": "eu.kanade.tachiyomi.extension.all.cubari.1.png",
+      "240": "eu.kanade.tachiyomi.extension.all.cubari.1.png",
+      "160": "eu.kanade.tachiyomi.extension.all.cubari.1.png",
+      "0": "eu.kanade.tachiyomi.extension.all.cubari.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.cubari",
+    "versionCode": 1,
+    "name": "Tachiyomi: Cubari",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50145,
+    "apkName": "tachiyomi-all.cubari-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.cubari.1.png",
+    "added": 1616911214.693923
+  },
+  "tachiyomi-fr.mangakawaii-v1.2.25.apk": {
+    "hash": "2a969014648e4673f5257185bb28a7f5bbb692ad9e576ef44ab0210815980264",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.fr.mangakawaii.25.png",
+      "480": "eu.kanade.tachiyomi.extension.fr.mangakawaii.25.png",
+      "320": "eu.kanade.tachiyomi.extension.fr.mangakawaii.25.png",
+      "240": "eu.kanade.tachiyomi.extension.fr.mangakawaii.25.png",
+      "160": "eu.kanade.tachiyomi.extension.fr.mangakawaii.25.png",
+      "0": "eu.kanade.tachiyomi.extension.fr.mangakawaii.25.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
+    "versionCode": 25,
+    "name": "Tachiyomi: Mangakawaii",
+    "versionName": "1.2.25",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 58432,
+    "apkName": "tachiyomi-fr.mangakawaii-v1.2.25.apk",
+    "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.25.png",
+    "added": 1616911215.711414
   }
 }
