@@ -46612,5 +46612,43 @@
     "apkName": "tachiyomi-vi.truyentranhaudioonline-v1.2.2.apk",
     "icon": "eu.kanade.tachiyomi.extension.vi.truyentranhaudioonline.2.png",
     "added": 1617055421.981363
+  },
+  "tachiyomi-pt.shinzooscan-v1.2.3.apk": {
+    "hash": "c2dc1a874c08676cfbc22661a0166c902e1aef0d562d1deee020950c77d955b5",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.shinzooscan.3.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.shinzooscan.3.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.shinzooscan.3.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.shinzooscan.3.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.shinzooscan.3.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.shinzooscan.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.shinzooscan",
+    "versionCode": 3,
+    "name": "Tachiyomi: Shinzoo Scan",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50149,
+    "apkName": "tachiyomi-pt.shinzooscan-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.shinzooscan.3.png",
+    "added": 1617098417.006301
   }
 }

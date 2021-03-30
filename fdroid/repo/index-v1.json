@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617058828000,
+    "timestamp": 1617073224000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -8504,6 +8504,18 @@
       "icon": "eu.kanade.tachiyomi.extension.pt.shinzoo.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.shinzoo",
       "lastUpdated": 1617030195000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Shinzoo Scan",
+      "added": 1617073217000,
+      "icon": "eu.kanade.tachiyomi.extension.pt.shinzooscan.3.png",
+      "packageName": "eu.kanade.tachiyomi.extension.pt.shinzooscan",
+      "lastUpdated": 1617073217000
     },
     {
       "categories": [
@@ -20502,6 +20514,25 @@
         "targetSdkVersion": 29,
         "versionCode": 2,
         "versionName": "1.2.2"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.pt.shinzooscan": [
+      {
+        "added": 1617073217000,
+        "apkName": "tachiyomi-pt.shinzooscan-v1.2.3.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "c2dc1a874c08676cfbc22661a0166c902e1aef0d562d1deee020950c77d955b5",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.shinzooscan",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50149,
+        "targetSdkVersion": 29,
+        "versionCode": 3,
+        "versionName": "1.2.3"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.silencescan": [
