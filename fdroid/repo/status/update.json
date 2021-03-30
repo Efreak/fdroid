@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1617102026479,
+  "endTimestamp": 1617116444684,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -171,6 +171,7 @@
     "eu.kanade.tachiyomi.extension.en.firstkissmanhua",
     "eu.kanade.tachiyomi.extension.en.flamescans",
     "eu.kanade.tachiyomi.extension.en.freewebtooncoins",
+    "eu.kanade.tachiyomi.extension.en.galaxydegenscans",
     "eu.kanade.tachiyomi.extension.en.getmanhwa",
     "eu.kanade.tachiyomi.extension.en.gourmetscans",
     "eu.kanade.tachiyomi.extension.en.grazescans",
@@ -194,6 +195,7 @@
     "eu.kanade.tachiyomi.extension.en.honkaiimpact",
     "eu.kanade.tachiyomi.extension.en.hscans",
     "eu.kanade.tachiyomi.extension.en.hunlightscans",
+    "eu.kanade.tachiyomi.extension.en.hyakuro",
     "eu.kanade.tachiyomi.extension.en.immortalupdates",
     "eu.kanade.tachiyomi.extension.en.inkr",
     "eu.kanade.tachiyomi.extension.en.isekaiscancom",
@@ -288,6 +290,7 @@
     "eu.kanade.tachiyomi.extension.en.mangasushi",
     "eu.kanade.tachiyomi.extension.en.mangasy",
     "eu.kanade.tachiyomi.extension.en.mangatellers",
+    "eu.kanade.tachiyomi.extension.en.mangatoo",
     "eu.kanade.tachiyomi.extension.en.mangatown",
     "eu.kanade.tachiyomi.extension.en.mangaturf",
     "eu.kanade.tachiyomi.extension.en.mangatx",
@@ -381,6 +384,8 @@
     "eu.kanade.tachiyomi.extension.en.skymanga",
     "eu.kanade.tachiyomi.extension.en.sleepingknightscans",
     "eu.kanade.tachiyomi.extension.en.sleepypandascans",
+    "eu.kanade.tachiyomi.extension.en.sleepytranslations",
+    "eu.kanade.tachiyomi.extension.en.socialweebs",
     "eu.kanade.tachiyomi.extension.en.soloscanlation",
     "eu.kanade.tachiyomi.extension.en.swordscomic",
     "eu.kanade.tachiyomi.extension.en.tapastic",
@@ -699,6 +704,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1617130808000,
+  "startTimestamp": 1617145218000,
   "subcommand": "update"
 }

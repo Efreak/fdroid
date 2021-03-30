@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617102020000,
+    "timestamp": 1617116438000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1950,6 +1950,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: GalaxyDegenScans",
+      "added": 1617116422000,
+      "icon": "eu.kanade.tachiyomi.extension.en.galaxydegenscans.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.galaxydegenscans",
+      "lastUpdated": 1617116422000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "3",
@@ -2682,6 +2694,18 @@
       "icon": "eu.kanade.tachiyomi.extension.es.hunterfansub.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.es.hunterfansub",
       "lastUpdated": 1617030159000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Hyakuro",
+      "added": 1617116423000,
+      "icon": "eu.kanade.tachiyomi.extension.en.hyakuro.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.hyakuro",
+      "lastUpdated": 1617116423000
     },
     {
       "categories": [
@@ -4251,6 +4275,18 @@
       "icon": "eu.kanade.tachiyomi.extension.en.mangasy.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangasy",
       "lastUpdated": 1617030097000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Manga Too",
+      "added": 1617116424000,
+      "icon": "eu.kanade.tachiyomi.extension.en.mangatoo.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.mangatoo",
+      "lastUpdated": 1617116424000
     },
     {
       "categories": [
@@ -8725,6 +8761,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Sleepy Translations",
+      "added": 1617116425000,
+      "icon": "eu.kanade.tachiyomi.extension.en.sleepytranslations.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.sleepytranslations",
+      "lastUpdated": 1617116425000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "1",
@@ -8738,6 +8786,18 @@
       "icon": "eu.kanade.tachiyomi.extension.pt.socialcomics.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.socialcomics",
       "lastUpdated": 1613894544000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: SocialWeebs",
+      "added": 1617116426000,
+      "icon": "eu.kanade.tachiyomi.extension.en.socialweebs.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.socialweebs",
+      "lastUpdated": 1617116426000
     },
     {
       "categories": [
@@ -12935,6 +12995,25 @@
         "versionName": "1.2.2"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.galaxydegenscans": [
+      {
+        "added": 1617116422000,
+        "apkName": "tachiyomi-en.galaxydegenscans-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "a5c78e583963948365f882667ded44a25dce61f87220644116e9dc57cabccbe1",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.galaxydegenscans",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50154,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.gourmetscans": [
       {
         "added": 1613894332000,
@@ -13329,6 +13408,25 @@
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 66535,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.hyakuro": [
+      {
+        "added": 1617116423000,
+        "apkName": "tachiyomi-en.hyakuro-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "5ebde2200ec16739827e0ab01c2f381929a33f8014f68b8bb29f95f71f9b7ecc",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.hyakuro",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 33761,
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
@@ -15004,6 +15102,25 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.mangatoo": [
+      {
+        "added": 1617116424000,
+        "apkName": "tachiyomi-en.mangatoo-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "1ad5cd4f3f3ba3f6f8d90472e611f2563f3ae0bdd9e5a07ae36b366042362dc7",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangatoo",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50146,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.mangatown": [
@@ -16695,6 +16812,44 @@
         "targetSdkVersion": 27,
         "versionCode": 3,
         "versionName": "1.2.3"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.sleepytranslations": [
+      {
+        "added": 1617116425000,
+        "apkName": "tachiyomi-en.sleepytranslations-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "0c529aa185b069c29f67a5470842ad742ce802a4f466f935b5b82341dfe9c71e",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.sleepytranslations",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50156,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.en.socialweebs": [
+      {
+        "added": 1617116426000,
+        "apkName": "tachiyomi-en.socialweebs-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "1aaaff8ff45715b9e432f8d2eb517cb7cde8e6e4dafa250cfa87c0028808a47d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.socialweebs",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50149,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.soloscanlation": [

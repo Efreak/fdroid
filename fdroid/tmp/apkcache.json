@@ -46650,5 +46650,195 @@
     "apkName": "tachiyomi-pt.shinzooscan-v1.2.3.apk",
     "icon": "eu.kanade.tachiyomi.extension.pt.shinzooscan.3.png",
     "added": 1617098417.006301
+  },
+  "tachiyomi-en.galaxydegenscans-v1.2.2.apk": {
+    "hash": "a5c78e583963948365f882667ded44a25dce61f87220644116e9dc57cabccbe1",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.galaxydegenscans.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.galaxydegenscans.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.galaxydegenscans.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.galaxydegenscans.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.galaxydegenscans.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.galaxydegenscans.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.galaxydegenscans",
+    "versionCode": 2,
+    "name": "Tachiyomi: GalaxyDegenScans",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50154,
+    "apkName": "tachiyomi-en.galaxydegenscans-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.galaxydegenscans.2.png",
+    "added": 1617141622.724663
+  },
+  "tachiyomi-en.hyakuro-v1.2.1.apk": {
+    "hash": "5ebde2200ec16739827e0ab01c2f381929a33f8014f68b8bb29f95f71f9b7ecc",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.hyakuro.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.hyakuro.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.hyakuro.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.hyakuro.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.hyakuro.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.hyakuro.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.hyakuro",
+    "versionCode": 1,
+    "name": "Tachiyomi: Hyakuro",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 33761,
+    "apkName": "tachiyomi-en.hyakuro-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.hyakuro.1.png",
+    "added": 1617141623.657424
+  },
+  "tachiyomi-en.mangatoo-v1.2.2.apk": {
+    "hash": "1ad5cd4f3f3ba3f6f8d90472e611f2563f3ae0bdd9e5a07ae36b366042362dc7",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.mangatoo.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.mangatoo.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.mangatoo.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.mangatoo.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.mangatoo.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.mangatoo.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.mangatoo",
+    "versionCode": 2,
+    "name": "Tachiyomi: Manga Too",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50146,
+    "apkName": "tachiyomi-en.mangatoo-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.mangatoo.2.png",
+    "added": 1617141624.564613
+  },
+  "tachiyomi-en.sleepytranslations-v1.2.2.apk": {
+    "hash": "0c529aa185b069c29f67a5470842ad742ce802a4f466f935b5b82341dfe9c71e",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.sleepytranslations.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.sleepytranslations.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.sleepytranslations.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.sleepytranslations.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.sleepytranslations.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.sleepytranslations.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.sleepytranslations",
+    "versionCode": 2,
+    "name": "Tachiyomi: Sleepy Translations",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50156,
+    "apkName": "tachiyomi-en.sleepytranslations-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.sleepytranslations.2.png",
+    "added": 1617141625.487744
+  },
+  "tachiyomi-en.socialweebs-v1.2.2.apk": {
+    "hash": "1aaaff8ff45715b9e432f8d2eb517cb7cde8e6e4dafa250cfa87c0028808a47d",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.socialweebs.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.socialweebs.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.socialweebs.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.socialweebs.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.socialweebs.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.socialweebs.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.socialweebs",
+    "versionCode": 2,
+    "name": "Tachiyomi: SocialWeebs",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50149,
+    "apkName": "tachiyomi-en.socialweebs-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.socialweebs.2.png",
+    "added": 1617141626.416701
   }
 }
