@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617217282000,
+    "timestamp": 1617231621000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -4700,7 +4700,7 @@
       "added": 1613894501000,
       "icon": "eu.kanade.tachiyomi.extension.id.ngomik.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.ngomik",
-      "lastUpdated": 1617217262000
+      "lastUpdated": 1617231619000
     },
     {
       "categories": [
@@ -15340,24 +15340,7 @@
     ],
     "eu.kanade.tachiyomi.extension.id.ngomik": [
       {
-        "added": 1617217262000,
-        "apkName": "tachiyomi-id.ngomik-v1.2.3.apk",
-        "features": [
-          "tachiyomi.extension"
-        ],
-        "hash": "2c0d48621011dc1a1bbf9f2ed28555f9e5fb589759a65f6451658170f2b307a5",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "packageName": "eu.kanade.tachiyomi.extension.id.ngomik",
-        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
-        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 54240,
-        "targetSdkVersion": 29,
-        "versionCode": 3,
-        "versionName": "1.2.3"
-      },
-      {
-        "added": 1617217262000,
+        "added": 1617231619000,
         "apkName": "tachiyomi-id.ngomik-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
