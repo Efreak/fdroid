@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1617289243839,
+  "endTimestamp": 1617303637356,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -68,6 +68,8 @@
     "eu.kanade.tachiyomi.extension.all.lanraragi",
     "eu.kanade.tachiyomi.extension.all.leviatanscans",
     "eu.kanade.tachiyomi.extension.all.luscious",
+    "eu.kanade.tachiyomi.extension.all.lusciousapi",
+    "eu.kanade.tachiyomi.extension.all.lusciousmembers",
     "eu.kanade.tachiyomi.extension.all.madara",
     "eu.kanade.tachiyomi.extension.all.mangabox",
     "eu.kanade.tachiyomi.extension.all.mangacards",
@@ -718,6 +720,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1617318019000,
+  "startTimestamp": 1617332417000,
   "subcommand": "update"
 }

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617289231000,
+    "timestamp": 1617303625000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -2401,6 +2401,22 @@
       "icon": "eu.kanade.tachiyomi.extension.tr.lovablesubs.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.tr.lovablesubs",
       "lastUpdated": 1617030213000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "2",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Luscious (ALL)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Luscious Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894279000,
+      "icon": "eu.kanade.tachiyomi.extension.all.luscious.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.all.luscious",
+      "lastUpdated": 1617303619000
     },
     {
       "categories": [
@@ -7638,6 +7654,25 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.all.luscious": [
+      {
+        "added": 1613894279000,
+        "apkName": "tachiyomi-all.luscious-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "fb49d4c760b520d8d07928d71d72795ffa1912322e567c3f0946852650631e73",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.luscious",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66531,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangadex": [

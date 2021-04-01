@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617289237000,
+    "timestamp": 1617303631000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -3763,7 +3763,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Luscious (ALL)",
@@ -3771,9 +3771,33 @@
       "summary": "Tachiyomi Luscious Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894279000,
-      "icon": "eu.kanade.tachiyomi.extension.all.luscious.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.luscious.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.luscious",
-      "lastUpdated": 1613894279000
+      "lastUpdated": 1617303619000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Luscious (API)",
+      "added": 1617303620000,
+      "icon": "eu.kanade.tachiyomi.extension.all.lusciousapi.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.all.lusciousapi",
+      "lastUpdated": 1617303620000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Luscious (Members)",
+      "added": 1617303620000,
+      "icon": "eu.kanade.tachiyomi.extension.all.lusciousmembers.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.all.lusciousmembers",
+      "lastUpdated": 1617303620000
     },
     {
       "categories": [
@@ -11208,12 +11232,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.luscious": [
       {
-        "added": 1613894279000,
-        "apkName": "tachiyomi-all.luscious-v1.2.2.apk",
+        "added": 1617303619000,
+        "apkName": "tachiyomi-all.luscious-v1.2.3.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "fb49d4c760b520d8d07928d71d72795ffa1912322e567c3f0946852650631e73",
+        "hash": "a2998ffdd1db4a14e78971c802cdb927264b1f083175f250740ec890c0a33fe1",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.luscious",
@@ -11221,8 +11245,46 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 66531,
         "targetSdkVersion": 29,
-        "versionCode": 2,
-        "versionName": "1.2.2"
+        "versionCode": 3,
+        "versionName": "1.2.3"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.all.lusciousapi": [
+      {
+        "added": 1617303620000,
+        "apkName": "tachiyomi-all.lusciousapi-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "37a5e1dcbaf8f045737aff2ff7da938956a9b202d7495a6fc6545a5a95ee18bc",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.lusciousapi",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66534,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.all.lusciousmembers": [
+      {
+        "added": 1617303620000,
+        "apkName": "tachiyomi-all.lusciousmembers-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6480d29df1409509f2b2193a3b8c022dfd583f36a1842135358f337af4279366",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.lusciousmembers",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66538,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.madara": [
