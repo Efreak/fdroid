@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617332436000,
+    "timestamp": 1617346831000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -8315,7 +8315,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "3",
+      "suggestedVersionCode": "4",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: ReadManhua (EN)",
@@ -8323,9 +8323,9 @@
       "summary": "Tachiyomi ReadManhua Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894428000,
-      "icon": "eu.kanade.tachiyomi.extension.en.readmanhua.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.readmanhua.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.readmanhua",
-      "lastUpdated": 1617030131000
+      "lastUpdated": 1617346821000
     },
     {
       "categories": [
@@ -16875,12 +16875,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.readmanhua": [
       {
-        "added": 1617030131000,
-        "apkName": "tachiyomi-en.readmanhua-v1.2.3.apk",
+        "added": 1617346821000,
+        "apkName": "tachiyomi-en.readmanhua-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "935fe3b522444e5c33f4faec983ed5f88f1504b96919eeb823549290355b07af",
+        "hash": "f518e7126ab18997c14b008e6c1e9c8d97344c19fc278d59b75aea13e63483e5",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.readmanhua",
@@ -16888,8 +16888,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 78820,
         "targetSdkVersion": 29,
-        "versionCode": 3,
-        "versionName": "1.2.3"
+        "versionCode": 4,
+        "versionName": "1.2.4"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.readmanhwa": [
