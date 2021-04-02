@@ -49578,5 +49578,155 @@
     "apkName": "tachiyomi-all.lusciousmembers-v1.2.1.apk",
     "icon": "eu.kanade.tachiyomi.extension.all.lusciousmembers.1.png",
     "added": 1617328820.972853
+  },
+  "tachiyomi-id.komikgo-v1.2.4.apk": {
+    "hash": "52803575fe8e28ba0e0c081c183891780ccd18b57b5befde577a224209dbdc38",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.id.komikgo.4.png",
+      "480": "eu.kanade.tachiyomi.extension.id.komikgo.4.png",
+      "320": "eu.kanade.tachiyomi.extension.id.komikgo.4.png",
+      "240": "eu.kanade.tachiyomi.extension.id.komikgo.4.png",
+      "160": "eu.kanade.tachiyomi.extension.id.komikgo.4.png",
+      "0": "eu.kanade.tachiyomi.extension.id.komikgo.4.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.id.komikgo",
+    "versionCode": 4,
+    "name": "Tachiyomi: Komik GO",
+    "versionName": "1.2.4",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 42043,
+    "apkName": "tachiyomi-id.komikgo-v1.2.4.apk",
+    "icon": "eu.kanade.tachiyomi.extension.id.komikgo.4.png",
+    "added": 1617357622.487647
+  },
+  "tachiyomi.mangadex_v2.3_112.apk": {
+    "hash": "ffd33afc9ba827703c4aeb28048341267e23001fbe77e9daace3ef89548f9980",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        null
+      ],
+      [
+        "com.android.launcher.permission.INSTALL_SHORTCUT",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.USE_BIOMETRIC",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "com.google.android.c2dm.permission.RECEIVE",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "tachiyomi.mangadex.112.xml",
+      "640": "tachiyomi.mangadex.112.png",
+      "480": "tachiyomi.mangadex.112.png",
+      "320": "tachiyomi.mangadex.112.png",
+      "240": "tachiyomi.mangadex.112.png",
+      "160": "tachiyomi.mangadex.112.png",
+      "0": "tachiyomi.mangadex.112.png"
+    },
+    "antiFeatures": [],
+    "packageName": "tachiyomi.mangadex",
+    "versionCode": 112,
+    "name": "Neko",
+    "versionName": "2.3",
+    "minSdkVersion": 24,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86"
+    ],
+    "sig": "81688c90989dcd70e06a3951a90e102c",
+    "signer": "126b1f50861b46c7075bb9fb5210da82c34e417e6d8bc4df2e32313cb421d18c",
+    "size": 20413109,
+    "apkName": "tachiyomi.mangadex_v2.3_112.apk",
+    "icon": "tachiyomi.mangadex.112.png",
+    "added": 1617357625.89702
   }
 }
