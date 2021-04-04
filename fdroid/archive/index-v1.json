@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617534021000,
+    "timestamp": 1617548428000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -823,6 +823,23 @@
       "icon": "eu.kanade.tachiyomi.extension.hi.comicsvalley.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.hi.comicsvalley",
       "lastUpdated": 1617030169000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "6",
+      "description": "The following is a list of urls found in the source for this extension:\n* https://com-x.life",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: ComX (RU)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi ComX Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894553000,
+      "icon": "eu.kanade.tachiyomi.extension.ru.comx.6.png",
+      "packageName": "eu.kanade.tachiyomi.extension.ru.comx",
+      "lastUpdated": 1617548422000
     },
     {
       "categories": [
@@ -17083,6 +17100,25 @@
         "targetSdkVersion": 29,
         "versionCode": 1,
         "versionName": "1.2.1"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.ru.comx": [
+      {
+        "added": 1613894553000,
+        "apkName": "tachiyomi-ru.comx-v1.2.6.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "cbbb8f860889c5305bee1d268e158d6346360259e5191e30a19431c3461bb5ae",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ru.comx",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 33768,
+        "targetSdkVersion": 27,
+        "versionCode": 6,
+        "versionName": "1.2.6"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.desu": [

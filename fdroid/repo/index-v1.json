@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617534026000,
+    "timestamp": 1617548433000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1239,7 +1239,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "6",
+      "suggestedVersionCode": "7",
       "description": "The following is a list of urls found in the source for this extension:\n* https://com-x.life",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -1248,9 +1248,9 @@
       "summary": "Tachiyomi ComX Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894553000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.comx.6.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.comx.7.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.comx",
-      "lastUpdated": 1613894553000
+      "lastUpdated": 1617548422000
     },
     {
       "categories": [
@@ -5498,6 +5498,18 @@
       "icon": "eu.kanade.tachiyomi.extension.en.mangapill.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangapill",
       "lastUpdated": 1613894378000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: MangaPoisk",
+      "added": 1617548423000,
+      "icon": "eu.kanade.tachiyomi.extension.ru.mangapoisk.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
+      "lastUpdated": 1617548423000
     },
     {
       "categories": [
@@ -21809,21 +21821,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.comx": [
       {
-        "added": 1613894553000,
-        "apkName": "tachiyomi-ru.comx-v1.2.6.apk",
+        "added": 1617548422000,
+        "apkName": "tachiyomi-ru.comx-v1.2.7.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "cbbb8f860889c5305bee1d268e158d6346360259e5191e30a19431c3461bb5ae",
+        "hash": "e93b7c3b0e88b8f153daf2f4f0de689a713643a84f6211e251111052bee857f7",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.comx",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 33768,
-        "targetSdkVersion": 27,
-        "versionCode": 6,
-        "versionName": "1.2.6"
+        "size": 33848,
+        "targetSdkVersion": 29,
+        "versionCode": 7,
+        "versionName": "1.2.7"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.desu": [
@@ -21976,6 +21988,25 @@
         "targetSdkVersion": 27,
         "versionCode": 8,
         "versionName": "1.2.8"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.ru.mangapoisk": [
+      {
+        "added": 1617548423000,
+        "apkName": "tachiyomi-ru.mangapoisk-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "8093dae2918a6da775fd4983aed2ab8d527bb5fc4197fb05c5363de40b27f7ef",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58340,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.mintmanga": [

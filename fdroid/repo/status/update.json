@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1617534032711,
+  "endTimestamp": 1617548439838,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -643,6 +643,7 @@
     "eu.kanade.tachiyomi.extension.ru.mangaclub",
     "eu.kanade.tachiyomi.extension.ru.mangahub",
     "eu.kanade.tachiyomi.extension.ru.mangaonlinebiz",
+    "eu.kanade.tachiyomi.extension.ru.mangapoisk",
     "eu.kanade.tachiyomi.extension.ru.mintmanga",
     "eu.kanade.tachiyomi.extension.ru.nudemoon",
     "eu.kanade.tachiyomi.extension.ru.onlinecomics",
@@ -729,6 +730,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1617562812000,
+  "startTimestamp": 1617577219000,
   "subcommand": "update"
 }
