@@ -50260,5 +50260,727 @@
     "apkName": "tachiyomi-ru.mangapoisk-v1.2.1.apk",
     "icon": "eu.kanade.tachiyomi.extension.ru.mangapoisk.1.png",
     "added": 1617573623.266991
+  },
+  "tachiyomi-all.batoto-v1.2.6.apk": {
+    "hash": "9596d579f590af1c746b84f2ed32be7e3ad9a267ced85a6a575f647a0958454a",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.batoto.6.png",
+      "480": "eu.kanade.tachiyomi.extension.all.batoto.6.png",
+      "320": "eu.kanade.tachiyomi.extension.all.batoto.6.png",
+      "240": "eu.kanade.tachiyomi.extension.all.batoto.6.png",
+      "160": "eu.kanade.tachiyomi.extension.all.batoto.6.png",
+      "0": "eu.kanade.tachiyomi.extension.all.batoto.6.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.batoto",
+    "versionCode": 6,
+    "name": "Tachiyomi: Bato.to",
+    "versionName": "1.2.6",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50145,
+    "apkName": "tachiyomi-all.batoto-v1.2.6.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.batoto.6.png",
+    "added": 1617674422.210601
+  },
+  "tachiyomi-all.webtoons-v1.2.26.apk": {
+    "hash": "bdd237279deb4737a9a9dc1d5a30413a6c3c42e36f55276ca995aab1a700d7e2",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.webtoons.26.png",
+      "480": "eu.kanade.tachiyomi.extension.all.webtoons.26.png",
+      "320": "eu.kanade.tachiyomi.extension.all.webtoons.26.png",
+      "240": "eu.kanade.tachiyomi.extension.all.webtoons.26.png",
+      "160": "eu.kanade.tachiyomi.extension.all.webtoons.26.png",
+      "0": "eu.kanade.tachiyomi.extension.all.webtoons.26.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
+    "versionCode": 26,
+    "name": "Tachiyomi: Webtoons",
+    "versionName": "1.2.26",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 70628,
+    "apkName": "tachiyomi-all.webtoons-v1.2.26.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.webtoons.26.png",
+    "added": 1617674423.095519
+  },
+  "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.2.1.apk": {
+    "hash": "d1b1aa8f7022e0f13091f61a6891d1d28fa183a4927b2ef7e2ad1cfc9a14e56b",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read Attack on Titan/Shingeki no Kyojin Manga",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29696,
+    "apkName": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga.1.png",
+    "added": 1617674424.012951
+  },
+  "tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.2.1.apk": {
+    "hash": "281c947df71dc489cf4e30a0444dfccd66e1cda76f28abd326084d4c10ade757",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read Boku no Hero Academia/My Hero Academia Manga",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29699,
+    "apkName": "tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga.1.png",
+    "added": 1617674424.861661
+  },
+  "tachiyomi-en.readhunterxhuntermangaonline-v1.2.1.apk": {
+    "hash": "e4401ac77086dec2e7e77d88efa630ec4239cb50256d23b8948db17aee29f7ab",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readhunterxhuntermangaonline.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readhunterxhuntermangaonline.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readhunterxhuntermangaonline.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readhunterxhuntermangaonline.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readhunterxhuntermangaonline.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readhunterxhuntermangaonline.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readhunterxhuntermangaonline",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read Hunter x Hunter Manga Online",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29686,
+    "apkName": "tachiyomi-en.readhunterxhuntermangaonline-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readhunterxhuntermangaonline.1.png",
+    "added": 1617674425.710737
+  },
+  "tachiyomi-en.readjujutsukaisenmangaonline-v1.2.1.apk": {
+    "hash": "7970de17a449ae06b86209e68fed1a92796b914416c0432714664d8db4d52da7",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read Jujutsu Kaisen Manga Online",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29686,
+    "apkName": "tachiyomi-en.readjujutsukaisenmangaonline-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline.1.png",
+    "added": 1617674426.530696
+  },
+  "tachiyomi-en.readkaguyasamamangaonline-v1.2.1.apk": {
+    "hash": "5874edf9cabd9d3c87f828d4ce14a7618f40b1d659b8562b05e5f4da6eb49cbf",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readkaguyasamamangaonline.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readkaguyasamamangaonline.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readkaguyasamamangaonline.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readkaguyasamamangaonline.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readkaguyasamamangaonline.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readkaguyasamamangaonline.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readkaguyasamamangaonline",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read Kaguya-sama Manga Online",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29683,
+    "apkName": "tachiyomi-en.readkaguyasamamangaonline-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readkaguyasamamangaonline.1.png",
+    "added": 1617674427.339942
+  },
+  "tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.2.1.apk": {
+    "hash": "18374a86439b17ebdb9f2168675dd90f57379d91c16d77be0b1ec14df18b69ed",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read Nanatsu no Taizai/7 Deadly Sins Manga Online",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29699,
+    "apkName": "tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline.1.png",
+    "added": 1617674428.142575
+  },
+  "tachiyomi-en.readonepunchmanmangaonlinetwo-v1.2.1.apk": {
+    "hash": "97af0e8114d98df170a819e5dbb71f7c832211afeecaccccc8cc7cd0d7c40ec7",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read One-Punch Man Manga Online",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29687,
+    "apkName": "tachiyomi-en.readonepunchmanmangaonlinetwo-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo.1.png",
+    "added": 1617674428.952874
+  },
+  "tachiyomi-en.readsololevelingmangamanhwaonline-v1.2.1.apk": {
+    "hash": "b3cbe34f7e576c601d5a99dbbe6ad89794ced7c3843404f3d787eaf2430aa31e",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read Solo Leveling Manga/Manhwa Online",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29691,
+    "apkName": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline.1.png",
+    "added": 1617674429.788225
+  },
+  "tachiyomi-en.readthepromisedneverlandmangaonline-v1.2.1.apk": {
+    "hash": "7cb3b1a39b993e8375f8924b20d18dfd0e135a63e20ff5e05c0d7904a5d586d4",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read The Promised Neverland Manga Online",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29693,
+    "apkName": "tachiyomi-en.readthepromisedneverlandmangaonline-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readthepromisedneverlandmangaonline.1.png",
+    "added": 1617674430.571605
+  },
+  "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.2.1.apk": {
+    "hash": "7389f13277920ee09fe4d9bdc7b67f8159ed755160c5989c51fffa1296b01553",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29695,
+    "apkName": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline.1.png",
+    "added": 1617674431.379992
+  },
+  "tachiyomi-en.readtowerofgodmanhwamangaonline-v1.2.1.apk": {
+    "hash": "6f42d291f68ba9ccaf8cf8e7ea836ca98b5d1e0e745ae08f5c07cc5aba17ffa8",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.readtowerofgodmanhwamangaonline.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.readtowerofgodmanhwamangaonline.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.readtowerofgodmanhwamangaonline.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.readtowerofgodmanhwamangaonline.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.readtowerofgodmanhwamangaonline.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.readtowerofgodmanhwamangaonline.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.readtowerofgodmanhwamangaonline",
+    "versionCode": 1,
+    "name": "Tachiyomi: Read Tower of God Manhwa/Manga Online",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29689,
+    "apkName": "tachiyomi-en.readtowerofgodmanhwamangaonline-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.readtowerofgodmanhwamangaonline.1.png",
+    "added": 1617674432.186917
+  },
+  "tachiyomi-es.vcpvmp-v1.2.4.apk": {
+    "hash": "b0c87f9c40658154115f148e3dd502b26e18174eb3f66201d5ea25b3e0cf2f9d",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.es.vcpvmp.4.png",
+      "480": "eu.kanade.tachiyomi.extension.es.vcpvmp.4.png",
+      "320": "eu.kanade.tachiyomi.extension.es.vcpvmp.4.png",
+      "240": "eu.kanade.tachiyomi.extension.es.vcpvmp.4.png",
+      "160": "eu.kanade.tachiyomi.extension.es.vcpvmp.4.png",
+      "0": "eu.kanade.tachiyomi.extension.es.vcpvmp.4.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.es.vcpvmp",
+    "versionCode": 4,
+    "name": "Tachiyomi: VCPVMP",
+    "versionName": "1.2.4",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 156640,
+    "apkName": "tachiyomi-es.vcpvmp-v1.2.4.apk",
+    "icon": "eu.kanade.tachiyomi.extension.es.vcpvmp.4.png",
+    "added": 1617674433.055207
+  },
+  "tachiyomi-pt.cervoscanlator-v1.2.2.apk": {
+    "hash": "862a7670a11899989251a03d1d74306d6fa500039a7c7de55e2d4d922db0c634",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.cervoscanlator.2.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.cervoscanlator.2.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.cervoscanlator.2.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.cervoscanlator.2.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.cervoscanlator.2.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.cervoscanlator.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.cervoscanlator",
+    "versionCode": 2,
+    "name": "Tachiyomi: Cervo Scanlator",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50152,
+    "apkName": "tachiyomi-pt.cervoscanlator-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.cervoscanlator.2.png",
+    "added": 1617674433.942084
+  },
+  "tachiyomi-pt.tsukimangas-v1.2.12.apk": {
+    "hash": "fd063730fc6bc581e8a6112eb2eb97e6b1c8dd861f9e8d3949ee4f789926a381",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.tsukimangas.12.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.tsukimangas.12.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.tsukimangas.12.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.tsukimangas.12.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.tsukimangas.12.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.tsukimangas.12.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
+    "versionCode": 12,
+    "name": "Tachiyomi: Tsuki Mang\u00e1s",
+    "versionName": "1.2.12",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 42048,
+    "apkName": "tachiyomi-pt.tsukimangas-v1.2.12.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.tsukimangas.12.png",
+    "added": 1617674434.793452
+  },
+  "tachiyomi-ru.allhentai-v1.2.3.apk": {
+    "hash": "799a80b5482c0228abd7564012f6b112ba345dc232fb31c3c7791e1659e64058",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.allhentai.3.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.allhentai.3.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.allhentai.3.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.allhentai.3.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.allhentai.3.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.allhentai.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.allhentai",
+    "versionCode": 3,
+    "name": "Tachiyomi: AllHentai",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 37949,
+    "apkName": "tachiyomi-ru.allhentai-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.allhentai.3.png",
+    "added": 1617674435.60821
+  },
+  "tachiyomi-ru.mintmanga-v1.2.25.apk": {
+    "hash": "24c3d9f57c292ad75ddc75ab4acfa4a6e86aa68513aa022b4aaded898e31340e",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.mintmanga.25.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.mintmanga.25.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.mintmanga.25.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.mintmanga.25.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.mintmanga.25.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.mintmanga.25.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.mintmanga",
+    "versionCode": 25,
+    "name": "Tachiyomi: Mintmanga",
+    "versionName": "1.2.25",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 83006,
+    "apkName": "tachiyomi-ru.mintmanga-v1.2.25.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.mintmanga.25.png",
+    "added": 1617674436.420655
+  },
+  "tachiyomi-ru.readmanga-v1.2.23.apk": {
+    "hash": "c48e9df88e9ee6b10df6cb8a4ff6fc1fe9ab64cfbddfd65f132649ccf7b971e2",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.readmanga.23.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.readmanga.23.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.readmanga.23.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.readmanga.23.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.readmanga.23.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.readmanga.23.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.readmanga",
+    "versionCode": 23,
+    "name": "Tachiyomi: Readmanga",
+    "versionName": "1.2.23",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 70718,
+    "apkName": "tachiyomi-ru.readmanga-v1.2.23.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.readmanga.23.png",
+    "added": 1617674437.259613
   }
 }
