@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617706825000,
+    "timestamp": 1617721237000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -788,7 +788,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "6",
+      "suggestedVersionCode": "7",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Bato.to (ALL)",
@@ -796,9 +796,9 @@
       "summary": "Tachiyomi Bato.to Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894269000,
-      "icon": "eu.kanade.tachiyomi.extension.all.batoto.6.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.batoto.7.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.batoto",
-      "lastUpdated": 1617649222000
+      "lastUpdated": 1617721224000
     },
     {
       "categories": [
@@ -11116,21 +11116,21 @@
     ],
     "eu.kanade.tachiyomi.extension.all.batoto": [
       {
-        "added": 1617649222000,
-        "apkName": "tachiyomi-all.batoto-v1.2.6.apk",
+        "added": 1617721224000,
+        "apkName": "tachiyomi-all.batoto-v1.2.7.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "9596d579f590af1c746b84f2ed32be7e3ad9a267ced85a6a575f647a0958454a",
+        "hash": "3a81abb41d13171db443822d35252688b9e24cc3ed2600295b1c182fc3eb4951",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.batoto",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50145,
+        "size": 54241,
         "targetSdkVersion": 29,
-        "versionCode": 6,
-        "versionName": "1.2.6"
+        "versionCode": 7,
+        "versionName": "1.2.7"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.boommanga": [
