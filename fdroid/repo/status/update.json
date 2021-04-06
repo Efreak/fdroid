@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1617721242835,
+  "endTimestamp": 1617735641471,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -127,6 +127,7 @@
     "eu.kanade.tachiyomi.extension.ar.ninjavi",
     "eu.kanade.tachiyomi.extension.ar.olaoemanga",
     "eu.kanade.tachiyomi.extension.ar.queensmanga",
+    "eu.kanade.tachiyomi.extension.ar.sanigo",
     "eu.kanade.tachiyomi.extension.ar.shqqaa",
     "eu.kanade.tachiyomi.extension.ar.teamx",
     "eu.kanade.tachiyomi.extension.ca.fansubscat",
@@ -153,6 +154,7 @@
     "eu.kanade.tachiyomi.extension.en.comickiba",
     "eu.kanade.tachiyomi.extension.en.comiclatest",
     "eu.kanade.tachiyomi.extension.en.comicpunch",
+    "eu.kanade.tachiyomi.extension.en.comicstar",
     "eu.kanade.tachiyomi.extension.en.deathtollscans",
     "eu.kanade.tachiyomi.extension.en.decadencescans",
     "eu.kanade.tachiyomi.extension.en.dilbert",
@@ -459,6 +461,7 @@
     "eu.kanade.tachiyomi.extension.en.xcalibrscans",
     "eu.kanade.tachiyomi.extension.en.xkcd",
     "eu.kanade.tachiyomi.extension.en.xoxocomics",
+    "eu.kanade.tachiyomi.extension.en.xunscans",
     "eu.kanade.tachiyomi.extension.en.yuriism",
     "eu.kanade.tachiyomi.extension.en.zandynofansub",
     "eu.kanade.tachiyomi.extension.en.zeroscans",
@@ -742,6 +745,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1617750021000,
+  "startTimestamp": 1617764418000,
   "subcommand": "update"
 }

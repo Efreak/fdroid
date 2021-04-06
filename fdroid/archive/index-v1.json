@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617721230000,
+    "timestamp": 1617735629000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -3553,7 +3553,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: MangaRave (EN)",
@@ -3561,9 +3561,9 @@
       "summary": "Tachiyomi MangaRave Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894379000,
-      "icon": "eu.kanade.tachiyomi.extension.en.mangarave.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.mangarave.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.mangarave",
-      "lastUpdated": 1617030090000
+      "lastUpdated": 1617735623000
     },
     {
       "categories": [
@@ -5492,7 +5492,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "2",
+      "suggestedVersionCode": "3",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Reset Scans (EN)",
@@ -5500,9 +5500,9 @@
       "summary": "Tachiyomi Reset Scans Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894430000,
-      "icon": "eu.kanade.tachiyomi.extension.en.resetscans.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.resetscans.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.resetscans",
-      "lastUpdated": 1617217240000
+      "lastUpdated": 1617735624000
     },
     {
       "categories": [
@@ -5736,7 +5736,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "1",
+      "suggestedVersionCode": "2",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: ShoujoHearts (EN)",
@@ -5744,9 +5744,9 @@
       "summary": "Tachiyomi ShoujoHearts Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894434000,
-      "icon": "eu.kanade.tachiyomi.extension.en.shoujohearts.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.shoujohearts.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.shoujohearts",
-      "lastUpdated": 1617030135000
+      "lastUpdated": 1617735625000
     },
     {
       "categories": [
@@ -11097,6 +11097,23 @@
     ],
     "eu.kanade.tachiyomi.extension.en.mangarave": [
       {
+        "added": 1617030090000,
+        "apkName": "tachiyomi-en.mangarave-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "3a52d371de4ef2271439ee69085e768e6ae6b825d6649afe6b1e79ba606b2ac0",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.mangarave",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50147,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
+      },
+      {
         "added": 1613894379000,
         "apkName": "tachiyomi-en.mangarave-v1.2.1.apk",
         "features": [
@@ -12757,6 +12774,23 @@
     ],
     "eu.kanade.tachiyomi.extension.en.resetscans": [
       {
+        "added": 1617217240000,
+        "apkName": "tachiyomi-en.resetscans-v1.2.3.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "cd96b9e011e3e7d17bc4e13564d3fdfca76deb9fc6eba0fca2e82a5752607109",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.resetscans",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 37950,
+        "targetSdkVersion": 29,
+        "versionCode": 3,
+        "versionName": "1.2.3"
+      },
+      {
         "added": 1614787350000,
         "apkName": "tachiyomi-en.resetscans-v1.2.2.apk",
         "features": [
@@ -12866,6 +12900,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.shoujohearts": [
+      {
+        "added": 1617030135000,
+        "apkName": "tachiyomi-en.shoujohearts-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "3224234edbed6b749f77d0048cac528182c2af8abafa8705354e99bdeff24c46",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.shoujohearts",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54246,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
+      },
       {
         "added": 1613894434000,
         "apkName": "tachiyomi-en.shoujohearts-v1.2.1.apk",
