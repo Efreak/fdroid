@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1617793232046,
+  "endTimestamp": 1617807646431,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -95,6 +95,7 @@
     "eu.kanade.tachiyomi.extension.all.toomics",
     "eu.kanade.tachiyomi.extension.all.vinnieVeritas",
     "eu.kanade.tachiyomi.extension.all.webtoons",
+    "eu.kanade.tachiyomi.extension.all.webtoonstranslate",
     "eu.kanade.tachiyomi.extension.all.wpcomics",
     "eu.kanade.tachiyomi.extension.all.wpmanga",
     "eu.kanade.tachiyomi.extension.all.wpmangareader",
@@ -478,6 +479,7 @@
     "eu.kanade.tachiyomi.extension.es.kirishimafansub",
     "eu.kanade.tachiyomi.extension.es.kumanga",
     "eu.kanade.tachiyomi.extension.es.lectormanga",
+    "eu.kanade.tachiyomi.extension.es.leermangasxyz",
     "eu.kanade.tachiyomi.extension.es.mangamx",
     "eu.kanade.tachiyomi.extension.es.menudofansub",
     "eu.kanade.tachiyomi.extension.es.mundowuxia",
@@ -723,6 +725,7 @@
     "eu.kanade.tachiyomi.extension.zh.comico",
     "eu.kanade.tachiyomi.extension.zh.copymanga",
     "eu.kanade.tachiyomi.extension.zh.dmzj",
+    "eu.kanade.tachiyomi.extension.zh.dongmanmanhua",
     "eu.kanade.tachiyomi.extension.zh.gufengmh",
     "eu.kanade.tachiyomi.extension.zh.hanhankuman",
     "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
@@ -745,6 +748,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1617822011000,
+  "startTimestamp": 1617836421000,
   "subcommand": "update"
 }
