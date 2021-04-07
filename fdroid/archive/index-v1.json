@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617807634000,
+    "timestamp": 1617822031000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -3316,7 +3316,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "25",
+      "suggestedVersionCode": "26",
       "description": "The following is a list of urls found in the source for this extension:\n* https://www.mangakawaii.to\n* https://www.mangakawaii.to/manga/",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3325,9 +3325,9 @@
       "summary": "Tachiyomi Mangakawaii Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894475000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.25.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.26.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-      "lastUpdated": 1617217244000
+      "lastUpdated": 1617822023000
     },
     {
       "categories": [
@@ -5771,6 +5771,22 @@
       "suggestedVersionCode": "1",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
+      "name": "Tachiyomi: Silent Manga Audition (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Silent Manga Audition Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894434000,
+      "icon": "eu.kanade.tachiyomi.extension.en.silentmangaaudition.1.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.silentmangaaudition",
+      "lastUpdated": 1617822022000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
       "name": "Tachiyomi: Simply Hentai (ALL)",
       "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
       "summary": "Tachiyomi: Simply Hentai Extension",
@@ -6509,7 +6525,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "26",
+      "suggestedVersionCode": "27",
       "description": "The following is a list of urls found in the source for this extension:\n* http://www.webtoons.com\n* http://www.webtoons.com/$langCode/\n* http://m.webtoons.com\n* https://global.apis.naver.com\n* https://m.webtoons.com\n* https://mwebtoon-phinf.pstatic.net",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -6518,9 +6534,9 @@
       "summary": "Tachiyomi Webtoons Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894291000,
-      "icon": "eu.kanade.tachiyomi.extension.all.webtoons.26.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.webtoons.27.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
-      "lastUpdated": 1617807624000
+      "lastUpdated": 1617822021000
     },
     {
       "categories": [
@@ -8080,6 +8096,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.all.webtoons": [
+      {
+        "added": 1617807624000,
+        "apkName": "tachiyomi-all.webtoons-v1.2.27.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6a0f16c9a18651f6e8282c107ba541fe8a11f4925f2248b9342bc568578f2967",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.all.webtoons",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 66532,
+        "targetSdkVersion": 29,
+        "versionCode": 27,
+        "versionName": "1.2.27"
+      },
       {
         "added": 1617649223000,
         "apkName": "tachiyomi-all.webtoons-v1.2.26.apk",
@@ -12952,6 +12985,25 @@
         "versionName": "1.2.1"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.silentmangaaudition": [
+      {
+        "added": 1613894434000,
+        "apkName": "tachiyomi-en.silentmangaaudition-v1.2.1.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "19dbe98026cf26ec5d90414771adad635096a3d0e30aa2517b1aca48f5e998e9",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.silentmangaaudition",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 45981,
+        "targetSdkVersion": 29,
+        "versionCode": 1,
+        "versionName": "1.2.1"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.sixiangscans": [
       {
         "added": 1613894435000,
@@ -14247,6 +14299,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.mangakawaii": [
+      {
+        "added": 1617217244000,
+        "apkName": "tachiyomi-fr.mangakawaii-v1.2.26.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "87828ea07cb10ede6d59aa23c8140bdfd980fc9570781a0a9734f11180ae61a5",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58432,
+        "targetSdkVersion": 29,
+        "versionCode": 26,
+        "versionName": "1.2.26"
+      },
       {
         "added": 1616886015000,
         "apkName": "tachiyomi-fr.mangakawaii-v1.2.25.apk",

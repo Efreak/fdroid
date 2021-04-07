@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1617807646431,
+  "endTimestamp": 1617822043469,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -617,6 +617,7 @@
     "eu.kanade.tachiyomi.extension.pt.hqdragon",
     "eu.kanade.tachiyomi.extension.pt.hqnow",
     "eu.kanade.tachiyomi.extension.pt.ichirinnohanayuri",
+    "eu.kanade.tachiyomi.extension.pt.leitornet",
     "eu.kanade.tachiyomi.extension.pt.mangahost",
     "eu.kanade.tachiyomi.extension.pt.mangalivre",
     "eu.kanade.tachiyomi.extension.pt.mangasproject",
@@ -639,6 +640,7 @@
     "eu.kanade.tachiyomi.extension.pt.superhentais",
     "eu.kanade.tachiyomi.extension.pt.supermangas",
     "eu.kanade.tachiyomi.extension.pt.taosect",
+    "eu.kanade.tachiyomi.extension.pt.toonei",
     "eu.kanade.tachiyomi.extension.pt.tsukimangas",
     "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes",
     "eu.kanade.tachiyomi.extension.pt.unionmangas",
@@ -748,6 +750,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1617836421000,
+  "startTimestamp": 1617850818000,
   "subcommand": "update"
 }
