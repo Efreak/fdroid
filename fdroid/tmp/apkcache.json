@@ -51780,5 +51780,119 @@
     "apkName": "tachiyomi-fr.mangakawaii-v1.2.28.apk",
     "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.28.png",
     "added": 1617919225.253571
+  },
+  "tachiyomi-pt.leitornet-v1.2.3.apk": {
+    "hash": "a241946e4cc6764222b5502b0fb6f22242d0ac0f53298e2c47530459b4318958",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.leitornet.3.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.leitornet.3.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.leitornet.3.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.leitornet.3.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.leitornet.3.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.leitornet.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.leitornet",
+    "versionCode": 3,
+    "name": "Tachiyomi: Leitor.net",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54333,
+    "apkName": "tachiyomi-pt.leitornet-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.leitornet.3.png",
+    "added": 1617933621.825099
+  },
+  "tachiyomi-pt.mangalivre-v1.2.3.apk": {
+    "hash": "659adfabeac5f699bca8f3f8968394ae0dca8f478998e5927186540271c49343",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.mangalivre.3.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.mangalivre.3.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.mangalivre.3.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.mangalivre.3.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.mangalivre.3.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.mangalivre.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
+    "versionCode": 3,
+    "name": "Tachiyomi: Mang\u00e1 Livre",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 50238,
+    "apkName": "tachiyomi-pt.mangalivre-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.mangalivre.3.png",
+    "added": 1617933622.644565
+  },
+  "tachiyomi-pt.toonei-v1.2.3.apk": {
+    "hash": "f67e71ed12dfacf3c1234170f633e3d30e4e45de795eabd478a20c743a341823",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.toonei.3.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.toonei.3.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.toonei.3.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.toonei.3.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.toonei.3.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.toonei.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.toonei",
+    "versionCode": 3,
+    "name": "Tachiyomi: Toonei",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54330,
+    "apkName": "tachiyomi-pt.toonei-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.toonei.3.png",
+    "added": 1617933623.469082
   }
 }

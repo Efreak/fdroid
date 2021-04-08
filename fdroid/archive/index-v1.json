@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617894030000,
+    "timestamp": 1617908426000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -2341,6 +2341,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Leitor.net",
+      "added": 1617822024000,
+      "icon": "eu.kanade.tachiyomi.extension.pt.leitornet.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.pt.leitornet",
+      "lastUpdated": 1617908421000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "4",
@@ -3996,6 +4008,22 @@
       "icon": "eu.kanade.tachiyomi.extension.all.mango.1.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mango",
       "lastUpdated": 1615032016000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "2",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: Mang\u00e1 Livre (PT)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi Mang\u00e1 Livre Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1617822025000,
+      "icon": "eu.kanade.tachiyomi.extension.pt.mangalivre.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
+      "lastUpdated": 1617908422000
     },
     {
       "categories": [
@@ -6061,6 +6089,18 @@
       "icon": "eu.kanade.tachiyomi.extension.all.toomics.5.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.toomics",
       "lastUpdated": 1613894640000
+    },
+    {
+      "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Toonei",
+      "added": 1617822026000,
+      "icon": "eu.kanade.tachiyomi.extension.pt.toonei.2.png",
+      "packageName": "eu.kanade.tachiyomi.extension.pt.toonei",
+      "lastUpdated": 1617908423000
     },
     {
       "categories": [
@@ -16751,6 +16791,25 @@
         "versionName": "1.2.1"
       }
     ],
+    "eu.kanade.tachiyomi.extension.pt.leitornet": [
+      {
+        "added": 1617822024000,
+        "apkName": "tachiyomi-pt.leitornet-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "8a7f3c04e3615b72ce5551ff0b5ca5a2d914974d903280f5964861ed225b29db",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.leitornet",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54333,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.pt.mangahost": [
       {
         "added": 1614283217000,
@@ -16819,6 +16878,25 @@
         "targetSdkVersion": 29,
         "versionCode": 15,
         "versionName": "1.2.15"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.pt.mangalivre": [
+      {
+        "added": 1617822025000,
+        "apkName": "tachiyomi-pt.mangalivre-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "45f4366dd82495c3292c50c5be66e6ea2952bce250966622077f4e2f554fffcd",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50238,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.mangasproject": [
@@ -17170,6 +17248,25 @@
         "targetSdkVersion": 29,
         "versionCode": 4,
         "versionName": "1.2.4"
+      }
+    ],
+    "eu.kanade.tachiyomi.extension.pt.toonei": [
+      {
+        "added": 1617822026000,
+        "apkName": "tachiyomi-pt.toonei-v1.2.2.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "8d5aa921d930b204d1016998cc25b23f95c66d3a6bdf7d23ff0637b58442f2ed",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.toonei",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54330,
+        "targetSdkVersion": 29,
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.tsukimangas": [
