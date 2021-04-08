@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1617879616000,
+    "timestamp": 1617894030000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -3316,7 +3316,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "26",
+      "suggestedVersionCode": "27",
       "description": "The following is a list of urls found in the source for this extension:\n* https://www.mangakawaii.to\n* https://www.mangakawaii.to/manga/",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3325,9 +3325,9 @@
       "summary": "Tachiyomi Mangakawaii Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894475000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.26.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.27.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-      "lastUpdated": 1617822023000
+      "lastUpdated": 1617894025000
     },
     {
       "categories": [
@@ -6728,6 +6728,23 @@
       "icon": "eu.kanade.tachiyomi.extension.en.xcalibrscans.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.xcalibrscans",
       "lastUpdated": 1617217242000
+    },
+    {
+      "categories": [
+        "Tachiyomi Extensions"
+      ],
+      "suggestedVersionCode": "8",
+      "description": "The following is a list of urls found in the source for this extension:\n* https://xkcd.com\n* https://fakeimg.pl/550x780/ffffff/6E7B91/?text=xkcd&font=museo\n* https://fakeimg.pl/1500x2126/ffffff/000000/?text=",
+      "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
+      "license": "Unknown",
+      "name": "Tachiyomi: xkcd (EN)",
+      "sourceCode": "https://github.com/inorichi/tachiyomi-extensions",
+      "summary": "Tachiyomi xkcd Extension",
+      "webSite": "https://github.com/inorichi/tachiyomi-extensions",
+      "added": 1613894456000,
+      "icon": "eu.kanade.tachiyomi.extension.en.xkcd.8.png",
+      "packageName": "eu.kanade.tachiyomi.extension.en.xkcd",
+      "lastUpdated": 1617894024000
     },
     {
       "categories": [
@@ -13674,6 +13691,25 @@
         "versionName": "1.2.1"
       }
     ],
+    "eu.kanade.tachiyomi.extension.en.xkcd": [
+      {
+        "added": 1613894456000,
+        "apkName": "tachiyomi-en.xkcd-v1.2.8.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "ed7cc31e93dc8a3a86e0c7de58368751f2c7a46e3955164a12fd2e2e530cb368",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.xkcd",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 62350,
+        "targetSdkVersion": 27,
+        "versionCode": 8,
+        "versionName": "1.2.8"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.en.zintranslator": [
       {
         "added": 1613894458000,
@@ -14299,6 +14335,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.mangakawaii": [
+      {
+        "added": 1617822023000,
+        "apkName": "tachiyomi-fr.mangakawaii-v1.2.27.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "4c77e7cbf07db763b2535f8d603d9b8af6cfd717d6cd2534a7d4e4162e164a20",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58432,
+        "targetSdkVersion": 29,
+        "versionCode": 27,
+        "versionName": "1.2.27"
+      },
       {
         "added": 1617217244000,
         "apkName": "tachiyomi-fr.mangakawaii-v1.2.26.apk",
