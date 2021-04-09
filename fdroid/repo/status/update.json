@@ -42,7 +42,7 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1617966030334,
+  "endTimestamp": 1617980441541,
   "failedBuilds": {},
   "noPackages": [
     "eu.kanade.tachiyomi.az",
@@ -147,6 +147,7 @@
     "eu.kanade.tachiyomi.extension.en.boredomsociety",
     "eu.kanade.tachiyomi.extension.en.boyslove",
     "eu.kanade.tachiyomi.extension.en.bulumanga",
+    "eu.kanade.tachiyomi.extension.en.catmanga",
     "eu.kanade.tachiyomi.extension.en.catonheadtranslations",
     "eu.kanade.tachiyomi.extension.en.chibimanga",
     "eu.kanade.tachiyomi.extension.en.clonemanga",
@@ -750,6 +751,6 @@
     "net.cyl.ranobe",
     "tachiyomi.mangadex"
   ],
-  "startTimestamp": 1617994811000,
+  "startTimestamp": 1618009219000,
   "subcommand": "update"
 }

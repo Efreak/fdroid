@@ -51932,5 +51932,119 @@
     "apkName": "tachiyomi-pt.mangahost-v1.2.20.apk",
     "icon": "eu.kanade.tachiyomi.extension.pt.mangahost.20.png",
     "added": 1617962426.706396
+  },
+  "tachiyomi-en.catmanga-v1.2.1.apk": {
+    "hash": "8c3fe4de4053d78198621ba504ca35aa04db1e4bbe75b225b14271c633829591",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.catmanga.1.png",
+      "480": "eu.kanade.tachiyomi.extension.en.catmanga.1.png",
+      "320": "eu.kanade.tachiyomi.extension.en.catmanga.1.png",
+      "240": "eu.kanade.tachiyomi.extension.en.catmanga.1.png",
+      "160": "eu.kanade.tachiyomi.extension.en.catmanga.1.png",
+      "0": "eu.kanade.tachiyomi.extension.en.catmanga.1.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.catmanga",
+    "versionCode": 1,
+    "name": "Tachiyomi: CatManga",
+    "versionName": "1.2.1",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29666,
+    "apkName": "tachiyomi-en.catmanga-v1.2.1.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.catmanga.1.png",
+    "added": 1618005622.538206
+  },
+  "tachiyomi-ru.mintmanga-v1.2.26.apk": {
+    "hash": "f813b22b1fa9deb69d6ba850387ff70fdedb50f96ab91d8be3d8edaeedcbc7a2",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.mintmanga.26.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.mintmanga.26.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.mintmanga.26.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.mintmanga.26.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.mintmanga.26.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.mintmanga.26.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.mintmanga",
+    "versionCode": 26,
+    "name": "Tachiyomi: Mintmanga",
+    "versionName": "1.2.26",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 83006,
+    "apkName": "tachiyomi-ru.mintmanga-v1.2.26.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.mintmanga.26.png",
+    "added": 1618005623.52683
+  },
+  "tachiyomi-ru.readmanga-v1.2.24.apk": {
+    "hash": "ca2d58d7ab8d0ad642d2af635450008d154ecc575543c98d70aa10144a329d8e",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.readmanga.24.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.readmanga.24.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.readmanga.24.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.readmanga.24.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.readmanga.24.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.readmanga.24.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.readmanga",
+    "versionCode": 24,
+    "name": "Tachiyomi: Readmanga",
+    "versionName": "1.2.24",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 70718,
+    "apkName": "tachiyomi-ru.readmanga-v1.2.24.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.readmanga.24.png",
+    "added": 1618005624.366247
   }
 }
