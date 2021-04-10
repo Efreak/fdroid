@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618052417000,
+    "timestamp": 1618066829000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -1849,9 +1849,9 @@
       "license": "Unknown",
       "name": "Tachiyomi: Japanread",
       "added": 1616943625000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.japanread.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.japanread.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.japanread",
-      "lastUpdated": 1617807627000
+      "lastUpdated": 1618066821000
     },
     {
       "categories": [
@@ -3328,7 +3328,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "27",
+      "suggestedVersionCode": "28",
       "description": "The following is a list of urls found in the source for this extension:\n* https://www.mangakawaii.to\n* https://www.mangakawaii.to/manga/",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3337,9 +3337,9 @@
       "summary": "Tachiyomi Mangakawaii Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894475000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.27.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.mangakawaii.28.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-      "lastUpdated": 1617894025000
+      "lastUpdated": 1618066822000
     },
     {
       "categories": [
@@ -5618,9 +5618,9 @@
       "license": "Unknown",
       "name": "Tachiyomi: Scan-Manga",
       "added": 1616770822000,
-      "icon": "eu.kanade.tachiyomi.extension.fr.scanmanga.2.png",
+      "icon": "eu.kanade.tachiyomi.extension.fr.scanmanga.3.png",
       "packageName": "eu.kanade.tachiyomi.extension.fr.scanmanga",
-      "lastUpdated": 1617030166000
+      "lastUpdated": 1618066823000
     },
     {
       "categories": [
@@ -14321,6 +14321,23 @@
     ],
     "eu.kanade.tachiyomi.extension.fr.japanread": [
       {
+        "added": 1617807627000,
+        "apkName": "tachiyomi-fr.japanread-v1.2.3.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "936c746d2249eaee0018fcaa0a533f56531512c95abce6186217ae021f74f3ae",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.japanread",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 59236,
+        "targetSdkVersion": 29,
+        "versionCode": 3,
+        "versionName": "1.2.3"
+      },
+      {
         "added": 1617217243000,
         "apkName": "tachiyomi-fr.japanread-v1.2.2.apk",
         "features": [
@@ -14375,6 +14392,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.mangakawaii": [
+      {
+        "added": 1617894025000,
+        "apkName": "tachiyomi-fr.mangakawaii-v1.2.28.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "6b3438abda64f2fde6058144a18ae9197ede05ff47f57492fbed3e8c8f320265",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 58432,
+        "targetSdkVersion": 29,
+        "versionCode": 28,
+        "versionName": "1.2.28"
+      },
       {
         "added": 1617822023000,
         "apkName": "tachiyomi-fr.mangakawaii-v1.2.27.apk",
@@ -14551,6 +14585,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.fr.scanmanga": [
+      {
+        "added": 1617030166000,
+        "apkName": "tachiyomi-fr.scanmanga-v1.2.3.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "4baa70ab186776b43441cb494ad04ae954772b56828c3561cb55207a6738f524",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.fr.scanmanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 41955,
+        "targetSdkVersion": 29,
+        "versionCode": 3,
+        "versionName": "1.2.3"
+      },
       {
         "added": 1616943626000,
         "apkName": "tachiyomi-fr.scanmanga-v1.2.2.apk",
