@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618225224000,
+    "timestamp": 1618239635000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -982,9 +982,9 @@
       "license": "Unknown",
       "name": "Tachiyomi: CatManga",
       "added": 1617980422000,
-      "icon": "eu.kanade.tachiyomi.extension.en.catmanga.1.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.catmanga.2.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.catmanga",
-      "lastUpdated": 1617980422000
+      "lastUpdated": 1618239624000
     },
     {
       "categories": [
@@ -4315,7 +4315,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "15",
+      "suggestedVersionCode": "16",
       "description": "The following is a list of urls found in the source for this extension:\n* https://jumpg-webapi.tokyo-cdn.com/api\n* https://mangaplus.shueisha.co.jp\n* https://images.weserv.nl",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -4324,9 +4324,9 @@
       "summary": "Tachiyomi MANGA Plus by SHUEISHA Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894282000,
-      "icon": "eu.kanade.tachiyomi.extension.all.mangaplus.15.png",
+      "icon": "eu.kanade.tachiyomi.extension.all.mangaplus.16.png",
       "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
-      "lastUpdated": 1613894635000
+      "lastUpdated": 1618239623000
     },
     {
       "categories": [
@@ -11791,12 +11791,12 @@
     ],
     "eu.kanade.tachiyomi.extension.all.mangaplus": [
       {
-        "added": 1613894282000,
-        "apkName": "tachiyomi-all.mangaplus-v1.2.15.apk",
+        "added": 1618239623000,
+        "apkName": "tachiyomi-all.mangaplus-v1.2.16.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "3ab28c7304135ce1af9f5bd375f53176e5a82383e9b76531f52a84224af5427b",
+        "hash": "54b8c6353fec7a34f6c974d91e205d96d5cc7e546c2da7b1e9d8d1633a703f44",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
@@ -11804,8 +11804,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 718761,
         "targetSdkVersion": 29,
-        "versionCode": 15,
-        "versionName": "1.2.15"
+        "versionCode": 16,
+        "versionName": "1.2.16"
       }
     ],
     "eu.kanade.tachiyomi.extension.all.mangasum": [
@@ -13121,12 +13121,12 @@
     ],
     "eu.kanade.tachiyomi.extension.en.catmanga": [
       {
-        "added": 1617980422000,
-        "apkName": "tachiyomi-en.catmanga-v1.2.1.apk",
+        "added": 1618239624000,
+        "apkName": "tachiyomi-en.catmanga-v1.2.2.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "8c3fe4de4053d78198621ba504ca35aa04db1e4bbe75b225b14271c633829591",
+        "hash": "c769cdac05478ece2cbcf1f2ad393c84051b198d080043cff5745a1cf60fe4c7",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.en.catmanga",
@@ -13134,8 +13134,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 29666,
         "targetSdkVersion": 29,
-        "versionCode": 1,
-        "versionName": "1.2.1"
+        "versionCode": 2,
+        "versionName": "1.2.2"
       }
     ],
     "eu.kanade.tachiyomi.extension.en.catonheadtranslations": [

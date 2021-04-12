@@ -61524,5 +61524,81 @@
     "apkName": "eu.kanade.tachiyomi.sy_v1.6.0_14.apk",
     "icon": "eu.kanade.tachiyomi.sy.14.png",
     "added": 1618221627.683724
+  },
+  "tachiyomi-all.mangaplus-v1.2.16.apk": {
+    "hash": "54b8c6353fec7a34f6c974d91e205d96d5cc7e546c2da7b1e9d8d1633a703f44",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.all.mangaplus.16.png",
+      "480": "eu.kanade.tachiyomi.extension.all.mangaplus.16.png",
+      "320": "eu.kanade.tachiyomi.extension.all.mangaplus.16.png",
+      "240": "eu.kanade.tachiyomi.extension.all.mangaplus.16.png",
+      "160": "eu.kanade.tachiyomi.extension.all.mangaplus.16.png",
+      "0": "eu.kanade.tachiyomi.extension.all.mangaplus.16.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.all.mangaplus",
+    "versionCode": 16,
+    "name": "Tachiyomi: MANGA Plus by SHUEISHA",
+    "versionName": "1.2.16",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 718761,
+    "apkName": "tachiyomi-all.mangaplus-v1.2.16.apk",
+    "icon": "eu.kanade.tachiyomi.extension.all.mangaplus.16.png",
+    "added": 1618264823.710133
+  },
+  "tachiyomi-en.catmanga-v1.2.2.apk": {
+    "hash": "c769cdac05478ece2cbcf1f2ad393c84051b198d080043cff5745a1cf60fe4c7",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.catmanga.2.png",
+      "480": "eu.kanade.tachiyomi.extension.en.catmanga.2.png",
+      "320": "eu.kanade.tachiyomi.extension.en.catmanga.2.png",
+      "240": "eu.kanade.tachiyomi.extension.en.catmanga.2.png",
+      "160": "eu.kanade.tachiyomi.extension.en.catmanga.2.png",
+      "0": "eu.kanade.tachiyomi.extension.en.catmanga.2.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.catmanga",
+    "versionCode": 2,
+    "name": "Tachiyomi: CatManga",
+    "versionName": "1.2.2",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 29666,
+    "apkName": "tachiyomi-en.catmanga-v1.2.2.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.catmanga.2.png",
+    "added": 1618264824.549743
   }
 }
