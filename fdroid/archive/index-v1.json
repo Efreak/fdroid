@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618254022000,
+    "timestamp": 1618268429000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -5509,7 +5509,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "8",
+      "suggestedVersionCode": "9",
       "description": "The following is a list of urls found in the source for this extension:\n* https://readcomiconline.to\n* https://readcomiconline.to/ComicList/LatestUpdate?page=$page",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -5518,9 +5518,9 @@
       "summary": "Tachiyomi ReadComicOnline Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894425000,
-      "icon": "eu.kanade.tachiyomi.extension.en.readcomiconline.8.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.readcomiconline.9.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-      "lastUpdated": 1613894669000
+      "lastUpdated": 1618268423000
     },
     {
       "categories": [
@@ -15189,6 +15189,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.readcomiconline": [
+      {
+        "added": 1613894425000,
+        "apkName": "tachiyomi-en.readcomiconline-v1.2.9.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "4113633591adb81066a9f374b7392330799435bfaaaa9f11f9b18137ee3e71b6",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.readcomiconline",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 50153,
+        "targetSdkVersion": 29,
+        "versionCode": 9,
+        "versionName": "1.2.9"
+      },
       {
         "added": 1613894669000,
         "apkName": "tachiyomi-en.readcomiconline-v1.2.8.apk",
