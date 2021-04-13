@@ -27850,7 +27850,7 @@
     "added": 1613923487.08395
   },
   "tachiyomi-id.mangashiro-v1.2.4.apk": {
-    "hash": "0c613075ab6a3407fed2916413a2002d190f630ed835299dc9401008eda0e142",
+    "hash": "3193fb2e0fb9448c941a9d9594d761cb59a314c78ac9c799ca029e12e094152e",
     "hashType": "sha256",
     "uses-permission": [],
     "uses-permission-sdk-23": [],
@@ -27858,10 +27858,10 @@
       "tachiyomi.extension"
     ],
     "icons_src": {
-      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
       "160": "res/mipmap-mdpi-v4/ic_launcher.png",
       "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
       "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
       "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
       "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
     },
@@ -27876,16 +27876,16 @@
     "antiFeatures": [],
     "packageName": "eu.kanade.tachiyomi.extension.id.mangashiro",
     "versionCode": 4,
-    "name": "Tachiyomi: Mangashiro",
+    "name": "Tachiyomi: MangaShiro",
     "versionName": "1.2.4",
     "minSdkVersion": 16,
-    "targetSdkVersion": 27,
+    "targetSdkVersion": 29,
     "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
     "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-    "size": 50068,
+    "size": 37950,
     "apkName": "tachiyomi-id.mangashiro-v1.2.4.apk",
     "icon": "eu.kanade.tachiyomi.extension.id.mangashiro.4.png",
-    "added": 1618351262.817053
+    "added": 1618365628.203173
   },
   "tachiyomi-id.mangayu-v1.2.1.apk": {
     "hash": "ee7b3ed26b36b00da06fa69a51c060053468d1a6f9b8ebac644acd63f33ad1a8",
@@ -64260,5 +64260,81 @@
     "apkName": "tachiyomi-vi.saytruyen-v1.2.2.apk",
     "icon": "eu.kanade.tachiyomi.extension.vi.saytruyen.2.png",
     "added": 1618351283.54668
+  },
+  "tachiyomi-en.rainofsnow-v1.2.5.apk": {
+    "hash": "90b2e42edad0f4b54faf4600a0a47566b61fe9c6f67b17227f514ecf14b2d9ab",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.rainofsnow.5.png",
+      "480": "eu.kanade.tachiyomi.extension.en.rainofsnow.5.png",
+      "320": "eu.kanade.tachiyomi.extension.en.rainofsnow.5.png",
+      "240": "eu.kanade.tachiyomi.extension.en.rainofsnow.5.png",
+      "160": "eu.kanade.tachiyomi.extension.en.rainofsnow.5.png",
+      "0": "eu.kanade.tachiyomi.extension.en.rainofsnow.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.rainofsnow",
+    "versionCode": 5,
+    "name": "Tachiyomi: Rain Of Snow",
+    "versionName": "1.2.5",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 95204,
+    "apkName": "tachiyomi-en.rainofsnow-v1.2.5.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.rainofsnow.5.png",
+    "added": 1618365623.772056
+  },
+  "tachiyomi-en.shieldmanga-v1.2.5.apk": {
+    "hash": "d0285c8bc2bf57bb825bddebff01829a032637282f1319b921aafb00a6a9f659",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.en.shieldmanga.5.png",
+      "480": "eu.kanade.tachiyomi.extension.en.shieldmanga.5.png",
+      "320": "eu.kanade.tachiyomi.extension.en.shieldmanga.5.png",
+      "240": "eu.kanade.tachiyomi.extension.en.shieldmanga.5.png",
+      "160": "eu.kanade.tachiyomi.extension.en.shieldmanga.5.png",
+      "0": "eu.kanade.tachiyomi.extension.en.shieldmanga.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.en.shieldmanga",
+    "versionCode": 5,
+    "name": "Tachiyomi: Shield Manga",
+    "versionName": "1.2.5",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 87103,
+    "apkName": "tachiyomi-en.shieldmanga-v1.2.5.apk",
+    "icon": "eu.kanade.tachiyomi.extension.en.shieldmanga.5.png",
+    "added": 1618365624.670021
   }
 }

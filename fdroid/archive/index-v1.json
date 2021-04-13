@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618326091000,
+    "timestamp": 1618340431000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Archive",
     "icon": "tachi-icon.png",
@@ -3970,7 +3970,7 @@
       "added": 1613894496000,
       "icon": "eu.kanade.tachiyomi.extension.id.mangashiro.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.id.mangashiro",
-      "lastUpdated": 1618326062000
+      "lastUpdated": 1618340428000
     },
     {
       "categories": [
@@ -5636,7 +5636,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "3",
+      "suggestedVersionCode": "4",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Rain Of Snow (EN)",
@@ -5644,9 +5644,9 @@
       "summary": "Tachiyomi Rain Of Snow Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894424000,
-      "icon": "eu.kanade.tachiyomi.extension.en.rainofsnow.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.rainofsnow.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.rainofsnow",
-      "lastUpdated": 1615834819000
+      "lastUpdated": 1618340423000
     },
     {
       "categories": [
@@ -6104,7 +6104,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "3",
+      "suggestedVersionCode": "4",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: Shield Manga (EN)",
@@ -6112,9 +6112,9 @@
       "summary": "Tachiyomi Shield Manga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894433000,
-      "icon": "eu.kanade.tachiyomi.extension.en.shieldmanga.3.png",
+      "icon": "eu.kanade.tachiyomi.extension.en.shieldmanga.4.png",
       "packageName": "eu.kanade.tachiyomi.extension.en.shieldmanga",
-      "lastUpdated": 1618153333000
+      "lastUpdated": 1618340424000
     },
     {
       "categories": [
@@ -15763,6 +15763,23 @@
     ],
     "eu.kanade.tachiyomi.extension.en.rainofsnow": [
       {
+        "added": 1615834819000,
+        "apkName": "tachiyomi-en.rainofsnow-v1.2.4.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "e4067bdadbf9a3268ee257e84858e85348f42d6864040cc6eee22a4cc41b6773",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.rainofsnow",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 95204,
+        "targetSdkVersion": 29,
+        "versionCode": 4,
+        "versionName": "1.2.4"
+      },
+      {
         "added": 1613894424000,
         "apkName": "tachiyomi-en.rainofsnow-v1.2.3.apk",
         "features": [
@@ -16192,6 +16209,23 @@
       }
     ],
     "eu.kanade.tachiyomi.extension.en.shieldmanga": [
+      {
+        "added": 1618153333000,
+        "apkName": "tachiyomi-en.shieldmanga-v1.2.4.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "cbde7e970ec501e780aade37d33e6c70741ef931f87d4d3b5908f71acd3ebe96",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.en.shieldmanga",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 87103,
+        "targetSdkVersion": 29,
+        "versionCode": 4,
+        "versionName": "1.2.4"
+      },
       {
         "added": 1617030134000,
         "apkName": "tachiyomi-en.shieldmanga-v1.2.3.apk",
@@ -20074,24 +20108,7 @@
     ],
     "eu.kanade.tachiyomi.extension.id.mangashiro": [
       {
-        "added": 1618326062000,
-        "apkName": "tachiyomi-id.mangashiro-v1.2.4.apk",
-        "features": [
-          "tachiyomi.extension"
-        ],
-        "hash": "0c613075ab6a3407fed2916413a2002d190f630ed835299dc9401008eda0e142",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "packageName": "eu.kanade.tachiyomi.extension.id.mangashiro",
-        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
-        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 50068,
-        "targetSdkVersion": 27,
-        "versionCode": 4,
-        "versionName": "1.2.4"
-      },
-      {
-        "added": 1618326062000,
+        "added": 1618340428000,
         "apkName": "tachiyomi-id.mangashiro-v1.2.4.apk",
         "features": [
           "tachiyomi.extension"
