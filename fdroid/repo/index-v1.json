@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618498872000,
+    "timestamp": 1618513236000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -3782,7 +3782,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "37",
+      "suggestedVersionCode": "38",
       "description": "The following is a list of urls found in the source for this extension:\n* https://mangalib.me\n* https://img2.mangalib.me\n* https://img3.mangalib.me",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3791,9 +3791,9 @@
       "summary": "Tachiyomi LibManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894555000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.37.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.38.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
-      "lastUpdated": 1618498855000
+      "lastUpdated": 1618513223000
     },
     {
       "categories": [
@@ -22564,12 +22564,12 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
       {
-        "added": 1618498855000,
-        "apkName": "tachiyomi-ru.libmanga-v1.2.37.apk",
+        "added": 1618513223000,
+        "apkName": "tachiyomi-ru.libmanga-v1.2.38.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "cc1035e38d4f7b0d5c349f478c995b0d02b3687dd0ec9a5d785fcbf1b09c7016",
+        "hash": "7d12c9ca64a2032423b252283b23470a8d5fbacbb56fd3b3310c585811bd9d34",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
@@ -22577,8 +22577,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 62435,
         "targetSdkVersion": 29,
-        "versionCode": 37,
-        "versionName": "1.2.37"
+        "versionCode": 38,
+        "versionName": "1.2.38"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.mangachan": [
