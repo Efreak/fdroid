@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618657224000,
+    "timestamp": 1618671636000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -1292,7 +1292,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "7",
+      "suggestedVersionCode": "8",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
       "name": "Tachiyomi: CopyManga (ZH)",
@@ -1300,9 +1300,9 @@
       "summary": "Tachiyomi CopyManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894591000,
-      "icon": "eu.kanade.tachiyomi.extension.zh.copymanga.7.png",
+      "icon": "eu.kanade.tachiyomi.extension.zh.copymanga.8.png",
       "packageName": "eu.kanade.tachiyomi.extension.zh.copymanga",
-      "lastUpdated": 1617217275000
+      "lastUpdated": 1618671624000
     },
     {
       "categories": [
@@ -23856,12 +23856,12 @@
     ],
     "eu.kanade.tachiyomi.extension.zh.copymanga": [
       {
-        "added": 1617217275000,
-        "apkName": "tachiyomi-zh.copymanga-v1.2.7.apk",
+        "added": 1618671624000,
+        "apkName": "tachiyomi-zh.copymanga-v1.2.8.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "261032de31df7664626d25ef79d3485bd7f50afae555db244f911b88afa6fe6c",
+        "hash": "182d9f14aa1a36702a57735b98ced7141b7ccc647ac7d82457158e1873c0d96f",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.zh.copymanga",
@@ -23869,8 +23869,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 353732,
         "targetSdkVersion": 29,
-        "versionCode": 7,
-        "versionName": "1.2.7"
+        "versionCode": 8,
+        "versionName": "1.2.8"
       }
     ],
     "eu.kanade.tachiyomi.extension.zh.dmzj": [

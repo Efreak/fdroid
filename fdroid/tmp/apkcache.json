@@ -66692,5 +66692,45 @@
     "apkName": "tachiyomi-id.sekaikomik-v1.2.7.apk",
     "icon": "eu.kanade.tachiyomi.extension.id.sekaikomik.7.png",
     "added": 1618610431.631971
+  },
+  "tachiyomi-zh.copymanga-v1.2.8.apk": {
+    "hash": "182d9f14aa1a36702a57735b98ced7141b7ccc647ac7d82457158e1873c0d96f",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "120": "res/mipmap-ldpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.zh.copymanga.8.png",
+      "480": "eu.kanade.tachiyomi.extension.zh.copymanga.8.png",
+      "320": "eu.kanade.tachiyomi.extension.zh.copymanga.8.png",
+      "240": "eu.kanade.tachiyomi.extension.zh.copymanga.8.png",
+      "160": "eu.kanade.tachiyomi.extension.zh.copymanga.8.png",
+      "120": "eu.kanade.tachiyomi.extension.zh.copymanga.8.png",
+      "0": "eu.kanade.tachiyomi.extension.zh.copymanga.8.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.zh.copymanga",
+    "versionCode": 8,
+    "name": "Tachiyomi: CopyManga",
+    "versionName": "1.2.8",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 353732,
+    "apkName": "tachiyomi-zh.copymanga-v1.2.8.apk",
+    "icon": "eu.kanade.tachiyomi.extension.zh.copymanga.8.png",
+    "added": 1618696824.924332
   }
 }
