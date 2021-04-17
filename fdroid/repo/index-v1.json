@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618686029000,
+    "timestamp": 1618700435000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -10077,7 +10077,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "19",
+      "suggestedVersionCode": "20",
       "description": "The following is a list of urls found in the source for this extension:\n* https://unionleitor.top",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -10086,9 +10086,9 @@
       "summary": "Tachiyomi Union Mang\u00e1s Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894547000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.unionmangas.19.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.unionmangas.20.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.unionmangas",
-      "lastUpdated": 1618412437000
+      "lastUpdated": 1618700422000
     },
     {
       "categories": [
@@ -22298,12 +22298,12 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.unionmangas": [
       {
-        "added": 1618412437000,
-        "apkName": "tachiyomi-pt.unionmangas-v1.2.19.apk",
+        "added": 1618700422000,
+        "apkName": "tachiyomi-pt.unionmangas-v1.2.20.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "8894da0c9b9cc9cd1f0860f72dae45937ce74551beadd04d79d1a4ee28ee27dc",
+        "hash": "ed32d9c10dde32d35431a5633ab5fcc41809c423c94b3de60a9a1235138e5343",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.unionmangas",
@@ -22311,8 +22311,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 46144,
         "targetSdkVersion": 29,
-        "versionCode": 19,
-        "versionName": "1.2.19"
+        "versionCode": 20,
+        "versionName": "1.2.20"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.warqueenscan": [
