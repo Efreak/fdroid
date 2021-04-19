@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618858975000,
+    "timestamp": 1618873255000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -125,7 +125,7 @@
         "Multimedia"
       ],
       "changelog": "https://github.com/Jays2Kings/tachiyomi/releases",
-      "suggestedVersionCode": "70",
+      "suggestedVersionCode": "71",
       "description": "Tachiyomi is a free and open source manga reader for Android.\n\nFeatures of Tachiyomi include:\n* Online reading from sources such as KissManga, MangaDex, [https://github.com/inorichi/tachiyomi-extensions and more]\n* Local reading of downloaded manga\n* A configurable reader with multiple viewers, reading directions and other settings\n* [https://myanimelist.net/ MyAnimeList], [https://anilist.co/ AniList], [https://kitsu.io/explore/anime Kitsu], and [https://shikimori.one/ Shikimori] support\n* Categories to organize your library\n* Light and dark themes\n* Schedule updating your library for new chapters\n* Create backups locally to read offline or to your desired cloud service.\n\nPlus some new features in this fork such as:\n* Android 10 Dark Theme support: You can have Tachiyomi follow the system theme as well as customize which dark theme to use for dark mode\n* Android 10 edge to edge support (and a translucent nav bar for older versions): no more small ugly bar for the gesture navigation\n* Automatic background based on manga page: For those that like having a white background to match the content, this will automatically set the background to match for moments such as a flashback section of a manga\n* [https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/new%20notifcations%20collasped.png Richer New chapters notifications]: Now as a group of notifications, [https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/new%20notifcations.png expanding out to show more information] about the new chapters (like chapter name and manga cover). Tapping on it will bring you right into the chapter or expand it to mark it as read or view all chapters\n* [https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/material%20snackbar.png New material snackbar]: Removing manga now auto deletes chapters and has an undo button in case you change your mind\n* Multi Source Migration from library\n* Notification separation of updating library and new chapters\n* [https://raw.githubusercontent.com/Jays2Kings/tachiyomi/master/.github/readme-images/share%20menu.png Share sheets upgrade for Android 10]\n* Reader seekbar overrides switch app gesture in Android 10, so no more accidents for that\n* Option to hide manga titles in grid view\n* Filter out your library by searching for tags (ex. \"Comedy\" or \"Slice of Life\") or exclude mangas by a tag (ex. \"-Shounen\" or \"-Romance\"). Tapping on these tags also performs a local search. You can also search multiple tags (ex. \"Romance, -Harem, Comedy\")\n* Android X Support (''Becasue of this change needed for Android 10 features, extension preferences are currently disabled for all extensions except Mangadex'')\n* Tri-State Filters on library\n* Filter extensions based on your locale\n* Webview Navigation\n* Fingerprint/Biometrics lock\n* Range Select for Library and Chapters: long Press on an item then long press on another to select everything in between\n* Automatically checks for extension updates",
       "issueTracker": "https://www.github.com/Jays2Kings/Tachiyomi/issues",
       "license": "Apache-2.0",
@@ -134,9 +134,9 @@
       "summary": "Jays2Kings fork of Tachiyomi, with multiple added features.",
       "webSite": "https://www.github.com/Jays2Kings/Tachiyomi",
       "added": 1613894259000,
-      "icon": "eu.kanade.tachiyomi.j2k.70.png",
+      "icon": "eu.kanade.tachiyomi.j2k.71.png",
       "packageName": "eu.kanade.tachiyomi.j2k",
-      "lastUpdated": 1618182029000,
+      "lastUpdated": 1618873233000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -198,7 +198,7 @@
         "Reading",
         "Multimedia"
       ],
-      "suggestedVersionCode": "14",
+      "suggestedVersionCode": "15",
       "description": "Tachiyomi is a free and open source manga reader for Android 5.0 and above. This version of Tachiyomi, TachiyomiSY was based off TachiyomiAZ. TachiyomiAZ has decided to keep the old UI of the app, this version is meant to push forward in the ways of UI and usability, doing that it takes the new Tachiyomi(original) UI. TachiyomiSY also includes a lot of the up in coming features of the Tachiyomi Preview, as well as features from other forks like J2K, it has quite a few custom features from myself and contributors as well.\n\n=== Features ===\n\n== Features of Tachiyomi(original) include ==\n\n* Online reading from sources such as MangaDex, MangaSee, Mangakakalot, and more\n* Local reading of downloaded manga\n* A configurable reader with multiple viewers, reading directions and other settings.\n* MyAnimeList, AniList, Kitsu, Shikimori, and Bangumi support\n* Categories to organize your library\n* Light and dark themes\n* Schedule updating your library for new chapters\n* Create backups locally to read offline or to your desired cloud service\n\n== Features of TachiyomiSY include: ==\n\n* Uses the new Tachiyomi Stable UI\n* Custom manga page, all your needs, such as info and chapters, in front of your face\n* Latest tab, store up to 5 sources where you can easily view the latest manga by viewing the tab\n* Hentai features enable/disable, in advanced settings\n* Automatic webtoon detection, allowing the reader to switch to webtoon mode automatically when viewing one\n* Recommendations, from AZ but heavily modified by She11Shocked to use both MAL and Anilist interchangeably\n* Lewd filter, hide the lewd manga in your library when you want to\n* Tracking filter, filter your tracked manga so you can see them or see non-tracked manga, made by She11Shocked\n* Search tracking status in library, made by She11Shocked\n* Backup saved searches\n* New E-Hentai/ExHentai features, such as language settings and watched list settings\n* Comfortable grid view\n* Custom categories for sources, liked the pinned sources, but you can make your own versions and put any sources in them\n\n== Inherited from TachiyomiAZ or TachiyomiEH and are included and possibly modified in TachiyomiSY ==\n\n* Source migration, migrate all your manga from one source to another\n* Custom hentai sources:\n    * E-Hentai/ExHentai\n    * nHentai\n    * Hitomi.la\n    * 8Muses\n    * HBrowse\n    * Perv Eden\n* Additional features for some extensions, features include custom description, opening in app, batch add to library:\n    * Puruin\n    * Tsumino\n    * HentaiCafe (Foolside)\n* Saving searches\n* Autoscroll\n* Page preload customization\n* Customize image cache size\n* Batch import of custom sources and featured extensions\n* Automatic CAPTCHA solving\n* TriState Filters\n* Infinite history page\n* Search your history page\n* Advanced source settings page, searching, enable/disable all\n* Click tag for local search, long click tag for global search\n* Merge multiple of the same manga from different sources\n* Drag and drop library sorting",
       "issueTracker": "https://github.com/jobobby04/TachiyomiSY/issues",
       "license": "Apache-2.0",
@@ -207,9 +207,9 @@
       "summary": "TachiyomiAZ with new UI and even more features",
       "webSite": "https://github.com/jobobby04/TachiyomiSY",
       "added": 1613894264000,
-      "icon": "eu.kanade.tachiyomi.sy.14.png",
+      "icon": "eu.kanade.tachiyomi.sy.15.png",
       "packageName": "eu.kanade.tachiyomi.sy",
-      "lastUpdated": 1618196427000,
+      "lastUpdated": 1618873238000,
       "localized": {
         "en": {
           "featureGraphic": "featureGraphic_rVvOSPa2zdMvxWTUYNg2DnWt0TTsudRVUqtm9DgVcS8=.png",
@@ -10089,7 +10089,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "20",
+      "suggestedVersionCode": "21",
       "description": "The following is a list of urls found in the source for this extension:\n* https://unionleitor.top",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -10098,9 +10098,9 @@
       "summary": "Tachiyomi Union Mang\u00e1s Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894547000,
-      "icon": "eu.kanade.tachiyomi.extension.pt.unionmangas.20.png",
+      "icon": "eu.kanade.tachiyomi.extension.pt.unionmangas.21.png",
       "packageName": "eu.kanade.tachiyomi.extension.pt.unionmangas",
-      "lastUpdated": 1618700422000
+      "lastUpdated": 1618873240000
     },
     {
       "categories": [
@@ -22329,12 +22329,12 @@
     ],
     "eu.kanade.tachiyomi.extension.pt.unionmangas": [
       {
-        "added": 1618700422000,
-        "apkName": "tachiyomi-pt.unionmangas-v1.2.20.apk",
+        "added": 1618873240000,
+        "apkName": "tachiyomi-pt.unionmangas-v1.2.21.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "ed32d9c10dde32d35431a5633ab5fcc41809c423c94b3de60a9a1235138e5343",
+        "hash": "efb37d3f65293260eed9e68f006dc09678a210e07c5aeb9a4f0778af19a501bd",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.pt.unionmangas",
@@ -22342,8 +22342,8 @@
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
         "size": 46144,
         "targetSdkVersion": 29,
-        "versionCode": 20,
-        "versionName": "1.2.20"
+        "versionCode": 21,
+        "versionName": "1.2.21"
       }
     ],
     "eu.kanade.tachiyomi.extension.pt.warqueenscan": [
@@ -24248,9 +24248,9 @@
     ],
     "eu.kanade.tachiyomi.j2k": [
       {
-        "added": 1618182029000,
-        "apkName": "eu.kanade.tachiyomi.j2k_v1.0.13_70.apk",
-        "hash": "f334cd28e0efbbc3bf6d8d6b0d09ce42051920107feccc0bbbf14592aa0746c5",
+        "added": 1618873233000,
+        "apkName": "eu.kanade.tachiyomi.j2k_v1.0.14_71.apk",
+        "hash": "f38f35f71a7f474550a9e24a35f01829593f9d0f6256e9a5493cd738e7bfbb4a",
         "hashType": "sha256",
         "minSdkVersion": 23,
         "nativecode": [
@@ -24261,7 +24261,7 @@
         "packageName": "eu.kanade.tachiyomi.j2k",
         "sig": "ee6e9de8e7354d0e52acd44f225bb5bb",
         "signer": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8",
-        "size": 26496616,
+        "size": 26648062,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -24333,15 +24333,15 @@
             null
           ]
         ],
-        "versionCode": 70,
-        "versionName": "1.0.13"
+        "versionCode": 71,
+        "versionName": "1.0.14"
       }
     ],
     "eu.kanade.tachiyomi.sy": [
       {
-        "added": 1618196427000,
-        "apkName": "eu.kanade.tachiyomi.sy_v1.6.0_14.apk",
-        "hash": "e683db84990d823d4e35c09571a46a01357246bfb507e500abaca2510df5fb6d",
+        "added": 1618873238000,
+        "apkName": "eu.kanade.tachiyomi.sy_v1.6.1_15.apk",
+        "hash": "eee170ed49c5b427fef7c7b51a1df897a16486f12476c2ab0bc64940cac77960",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -24352,7 +24352,7 @@
         "packageName": "eu.kanade.tachiyomi.sy",
         "sig": "65c001ff0feaed4bd40f348755a0c50e",
         "signer": "5286b9045443f59b48b6de4a37ca7635d6e7b1fa111293015bdb0842ebc7b752",
-        "size": 26295163,
+        "size": 26336093,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -24416,8 +24416,8 @@
             null
           ]
         ],
-        "versionCode": 14,
-        "versionName": "1.6.0"
+        "versionCode": 15,
+        "versionName": "1.6.1"
       }
     ],
     "tachiyomi.mangadex": [
