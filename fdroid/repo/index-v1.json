@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1618844430000,
+    "timestamp": 1618858975000,
     "version": 20000,
     "name": "Unofficial Tachiyomi Extensions F-Droid Repo",
     "icon": "tachi-icon.png",
@@ -161,7 +161,7 @@
         "Multimedia"
       ],
       "changelog": "https://github.com/inorichi/tachiyomi/releases",
-      "suggestedVersionCode": "57",
+      "suggestedVersionCode": "58",
       "description": "Tachiyomi is a free and open source manga reader for Android.\n\nFeatures include:\n* Online reading from sources such as KissManga, MangaDex, [https://github.com/inorichi/tachiyomi-extensions and more]\n* Local reading of downloaded manga\n* Configurable reader with multiple viewers, reading directions and other settings\n* [https://myanimelist.net/ MyAnimeList], [https://anilist.co/ AniList], and [https://kitsu.io/explore/anime Kitsu] support\n* Categories to organize your library\n* Light and dark themes\n* Schedule updating your library for new chapters\n* Create backups locally to read offline or to your desired cloud service.",
       "issueTracker": "https://www.github.com/inorichi/Tachiyomi/issues",
       "license": "Apache-2.0",
@@ -170,9 +170,9 @@
       "summary": "Free and open source manga reader for Android",
       "webSite": "https://www.tachiyomi.org",
       "added": 1613894268000,
-      "icon": "eu.kanade.tachiyomi.57.png",
+      "icon": "eu.kanade.tachiyomi.58.png",
       "packageName": "eu.kanade.tachiyomi",
-      "lastUpdated": 1618182033000,
+      "lastUpdated": 1618858957000,
       "localized": {
         "en": {
           "phoneScreenshots": [
@@ -3782,7 +3782,7 @@
       "categories": [
         "Tachiyomi Extensions"
       ],
-      "suggestedVersionCode": "38",
+      "suggestedVersionCode": "39",
       "description": "The following is a list of urls found in the source for this extension:\n* https://mangalib.me\n* https://img2.mangalib.me\n* https://img3.mangalib.me",
       "issueTracker": "https://github.com/inorichi/tachiyomi-extensions/issues",
       "license": "Unknown",
@@ -3791,9 +3791,9 @@
       "summary": "Tachiyomi LibManga Extension",
       "webSite": "https://github.com/inorichi/tachiyomi-extensions",
       "added": 1613894555000,
-      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.38.png",
+      "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.39.png",
       "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
-      "lastUpdated": 1618513223000
+      "lastUpdated": 1618858960000
     },
     {
       "categories": [
@@ -8168,6 +8168,18 @@
     },
     {
       "categories": [
+        "fdroid"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Tachiyomi: Random Scan",
+      "added": 1618858959000,
+      "icon": "eu.kanade.tachiyomi.extension.pt.randomscan.3.png",
+      "packageName": "eu.kanade.tachiyomi.extension.pt.randomscan",
+      "lastUpdated": 1618858959000
+    },
+    {
+      "categories": [
         "Tachiyomi Extensions"
       ],
       "suggestedVersionCode": "3",
@@ -10991,9 +11003,9 @@
   "packages": {
     "eu.kanade.tachiyomi": [
       {
-        "added": 1618182033000,
-        "apkName": "eu.kanade.tachiyomi_v0.10.10_57.apk",
-        "hash": "cf8c10e037baf80d35f2284ee3add2b8a0bfe3650c86f5b16735ab1a875d5364",
+        "added": 1618858957000,
+        "apkName": "eu.kanade.tachiyomi_v0.10.11_58.apk",
+        "hash": "5d2384ea9fff6c95be52c2d50105a5561769dce39ec5586c516cb69063e52952",
         "hashType": "sha256",
         "minSdkVersion": 21,
         "nativecode": [
@@ -11004,7 +11016,7 @@
         "packageName": "eu.kanade.tachiyomi",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 19702584,
+        "size": 19710746,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -11068,8 +11080,8 @@
             null
           ]
         ],
-        "versionCode": 57,
-        "versionName": "0.10.10"
+        "versionCode": 58,
+        "versionName": "0.10.11"
       }
     ],
     "eu.kanade.tachiyomi.az": [
@@ -22068,6 +22080,25 @@
         "versionName": "1.2.3"
       }
     ],
+    "eu.kanade.tachiyomi.extension.pt.randomscan": [
+      {
+        "added": 1618858959000,
+        "apkName": "tachiyomi-pt.randomscan-v1.2.3.apk",
+        "features": [
+          "tachiyomi.extension"
+        ],
+        "hash": "d315018773a7e07d48dce55a3b2c22ee7ab63903dec7e2bd0866345352b7239d",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "eu.kanade.tachiyomi.extension.pt.randomscan",
+        "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+        "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+        "size": 54244,
+        "targetSdkVersion": 29,
+        "versionCode": 3,
+        "versionName": "1.2.3"
+      }
+    ],
     "eu.kanade.tachiyomi.extension.pt.saikaiscan": [
       {
         "added": 1618412433000,
@@ -22564,21 +22595,21 @@
     ],
     "eu.kanade.tachiyomi.extension.ru.libmanga": [
       {
-        "added": 1618513223000,
-        "apkName": "tachiyomi-ru.libmanga-v1.2.38.apk",
+        "added": 1618858960000,
+        "apkName": "tachiyomi-ru.libmanga-v1.2.39.apk",
         "features": [
           "tachiyomi.extension"
         ],
-        "hash": "7d12c9ca64a2032423b252283b23470a8d5fbacbb56fd3b3310c585811bd9d34",
+        "hash": "5c0471c2f6dfa95f812c229363cb0cd62be2e092761a4efc337991b2c3bffd33",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
         "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
         "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
-        "size": 62435,
+        "size": 66531,
         "targetSdkVersion": 29,
-        "versionCode": 38,
-        "versionName": "1.2.38"
+        "versionCode": 39,
+        "versionName": "1.2.39"
       }
     ],
     "eu.kanade.tachiyomi.extension.ru.mangachan": [

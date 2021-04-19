@@ -66808,5 +66808,185 @@
     "apkName": "tachiyomi-ru.remanga-v1.2.20.apk",
     "icon": "eu.kanade.tachiyomi.extension.ru.remanga.20.png",
     "added": 1618797622.753591
+  },
+  "eu.kanade.tachiyomi_v0.10.11_58.apk": {
+    "hash": "5d2384ea9fff6c95be52c2d50105a5561769dce39ec5586c516cb69063e52952",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.REQUEST_INSTALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.REQUEST_DELETE_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.QUERY_ALL_PACKAGES",
+        null
+      ],
+      [
+        "android.permission.USE_BIOMETRIC",
+        null
+      ],
+      [
+        "android.permission.USE_FINGERPRINT",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "65534": "res/mipmap-anydpi-v26/ic_launcher.xml",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "65534": "eu.kanade.tachiyomi.58.xml",
+      "640": "eu.kanade.tachiyomi.58.png",
+      "480": "eu.kanade.tachiyomi.58.png",
+      "320": "eu.kanade.tachiyomi.58.png",
+      "240": "eu.kanade.tachiyomi.58.png",
+      "160": "eu.kanade.tachiyomi.58.png",
+      "0": "eu.kanade.tachiyomi.58.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi",
+    "versionCode": 58,
+    "name": "Tachiyomi",
+    "versionName": "0.10.11",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86"
+    ],
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 19710746,
+    "apkName": "eu.kanade.tachiyomi_v0.10.11_58.apk",
+    "icon": "eu.kanade.tachiyomi.58.png",
+    "added": 1618884157.765712
+  },
+  "tachiyomi-pt.randomscan-v1.2.3.apk": {
+    "hash": "d315018773a7e07d48dce55a3b2c22ee7ab63903dec7e2bd0866345352b7239d",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.pt.randomscan.3.png",
+      "480": "eu.kanade.tachiyomi.extension.pt.randomscan.3.png",
+      "320": "eu.kanade.tachiyomi.extension.pt.randomscan.3.png",
+      "240": "eu.kanade.tachiyomi.extension.pt.randomscan.3.png",
+      "160": "eu.kanade.tachiyomi.extension.pt.randomscan.3.png",
+      "0": "eu.kanade.tachiyomi.extension.pt.randomscan.3.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.pt.randomscan",
+    "versionCode": 3,
+    "name": "Tachiyomi: Random Scan",
+    "versionName": "1.2.3",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 54244,
+    "apkName": "tachiyomi-pt.randomscan-v1.2.3.apk",
+    "icon": "eu.kanade.tachiyomi.extension.pt.randomscan.3.png",
+    "added": 1618884159.924618
+  },
+  "tachiyomi-ru.libmanga-v1.2.39.apk": {
+    "hash": "5c0471c2f6dfa95f812c229363cb0cd62be2e092761a4efc337991b2c3bffd33",
+    "hashType": "sha256",
+    "uses-permission": [],
+    "uses-permission-sdk-23": [],
+    "features": [
+      "tachiyomi.extension"
+    ],
+    "icons_src": {
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "eu.kanade.tachiyomi.extension.ru.libmanga.39.png",
+      "480": "eu.kanade.tachiyomi.extension.ru.libmanga.39.png",
+      "320": "eu.kanade.tachiyomi.extension.ru.libmanga.39.png",
+      "240": "eu.kanade.tachiyomi.extension.ru.libmanga.39.png",
+      "160": "eu.kanade.tachiyomi.extension.ru.libmanga.39.png",
+      "0": "eu.kanade.tachiyomi.extension.ru.libmanga.39.png"
+    },
+    "antiFeatures": [],
+    "packageName": "eu.kanade.tachiyomi.extension.ru.libmanga",
+    "versionCode": 39,
+    "name": "Tachiyomi: MangaLib",
+    "versionName": "1.2.39",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "sig": "87dacf9f9adcd0e3f7daf57a923f943d",
+    "signer": "7ce04da7773d41b489f4693a366c36bcd0a11fc39b547168553c285bd7348e23",
+    "size": 66531,
+    "apkName": "tachiyomi-ru.libmanga-v1.2.39.apk",
+    "icon": "eu.kanade.tachiyomi.extension.ru.libmanga.39.png",
+    "added": 1618884160.888717
   }
 }
